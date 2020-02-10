@@ -1,24 +1,9 @@
-from Classes.Parser import Parser
-
-
-def innoTalks(jason):
-    count = 0
-    triedToBug, inConvo = False, False
-    for event in jason["timeline"]:
-        if event["event"]=="started talking." and not triedToBug:
-            count += 1
-        elif event["event"]=="spy enters conversation.":
-            inConvo = True
-        elif event["event"]=="spy leaves conversation.":
-            triedToBug, inConvo = False, False
-        elif inConvo and "begin planting bug" in event["event"]:
-            triedToBug = True
-    return count
+from Classes.Parsers.Parser import Parser
 
 
 class InnocentTalks(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Inno-Talks")
         self.spy_in_convo = False
         self.tried_to_bug = False
@@ -41,7 +26,7 @@ class InnocentTalks(Parser):
 
 class InnocentTalkWaits(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Inno-Talk Wait Times")
         self.joined_convo_timestamp = 0
 

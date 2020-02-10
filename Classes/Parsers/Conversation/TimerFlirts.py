@@ -1,9 +1,9 @@
-from Classes.Parser import Parser
+from Classes.Parsers.Parser import Parser
 
 
 class TimerFlirts(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Timer Flirts")
         self.spy_in_convo = False
         self.has_flirted_in_cc = False

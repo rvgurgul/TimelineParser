@@ -1,9 +1,9 @@
-from Classes.Parser import Parser
+from Classes.Parsers.Parser import Parser
 
 
 class FlirtWaits(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Flirt Wait Times")
         self.spy_in_convo = False
         self.joined_convo_timestamp = 0
@@ -26,7 +26,7 @@ class FlirtWaits(Parser):
 
 class RealContactWaits(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Real Contact Wait Times")
         self.joined_convo_timestamp = 0
         # self.spy_in_convo = False
@@ -50,7 +50,7 @@ class RealContactWaits(Parser):
 
 class FakeContactWaits(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Fake Contact Wait Times")
         self.joined_convo_timestamp = 0
 

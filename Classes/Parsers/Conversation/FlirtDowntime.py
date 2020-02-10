@@ -1,9 +1,9 @@
-from Classes.Parser import Parser
+from Classes.Parsers.Parser import Parser
 
 
 class FlirtDowntime(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Flirt Downtime")
         self.cooldown_timestamp = 0
 
