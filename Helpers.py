@@ -73,6 +73,7 @@ def get_most_recent_light_for_character(jason, character, timestamp=0):
                 return lights[event["event"]]
     return "Neutral Light"
 
+# TODO build light-functions into game class, then deprecate Helpers
 
 def get_most_recent_light_for_role(jason, role, timestamp=0):
     if timestamp <= 0:

@@ -1,6 +1,7 @@
 import json
 
 
+# TODO build functionality to dump parsed statistics to a json file
 def getJSON(jason):
     return jason
 
