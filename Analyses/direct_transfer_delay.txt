@@ -1,0 +1,73 @@
+
+mf_games = query_games(constraints=lambda game: game["venue"] in const.bookshelf_venues and
+                                                "Transfer" in game["completed_missions"])
+
+x = analyze_games(criterion=cookbook,
+                  games=mf_games,
+                  categorization=lambda game: game["venue"])
+
+analysis_report(x, numeric=True)
+
+
+Queried 13476 games:
+ Accepted 1687 games (12.5%)
+ Rejected 11789 games (87.5%)
+Analyzing 1687 games, please wait...
+0%                     25%                      50%                      75%                     100%
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Results of Veranda
+Size:			 181
+Average:		 55.38
+Minimum:		 4.5
+Maximum:		 189.7
+Median:			 48.7
+Low/Med/High:	 [13.83, 49.35, 100.7]
+Results of Library
+Size:			 409
+Average:		 64.56
+Minimum:		 7.2
+Maximum:		 183.0
+Median:			 59.3
+Low/Med/High:	 [30.33, 59.92, 102.57]
+Results of Moderne
+Size:			 260
+Average:		 67.66
+Minimum:		 3.3
+Maximum:		 191.2
+Median:			 69.1
+Low/Med/High:	 [27.05, 67.46, 105.7]
+Results of Gallery
+Size:			 208
+Average:		 60.28
+Minimum:		 4.9
+Maximum:		 155.9
+Median:			 56.0
+Low/Med/High:	 [23.0, 56.45, 100.0]
+Results of Aquarium
+Size:			 13
+Average:		 95.42
+Minimum:		 20.8
+Maximum:		 184.9
+Median:			 89.1
+Low/Med/High:	 [40.02, 84.92, 138.95]
+Results of Ballroom
+Size:			 122
+Average:		 79.97
+Minimum:		 9.0
+Maximum:		 206.2
+Median:			 76.9
+Low/Med/High:	 [44.17, 75.33, 114.37]
+Results of Teien
+Size:			 20
+Average:		 81.08
+Minimum:		 9.8
+Maximum:		 216.9
+Median:			 71.6
+Low/Med/High:	 [36.87, 64.95, 103.03]
+Results of High-Rise
+Size:			 5
+Average:		 46.68
+Minimum:		 18.2
+Maximum:		 88.1
+Median:			 43.4
+Low/Med/High:	 [18.2, 22.1, 43.4]

@@ -1,0 +1,37 @@
+
+
+
+def getSpy(jason):
+    for event in jason["timeline"]:
+        if event['category'] == ['Cast'] and event['role'] == ['Spy']:
+            return event['cast_name'][0]
+
+
+def getST(jason):
+    for event in jason["timeline"]:
+        if event['category'] == ['Cast'] and event['role'] == ['SeductionTarget']:
+            return event['cast_name'][0]
+
+
+def getSDAs(jason):
+    SDA = []
+    lim = 1#venue_information[jason["venue"], "SuspectedDoubleAgents"]
+    for event in jason["timeline"]:
+        if event['category'] == ['Cast'] and \
+                (event['role'] == ['SuspectedDoubleAgent'] or event['role'] == ['DoubleAgent']):
+            SDA.append(event['cast_name'][0])
+            if len(SDA) >= lim:
+                break
+    return SDA
+
+
+def getDA(jason):
+    for event in jason["timeline"]:
+        if event['category'] == ['Cast'] and event['role'] == ['DoubleAgent']:
+            return event['cast_name'][0]
+
+
+def getAmba(jason):
+    for event in jason["timeline"]:
+        if event['category'] == ['Cast'] and event['role'] == ['Ambassador']:
+            return event['cast_name'][0]

@@ -1,0 +1,8 @@
+
+    if display_progress:
+        print("Analyzing", len(games), "games, please wait...")
+        print("0%", " " * 21, "25%", " " * 22, "50%", " " * 22, "75%", " " * 21, "100%", sep="")
+        prog_bar = 0
+        if display_progress and 101 * i // len(games) > prog_bar:
+            print(end="|")
+            prog_bar += 1
