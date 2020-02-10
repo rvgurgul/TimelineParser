@@ -15,32 +15,26 @@ def parallel_parse(games: [Game], parsers: [Parser], categorization=lambda game:
     return results
 
 
-from Classes.Parsers.Conversation.ConversationDurations import ConversationDurations
-from Classes.Parsers.Conversation.FlirtDowntime import FlirtDowntime
-from Classes.Parsers.Conversation.InnocentTalks import *
-from Classes.Parsers.WatchChecks import WatchChecks
-from Classes.Parsers.Missions.Bug import BugAttempts
-from Classes.Parsers.Missions.Contact import ContactInitiations
-from Classes.Parsers.DrinkOffers import DrinkOffers
-from Classes.Parsers.Miscellaneous.FlirtPair import FlirtPair
+from Classes.Parsers.VenueSpecific.Moderne import ModerneFourEight
 
-g = [Game(x) for x in query_games(limit=30)]
+g = [Game(x) for x in query_games(limit=30, constraints=lambda game: game["venue"] == "Moderne" and game["game_type"] == "a5/8")]
 
 x = parallel_parse(games=g,
-                   parsers=[
-                       FlirtPair,
-                       ConversationDurations,
-                       FlirtDowntime,
-                       # FlirtWaits,
-                       # RealContactWaits,
-                       # FakeContactWaits,
-                       # InnocentTalkWaits,
-                       InnocentTalks,
-                       BugAttempts,
-                       ContactInitiations,
-                       WatchChecks,
-                       DrinkOffers,
-                   ])
+                   parsers=[ModerneFourEight])
+                   # parsers=[
+                   #     FlirtPair,
+                   #     ConversationDurations,
+                   #     FlirtDowntime,
+                   #     # FlirtWaits,
+                   #     # RealContactWaits,
+                   #     # FakeContactWaits,
+                   #     # InnocentTalkWaits,
+                   #     InnocentTalks,
+                   #     BugAttempts,
+                   #     ContactInitiations,
+                   #     WatchChecks,
+                   #     DrinkOffers,
+                   # ])
 for y in x:
     print(y)
     print(x[y])

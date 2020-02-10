@@ -26,7 +26,8 @@ class Game:
         self.sniper_lights = []
         for event in jason["timeline"]:
             if "Cast" in event["category"]:
-                self.cast.append(Character(event))
+                self.cast.append(Character(name=event["cast_name"][0],
+                                           role=event["role"][0]))
             elif "MissionSelected" in event["category"] \
                     or "MissionEnabled" in event["category"]:
                 continue  # the mission selected/enabled events are useless
@@ -93,10 +94,8 @@ class TimelineEvent:
         self.action_test = event["action_test"]
         self.categories = event["category"]
 
-        # try:
-        #     self.character = Character(event)
-        # except:
-        #     self.character = ""
+        self.characters = [Character(name=event["cast_name"][i],
+                                     role=event["role"][i]) for i in range(len(event["role"]))]
 
         bks = event["books"]
         if len(bks) == 2:
@@ -116,9 +115,9 @@ class TimelineEvent:
 
 class Character:
 
-    def __init__(self, event):
-        self.name = event["cast_name"][0]
-        self.role = event["role"][0]
+    def __init__(self, name, role):
+        self.name = name
+        self.role = role
 
     def __str__(self):
         return self.name + " (" + self.role + ")"
