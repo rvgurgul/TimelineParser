@@ -1,3 +1,5 @@
+
+
 def spyAmbaLightPair(jason):
     a, s = getAmba(jason), getSpy(jason)
     timestamp = 0
@@ -24,15 +26,6 @@ for x in counter:
     print(x,"\t",counter[x])
 
 
-
-
-def flirtPair(jason):
-    return getSpy(jason), getST(jason)
-
-
-data = analyze(flirtPair)
-
-
 pairs = {}
 for spy in playable_cast:
     for st in playable_cast:
@@ -47,17 +40,6 @@ for pair in data:
 print(pairs)
 
 
-
-
-
-
-
-
-
-
-
-
-
 def lookAhead(jason, initial, time=10):
     events = []
     print(initial, time)
@@ -66,17 +48,6 @@ def lookAhead(jason, initial, time=10):
             print("\t",event["elapsed_time"],"is in range")
             events.append(event)
     return events
-
-
-
-
-
-
-
-
-
-
-
 
 
 def threeGreenBalcony(jason):
@@ -100,15 +71,3 @@ def threeGreenBalcony(jason):
     if len(tests)==3:
         return specWinCon(jason["win_type"]), jason["spy"]+" vs "+jason["sniper"]
 analyze(threeGreenBalcony)
-
-
-
-
-
-
-
-
-
-
-
-

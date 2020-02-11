@@ -1,9 +1,9 @@
 from Constants.Triple_Agent import player_list_scl_5
 from Analyzer import *
+from ParallelParser import parallel_parse
 
 
-def research_player(name):
-
+def prompt_user():
     user = input("Who would you like to research?\n")
     while user not in player_list_scl_5:
         confirm = input("Replays for '{}' may not be available, continue?".format(user))
@@ -12,8 +12,25 @@ def research_player(name):
         else:
             user = input("Who would you like to research?\n")
 
-    spy_games = query_games(constraints=lambda game: game["spy"] == user)
-    sni_games = query_games(constraints=lambda game: game["sniper"] == user)
+    research_player(user)
+
+
+def research_player(name):
+    # TODO categorized queries: avoid double querying for two separate game pools
+    spy_games = query_games(constraints=lambda game: game["spy"] == name)
+    sni_games = query_games(constraints=lambda game: game["sniper"] == name)
+
+    spy_results = parallel_parse(games=spy_games,
+                                 parsers=[
+
+                                 ],
+                                 categorization=lambda game: game.venue)
+
+    sni_results = parallel_parse(games=sni_games,
+                                 parsers=[
+
+                                 ],
+                                 categorization=lambda game: game.venue)
 
     # SPY:
     # conversation
@@ -33,8 +50,5 @@ def research_player(name):
     # SNIPER:
     #
 
-    pass
 
-
-research_player("")
-
+prompt_user()

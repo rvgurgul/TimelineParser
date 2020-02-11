@@ -1,5 +1,4 @@
 from Constants import Triple_Agent as tac
-from Helpers import *
 from ListUnpacker import *
 from Stats import *
 
@@ -127,25 +126,25 @@ def analyze_games(criterion, games=None, constraints=None, categorization=None):
 # x = analyze_games(criterion=moderne_four_eight, games=moderne_five_eight)
 # analysis_report(x)
 
-# from Criteria.DrinkOffers import drink_behavior
+# from Criteria_old.DrinkOffers import drink_behavior
 #
 # chex = query_games(constraints=lambda game: game["spy"] == "checker")
 # x = analyze_games(criterion=drink_behavior, games=chex)
 # occurrence_report(x)
 #
-# from Criteria.DrinkOffers import *
+# from Criteria_old.DrinkOffers import *
 #
 # gamz = query_games(limit=50, constraints=lambda game: game["venue"] in bar_venues)
 # x = analyze_games(criterion=delegate_description, games=gamz)
 # print(x)
 
-# from Criteria.BugAttempts import get_bug_attempts
+# from Criteria_old.BugAttempts import get_bug_attempts
 #
 # bug_games = query_games()#constraints=lambda game: "Bug" in game["completed_missions"])
 # x = analyze_games(games=bug_games, criterion=get_bug_attempts)#, categorization=lambda game: game["venue"])
 # analysis_report(x)
 
-# from Criteria.Timing.HighlightTension import highlight_tension
+# from Criteria_old.Timing.HighlightTension import highlight_tension
 # from Constants.Results import shot_win_conditions
 #
 #
@@ -154,7 +153,7 @@ def analyze_games(criterion, games=None, constraints=None, categorization=None):
 
 
 # from Constants.Venues import bar_venues
-# from Criteria.Missions.Purloin import get_delegate_time
+# from Criteria_old.Missions.Purloin import get_delegate_time
 #
 # x = analyze_games(constraints=lambda game: game["venue"] in bar_venues and "Purloin" in game["completed_missions"],
 #                   categorization=get_delegate_time,
@@ -162,7 +161,7 @@ def analyze_games(criterion, games=None, constraints=None, categorization=None):
 # print(x)
 
 
-# from Criteria.DrinkOffers import inno_drink_takes
+# from Criteria_old.DrinkOffers import inno_drink_takes
 #
 # sample = query_games()
 #
@@ -174,14 +173,14 @@ def analyze_games(criterion, games=None, constraints=None, categorization=None):
 # print("  ", av2, "% drink accepts incl. purloin", sep="")
 # print("  ", round(av2-av1, 3), "% different", sep="")
 
-# from Criteria.Missions.Transfer import describe_microfilm
+# from Criteria_old.Missions.Transfer import describe_microfilm
 # from Constants.Venues import bookshelf_venues
 #
 # test = query_games(constraints=lambda game: game["venue"] in bookshelf_venues)
 # x = analyze_games(criterion=lambda game: tuple(describe_microfilm(game, append_shot=True)), games=test, categorization=lambda game: game["venue"])
 # analysis_report(x)
 
-# from Criteria.AbandonedProgress import absolute_progress
+# from Criteria_old.AbandonedProgress import absolute_progress
 #
 # x = analyze_games(criterion=absolute_progress, games=query_games(limit=12))
 #

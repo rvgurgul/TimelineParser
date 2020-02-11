@@ -1,4 +1,4 @@
-from Classes.Parsers.Parser import Parser
+from Classes.Parser import Parser
 
 
 class FlirtPair(Parser):

@@ -22,7 +22,7 @@ class Game:
         # self.mission_progress = {}  # TODO mission_progress with same capability as missions_complete
 
         self.cast = []
-        self.spy_timeline = []
+        self.timeline = []
         self.sniper_lights = []
         for event in jason["timeline"]:
             if "Cast" in event["category"]:
@@ -34,12 +34,14 @@ class Game:
             elif event["event"] in unwanted_events:
                 continue
             elif "SniperLights" in event["category"]:
-                self.sniper_lights.append(TimelineEvent(event))
+                ev = TimelineEvent(event)
+                self.sniper_lights.append(ev)
+                self.timeline.append(ev)
             elif "MissionComplete" in event["category"]:
                 self.missions_complete.append(event["mission"])
-                self.spy_timeline.append(TimelineEvent(event))
+                self.timeline.append(TimelineEvent(event))
             else:
-                self.spy_timeline.append(TimelineEvent(event))
+                self.timeline.append(TimelineEvent(event))
 
         self.reaches_mwc = len(self.missions_complete) >= int(self.mode[1])
 
@@ -54,7 +56,7 @@ class Game:
         for mem in self.cast:
             result += "\n\t\t" + str(mem)
         result += "\nEvents:"
-        for event in self.spy_timeline:
+        for event in self.timeline:
             result += "\n\t\t" + str(event)
         result += "\nLights:"
         for event in self.sniper_lights:
