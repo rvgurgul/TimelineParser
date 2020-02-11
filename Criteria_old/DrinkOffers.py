@@ -34,6 +34,7 @@ def inno_drink_takes(jason, exclude_purloin=True):
     return offers
 
 
+# TODO translate to parser
 def drink_sippage(jason):
     sips, gulps = 0, 0
     for event in jason["timeline"]:
@@ -44,6 +45,7 @@ def drink_sippage(jason):
     return sips, gulps
 
 
+# TODO translate to parser
 def general_delegate_description(jason):
     if "Purloin" not in jason["picked_missions"]:
         return "Purloin Disabled"
@@ -54,6 +56,7 @@ def general_delegate_description(jason):
             return "Direct Purloin" if event["role"] == ["Spy"] else "Delegated Purloin"
 
 
+# TODO translate to parser
 def specific_delegate_description(jason, only_real=True):
     if "Purloin" not in jason["picked_missions"]:
         return "Purloin Disabled"

@@ -49,6 +49,7 @@ desired = [
     'action triggered: transfer microfilm'
 ]
 
+# TODO translate to parser
 def countdownActivities(jason):
     for i, event in enumerate(jason["timeline"]):
         if "missions completed" in event["event"]:
@@ -58,12 +59,14 @@ def countdownActivities(jason):
 
 
 
+# TODO translate to parser
 def activityBeforeBB(jason):
     for i, event in enumerate(jason["timeline"]):
         if "banana bread uttered." in event["event"]:
             return [x["event"] for x in event_lookahead(jason, i, reverse=True) if x["event"] in desired]
 
 
+# TODO translate to parser
 def activityAfterBB(jason):
     for i, event in enumerate(jason["timeline"]):
         if "banana bread uttered." in event["event"]:

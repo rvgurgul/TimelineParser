@@ -153,7 +153,7 @@ def analyze_games(criterion, games=None, constraints=None, categorization=None):
 
 
 # from Constants.Venues import bar_venues
-# from Criteria_old.Missions.Purloin import get_delegate_time
+# from Criteria_old.Spy_Missions.Purloin import get_delegate_time
 #
 # x = analyze_games(constraints=lambda game: game["venue"] in bar_venues and "Purloin" in game["completed_missions"],
 #                   categorization=get_delegate_time,
@@ -173,7 +173,7 @@ def analyze_games(criterion, games=None, constraints=None, categorization=None):
 # print("  ", av2, "% drink accepts incl. purloin", sep="")
 # print("  ", round(av2-av1, 3), "% different", sep="")
 
-# from Criteria_old.Missions.Transfer import describe_microfilm
+# from Criteria_old.Spy_Missions.Transfer import describe_microfilm
 # from Constants.Venues import bookshelf_venues
 #
 # test = query_games(constraints=lambda game: game["venue"] in bookshelf_venues)

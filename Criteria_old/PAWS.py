@@ -2,6 +2,7 @@
 from Helpers import get_number_missions_needed
 
 
+# TODO translate to parser
 def spy_inspect_swaps(jason):
     mc, mn = 0, get_number_missions_needed(jason)
     inspected, swapped = False, False

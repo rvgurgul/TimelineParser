@@ -46,6 +46,7 @@ inno_actions = {
 }
 
 
+# TODO translate to parser
 # TODO verify the results of this function (time between correct events matches self-calculated replay analysis)
 def idle_time(jason, normalized=False):
     total, last_action = 0, 0

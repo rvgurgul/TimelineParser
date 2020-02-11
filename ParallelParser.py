@@ -1,8 +1,10 @@
-from Classes.Parsers.Conversation.FlirtDowntime import FlirtDowntime
+from CriteriaParsers.Missions.Flirt import *
 from CriteriaParsers.Conversations.InnocentTalks import InnocentTalks
-from Classes.Parsers.Miscellaneous.FlirtPair import FlirtPair
-from Classes.Parsers.NonMissions.WatchChecks import WatchChecks
-from Classes.Parsers.NonMissions.DrinkOffers import DrinkOffers
+from CriteriaParsers.Conversations.ConversationDurations import ConversationDurations
+from CriteriaParsers.Conversations.ConversationWaits import *
+from CriteriaParsers.Activity.DrinkOffers import DrinkOffers
+from CriteriaParsers.Activity.WatchChecks import WatchChecks
+
 from Classes.Parser import Parser
 from Analyzer import query_games
 from Classes.Game import Game
