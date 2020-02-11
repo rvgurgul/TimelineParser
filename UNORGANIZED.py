@@ -54,37 +54,6 @@ print(pairs)
 
 
 
-# how many games of Moderne 5/8 would have had the same result had they been Moderne 4/8?
-def moderneBalance(jason):
-    if jason["venue"] != "Moderne":
-        return
-    completed = 0
-    timestamp = 0
-    for event in jason["timeline"]:
-        print(event["category"], completed)
-        if "MissionComplete" in event["category"]:
-            completed += 1
-            if completed is 4:
-                timestamp = event["elapsed_time"]
-                fakeMissionCountdown = lookAhead(jason, timestamp)
-                print(fakeMissionCountdown)
-        elif "SniperShot" in event["category"]:
-            if event["role"] == "Spy":
-                return "SpyShot"
-            else:
-                return "CivShot"
-
-
-# if no shot happens, then MissWin
-# if no 5th mission and TimeOut, then MissWin
-# if spy completed a 5th mission, and
-#    is not shot then MissWin
-#    is shot then Inconclusive
-#    civ is shot, then CivShot
-
-analyze(moderneBalance, 100)
-
-
 
 
 

@@ -76,6 +76,15 @@ class Game:
         # return the only character, multiple characters, or no characters
         return lc[0] if len(lc) == 1 else lc
 
+    def get_most_recent_light_for(self, name="", role=""):
+        for event in self.sniper_lights[::-1]:
+            chara = event.characters[0]
+            if chara.name == name or chara.role == role:
+                return event.desc
+        if role == "Spy":
+            return "marked spy default suspicion"
+        return "marked default suspicion"
+
 
 unwanted_events = {
     "begin flirtation with seduction target.",
@@ -115,7 +124,7 @@ class TimelineEvent:
 
 class Character:
 
-    def __init__(self, name, role):
+    def __init__(self, name="", role=""):
         self.name = name
         self.role = role
 

@@ -13,8 +13,6 @@ class InnocentTalks(Parser):
         if event == "started talking." or event == "interrupted speaker.":
             if not self.tried_to_bug:
                 self.results += 1
-            else:
-                print("bug cover")
             self.tried_to_bug = False
         elif event == "spy enters conversation.":
             self.spy_in_convo = True

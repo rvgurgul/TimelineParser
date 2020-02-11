@@ -22,17 +22,6 @@ def debug(uuid):
         print("Failed debug of ", uuid, ".json", sep="")
 
 
-def analyze_single(uuid, criterion):
-    try:
-        file = open(root + uuid + ".json", "r")
-        lines = "".join([l.strip() for l in file.readlines()])
-        file.close()
-        jason = json.loads(lines)
-        return criterion(jason)
-    except:
-        print("Failed analysis of ", uuid, ".json", sep="")
-
-
 def query_games(constraints=None, limit=tac.PARSED_GAME_COUNT, describe_results=True, display_progress=True):
     data_directory = os.listdir(root)
     accepted, rejected = [], 0
@@ -53,10 +42,10 @@ def query_games(constraints=None, limit=tac.PARSED_GAME_COUNT, describe_results=
             else:
                 rejected += 1
             if display_progress:
-                delta = (101 * (len(accepted)+rejected) // limit) - prog_bar
-                if delta > 0:
-                    print(end="|"*delta)
-                    prog_bar += delta
+                delta = (101 * (len(accepted)+rejected) // limit)
+                if delta > prog_bar:
+                    print(end="|")
+                    prog_bar += 1
         except:
             print("Problematic File?\t", filename)
     if display_progress:
