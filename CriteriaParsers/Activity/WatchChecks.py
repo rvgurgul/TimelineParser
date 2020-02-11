@@ -3,8 +3,8 @@ from Classes.Parser import Parser
 
 class WatchChecks(Parser):
 
-    def __init__(self, game):
-        Parser.__init__(self, "Watch Check Ratio")
+    def __init__(self):
+        Parser.__init__(self, "Time Add Ratio")
 
     def parse(self, event):
         if event == "watch checked to add time.":

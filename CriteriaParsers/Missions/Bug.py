@@ -3,7 +3,7 @@ from Classes.Parser import Parser
 
 class BugAttempts(Parser):
 
-    def __init__(self, game):
+    def __init__(self):
         Parser.__init__(self, "Bug Attempts")
         self.bug_type = ""
         self.planting = False

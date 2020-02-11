@@ -3,7 +3,7 @@ from Classes.Parser import Parser
 
 class ConversationDurations(Parser):
 
-    def __init__(self, game):
+    def __init__(self):
         Parser.__init__(self, "Conversation Durations")
         self.spy_in_convo = False
         self.convo_timestamp = 0

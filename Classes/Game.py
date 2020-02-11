@@ -73,10 +73,10 @@ class Game:
                 return chara.role
         return "Absent"
 
-    def get_characters_in_role(self, role):
+    def get_characters_in_role(self, role, force_list=False):
         lc = [chara.name for chara in self.cast if chara.role == role]
         # return the only character, multiple characters, or no characters
-        return lc[0] if len(lc) == 1 else lc
+        return lc[0] if not force_list and len(lc) == 1 else lc
 
     def get_most_recent_light_for(self, name="", role=""):
         for event in self.sniper_lights[::-1]:

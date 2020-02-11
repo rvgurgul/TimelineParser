@@ -3,14 +3,16 @@ from Classes.Parser import Parser
 
 class FlirtPair(Parser):
 
-    def __init__(self, game):
+    def __init__(self):
         Parser.__init__(self, "Flirt Pair")
+
+    def prepare(self, game):
         self.results = (game.get_characters_in_role("Spy"), game.get_characters_in_role("SeductionTarget"))
 
 
 class FlirtDowntime(Parser):
 
-    def __init__(self, game):
+    def __init__(self):
         Parser.__init__(self, "Flirt Downtime")
         self.cooldown_timestamp = 0
 
@@ -25,7 +27,7 @@ class FlirtDowntime(Parser):
 
 class TimerFlirts(Parser):
 
-    def __init__(self, game):
+    def __init__(self):
         Parser.__init__(self, "Timer Flirts")
         self.spy_in_convo = False
         self.has_flirted_in_cc = False
@@ -50,3 +52,19 @@ class TimerFlirts(Parser):
 # I was rewriting my timer flirt parser and am now wondering what the best output would be: not only providing useful information (total/partial percent, action tests, etc) on its own, but also having some derived value (number of TFs, time invested, etc) as well.
 # My initial approach was to return bundled percentage increases if they were in the same conversation (ex: [[33], [65, 100]]) From that, you can interpret there was 1 timer flirt and the last one was a (necessary) green
 # Any thoughts on what would provide the most useful data?
+
+
+class FlirtCooldowns(Parser):
+
+    def __init__(self):
+        Parser.__init__(self, "Flirt Cooldown Durations")
+        self.flirt_timestamp = 0
+        self.on_cooldown = False
+
+    def parse(self, event):
+        if "flirt with seduction target:" in event.desc:
+            self.flirt_timestamp = event.time
+            self.on_cooldown = True
+        elif event == "flirtation cooldown expired.":
+            self.results.append(round(event.time - self.flirt_timestamp, 1))
+            self.on_cooldown = False

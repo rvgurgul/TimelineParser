@@ -3,7 +3,7 @@ from Classes.Parser import Parser
 
 class ContactInitiations(Parser):
 
-    def __init__(self, game):
+    def __init__(self):
         Parser.__init__(self, "Contact Attempts")
         self.joiner, self.atr, self.outcome = "Neither", "NoAT", ""
         self.dough, self.bread = "", ""
