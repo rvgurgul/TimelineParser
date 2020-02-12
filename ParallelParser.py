@@ -1,4 +1,4 @@
-from CriteriaParsers.Missions.Flirt import *
+from CriteriaParsers.Missions.Seduce import *
 from CriteriaParsers.Conversations.InnocentTalks import InnocentTalks
 from CriteriaParsers.Conversations.ConversationDurations import ConversationDurations
 from CriteriaParsers.Conversations.ConversationWaits import *
@@ -7,6 +7,10 @@ from CriteriaParsers.Activity.WatchChecks import WatchChecks
 from CriteriaParsers.Sniper.LowlightQuickdraw import LowlightQuickdraw
 from CriteriaParsers.Sniper.PlagueDoctor import PlagueDoctor
 from CriteriaParsers.Missions.Fingerprint import DescribeFingerprints
+from CriteriaParsers.Missions.Statues import DescribeStatues
+from CriteriaParsers.Missions.Books import BookCookCookbook
+from CriteriaParsers.Sniper.HighlightTension import HighlightTension
+from CriteriaParsers.Activity.ProgressDelay import ProgressDelay
 
 from Classes.Parser import Parser
 from Analyzer import query_games
@@ -39,8 +43,12 @@ def parallel_parse(games: [Game], parsers: [Parser], categorization=lambda game:
 qg = query_games(limit=500)
 x = parallel_parse(games=[Game(x) for x in qg],
                    parsers=[
+                       ProgressDelay,
+                       # HighlightTension,
+                       BookCookCookbook,
+                       DescribeStatues,
                        DescribeFingerprints,
-                       PlagueDoctor,
+                       # PlagueDoctor,
                        LowlightQuickdraw,
                        FlirtCooldowns,
                        FlirtPair,
@@ -59,6 +67,5 @@ x = parallel_parse(games=[Game(x) for x in qg],
                    categorization=lambda game: game.venue)
 for y in x:
     print(y)
-    print(x[y])
-    # print(json.dumps(x[y], indent=4))
-
+    for z in x[y]:
+        print(" ", z, "\t\t", x[y][z])

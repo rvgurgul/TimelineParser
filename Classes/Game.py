@@ -37,6 +37,11 @@ class Game:
                 ev = TimelineEvent(event)
                 self.sniper_lights.append(ev)
                 self.timeline.append(ev)
+            elif "SniperShot" in event["category"]:
+                ev = TimelineEvent(event)
+                self.timeline.append(ev)
+                self.character_shot = Character(name=event["cast_name"][0],
+                                                role=event["role"][0])
             elif "MissionComplete" in event["category"]:
                 self.missions_complete.append(event["mission"])
                 self.timeline.append(TimelineEvent(event))
@@ -44,8 +49,6 @@ class Game:
                 self.timeline.append(TimelineEvent(event))
 
         self.reaches_mwc = len(self.missions_complete) >= int(self.mode[1])
-
-        # TODO self.shot: Character = ...
 
     def __str__(self):
         result = "Match:\t" + str(self.match) + " (" + self.date + ")"
@@ -84,13 +87,14 @@ class Game:
             if chara.name == name or chara.role == role:
                 return event.desc
         if role == "Spy":
-            return "marked spy default suspicion"
-        return "marked default suspicion"
+            return "marked spy default suspicion."
+        return "marked default suspicion."
 
 
 unwanted_events = {
     "begin flirtation with seduction target.",
     "game started.",
+    "marked book.",
 }
 
 

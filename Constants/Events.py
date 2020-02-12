@@ -6,6 +6,8 @@ lights = {
     "marked spy less suspicious.": "Lowlight",
     "marked neutral suspicion.": "Neutral Light",
     "marked spy neutral suspicion.": "Neutral Light",
+    "marked default suspicion.": "Default Light",
+    "marked spy default suspicion.": "Default Light",
 }
 
 

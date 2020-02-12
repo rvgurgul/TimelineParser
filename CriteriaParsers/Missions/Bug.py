@@ -13,6 +13,7 @@ class BugAttempts(Parser):
     def parse(self, event):
         if self.complete:
             return
+
         if event == "spy enters conversation.":
             if self.transit or self.bug_type == "Exit":
                 self.bug_type = "Twitch"
@@ -42,7 +43,7 @@ class BugAttempts(Parser):
         elif event == "failed planting bug while walking.":
             self.planting, self.transit = False, False
             # failure is implicit to any bug before the last
-            # the last bug is a fail if bug is not completed
+            # the last bug is also a fail if bug is not completed
             self.bug_type += " (Failed)"
             self.results.append(self.bug_type)
             self.bug_type = ""
