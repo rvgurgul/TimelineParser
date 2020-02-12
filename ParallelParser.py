@@ -6,6 +6,7 @@ from CriteriaParsers.Activity.DrinkOffers import DrinkOffers
 from CriteriaParsers.Activity.WatchChecks import WatchChecks
 from CriteriaParsers.Sniper.LowlightQuickdraw import LowlightQuickdraw
 from CriteriaParsers.Sniper.PlagueDoctor import PlagueDoctor
+from CriteriaParsers.Missions.Fingerprint import DescribeFingerprints
 
 from Classes.Parser import Parser
 from Analyzer import query_games
@@ -35,9 +36,10 @@ def parallel_parse(games: [Game], parsers: [Parser], categorization=lambda game:
     return results
 
 
-qg = query_games(limit=5000)
+qg = query_games(limit=500)
 x = parallel_parse(games=[Game(x) for x in qg],
                    parsers=[
+                       DescribeFingerprints,
                        PlagueDoctor,
                        LowlightQuickdraw,
                        FlirtCooldowns,
