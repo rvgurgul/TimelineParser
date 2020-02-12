@@ -15,9 +15,7 @@ from Classes.Game import Game
 def parallel_parse(games: [Game], parsers: [Parser], categorization=lambda game: game.uuid):
     results = {}
     for game in games:
-        active_parsers = [parser() for parser in parsers]
-        for parser in active_parsers:
-            parser.prepare(game)
+        active_parsers = [parser(game) for parser in parsers]
         for event in game.timeline:
             for parser in active_parsers:
                 parser.parse(event)

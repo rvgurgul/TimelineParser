@@ -94,6 +94,8 @@ unwanted_events = {
 }
 
 
+# TODO move to separate file, create child classes for each category of event, build parser functionality to request
+#  certain categories
 class TimelineEvent:
 
     def __init__(self, event):

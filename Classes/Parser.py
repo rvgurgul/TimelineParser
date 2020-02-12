@@ -12,12 +12,6 @@ class Parser:
         self.results = []
         self.complete = False
 
-    # Prepare is an optional overrideable method to initiate any variables from data stored within the game class
-    # Should not under any circumstance perform a loop of the game's timeline which would undermine efforts to
-    # parallelize timeline parsing.
-    def prepare(self, game: Game):
-        pass
-
     # Parse is an optional overrideable method to perform a state transition given an event from the game's timeline
     def parse(self, event: TimelineEvent):
         pass

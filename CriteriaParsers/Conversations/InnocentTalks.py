@@ -3,7 +3,7 @@ from Classes.Parser import Parser
 
 class InnocentTalks(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Inno-Talks")
         self.spy_in_convo = False
         self.tried_to_bug = False
@@ -24,7 +24,7 @@ class InnocentTalks(Parser):
 
 class InnocentTalkWaits(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Inno-Talk Wait Times")
         self.joined_convo_timestamp = 0
 

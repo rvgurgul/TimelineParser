@@ -3,14 +3,13 @@ from Classes.Parser import Parser
 
 class PlagueDoctor(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Shot for Cough")
-        self.cough_timestamp = 0
-        self.red_tested = False
-
-    def prepare(self, game):
         if game.specific_win_condition not in ["SpyShot", "CivilianShot"]:
             self.complete = True
+        else:
+            self.cough_timestamp = 0
+            self.red_tested = False
 
     def parse(self, event):
         if self.complete:

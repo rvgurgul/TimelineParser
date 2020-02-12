@@ -3,7 +3,7 @@ from Classes.Parser import Parser
 
 class DrinkOffers(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Drink Accept Ratio")
 
     def parse(self, event):

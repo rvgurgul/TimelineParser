@@ -3,12 +3,9 @@ from Classes.Parser import Parser
 
 class LowlightQuickdraw(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Cast Lowlight Time")
-        self.cast = {"Toby": False, "Damon": False}
-
-    def prepare(self, game):
-        self.cast[game.get_characters_in_role("Ambassador")] = False
+        self.cast = {"Toby": False, "Damon": False, game.get_characters_in_role("Ambassador"): False}
         if game.venue != "Balcony":
             sda_list = game.get_characters_in_role("SuspectedDoubleAgent", force_list=True)
             for sda in sda_list:

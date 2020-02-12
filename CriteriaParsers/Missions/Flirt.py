@@ -3,16 +3,14 @@ from Classes.Parser import Parser
 
 class FlirtPair(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Flirt Pair")
-
-    def prepare(self, game):
         self.results = (game.get_characters_in_role("Spy"), game.get_characters_in_role("SeductionTarget"))
 
 
 class FlirtDowntime(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Flirt Downtime")
         self.cooldown_timestamp = 0
 
@@ -27,7 +25,7 @@ class FlirtDowntime(Parser):
 
 class TimerFlirts(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Timer Flirts")
         self.spy_in_convo = False
         self.has_flirted_in_cc = False
@@ -56,7 +54,7 @@ class TimerFlirts(Parser):
 
 class FlirtCooldowns(Parser):
 
-    def __init__(self):
+    def __init__(self, game):
         Parser.__init__(self, "Flirt Cooldown Durations")
         self.flirt_timestamp = 0
         self.on_cooldown = False
