@@ -13,6 +13,8 @@ class Game:
         self.mode = jason["game_type"]
         self.guests = jason["guest_count"]
         self.clock = jason["start_clock_seconds"]
+        if self.clock is None:  # some values were none, so this fills those gaps
+            self.clock = jason["timeline"][0]["time"]//1
 
         self.match = Match(jason)
         self.specific_win_condition, self.general_win_condition = jason["win_type"]

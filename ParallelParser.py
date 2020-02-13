@@ -11,6 +11,8 @@ from CriteriaParsers.Missions.Statues import DescribeStatues
 from CriteriaParsers.Missions.Books import BookCookCookbook
 from CriteriaParsers.Sniper.HighlightTension import HighlightTension
 from CriteriaParsers.Activity.ProgressDelay import ProgressDelay
+from CriteriaParsers.Sniper.Overtime import Overtime
+from CriteriaParsers.Trivia.StarterDrink import StarterDrink
 
 from Classes.Parser import Parser
 from Analyzer import query_games
@@ -43,6 +45,8 @@ def parallel_parse(games: [Game], parsers: [Parser], categorization=lambda game:
 qg = query_games(limit=500)
 x = parallel_parse(games=[Game(x) for x in qg],
                    parsers=[
+                       StarterDrink,
+                       Overtime,
                        ProgressDelay,
                        # HighlightTension,
                        BookCookCookbook,

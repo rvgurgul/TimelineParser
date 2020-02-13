@@ -12,7 +12,6 @@ class ModerneFourEight(Parser):
             self.countdown = 0
             self.missions = 0
 
-
     def parse(self, event):
         if self.complete:
             return

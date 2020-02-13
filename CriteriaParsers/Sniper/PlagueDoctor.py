@@ -19,6 +19,7 @@ class PlagueDoctor(Parser):
             self.red_tested = True
         elif self.red_tested and "uttered." in event.desc:
             self.cough_timestamp = event.time
+            self.red_tested = False
         elif event == "banana bread aborted.":
             self.cough_timestamp = event.time
         elif self.cough_timestamp > 0 and "SniperShot" in event.categories:
