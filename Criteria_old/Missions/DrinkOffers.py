@@ -2,18 +2,6 @@ from Constants.Events import *
 from Constants.Venues import bar_venues
 
 
-def drink_offers(jason):
-    accepted, rejected, ignored = 0, 0, 0
-    for event in jason["timeline"]:
-        if event["event"] in drink_accepts:
-            accepted += 1
-        elif event["event"] in drink_rejects:
-            rejected += 1
-        elif event["event"] == "waiter gave up.":
-            ignored += 1
-    return (accepted, rejected, ignored) if ignored > 0 else (accepted, rejected)
-
-
 # returns a boolean list which can be averaged to easily find someone's rate of drink accepts vs rejects
 def inno_drink_takes(jason, exclude_purloin=True):
     offers = []
@@ -32,17 +20,6 @@ def inno_drink_takes(jason, exclude_purloin=True):
         elif exclude_purloin and "ActionTest" in event["category"] and event["mission"] == "Purloin":
             purloin_test = event["action_test"]
     return offers
-
-
-# TODO translate to parser
-def drink_sippage(jason):
-    sips, gulps = 0, 0
-    for event in jason["timeline"]:
-        if event["event"] in drink_sips:
-            sips += 1
-        elif event["event"] in drink_gulps:
-            gulps += 1
-    return sips, gulps
 
 
 # TODO translate to parser

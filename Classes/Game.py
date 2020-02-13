@@ -126,7 +126,7 @@ class TimelineEvent:
             return int(percent[0:len(percent)-1])
 
     def __str__(self):
-        return str(self.time) + " - " + self.desc  # + " (" + str(self.character) + ")"
+        return str(self.clock) + " - " + self.desc  # + " (" + str(self.character) + ")"
 
     def __eq__(self, other):
         return self.desc == other
