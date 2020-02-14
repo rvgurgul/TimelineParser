@@ -1,7 +1,7 @@
 from Classes.Parser import Parser
 
 
-class ActionTestTimings(Parser):
+class ActionTestTiming(Parser):
 
     def __init__(self, game):
         Parser.__init__(self, "Action Test Timings")
@@ -17,5 +17,5 @@ class ActionTestTimings(Parser):
                 if mission != "Fingerprint":
                     if mission == "NoMission":
                         mission = "Time Add"
-                    package = round(event["elapsed_time"]-self.triggered_timestamp, 1), result, mission
+                    package = round(event.time-self.triggered_timestamp, 1), result, mission
                     self.results.append(package)
