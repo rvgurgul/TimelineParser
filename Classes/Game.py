@@ -1,3 +1,5 @@
+from Classes.Venue import Venues
+
 
 class Game:
 
@@ -9,11 +11,16 @@ class Game:
         self.uuid = jason["uuid"]
         self.date = jason["start_time"]
 
-        self.venue = jason["venue"]
+        if jason["venue"] == "Terrace" and jason["start_time"] < "2018-06-05T08:05:00":
+            self.venue = Venues["Terrace_old"]
+            print("Double Modern Terrace")
+        else:
+            self.venue = Venues[jason["venue"]]
+
         self.mode = jason["game_type"]
         self.guests = jason["guest_count"]
         self.clock = jason["start_clock_seconds"]
-        if self.clock is None:  # some values were none, so this fills those gaps
+        if self.clock is None:  # some values are none, so this fills those gaps
             self.clock = jason["timeline"][0]["time"]//1
 
         self.match = Match(jason)
@@ -30,8 +37,7 @@ class Game:
             if "Cast" in event["category"]:
                 self.cast.append(Character(name=event["cast_name"][0],
                                            role=event["role"][0]))
-            elif "MissionSelected" in event["category"] \
-                    or "MissionEnabled" in event["category"]:
+            elif "MissionSelected" in event["category"] or "MissionEnabled" in event["category"]:
                 continue  # the mission selected/enabled events are useless
             elif event["event"] in unwanted_events:
                 continue

@@ -2,7 +2,7 @@ from CriteriaParsers.Missions.Seduce import *
 from CriteriaParsers.Conversations.InnocentTalks import InnocentTalks
 from CriteriaParsers.Conversations.ConversationDurations import ConversationDurations
 from CriteriaParsers.Conversations.ConversationWaits import *
-from CriteriaParsers.Activity.Drinks import DrinkOffers
+from CriteriaParsers.Missions.Purloin import DrinkOffers
 from CriteriaParsers.Time.WatchChecks import WatchChecks
 from CriteriaParsers.Sniper.LowlightQuickdraw import LowlightQuickdraw
 from CriteriaParsers.Sniper.PlagueDoctor import PlagueDoctor
@@ -16,7 +16,7 @@ from CriteriaParsers.Time.ClockUsage import *
 from CriteriaParsers.Trivia.StarterDrink import StarterDrink
 from CriteriaParsers.Sniper.SniperLatency import SniperLatency
 from CriteriaParsers.Trivia.ContactDelay import ContactFudge
-from CriteriaParsers.Activity.Activity import CountdownActivity, ContactActivity
+from CriteriaParsers.Time.Activity import CountdownActivity, ContactActivity
 from CriteriaParsers.Time.PendingTimings import PendingDurations
 
 from Classes.Parser import Parser
@@ -30,7 +30,7 @@ def parallel_parse(games: [Game], parsers: [Parser], categorization=lambda game:
         # instantiate the parser classes
         active_parsers = [parser(game) for parser in parsers]
         for event in game.timeline:
-            for i, parser in enumerate(active_parsers):
+            for parser in active_parsers:
                 parser.parse(event)
                 # if parser.complete:  # increased load checking for parser completion,
                 #     active_parsers.pop(i)  # reduced load removing completed parsers

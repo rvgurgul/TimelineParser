@@ -1,4 +1,4 @@
-from Classes.Game import Game, TimelineEvent
+from Classes.Game import TimelineEvent
 
 
 # Generic Parser class defines functionality for all sub-Parsers
