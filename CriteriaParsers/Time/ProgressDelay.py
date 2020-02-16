@@ -46,3 +46,22 @@ class TakeControlTime(Parser):
         if event == "spy players takes control from ai.":
             self.results = event.time
             self.complete = True
+
+
+destinations = {
+    "put back statue.": "Statues",
+    "spy leaves conversation.": "Conversation",
+    "put book in bookcase.": "Bookshelf",
+    "bartender picked next customer.": "Bar",
+}
+
+
+class TakeControlLocation(Parser):
+
+    def __init__(self, game):
+        Parser.__init__(self, "Take Control Location")
+
+    def parse(self, event):
+        if self.complete:
+            return
+        # TODO this parser

@@ -1,6 +1,7 @@
 from Classes.Parser import Parser
 
 
+# it is possible, but unlikely, the spy walks away from a bookcase then returns without one of these events occurring
 intermediate = {
     "action triggered: bug ambassador",
     "spy enters conversation.",
@@ -9,7 +10,7 @@ intermediate = {
     "watch checked.",
     "read book.",
 }
-# can briefcase, can conversate, can read, can bug, can watch
+# can briefcase, can conversate, can read, can bug, can check watch
 # cannot statue, cannot drink
 
 
@@ -19,9 +20,7 @@ class BookCookCookbook(Parser):
         Parser.__init__(self, "Book Cook")
         self.takeout_timestamp = 0
         self.taken_away = False
-        # TODO retry fingerprintable books
-        # self.printable = False
-        # self.fingerprint = "Innocent"
+        self.at_micro = None
 
     def parse(self, event):
         if event == "get book from bookcase.":
@@ -41,10 +40,26 @@ class BookCookCookbook(Parser):
         #     self.printable = False
         elif event.desc in intermediate:
             self.taken_away = True
+        elif event == "remove microfilm from book.":
+            self.at_micro = ("Remote " if self.taken_away else "")+"Microfilm Take"
+        elif self.taken_away and event == "hide microfilm in book.":
+            self.at_micro = ("Remote " if self.taken_away else "")+"Microfilm Take"
         elif event == "put book in bookcase.":
-            cat = "Direct Transfer" if event.held_book != event.bookshelf \
+            cat = self.at_micro if self.at_micro is not None \
+                else "Direct Transfer" if event.held_book != event.bookshelf \
                 else "Innocent Return" if self.taken_away \
-                else "Innocent Read"
+                else "Innocent Visit"
+            # TODO printable books
 
             pkg = (cat, round(event.time-self.takeout_timestamp, 1))
             self.results.append(pkg)
+
+# outcomes:
+#  direct transfer
+#  innocent book walk
+#  innocent book read
+#  printable direct transfer
+#  printable book walk
+#  printable book read
+#  microfilm take
+#  (printable) microfilm hide

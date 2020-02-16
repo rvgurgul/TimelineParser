@@ -18,6 +18,7 @@ from CriteriaParsers.Sniper.SniperLatency import SniperLatency
 from CriteriaParsers.Trivia.ContactDelay import ContactFudge
 from CriteriaParsers.Time.Activity import CountdownActivity, ContactActivity
 from CriteriaParsers.Time.PendingTimings import PendingDurations
+from CriteriaParsers.Missions.Bug import BugAttempts
 
 from Classes.Parser import Parser
 from Analyzer import query_games
@@ -54,6 +55,8 @@ if do_first:
     qg = query_games(limit=500)
     x = parallel_parse(games=[Game(x) for x in qg],
                        parsers=[
+                           BugAttempts,
+                           BookCookCookbook,
                            PendingDurations,
                            ContactActivity,
                            CountdownActivity,
@@ -63,7 +66,6 @@ if do_first:
                            Overtime,
                            ProgressDelay,
                            # HighlightTension,
-                           BookCookCookbook,
                            DescribeStatues,
                            DescribeFingerprints,
                            # PlagueDoctor,

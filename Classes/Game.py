@@ -11,9 +11,9 @@ class Game:
         self.uuid = jason["uuid"]
         self.date = jason["start_time"]
 
+        # this date is when the terrace update patch notes were published on steam
         if jason["venue"] == "Terrace" and jason["start_time"] < "2018-06-05T08:05:00":
             self.venue = Venues["Terrace_old"]
-            print("Double Modern Terrace")
         else:
             self.venue = Venues[jason["venue"]]
 

@@ -50,4 +50,7 @@ drink_requests_bar = {
 }
 drink_requests = drink_requests_tray | drink_requests_bar
 
-
+drink_finishes = drink_gulps | {
+    "took last sip of drink.",
+    "took last bite of cupcake."
+}
