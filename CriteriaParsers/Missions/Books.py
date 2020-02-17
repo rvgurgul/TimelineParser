@@ -38,28 +38,20 @@ class BookCookCookbook(Parser):
         #     else:
         #         self.fingerprint = "DFP_miss"
         #     self.printable = False
-        elif event.desc in intermediate:
+        elif event == intermediate:
             self.taken_away = True
         elif event == "remove microfilm from book.":
-            self.at_micro = ("Remote " if self.taken_away else "")+"Microfilm Take"
-        elif self.taken_away and event == "hide microfilm in book.":
-            self.at_micro = ("Remote " if self.taken_away else "")+"Microfilm Take"
+            self.at_micro = ("Remote " if self.taken_away else "")+"{} Microfilm Take".format(event.bookshelf)
+        elif event == "hide microfilm in book.":
+            self.at_micro = ("Remote " if self.taken_away else "")+"{} Microfilm Hide".format(event.bookshelf)
         elif event == "put book in bookcase.":
             cat = self.at_micro if self.at_micro is not None \
-                else "Direct Transfer" if event.held_book != event.bookshelf \
+                else "Direct Transfer ({} to {})".format(event.held_book, event.bookshelf) if event.held_book != event.bookshelf \
                 else "Innocent Return" if self.taken_away \
                 else "Innocent Visit"
             # TODO printable books
+        # TODO held books when the game ends are untracked
+        # elif "GameEnd" in event.categories and self.at_micro is not None:
 
             pkg = (cat, round(event.time-self.takeout_timestamp, 1))
             self.results.append(pkg)
-
-# outcomes:
-#  direct transfer
-#  innocent book walk
-#  innocent book read
-#  printable direct transfer
-#  printable book walk
-#  printable book read
-#  microfilm take
-#  (printable) microfilm hide

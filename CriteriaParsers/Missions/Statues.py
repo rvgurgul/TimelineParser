@@ -25,10 +25,12 @@ class DescribeStatues(Parser):
             self.results += "I"
         elif event == "inspection interrupted.":
             self.results += "i"
-        elif event == "statue swapped.":
-            self.results += "S"
         elif event == "statue swap pending.":
             self.results += "s"
+        elif event == "cast member picked up pending statue.":
+            self.results += "~"
+        elif event == "statue swapped.":
+            self.results += "S"
         elif event == "fingerprinted statue.":
             self.results += "P"
         elif self.holding and event == "fingerprinting failed.":

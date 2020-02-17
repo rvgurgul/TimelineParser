@@ -60,7 +60,7 @@ class Game:
 
     def __str__(self):
         result = "Match:\t" + str(self.match) + " (" + self.date + ")"
-        result += "\nVenue:\t" + self.venue + " " + self.mode + ", " + str(len(self.cast)) + " guests, " + str(self.clock) + "s"
+        result += "\nVenue:\t" + str(self.venue) + " " + self.mode + ", " + str(len(self.cast)) + " guests, " + str(self.clock) + "s"
         result += "\nResult:\t" + self.specific_win_condition + " (" + self.general_win_condition + ")"
         result += "\nMis'ns:\t" + ", ".join(self.missions_complete)
         result += "\nCast:"
@@ -126,16 +126,28 @@ class TimelineEvent:
         if len(bks) == 2:
             self.held_book, self.bookshelf = bks
 
-    def get_flirt_percent(self):
-        if "flirt with seduction target: " == self.desc[0:30]:
-            percent = self.desc.split(": ")[1]
-            return int(percent[0:len(percent)-1])
-
     def __str__(self):
         return str(self.clock) + " - " + self.desc  # + " (" + str(self.character) + ")"
 
+    # Optional syntax to reduce certain operations by 5 characters
     def __eq__(self, other):
-        return self.desc == other
+        # allows for exact event matching:      event == "event."
+        # alternatively,                        event.desc == "event."
+        if type(other) == str:
+            return self.desc == other
+        # allows event matching from a list:    event == ["ev1", "ev2", "ev3"]
+        # alternatively,                        event.desc in ["ev1", "ev2", "ev3"]
+        if type(other) == list or type(other) == set or type(other) == tuple:
+            for x in other:
+                if self.desc == x:
+                    return True
+        # returns false once the other cases didn't pass
+        return False
+
+    def __contains__(self, item):
+        # allows for event containing a match:  "keyword" in event
+        # alternatively,                        "keyword" in event.desc
+        return item in self.desc
 
 
 class Character:

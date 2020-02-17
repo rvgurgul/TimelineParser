@@ -66,3 +66,22 @@ class FlirtCooldowns(Parser):
         elif event == "flirtation cooldown expired.":
             self.results.append(round(event.time - self.flirt_timestamp, 1))
             self.on_cooldown = False
+
+
+class FlirtIncreases(Parser):
+
+    def __init__(self, game):
+        Parser.__init__(self, "Flirt Increases")
+        self.total = 0
+
+    # TODO parameter to package action test (for those juicy green 34% flirts)
+    def parse(self, event):
+        if "flirt with seduction target:" in event.desc:
+            percent = event.desc.split(": ")[1]
+            percent = int(percent[0:len(percent) - 1])
+            self.results.append(percent - self.total)
+            self.total = percent
+        elif event == "seduction canceled." \
+                or event == "action test canceled: seduce target"\
+                or event == "failed flirt with seduction target.":
+            self.results.append(0)

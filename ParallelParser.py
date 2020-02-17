@@ -19,6 +19,8 @@ from CriteriaParsers.Trivia.ContactDelay import ContactFudge
 from CriteriaParsers.Time.Activity import CountdownActivity, ContactActivity
 from CriteriaParsers.Time.PendingTimings import PendingDurations
 from CriteriaParsers.Missions.Bug import BugAttempts
+from CriteriaParsers.Missions.Purloin import DescribePurloin
+from CriteriaParsers.Trivia.WatchCheckAnimations import WatchCheckAnimations
 
 from Classes.Parser import Parser
 from Analyzer import query_games
@@ -52,14 +54,17 @@ def parallel_parse(games: [Game], parsers: [Parser], categorization=lambda game:
 
 do_first = True
 if do_first:
-    qg = query_games(limit=500)
+    qg = query_games(limit=1500)
     x = parallel_parse(games=[Game(x) for x in qg],
                        parsers=[
-                           BugAttempts,
+                           WatchCheckAnimations,
                            BookCookCookbook,
+                           FlirtIncreases,
+                           DescribePurloin,
+                           BugAttempts,
                            PendingDurations,
-                           ContactActivity,
-                           CountdownActivity,
+                           # ContactActivity,
+                           # CountdownActivity,
                            ClockUsage,
                            TimeAddUsage,
                            StarterDrink,
@@ -81,21 +86,19 @@ if do_first:
                            InnocentTalks,
                            # BugAttempts,
                            # ContactInitiations,
-                           WatchChecks,
-                           DrinkOffers,
+                           # WatchChecks,
+                           # DrinkOffers,
                        ],
                        categorization=lambda game: game.venue)
-    for y in x:
-        print(y)
-        for z in x[y]:
-            print(" ", z, "\t\t", x[y][z])
 
 else:
     qg = query_games()
     x = parallel_parse(games=[Game(x) for x in qg],
                        parsers=[ContactFudge],
                        categorization=lambda game: None)
-    for y in x:
-        print(y)
-        for z in x[y]:
-            print(" ", z, "\t\t", x[y][z])
+
+for y in x:
+    print(y)
+    for z in x[y]:
+        print(" ", z, "\t\t", x[y][z])
+

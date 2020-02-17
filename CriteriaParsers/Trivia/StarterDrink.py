@@ -25,9 +25,9 @@ class StarterDrink(Parser):
         if self.complete:
             return
         # cannot guarantee certainty if the drink was completed during ai-control
-        elif event.desc in drink_sips:
+        elif event == drink_sips:
             self.results = True
             self.complete = True
-        elif event.desc in business:
+        elif event == business:
             self.results = False
             self.complete = True
