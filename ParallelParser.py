@@ -21,6 +21,8 @@ from CriteriaParsers.Time.PendingTimings import PendingDurations
 from CriteriaParsers.Missions.Bug import BugAttempts
 from CriteriaParsers.Missions.Purloin import DescribePurloin
 from CriteriaParsers.Trivia.WatchCheckAnimations import WatchCheckAnimations
+from CriteriaParsers.Sniper.BugExterminator import BugExterminator
+from CriteriaParsers.Sniper.ContactLowlights import ContactLowlights
 
 from Classes.Parser import Parser
 from Analyzer import query_games
@@ -57,6 +59,8 @@ if do_first:
     qg = query_games(limit=1500)
     x = parallel_parse(games=[Game(x) for x in qg],
                        parsers=[
+                           ContactLowlights,
+                           BugExterminator,
                            WatchCheckAnimations,
                            BookCookCookbook,
                            FlirtIncreases,
@@ -83,7 +87,7 @@ if do_first:
                            # RealContactWaits,
                            # FakeContactWaits,
                            # InnocentTalkWaits,
-                           InnocentTalks,
+                           # InnocentTalks,
                            # BugAttempts,
                            # ContactInitiations,
                            # WatchChecks,

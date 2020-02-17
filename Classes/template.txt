@@ -1,3 +1,5 @@
+from Classes.Parser import Parser
+
 
 # Template Class
 class Template(Parser):

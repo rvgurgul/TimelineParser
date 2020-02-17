@@ -9,6 +9,16 @@ lights = {
     "marked default suspicion.": "Default Light",
     "marked spy default suspicion.": "Default Light",
 }
+lights_abbreviated = {
+    "marked suspicious.": "HL",
+    "marked spy suspicious.": "HL",
+    "marked less suspicious.": "LL",
+    "marked spy less suspicious.": "LL",
+    "marked neutral suspicion.": "NL",
+    "marked spy neutral suspicion.": "NL",
+    "marked default suspicion.": "DL",
+    "marked spy default suspicion.": "DL",
+}
 
 
 drink_gulps = {
