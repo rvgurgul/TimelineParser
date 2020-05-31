@@ -167,7 +167,7 @@ Terrace = Venue(name="Terrace", info_dict={
     "windows": 3,
     "agents": 1,
 })
-Terrace_DM = Venue(name="Terrace (OLD)", info_dict={
+DoubleModern = Venue(name="Double Modern", info_dict={
     "high_view_angle": True,
     "bar": False,
     "statues": [],
@@ -203,7 +203,7 @@ Venues = {
     "Redwoods":     Redwoods,
     "Teien":        Teien,
     "Terrace":      Terrace,
-    "Terrace_old":  Terrace_DM,
+    "Terrace_old":  DoubleModern,
     "Veranda":      Veranda,
 }
 

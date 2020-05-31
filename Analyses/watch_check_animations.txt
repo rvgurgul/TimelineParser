@@ -52,13 +52,13 @@ Analyzing, please wait...
 Analyzing, please wait...
 0%                     25%                      50%                      75%                     100%
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Mr. S's average watch check time:	1.375	(223 samples)
-Mr. G's average watch check time:	2.281	(140 samples)
+Mr. S's average watch check time:	1.375	(223 samples)   1.4
+Mr. G's average watch check time:	2.281	(140 samples)   2.3
 Mr. K's average watch check time:	2.282	(98 samples)
 Ms. E's average watch check time:	2.3	(78 samples)
 Mr. D's average watch check time:	2.314	(148 samples)
 Mr. A's average watch check time:	2.315	(106 samples)
-Mr. I's average watch check time:	2.404	(67 samples)
+Mr. I's average watch check time:	2.404	(67 samples)    2.4
 Ms. F's average watch check time:	2.407	(227 samples)
 Ms. J's average watch check time:	2.413	(98 samples)
 Mr. P's average watch check time:	2.428	(54 samples)
@@ -70,7 +70,7 @@ Ms. O's average watch check time:	2.437	(147 samples)
 Dr. M's average watch check time:	2.441	(157 samples)
 Dr. N's average watch check time:	2.441	(172 samples)
 Mr. U's average watch check time:	2.444	(81 samples)
-Ms. B's average watch check time:	3.737	(109 samples)
+Ms. B's average watch check time:	3.737	(109 samples)   3.7
 Mr. C's average watch check time:	3.75	(115 samples)
 Ms. L's average watch check time:	3.778	(150 samples)
 

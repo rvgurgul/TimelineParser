@@ -1,0 +1,18 @@
+{
+  "SpyShot": {
+    "sniper_win": true,
+    "sniper_agency": true
+  },
+  "CivilianShot": {
+    "sniper_win": false,
+    "sniper_agency": true
+  },
+  "MissionsWin": {
+    "sniper_win": false,
+    "sniper_agency": false
+  },
+  "TimeOut": {
+    "sniper_win": true,
+    "sniper_agency": false
+  }
+}

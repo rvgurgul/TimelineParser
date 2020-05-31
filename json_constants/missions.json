@@ -1,0 +1,26 @@
+{
+  "Bug": {
+    "hard_tell": true
+  },
+  "Contact": {
+    "hard_tell": false
+  },
+  "Seduce": {
+    "hard_tell": false
+  },
+  "Transfer": {
+    "hard_tell": true
+  },
+  "Inspect": {
+    "hard_tell": false
+  },
+  "Swap": {
+    "hard_tell": true
+  },
+  "Purloin": {
+    "hard_tell": true
+  },
+  "Fingerprint": {
+    "hard_tell": false
+  }
+}

@@ -1,13 +1,14 @@
 from Classes.Venue import Venues
+from Classes.Event import Event, Character
+from Classes.Match import Match
 
 
 class Game:
-
     def __init__(self, jason):
         self.spy = jason["spy"]
         self.sniper = jason["sniper"]
-        self.__spy = jason["spy_username"]
-        self.__sniper = jason["sniper_username"]
+        self.spy_username = jason["spy_username"]
+        self.sniper_username = jason["sniper_username"]
         self.uuid = jason["uuid"]
         self.date = jason["start_time"]
 
@@ -22,41 +23,78 @@ class Game:
         self.clock = jason["start_clock_seconds"]
         if self.clock is None:  # some values are none, so this fills those gaps
             self.clock = jason["timeline"][0]["time"]//1
+        self.missions_selected = jason["selected_missions"]
 
         self.match = Match(jason)
         self.specific_win_condition, self.general_win_condition = jason["win_type"]
 
-        self.missions_selected = jason["selected_missions"]
-        self.missions_complete = []
-        # self.mission_progress = {}  # TODO mission_progress with same capability as missions_complete
-
-        self.cast = []
+        self.cast = Cast()
         self.timeline = []
         self.sniper_lights = []
-        for event in jason["timeline"]:
-            if "Cast" in event["category"]:
-                self.cast.append(Character(name=event["cast_name"][0],
-                                           role=event["role"][0]))
-            elif "MissionSelected" in event["category"] or "MissionEnabled" in event["category"]:
-                continue  # the mission selected/enabled events are useless
-            elif event["event"] in unwanted_events:
+        self.missions_complete = []
+        self.missions_progress = set()
+        self.time_added = 0
+
+        in_convo = None
+        during_countdown = False
+        during_overtime = False
+        for json_event in jason["timeline"]:
+            # counterintuitive, but the initial value must be the opposite of the event itself
+            if json_event["event"] == "spy enters conversation.":
+                in_convo = False
+                break
+            elif json_event["event"] == "spy leaves conversation.":
+                in_convo = True
+                break
+
+        for json_event in jason["timeline"]:
+            if json_event["event"] == "spy enters conversation.":
+                in_convo = True
+            elif json_event["event"] == "spy leaves conversation.":
+                in_convo = False
+            elif json_event["event"] == "missions completed. 10 second countdown.":
+                during_countdown = True
+            elif json_event["event"] == "overtime!":
+                during_overtime = True
+            elif json_event["event"] == "45 seconds added to match.":
+                self.time_added += 45
+
+            if ("MissionSelected" in json_event["category"] or
+                    "MissionEnabled" in json_event["category"] or
+                    json_event["event"] == "begin flirtation with seduction target."):
                 continue
-            elif "SniperLights" in event["category"]:
-                ev = TimelineEvent(event)
-                self.sniper_lights.append(ev)
-                self.timeline.append(ev)
-            elif "SniperShot" in event["category"]:
-                ev = TimelineEvent(event)
-                self.timeline.append(ev)
-                self.character_shot = Character(name=event["cast_name"][0],
-                                                role=event["role"][0])
-            elif "MissionComplete" in event["category"]:
-                self.missions_complete.append(event["mission"])
-                self.timeline.append(TimelineEvent(event))
+
+            if "Cast" in json_event["category"]:
+                chara = Character(name=json_event["cast_name"][0],
+                                  role=json_event["role"][0])
+                self.cast.invite(chara)
             else:
-                self.timeline.append(TimelineEvent(event))
+                event = Event(
+                    json_event,
+                    in_convo=in_convo,
+                    during_mwc=during_countdown,
+                    during_ot=during_overtime,
+                )
+                self.timeline.append(event)
+                if "MissionComplete" in json_event["category"]:
+                    self.missions_complete.append(event.mission)
+                elif ("MissionPartial" in json_event["category"] or
+                      "ActionTriggered" in json_event["category"]):
+                    self.missions_progress.add(event.mission)
+                elif "SniperLights" in json_event["category"]:
+                    self.sniper_lights.append(event)
+                elif event == "guest list purloined." and event.character.role != "Spy":
+                    self.cast.invite(event.character, "Delegate")
+                elif event == "statue swapped." and event.character.role != "Spy":
+                    self.cast.invite(event.character, "Swapper")
+                elif "SniperShot" in json_event["category"]:
+                    self.cast.invite(event.character, "Shot")
 
         self.reaches_mwc = len(self.missions_complete) >= int(self.mode[1])
+
+        # TODO patch
+        # if self.guests is None:
+        #     self.guests = len(self.cast)
 
     def __str__(self):
         result = "Match:\t" + str(self.match) + " (" + self.date + ")"
@@ -70,13 +108,9 @@ class Game:
         for event in self.timeline:
             result += "\n\t\t" + str(event)
         result += "\nLights:"
-        for event in self.sniper_lights:
-            result += "\n\t\t" + str(event)
+        # for event in self.sniper_lights:
+        #     result += "\n\t\t" + str(event)
         return result
-
-    # TODO - how to incorporate both/only one timeline
-    # def get_events_in_range(self, lb, ub):
-    #     return
 
     def get_role_of_character(self, character):
         for chara in self.cast:
@@ -84,14 +118,9 @@ class Game:
                 return chara.role
         return "Absent"
 
-    def get_characters_in_role(self, role, force_list=False):
-        lc = [chara.name for chara in self.cast if chara.role == role]
-        # return the only character, multiple characters, or no characters
-        return lc[0] if not force_list and len(lc) == 1 else lc
-
     def get_most_recent_light_for(self, name="", role=""):
         for event in self.sniper_lights[::-1]:
-            chara = event.characters[0]
+            chara = event.character
             if chara.name == name or chara.role == role:
                 return event.desc
         if role == "Spy":
@@ -99,78 +128,46 @@ class Game:
         return "marked default suspicion."
 
 
-unwanted_events = {
-    "begin flirtation with seduction target.",
-    "game started.",
-    "marked book.",
-}
+class Cast:
+    def __init__(self):
+        self.__cast_list = set()
+        self.spy = None
+        self.seduction_target = None
+        self.ambassador = None
+        self.double_agent = None
+        self.suspected_agents = set()
+        self.civilians = set()
+        self.delegate = None  # only the initial list taker, no return/successive take BS
+        self.swapper = None
+        self.shot = None
 
+    def __iter__(self):
+        return iter(self.__cast_list)
 
-# TODO move to separate file, create child classes for each category of event, build parser functionality to request
-#  certain categories
-class TimelineEvent:
+    def __len__(self):
+        return len(self.__cast_list)
 
-    def __init__(self, event):
-        self.time = event["elapsed_time"]
-        self.desc = event["event"]
-        self.actor = event["actor"]
-        self.clock = event["time"]
-        self.mission = event["mission"]
-        self.action_test = event["action_test"]
-        self.categories = event["category"]
-
-        self.characters = [Character(name=event["cast_name"][i],
-                                     role=event["role"][i]) for i in range(len(event["role"]))]
-
-        bks = event["books"]
-        if len(bks) == 2:
-            self.held_book, self.bookshelf = bks
-
-    def __str__(self):
-        return str(self.clock) + " - " + self.desc  # + " (" + str(self.character) + ")"
-
-    # Optional syntax to reduce certain operations by 5 characters
-    def __eq__(self, other):
-        # allows for exact event matching:      event == "event."
-        # alternatively,                        event.desc == "event."
-        if type(other) == str:
-            return self.desc == other
-        # allows event matching from a list:    event == ["ev1", "ev2", "ev3"]
-        # alternatively,                        event.desc in ["ev1", "ev2", "ev3"]
-        if type(other) == list or type(other) == set or type(other) == tuple:
-            for x in other:
-                if self.desc == x:
-                    return True
-        # returns false once the other cases didn't pass
-        return False
-
-    def __contains__(self, item):
-        # allows for event containing a match:  "keyword" in event
-        # alternatively,                        "keyword" in event.desc
-        return item in self.desc
-
-
-class Character:
-
-    def __init__(self, name="", role=""):
-        self.name = name
-        self.role = role
-
-    def __str__(self):
-        return self.name + " (" + self.role + ")"
-
-
-class Match:
-
-    def __init__(self, jason):
-        self.event = jason["event"]
-        div = jason["division"]
-        self.division = "" if div is None else div if len(div) > 1 else "Group "+div
-        self.week = jason["week"]
-        self.playerA, self.playerB = sorted([jason["spy"], jason["sniper"]])
-
-    def __str__(self):
-        return " ".join([self.event, self.division, "Week", str(self.week), self.playerA, "vs", self.playerB])
+    def invite(self, chara, override_role=None):
+        self.__cast_list.add(chara)
+        if override_role == "Delegate":
+            self.delegate = chara
+        elif override_role == "Swapper":
+            self.swapper = chara
+        elif override_role == "Shot":
+            self.shot = chara
+        # mututally exclusive assignments from separate events
+        elif chara.role == "Spy":
+            self.spy = chara
+        elif chara.role == "SeductionTarget":
+            self.seduction_target = chara
+        elif chara.role == "Ambassador":
+            self.ambassador = chara
+        elif chara.role == "DoubleAgent":
+            self.double_agent = chara
+        elif chara.role == "SuspectedDoubleAgent":
+            self.suspected_agents.add(chara)
+        else:
+            self.civilians.add(chara)
 
 
 # problem events
