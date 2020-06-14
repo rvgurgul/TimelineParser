@@ -1,0 +1,7063 @@
+{
+ "--3mWqGXRBWewaPjAhwo2w": [],
+ "--w4frfFSiir3wmusPzYnQ": [
+  {
+   "grab_time": 67.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-0TQFvUFQJWjpGr0fNTztw": [
+  {
+   "grab_time": 22.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 38.3
+  },
+  {
+   "grab_time": 130.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 147.0
+  }
+ ],
+ "-0txNHxLR8CPWfJb7UvbwQ": [],
+ "-121kIDyQfumuU7bFNO-JA": [],
+ "-1cheTnmTG-rhuFlTf-yDQ": [
+  {
+   "grab_time": 13.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 108.2
+  },
+  {
+   "grab_time": 254.6,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-1F_upBGTdqYfeigblTt3A": [],
+ "-1H6s9IUQNK5AwLTCbDRqQ": [],
+ "-1ZIz7KvQ1K6HGPLjBizKw": [
+  {
+   "grab_time": 22.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 160.9
+  }
+ ],
+ "-23SOVLqRFmQgLwcOzJ3hA": [],
+ "-26shXGbR9Gh_j4vux9d6Q": [],
+ "-3eWWt4eSc-l1CPZ14iPCw": [],
+ "-3i1c4dJQTWF-iGkDnbhbg": [],
+ "-3r_4fI4Q_Kg9v7Ge2NImg": [
+  {
+   "grab_time": 45.0,
+   "source": "Green",
+   "transfer": {
+    "time": 48.7,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 54.5
+  },
+  {
+   "grab_time": 86.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 90.2,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-3uJ6JdsSfKZ1tplMEbAig": [
+  {
+   "grab_time": 53.9,
+   "source": "Green",
+   "transfer": {
+    "time": 57.2,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 61.9
+  }
+ ],
+ "-45SBr8tT52e1TEOz9shiA": [],
+ "-48pxc4eSK696XMihnfK6A": [
+  {
+   "grab_time": 180.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 192.6
+  }
+ ],
+ "-4k0_uMjQSiG_DaCIOUypw": [
+  {
+   "grab_time": 7.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 39.9
+  }
+ ],
+ "-4Th9XAlT1OSXRzPd-1pMw": [],
+ "-4XA52YgQLCV-dogEayZ8A": [],
+ "-4xS1L_ZQC6gW3hICf94Yg": [],
+ "-50KpnqrTIO8vTklD1Gv2g": [],
+ "-587B_czQi2hK0LFRbjCkw": [
+  {
+   "grab_time": 205.8,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 241.5
+  },
+  {
+   "grab_time": 309.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-5Mw1CKSSYOgZ5r43Y1JBQ": [],
+ "-63jTRgKS5-OjKRFnuxLFQ": [
+  {
+   "grab_time": 139.2,
+   "source": "Yellow",
+   "transfer": {
+    "time": 166.6,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 190.5
+  },
+  {
+   "grab_time": 237.1,
+   "source": "Blue",
+   "transfer": {
+    "time": 248.7,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 255.5
+  },
+  {
+   "grab_time": 286.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-6WvpFTdQcm9XDCz7_aXEQ": [
+  {
+   "grab_time": 7.7,
+   "source": "Yellow",
+   "transfer": {
+    "time": 15.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 20.5
+  },
+  {
+   "grab_time": 44.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 131.7,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-6_fiua8Q8uERtBv1DEu2Q": [
+  {
+   "grab_time": 134.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 144.4
+  }
+ ],
+ "-76s3xriSNib5ceWyOA5oQ": [
+  {
+   "grab_time": 183.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-7IuWFUHRWiFf140-Pc2Ug": [
+  {
+   "grab_time": 210.3,
+   "source": "Green",
+   "transfer": {
+    "time": 214.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 221.7
+  }
+ ],
+ "-7ZTR0EJRBOVKL-hfI1O_w": [],
+ "-89GRLvPQDepH8GZLPPqkA": [
+  {
+   "grab_time": 7.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 133.2
+  }
+ ],
+ "-8e655sKScK1z5RY-osNDQ": [],
+ "-8EF0BViRDCURRho7wDXdQ": [],
+ "-8u_2KZBSpG-Q40vPrVwjQ": [],
+ "-9oiA5IgRmevmSioZ2KQQg": [],
+ "-9p3CpzZTyirScxHpntMqQ": [],
+ "-9tQRDT-TZuErNK3xatvLw": [],
+ "-9Xkf67sRX-E3Y6h2sjVsA": [],
+ "-A-nAdyCTW2eNfPTvfcARQ": [],
+ "-A8pvRhKTauuUnputLMncg": [
+  {
+   "grab_time": 12.8,
+   "source": "Yellow",
+   "transfer": {
+    "time": 20.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 25.9
+  },
+  {
+   "grab_time": 117.5,
+   "source": "Green",
+   "transfer": {
+    "time": 125.4,
+    "test": "Red"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 135.2
+  }
+ ],
+ "-apN5mNIR_iXXAtLgDOgjw": [
+  {
+   "grab_time": 64.8,
+   "source": "Green",
+   "transfer": {
+    "time": 71.1,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 80.2
+  },
+  {
+   "grab_time": 107.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 145.5,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 150.0
+  }
+ ],
+ "-ARjoFR4TH2FEtjgwou72w": [
+  {
+   "grab_time": 34.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 122.8
+  }
+ ],
+ "-AxjQiGXR9SX3XYo367PbA": [
+  {
+   "grab_time": 120.4,
+   "source": "Green",
+   "transfer": {
+    "time": 163.3,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-AxOo24iQq24cPNWB8JoTw": [],
+ "-axTqBEpTsOCDqqmN-f6-g": [],
+ "-ay3qsBtQv2_fm7kz9RoKg": [
+  {
+   "grab_time": 22.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 34.5
+  }
+ ],
+ "-azTJp8NSAyzDLjc09uDOA": [
+  {
+   "grab_time": 497.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 515.0
+  }
+ ],
+ "-BIp4pTiTlGKeqYsJsXDgA": [],
+ "-Bv_wU-VTTqkPXNPMFA1tQ": [],
+ "-BWMgZLzT8ySu1j14ltptg": [
+  {
+   "grab_time": 111.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 124.1
+  }
+ ],
+ "-bXsGBEZTJimCuq2pt1nxg": [],
+ "-c5LDfngSG--YP5IsnIfwg": [],
+ "-cD2zFIPS8akL5yr5c96dA": [],
+ "-cnOIu1VSbaJIWi9NvWx-A": [
+  {
+   "grab_time": 56.3,
+   "source": "Blue",
+   "transfer": {
+    "time": 61.3,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 68.7
+  },
+  {
+   "grab_time": 203.6,
+   "source": "Yellow",
+   "transfer": {
+    "time": 208.3,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 214.5
+  }
+ ],
+ "-coM5m0qTPCdzoPqpjwDqg": [],
+ "-cSzSJ8KTBCuvauZM8fjQw": [],
+ "-ctkbw5bQ_qIuC0Xo-7M3g": [],
+ "-ctpOmu2RKSB6e8ga8rJig": [],
+ "-CzdVsCjS5u-o4ybtu_wjg": [],
+ "-dFabxKMTeSFvLWGHDUW2g": [],
+ "-dFQWvCqSB2NHzn9YledRg": [
+  {
+   "grab_time": 44.1,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 148.7
+  }
+ ],
+ "-dKFPxcXTSmCd-TLVRk_Ew": [
+  {
+   "grab_time": 127.2,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 222.3
+  }
+ ],
+ "-dNhz4eTSna6QJtFARm8Vw": [],
+ "-duW5mWgTp6ALuK1fCgKSA": [
+  {
+   "grab_time": 36.6,
+   "source": "Green",
+   "transfer": {
+    "time": 39.1,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 45.0
+  },
+  {
+   "grab_time": 106.9,
+   "source": "Blue",
+   "transfer": {
+    "time": 131.8,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 177.6
+  }
+ ],
+ "-e8RCfC8TNmQvT7L_275qA": [],
+ "-EBmG8ARRR2_JuL-0bYfFg": [
+  {
+   "grab_time": 81.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 97.2
+  }
+ ],
+ "-ee0IP69Q5CHyuQeIHTPtA": [],
+ "-EH0ebF-QfGs0IHhRo625A": [],
+ "-EnP_Ir9SyyEaK8cZLVJ-w": [],
+ "-EQBYClORDWSEgkrcJ63rw": [],
+ "-evpO0TXSJ20Bj8viJSWKg": [
+  {
+   "grab_time": 17.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 143.7
+  },
+  {
+   "grab_time": 160.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 174.8
+  }
+ ],
+ "-FCVwayFQSiTCLVTeO6PYA": [],
+ "-FkjQ78pQciuFaEmIVQ2Qg": [
+  {
+   "grab_time": 10.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 22.6
+  }
+ ],
+ "-FN79eTTQj-NYzFrI2o_6A": [],
+ "-fSiM0AIQu2nImy_8QQVhQ": [
+  {
+   "grab_time": 11.0,
+   "source": "Green",
+   "transfer": {
+    "time": 16.6,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 25.7
+  },
+  {
+   "grab_time": 168.2,
+   "source": "Red",
+   "transfer": {
+    "time": 173.5,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 181.9
+  }
+ ],
+ "-fy6TzbkTKySWpsazEAm4Q": [],
+ "-FZWizgcTEWT6dxPdbijkA": [],
+ "-g2lqGBRQ5iQ6FD4Gox6Yw": [
+  {
+   "grab_time": 51.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 68.4
+  }
+ ],
+ "-g6L9bjERF2doyYXrroKTQ": [],
+ "-gFVYxO_QaOvTUgvXiIeIA": [],
+ "-GGjb0CkQCGKN-eDhb9Frw": [],
+ "-Ghhd1PsQXaD1d9VHT5OWw": [],
+ "-GI48p4wRoi_0-fbqavXYg": [],
+ "-gIgmYQVQsiF-o9ajq_9gQ": [
+  {
+   "grab_time": 167.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-Gjm9oicRwGsswzWf2HPmQ": [
+  {
+   "grab_time": 11.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 90.3
+  }
+ ],
+ "-gpVuEfIRKeqyLpLvgQDQQ": [
+  {
+   "grab_time": 51.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 97.5,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 102.4
+  }
+ ],
+ "-GVTi5rIQAqYofnTdNMxDw": [
+  {
+   "grab_time": 27.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-GxbSsRTTYyuaZd_lnliVw": [],
+ "-HaoBEnXS1GLYYlSKHotEw": [],
+ "-Hdn7rVuTYiUeI-FGxuEPQ": [
+  {
+   "grab_time": 33.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 37.5,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 43.5
+  }
+ ],
+ "-hdtHEaeSc-o7InVflWnyA": [
+  {
+   "grab_time": 11.2,
+   "source": "Green",
+   "transfer": {
+    "time": 22.6,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 31.6
+  },
+  {
+   "grab_time": 133.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 140.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 152.0
+  }
+ ],
+ "-Hj-XB9JTie091Wii82MAg": [],
+ "-hlVd8dpRTm3aXqm59-M7g": [],
+ "-HPvAOvvSOCmRgxCS4GJyQ": [
+  {
+   "grab_time": 12.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 56.9
+  }
+ ],
+ "-HZxsHsLRZyd9LgpQGspcw": [],
+ "-iOVyWmLRdCywJvnhc7eLQ": [],
+ "-iPLhdf2Q16Iz1EABeSFGw": [],
+ "-IrizG4mR5WT2n0Mr2bQwQ": [
+  {
+   "grab_time": 11.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 55.9
+  }
+ ],
+ "-is7kW3-TkejeaVCxWCI5w": [
+  {
+   "grab_time": 16.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-J7DV5FOReigc7hpFu638g": [],
+ "-j7SiIXcQqeUtMfgGXeIAw": [
+  {
+   "grab_time": 93.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 144.7
+  }
+ ],
+ "-JbGEmKRRvizYDmL7G9tUg": [],
+ "-JnzJlYVTRCyhfeZIWzStw": [],
+ "-k3FJkL9QfqpJ3Qn5TlckA": [],
+ "-kb2eZ5RTeq0D5At6yxdbA": [
+  {
+   "grab_time": 47.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 118.2
+  }
+ ],
+ "-KC9V29pQnuEF6UAsWL3TQ": [],
+ "-KF-QpobR-CtLIWLttHc4g": [],
+ "-KGc_c8PS0iRwP5a9ceEVg": [
+  {
+   "grab_time": 76.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 115.5
+  }
+ ],
+ "-KzOR0vCRFmcNFJYg2BBWA": [
+  {
+   "grab_time": 33.2,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 66.0
+  }
+ ],
+ "-K_klSVvSjiCCrKRsysJOw": [],
+ "-L5g7mOjSa-y1W7dwaaY_A": [],
+ "-l9j8dD3QvW0Eh6KhDFQpA": [],
+ "-LjkrtqvRCKUoZINMwHo4Q": [],
+ "-LprGexcRJqAdDWAjLM5pQ": [],
+ "-LRMDUc-SxWQZB3fRFcYLg": [],
+ "-LS16pI1QnK3zqerlUs1PA": [],
+ "-LTqNd_eRd6c_DLsVbpZWw": [],
+ "-lyU1BOKTLaHQSE_NPavHg": [],
+ "-lZ6wpeWRAC98fnDBJ_ifg": [
+  {
+   "grab_time": 74.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 97.5,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 117.1
+  }
+ ],
+ "-M4SCNYeRDWgKm7MZARFJw": [],
+ "-m9wNyBkTlCQLKfjJZ7UaQ": [],
+ "-MeA4tPYRSC7zHZEpzuvlw": [
+  {
+   "grab_time": 42.1,
+   "source": "Blue",
+   "transfer": {
+    "time": 48.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 57.6
+  },
+  {
+   "grab_time": 154.2,
+   "source": "Yellow",
+   "transfer": {
+    "time": 161.8,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 167.3
+  }
+ ],
+ "-mt4OBzzQg2Xlm7pZSpvEQ": [],
+ "-n-G_IqNTbqYIdS7tCmFIA": [],
+ "-NEBAwE8S36uV1qAnoabog": [],
+ "-NifmEvES8OxXbMk_8IFDQ": [],
+ "-NPjMNjYSFuMZcN86UlpKA": [],
+ "-nv_2tXOQaaJPymtrXAKJw": [
+  {
+   "grab_time": 27.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 34.7
+  }
+ ],
+ "-nWDOlEERdGcPadgl-RtSQ": [],
+ "-OdRjb5KTtW3TEL1pBiVjg": [
+  {
+   "grab_time": 110.1,
+   "source": "Green",
+   "transfer": {
+    "time": 142.5,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 149.7
+  },
+  {
+   "grab_time": 161.9,
+   "source": "Blue",
+   "transfer": {
+    "time": 165.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-oHeADmgSJmo9j7POItkNA": [],
+ "-OLwQWb5Sx2xihXK7O2knw": [
+  {
+   "grab_time": 32.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 44.5
+  }
+ ],
+ "-oqmjdp8Q9WyCjj-U-XfUw": [
+  {
+   "grab_time": 11.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 23.7
+  }
+ ],
+ "-OUEbTCaRF6K0ZzVMbRVKw": [
+  {
+   "grab_time": 145.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-oWXV4o8RNuciWYZ9LDiew": [
+  {
+   "grab_time": 205.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 214.4
+  },
+  {
+   "grab_time": 287.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-P0-M0nlRamdzmtBstjZHg": [],
+ "-PAcxm1tRBCOy9O3jnsJEQ": [],
+ "-Pdy16HCSXqRYuziamXKjQ": [],
+ "-phPMoi1R7Gp0ERs_JhNKQ": [
+  {
+   "grab_time": 17.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 22.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 36.3
+  },
+  {
+   "grab_time": 116.8,
+   "source": "Green",
+   "transfer": {
+    "time": 119.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 133.7
+  }
+ ],
+ "-pI3euHVQxq99C2-ganoFg": [],
+ "-pLQYGhjQKiQgMCQqdfoMA": [],
+ "-PnYjf4NTdOZ3MumdM_Qhw": [],
+ "-PrAUNvIRbm1jXdl-a6rtg": [
+  {
+   "grab_time": 9.7,
+   "source": "Yellow",
+   "transfer": {
+    "time": 13.3,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 22.7
+  },
+  {
+   "grab_time": 149.8,
+   "source": "Blue",
+   "transfer": {
+    "time": 171.0,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-pU4fNlGREielIf5XdgUpw": [
+  {
+   "grab_time": 133.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 149.3
+  }
+ ],
+ "-Q9dNlv-TNG329gsdP9EWQ": [
+  {
+   "grab_time": 168.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 207.9
+  }
+ ],
+ "-qGsXM1eRMSU6KPbrSUBBw": [],
+ "-qI0S4k3TQqShQP62IykaQ": [],
+ "-qXN21aMQnq_p64BsfdsAQ": [],
+ "-qydUF9fTMq3iz__NZvejg": [],
+ "-RAjILU_TdGYWNk47IK4MQ": [],
+ "-rCQyPoDTbW_C9hTAqCe2Q": [],
+ "-RXL2EQwQcCgefaCPll5xQ": [],
+ "-RxW-vNZQzSU2ilR6tbIRw": [
+  {
+   "grab_time": 6.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 70.9
+  }
+ ],
+ "-s63FomoTw6WauFBIZs1UQ": [],
+ "-SCzdfHOSDOw7tBoTRaAGw": [],
+ "-sE49AB-SQKEqF5YK_Es1w": [],
+ "-SF1yJPCSiusRKHvmMAVBw": [],
+ "-sm9rWX1R2aMdYU5nDomaA": [],
+ "-t6EttrBSvm3_phiRzbfjw": [],
+ "-Tb3nyusTpeRxnFXe7ZLkg": [],
+ "-Tk_ZEDNTaKRj82NWjQ5mw": [],
+ "-tLS79W3Q-SUe3BsoowkIw": [
+  {
+   "grab_time": 48.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 129.8
+  }
+ ],
+ "-tPNLKvyTHyUMDoJV4lVHQ": [
+  {
+   "grab_time": 11.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 80.2
+  }
+ ],
+ "-TXg9PaTQFiP0UDuSMS7Jw": [
+  {
+   "grab_time": 15.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 95.1
+  }
+ ],
+ "-tz3hhBRSTC6F9-Rl3YwrA": [
+  {
+   "grab_time": 163.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-u-e3cKESlSQl9lHRXbvFw": [],
+ "-U-jdGRGTGeQlzuRRYqp2w": [
+  {
+   "grab_time": 119.5,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 199.6
+  }
+ ],
+ "-uCn08gwTziGiY5m0YI2-Q": [],
+ "-uduAmTaT3iCZeQ8yp84gA": [],
+ "-UmAzyCqQt-P_esAzEhQrA": [
+  {
+   "grab_time": 139.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 151.1
+  }
+ ],
+ "-V-sNPwJS36Ch0fEE7KfTA": [],
+ "-vb3QzknTFqvKbwY22f87g": [],
+ "-VCX06f-Rn-rpg-24owD7A": [
+  {
+   "grab_time": 10.8,
+   "source": "Green",
+   "transfer": {
+    "time": 14.1,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 21.6
+  },
+  {
+   "grab_time": 149.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 194.4,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 209.6
+  }
+ ],
+ "-VGshoOnRRGF31TyIWGW8Q": [
+  {
+   "grab_time": 154.0,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-vO1Qxp2TN-rQZr1okpMIw": [
+  {
+   "grab_time": 150.1,
+   "source": "Yellow",
+   "transfer": {
+    "time": 159.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-VoM8igaQfiAiIT43D1RMw": [],
+ "-Vw0w9FTQ1O-R7tKLkWrQQ": [],
+ "-Vy-M2B7S8y1jiiyCNGcqA": [],
+ "-wj1l-oaQRS25PYWbN9DLw": [],
+ "-wqwF1SoRmSgEirKib3vsA": [],
+ "-wssyaPdSQGkmGJ4OngX8Q": [],
+ "-wuNnvZvRgiF2-zky_-E1w": [
+  {
+   "grab_time": 32.1,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 36.6
+  },
+  {
+   "grab_time": 128.2,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 142.9
+  },
+  {
+   "grab_time": 217.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-WZx9aZESo-2_TRbtDr6bQ": [],
+ "-x2KQhPFTViZmRMKqsVlPA": [],
+ "-XB7Je0nR8idvBBfxIPyqQ": [],
+ "-xe5_NdVRU6emy0WM5r4Cg": [
+  {
+   "grab_time": 219.9,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 229.3
+  }
+ ],
+ "-XipkR00RkuLQd4a7pItnw": [],
+ "-xMnyqy8Qfqt_FBM9A1SWQ": [],
+ "-xn6ixO4SKSTfEYLhnFd9Q": [
+  {
+   "grab_time": 166.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 181.5,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "-XW8YajmSLy6odOhod6tcw": [],
+ "-Y9NRgnKSR-3F29SM15NgQ": [],
+ "-YboDZciT4a5XPmhWjPg4Q": [],
+ "-yFIoe2QQsWk3hi5fcNcBQ": [
+  {
+   "grab_time": 133.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 184.2
+  }
+ ],
+ "-yr1QLRPQu2lkyi3HScJWA": [],
+ "-yvsJBm1RHWX00Y425jdHA": [],
+ "-YX90NV9QteynaV-k8sSsw": [],
+ "-Z9MNkqzQYGdyKUjoby-uQ": [],
+ "-ze_Ap4cQ9qwD4eMbr3bjw": [
+  {
+   "grab_time": 68.8,
+   "source": "Green",
+   "transfer": {
+    "time": 80.7,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 103.9
+  },
+  {
+   "grab_time": 123.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 134.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 139.7
+  }
+ ],
+ "-ZH44vThQuiKzMMpjYOHRA": [
+  {
+   "grab_time": 33.7,
+   "source": "Green",
+   "transfer": {
+    "time": 37.9,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 44.5
+  },
+  {
+   "grab_time": 79.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 133.6,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 139.4
+  }
+ ],
+ "-zjU9te2T4-F9TzDd3rtcg": [],
+ "-ZN0CEzDQ7WjGofMAmSI5Q": [],
+ "-zVSON4KTN6uR0ae0IaNMw": [
+  {
+   "grab_time": 32.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 93.4
+  }
+ ],
+ "-_9nIKZHSB2lcAM5sDbOWA": [],
+ "-_AFmYFqTTip17AtflZwzQ": [
+  {
+   "grab_time": 8.7,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 76.3
+  }
+ ],
+ "-_dnXORzQOiCpLzM06lH_g": [],
+ "0-k9u_xBTrODR02tsInsbg": [
+  {
+   "grab_time": 108.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 121.1
+  }
+ ],
+ "0-XqFWJZSZm8eTh1y8SSZg": [],
+ "004IS9n_Ry2C2MgbEaiytw": [],
+ "009W5eWUSwKnsW7J0ZabzA": [
+  {
+   "grab_time": 56.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 70.1
+  },
+  {
+   "grab_time": 97.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 105.0
+  }
+ ],
+ "00adjEelQmKqS-cf1iWYsQ": [
+  {
+   "grab_time": 7.1,
+   "source": "Blue",
+   "transfer": {
+    "time": 16.2,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "00tMV6PuSTW7D2mMgOO8dQ": [
+  {
+   "grab_time": 78.9,
+   "source": "Blue",
+   "transfer": {
+    "time": 82.5,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 89.4
+  }
+ ],
+ "00Vl9qkEQHikDI8rYj_omg": [
+  {
+   "grab_time": 103.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 122.0
+  }
+ ],
+ "014IJ4uGSoCfdt4LazA6Kg": [
+  {
+   "grab_time": 274.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 286.1
+  }
+ ],
+ "015ZykfFQUSilqU_56XIsw": [
+  {
+   "grab_time": 93.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 115.0
+  }
+ ],
+ "016ZN1IyRQSC0fykg-uSmQ": [],
+ "01XOjN8lQcOQGiFBu5TdcQ": [
+  {
+   "grab_time": 9.8,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 78.8
+  },
+  {
+   "grab_time": 168.5,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 179.4
+  }
+ ],
+ "02RUgCJoRpuBv0rKdN9wjg": [],
+ "02trylvFSLqo0xLoI03YmQ": [],
+ "02XihmesSS-hLKvL2sQgmw": [],
+ "03amj3K7SpyibgufHaZvpQ": [
+  {
+   "grab_time": 132.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 147.2
+  }
+ ],
+ "03eZ8AdaQN2UWN2HjyNWTg": [],
+ "03QJrJadSiy43qQDaFFJdA": [],
+ "0489Kwb_TuGUJJoaKQeU6g": [],
+ "04JzBNk8St6R6dRWBOrGRw": [],
+ "04mQrLJNQIWT3pniDVpoyw": [],
+ "04U5LUh8R3G2j3OpzLBp9A": [
+  {
+   "grab_time": 102.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 109.9
+  }
+ ],
+ "05FUZG8rQkKqVhM3Xf2avA": [],
+ "05h1nwmvQtql9UDpGYwNhg": [],
+ "05nl9OTpRqWNo0YaW8m43w": [],
+ "05RRAfFgQlaeXd-MuuTjhA": [
+  {
+   "grab_time": 12.5,
+   "source": "Green",
+   "transfer": {
+    "time": 15.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 20.4
+  },
+  {
+   "grab_time": 120.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 135.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 138.7
+  }
+ ],
+ "05VnEwCwSMiYsMV6A2rdoA": [],
+ "05YE2zOZSB2MXGyrQ7j6gw": [],
+ "061Tf25UTdOeI87SLWzVHg": [],
+ "06b4x4AnSKKkeGJVvHDCCA": [],
+ "06IeCQIrTfuJcQ52VkHRQQ": [
+  {
+   "grab_time": 5.9,
+   "source": "Green",
+   "transfer": {
+    "time": 12.2,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 17.6
+  }
+ ],
+ "07ls-HpuTreIGfWH6imtRw": [],
+ "07WVnz3aR3i6445zgSCZjA": [
+  {
+   "grab_time": 67.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 80.8
+  }
+ ],
+ "07ZksTWXQAGHJsDe0-tz2Q": [],
+ "085l8a4bTGyqNMPA8wFkQA": [],
+ "08bHxSAcSyi2OQjf5kGO5Q": [],
+ "08EU0nJuQ4CZgahGTpHsrA": [],
+ "08QGgY6fT4-AlZ5w3qWu9Q": [
+  {
+   "grab_time": 198.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 206.8
+  }
+ ],
+ "09IdsdFTTS65DWnGJWpeeQ": [],
+ "09TM-bfwQ7SMHWyH8dr7xg": [
+  {
+   "grab_time": 10.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 128.2
+  }
+ ],
+ "09vYRwUnSE2EkAZsgENo2g": [
+  {
+   "grab_time": 87.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 214.3
+  }
+ ],
+ "09z5eCweRAaQ5HLXCODxFQ": [],
+ "0A3GmdjWQtKmLUtiZAj7oQ": [
+  {
+   "grab_time": 9.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 78.3
+  }
+ ],
+ "0APmha_ERfuev3FZy11ZlA": [
+  {
+   "grab_time": 28.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0aVqpd1jQX2TKjirhGk_3w": [],
+ "0AXyIE95Qj2TuNrASlnhRw": [],
+ "0bxQ84xPRsGTGKY68xXJAQ": [],
+ "0bYuOf3MQGaV5rTD7oPRRg": [],
+ "0B_PcuX4THKm6oRm2Z-6mA": [
+  {
+   "grab_time": 166.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 178.4
+  }
+ ],
+ "0C4hrbsgRXeXJVH6nxk1jw": [],
+ "0C9JoTuxQZauIaqkVlluwQ": [],
+ "0CCj4NNUSdGENGrGELw6sQ": [],
+ "0cn93XK6RPalzcJz87lP7g": [],
+ "0CpA6539RRaEi7NR-zXmEA": [
+  {
+   "grab_time": 22.6,
+   "source": "Green",
+   "transfer": {
+    "time": 25.2,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0CtOXBj3SRSPNVAaqYzy9g": [],
+ "0cuHn_bqQEKWuWk-k2gEiA": [],
+ "0dindBgmTmeZX_FhkDB2aw": [],
+ "0DjH5-2mR0OErXmp8SmU8A": [],
+ "0DlFkIztSVm-yM_VxFmBAQ": [],
+ "0dpozUyfTQKKzwDMny-_5w": [
+  {
+   "grab_time": 29.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 101.4
+  }
+ ],
+ "0dYYxlQYSc2k6Xx0W9hBwg": [],
+ "0E-jYqK1Q8mFKnYNCkgBuA": [],
+ "0E1EpCkETc6EmEkUT2TKlg": [],
+ "0e8uylKSQz-qGH_xDT1x8Q": [],
+ "0Ee5YXe7RhK7eDKbSFOAZQ": [
+  {
+   "grab_time": 31.5,
+   "source": "Green",
+   "transfer": {
+    "time": 34.2,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 43.6
+  },
+  {
+   "grab_time": 113.5,
+   "source": "Red",
+   "transfer": {
+    "time": 119.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 124.1
+  }
+ ],
+ "0etSii8LS3i5eHhEAZ28Iw": [],
+ "0evuIvJjSomRIHE1AL11bQ": [],
+ "0EW01P5URGWIFwhgLmzprA": [],
+ "0exlJSW9S3aNW9SCqVoULg": [
+  {
+   "grab_time": 9.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 60.1
+  }
+ ],
+ "0f1A0BpLSWCj9Zjl7tvysQ": [],
+ "0F5hUwcnSn6zqK1k_Lc9ow": [],
+ "0fALSh2MTQaATr2eQbfE8Q": [],
+ "0FCsws7-Qza-HCedZrR2VQ": [
+  {
+   "grab_time": 87.8,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 98.1
+  }
+ ],
+ "0fHex_xGSJuwJ1RysGM4ag": [],
+ "0fnSk8KHTGiQcSRioBjm3A": [
+  {
+   "grab_time": 113.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 126.8
+  },
+  {
+   "grab_time": 174.4,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0Fs0sjq4Q1mzKb1qkePnBA": [],
+ "0FSPKns_RLKe2ejCaFOJUw": [],
+ "0FTgz9zCRXWfnzpHnoHIzA": [],
+ "0fu0ErVLRHORLd0cuma0UQ": [],
+ "0fVP_uK4Qy27Hhs4CcO3kw": [
+  {
+   "grab_time": 90.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 94.3,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 103.3
+  },
+  {
+   "grab_time": 252.1,
+   "source": "Yellow",
+   "transfer": {
+    "time": 257.3,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 262.7
+  }
+ ],
+ "0GgfrKHpS7G2CB5s0b4R1Q": [],
+ "0gJnIcAhTtucFKbDrJBGSA": [],
+ "0GjO1xmnQcuZyDqBzddqgA": [
+  {
+   "grab_time": 82.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0gNwMZXJSRSq4fepd601ug": [],
+ "0H80wMopR-q38UsZ61lqbQ": [],
+ "0HGv1lfhSyCDIck1SKKNhg": [],
+ "0HI2m6uHTCSq05xoe67kfw": [],
+ "0Hj_ssqgTqCA9oKWbVxJ5A": [],
+ "0hMm0Jg1T6m_FQ-O5S4OzQ": [
+  {
+   "grab_time": 14.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 129.0
+  }
+ ],
+ "0HWviqsVRWmA0A2C5QFXfA": [
+  {
+   "grab_time": 37.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0hXTLyy9ReKcY_yL-RjwBQ": [],
+ "0i3JeV3QQCmbUmBnZvOiVQ": [
+  {
+   "grab_time": 67.8,
+   "source": "Blue",
+   "transfer": {
+    "time": 76.1,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 82.9
+  },
+  {
+   "grab_time": 143.6,
+   "source": "Green",
+   "transfer": {
+    "time": 150.5,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 157.2
+  }
+ ],
+ "0IEdvJjtRsydul704YxTng": [
+  {
+   "grab_time": 137.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 215.6
+  }
+ ],
+ "0iElCqUORiOA1PI3skB7aA": [],
+ "0ijNmguPQNCCVwngNpgJnA": [],
+ "0iLDzbUnRVCVswsPgbPKJQ": [],
+ "0IlFt-qrQTWMYjtdx8BSyQ": [
+  {
+   "grab_time": 164.2,
+   "source": "Green",
+   "transfer": {
+    "time": 174.2,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 181.0
+  },
+  {
+   "grab_time": 207.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 210.8,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 216.9
+  }
+ ],
+ "0imvRpTtRD6oFQo14sK8oA": [],
+ "0iRGngMWT0ee5VQppI9ANQ": [
+  {
+   "grab_time": 95.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 107.5
+  }
+ ],
+ "0isOhYXgRzSGXurFdjOtyA": [],
+ "0iTu4osrR9ahGbr1NM_0EA": [],
+ "0iUleORPTJeRwKoVwkSBgA": [],
+ "0IxQcTzfQeib4a_qsDgUbw": [
+  {
+   "grab_time": 55.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 66.2
+  }
+ ],
+ "0IyzUjaRQwy1WnP_SK0clA": [],
+ "0J6HpdUCSZqzN1SPKzl63g": [],
+ "0J9WzkA2R_WGKYKCMsdFGg": [],
+ "0JDYOp0uS52kQpPdDXWqWQ": [],
+ "0JKdv1-zTYGl1gLlm-T0VQ": [],
+ "0JS_RzqaTxC0FNQvW64nUA": [
+  {
+   "grab_time": 41.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 113.2
+  },
+  {
+   "grab_time": 166.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0Jx0D0jXQXOCfRzy-jP3qA": [],
+ "0jxmbJgGTPqibHgfcjkcHw": [],
+ "0JynxXhpSiimMIiKDCI7CQ": [
+  {
+   "grab_time": 11.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 89.1
+  }
+ ],
+ "0kEAzGtoQmW8_UDJIFnX4w": [],
+ "0kLQ0jD6RDK_CFN98ERmuQ": [],
+ "0kMZwIjWQKq4xkQ9wvc0EA": [
+  {
+   "grab_time": 22.2,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 105.4
+  }
+ ],
+ "0KUHBJ48STCv9Gm-caNPJA": [],
+ "0kUynOzhRk-gR674tF4IUA": [
+  {
+   "grab_time": 9.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 100.5
+  }
+ ],
+ "0KxrH-srQtuTskkGP_G_fA": [],
+ "0k_LUS97T--c-ba5iv-XYA": [],
+ "0l1iUYATRtCwx1_U_iVYKA": [
+  {
+   "grab_time": 127.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 135.5
+  }
+ ],
+ "0L3x3ZTTQ0KDHz-7NKr9bg": [
+  {
+   "grab_time": 29.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 43.9
+  }
+ ],
+ "0LGizHY4TBWxPcmfXnSo5Q": [
+  {
+   "grab_time": 61.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 70.4
+  },
+  {
+   "grab_time": 202.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 209.5
+  }
+ ],
+ "0lI5YT-IRkaYRzfOO8HYEg": [],
+ "0lvnrYqrSbaGkmbDI5iCNg": [],
+ "0lZOi_5kRZiu1pQIt_seTQ": [],
+ "0M8YfsICR4CSGSJtMWOViw": [
+  {
+   "grab_time": 200.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 208.9
+  }
+ ],
+ "0mo3ecbwRHezaEft5e_5jA": [],
+ "0myrE6T2SCaLSZ5VJD2WUg": [],
+ "0M_jNL06TLi4wuHuAZWhhw": [],
+ "0NG31UqrSrWlAc2YWpqCEQ": [],
+ "0NqVQ0ssSHqF6mrV1WyrJA": [],
+ "0nsuFPcTRC2Ci45IUDNh3w": [],
+ "0NugREVJRu-c0F8xHr-A9g": [],
+ "0NwZAXbUT7SodL9VStzPCA": [],
+ "0nxHT36JSc27MbZJ4aTvAQ": [],
+ "0o0sx6CbQxedUqmC6uUQlQ": [],
+ "0O7m42CHR_CJvUt6gck7DQ": [],
+ "0oTgPyVzQFO1gtmixRlgQg": [],
+ "0q32OWfFQcCgFQy4T59fhw": [],
+ "0QbNjOezSxWkZ-W306lyIQ": [],
+ "0qMHwnaUQW-poiTNdF-hIA": [],
+ "0QQNs7Q5SmeEtM_0ISApPA": [],
+ "0QYInePjRuifsz-tc_nlGQ": [],
+ "0RAKN14uSX-Zoh3hNemYqA": [],
+ "0RaXFGAqSyqYwHixhPibMw": [
+  {
+   "grab_time": 53.9,
+   "source": "Yellow",
+   "transfer": {
+    "time": 65.2,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 70.5
+  },
+  {
+   "grab_time": 91.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 106.4
+  }
+ ],
+ "0Rf7SMyKS3mQF1t6hsbaPQ": [],
+ "0riLm91_SKigLoCsBWds2g": [
+  {
+   "grab_time": 8.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 77.8
+  }
+ ],
+ "0RKIr0eCQo-m5F0qYXoCwA": [
+  {
+   "grab_time": 79.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 171.1
+  }
+ ],
+ "0ROSmfCMSRS78cA9a-Jb1g": [],
+ "0rZM8_s1QRimbfGpU6K4Qg": [],
+ "0Sa8CwAcTaqZbNpyqk8qrQ": [],
+ "0SbtfZ0VT_iE4qAUojZqvw": [
+  {
+   "grab_time": 102.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 140.1
+  }
+ ],
+ "0Sfq89X6TIiR3AyISgbeMA": [],
+ "0SnHFp5PTdKwfqT-R3B9IQ": [],
+ "0Sw9KY-GTlC6zG0zbc18Iw": [
+  {
+   "grab_time": 64.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 70.6
+  }
+ ],
+ "0SwHgaiXSySv6w-rg8hATg": [],
+ "0SY1TeQzQPa1zlu-qyFFOQ": [
+  {
+   "grab_time": 20.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 27.2
+  },
+  {
+   "grab_time": 72.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 86.1
+  }
+ ],
+ "0sYlnzN7RmSuYAZ2jYFOHA": [],
+ "0SZDrN6TQS2RGWXaW6jiRA": [
+  {
+   "grab_time": 59.7,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 144.8
+  }
+ ],
+ "0S_3qHEoSTipvRkwgu18Tw": [],
+ "0tQoR0k6QZ2uYYwIikm27w": [
+  {
+   "grab_time": 50.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 118.7
+  }
+ ],
+ "0Tv6SmJpQuGhZeyanKRCxw": [],
+ "0tyyoefUQvyHRl6-wEy8Og": [
+  {
+   "grab_time": 97.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0u3uTGyETjSZbv5lQHWjxQ": [],
+ "0U9o7X1mQ5S3whWCUpdRgw": [],
+ "0uavikiRSpe0u8OCCBQSpQ": [
+  {
+   "grab_time": 132.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0UEvGHt5T3a-mOtL6-dh7w": [],
+ "0UN55subQ5K8tUq7gZQKaQ": [
+  {
+   "grab_time": 77.6,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 109.2
+  }
+ ],
+ "0UR3qcc5SIa_ICQk3NXo1g": [
+  {
+   "grab_time": 5.9,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 12.7
+  },
+  {
+   "grab_time": 193.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 199.9
+  }
+ ],
+ "0UWPrFTXSYizWPIwTcJW8w": [],
+ "0V2NDGnqSpWWLj_P6ULoSQ": [
+  {
+   "grab_time": 98.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 106.6
+  }
+ ],
+ "0vpYrtTjTOWNwyRIA7b_Wg": [
+  {
+   "grab_time": 15.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 98.9
+  }
+ ],
+ "0VVZUuacRvW4MvT82B3nig": [
+  {
+   "grab_time": 108.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 146.9
+  }
+ ],
+ "0vW6ynQ7Q2yOe8TVRZl_Og": [],
+ "0w2cy5C4SnyysS5pE--F-A": [
+  {
+   "grab_time": 74.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 122.2
+  }
+ ],
+ "0wEMIQujQMiDNJ_hP9lcxw": [],
+ "0wkiGi85Q2m96rvQifMhiw": [
+  {
+   "grab_time": 8.8,
+   "source": "Green",
+   "transfer": {
+    "time": 13.1,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 18.6
+  },
+  {
+   "grab_time": 136.9,
+   "source": "Yellow",
+   "transfer": {
+    "time": 140.8,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 151.1
+  }
+ ],
+ "0wo3Nh01SwuI79yzAPxPpw": [],
+ "0WpydIIvSZCnUAzwGEhQPw": [],
+ "0WVGqjHaQaiY3Awvkg5mow": [],
+ "0WVUShXYQEmROH2n09g4zg": [],
+ "0WvyHvPpQ9Ct-R-2SjFsCA": [],
+ "0x0Q4riRQla1I8Fvs4oqPg": [
+  {
+   "grab_time": 22.9,
+   "source": "Red",
+   "transfer": {
+    "time": 64.4,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 96.1
+  }
+ ],
+ "0XBko6OvSGuQa9md4sn_2Q": [],
+ "0xdGdl0zSHmhmXectS9kqg": [],
+ "0xetXvqoQRuar06rWGH_1Q": [
+  {
+   "grab_time": 72.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 83.7
+  }
+ ],
+ "0XKeeZHMRRqyZlbHm7eaOw": [
+  {
+   "grab_time": 39.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 51.1
+  },
+  {
+   "grab_time": 139.3,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 168.4
+  }
+ ],
+ "0XPT-WWvSu6NwweyzrRKhQ": [],
+ "0XSf2hi9QBqlCRe6AuYxcg": [],
+ "0xSUaafxSf2l4XVoZc2SIg": [
+  {
+   "grab_time": 11.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 23.4
+  }
+ ],
+ "0XTTD1OdS2KIF6c-uNVYrQ": [],
+ "0XuItc5RTruUQPgjhHX7vQ": [
+  {
+   "grab_time": 80.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 87.7
+  },
+  {
+   "grab_time": 141.3,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 151.4
+  }
+ ],
+ "0xWdaLZ9TT-AHnVRoWFMTQ": [
+  {
+   "grab_time": 113.6,
+   "source": "Green",
+   "transfer": {
+    "time": 162.7,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 176.5
+  },
+  {
+   "grab_time": 206.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0y7esBp-SRWkFz48LE5tPQ": [],
+ "0YCQh7tLQvm26W47MZEvWA": [
+  {
+   "grab_time": 22.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 76.6
+  }
+ ],
+ "0YES3aBGQPCbtKrm7z_YEg": [],
+ "0yHZ6XXjSZ6ne1e4Q5zIdg": [],
+ "0YNBy8boTuuBoFm1CTwlig": [
+  {
+   "grab_time": 38.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 71.6
+  }
+ ],
+ "0ySY75j5Rl6Fb7FGZhdmxA": [],
+ "0yufC4ypTnG_He2i_s9Phw": [],
+ "0YULmb6RTeyX8Nmdl4pW_Q": [],
+ "0yxKT7-jSVarEC8evRH7Ew": [],
+ "0YxVA43pT1uQz1GcJ38IAg": [],
+ "0Z4O1qe6R3iFuVhJdCS85A": [],
+ "0z9vLA6FTrq50R0rdI-awA": [
+  {
+   "grab_time": 7.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 18.1
+  }
+ ],
+ "0zCibDB5TTGj2Oi--2eXxQ": [
+  {
+   "grab_time": 90.0,
+   "source": "Green",
+   "transfer": {
+    "time": 106.5,
+    "test": "Red"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0Zf_SKHjTYSG8qV6TsEC3g": [],
+ "0ZLxZzlRREKe7ONLz3DW6g": [
+  {
+   "grab_time": 10.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 22.7
+  }
+ ],
+ "0ZOTMhhwRCCNESlX8phU6w": [
+  {
+   "grab_time": 97.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 116.2
+  }
+ ],
+ "0z_okeR_SB-xGdJJTnA1EA": [
+  {
+   "grab_time": 5.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "0_UMljZBR0uElVfp7AfOGQ": [],
+ "1-5mEI7RSQuZLirFwqXI8w": [
+  {
+   "grab_time": 74.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 144.7
+  }
+ ],
+ "1-kw_5hlQUOyahjO89PS8A": [],
+ "1-XYO4YWTYWTnpVI2Tgr2w": [
+  {
+   "grab_time": 83.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 161.6
+  }
+ ],
+ "100wMfODQOqu21242jK41g": [
+  {
+   "grab_time": 85.9,
+   "source": "Blue",
+   "transfer": {
+    "time": 90.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 105.7
+  },
+  {
+   "grab_time": 152.3,
+   "source": "Green",
+   "transfer": {
+    "time": 201.6,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "10SPtfXrQ02kxt1iXQaYHQ": [],
+ "11PmFCiXSIeG2B2oVncFuA": [
+  {
+   "grab_time": 39.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 52.2
+  }
+ ],
+ "11Rmk1qfTdKiAYXK6k3jPw": [],
+ "131q3zUSStaw1OmAIYX3Kw": [
+  {
+   "grab_time": 94.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 103.9
+  }
+ ],
+ "13jbBPwYQzG_dp0uw7Ri4w": [],
+ "15CQY-RJRjWSrR04yDERXw": [],
+ "15z06YiLTRqB8VdrnRgfAw": [],
+ "15_RftugSpCq0JrlFv-_fg": [],
+ "16iG19oxRrebTb-k-PDi2g": [
+  {
+   "grab_time": 91.2,
+   "source": "Green",
+   "transfer": {
+    "time": 99.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 108.1
+  },
+  {
+   "grab_time": 158.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 168.9,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 175.7
+  }
+ ],
+ "16mUE3LlQE2nx-o5NcWFTg": [
+  {
+   "grab_time": 100.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 221.3
+  }
+ ],
+ "17ezXaIVQcCtk23yKQGMww": [
+  {
+   "grab_time": 19.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 27.3,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 32.6
+  },
+  {
+   "grab_time": 114.4,
+   "source": "Green",
+   "transfer": {
+    "time": 147.1,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 172.5
+  },
+  {
+   "grab_time": 183.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 196.9
+  }
+ ],
+ "17pxCzxASt20nX3TBJGYzw": [
+  {
+   "grab_time": 139.5,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 162.6
+  }
+ ],
+ "17q-z879R0mQnrhBa9ZQiw": [],
+ "17u3ThdZRIC4H6emadx8Wg": [
+  {
+   "grab_time": 160.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 204.7
+  }
+ ],
+ "17X1jvVWTDOY8qfZhplRHw": [],
+ "18H1nlZeREej4PW7nRpHtQ": [
+  {
+   "grab_time": 101.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 115.9
+  }
+ ],
+ "196hOEZmSWitHW_HTggkCQ": [
+  {
+   "grab_time": 67.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 81.2
+  }
+ ],
+ "19u_wSmrSu2wdGu7B63rPw": [
+  {
+   "grab_time": 8.0,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 64.4
+  }
+ ],
+ "19XSK9QHRoCQm5_rLONldA": [
+  {
+   "grab_time": 13.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 85.2
+  }
+ ],
+ "1aHZUswbRRafTQfbUYDZjw": [],
+ "1AmQG0ujRT2WVf6ZpGlR-w": [],
+ "1aOHoxT4Rj6CQ4rLW3mPuA": [],
+ "1APNuCxbRKqZ3iToqPUDLg": [],
+ "1AuG4QhoRVa4SKMAi6CmNg": [
+  {
+   "grab_time": 7.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 55.6
+  }
+ ],
+ "1b4kLfNqTgG8MrtGgvxkag": [
+  {
+   "grab_time": 126.6,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 162.0
+  }
+ ],
+ "1BES_Q0XTcWA39d_lBwDqg": [],
+ "1beZ0Rd5Q96X05KG_q83Zg": [
+  {
+   "grab_time": 113.4,
+   "source": "Green",
+   "transfer": {
+    "time": 124.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 130.4
+  }
+ ],
+ "1BiHviM3QvC1q-Z_Cc9F9w": [],
+ "1bjlBuNOTUaK8R6AHILfHA": [
+  {
+   "grab_time": 164.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 174.4
+  }
+ ],
+ "1bnugmmlQI-roBXEb9_ISQ": [],
+ "1Bx8LpunQzK2HpxXH71BJg": [],
+ "1Cf5JXuBTcWyNyJzthL9XQ": [],
+ "1d-kFT8nQ1KOXI6-lT-Wyw": [],
+ "1DPQEECzSNihqiSo9v08Pg": [],
+ "1DWxh4-fRAyFeKy_8A3J4g": [
+  {
+   "grab_time": 299.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 314.6
+  }
+ ],
+ "1dW_xa-xT2axs-5EhB6L3w": [
+  {
+   "grab_time": 163.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1DX-IvY7QmOObrjq4Dk_vw": [],
+ "1dZTVIs1SJ6TdkqgA0gEDg": [],
+ "1E4twkCBQ-CX5KFiUCnLPA": [
+  {
+   "grab_time": 20.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 55.3
+  }
+ ],
+ "1EBNKrjySJiJog4M4767SQ": [
+  {
+   "grab_time": 174.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1EdvmMfiR5S0IcYZCsnV2Q": [
+  {
+   "grab_time": 14.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 18.8
+  }
+ ],
+ "1EMX12sqQcu4yZbqd1b1wQ": [],
+ "1ePIXJjtSpCLoE2n4rRF7A": [],
+ "1f0a3jlqT1Sy_6LKzbag1A": [
+  {
+   "grab_time": 6.9,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 11.9
+  }
+ ],
+ "1f6uxtl8SIyPcaYYbZZsDQ": [],
+ "1fb71xOnRkGgVlxUayYnwA": [],
+ "1FC8LMi_QIur1ENFkDvroA": [
+  {
+   "grab_time": 43.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 55.5
+  }
+ ],
+ "1fTNM5N3QKe-G6Yy3SxQDg": [
+  {
+   "grab_time": 115.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 125.1
+  }
+ ],
+ "1FUxrM0dQneqikBTniMKVw": [],
+ "1fycdhFfTLWfsQ7OVyiP5w": [],
+ "1F_8rGkZS1C6fD6djJSC8g": [],
+ "1GAfeCQmTq6HPjwxHj6Z1Q": [],
+ "1gCFSMa1TUWWmRZhcYJ-ZA": [
+  {
+   "grab_time": 15.1,
+   "source": "Blue",
+   "transfer": {
+    "time": 18.6,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 24.5
+  },
+  {
+   "grab_time": 196.9,
+   "source": "Yellow",
+   "transfer": {
+    "time": 212.0,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 218.5
+  }
+ ],
+ "1gd8kJVXQIG1zRtrGI0l8A": [],
+ "1gF4tLncTFOiVNPtPFZrcQ": [
+  {
+   "grab_time": 148.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1gK1FgYyQjKw6Ut9XReBXQ": [],
+ "1gk9r_IfR6exyR0z5XM7Dw": [],
+ "1GKmAJ07RS2UQzWu3BBs1A": [
+  {
+   "grab_time": 6.0,
+   "source": "Yellow",
+   "transfer": {
+    "time": 15.0,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1GsazLn1Rkm3c31euRLauQ": [],
+ "1GU2IgP3TQabbRFX4YkFvw": [
+  {
+   "grab_time": 47.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 59.7
+  },
+  {
+   "grab_time": 123.0,
+   "source": "Yellow",
+   "transfer": {
+    "time": 131.8,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 136.0
+  },
+  {
+   "grab_time": 182.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 188.0,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 194.1
+  }
+ ],
+ "1gXSHXJdQxOa5wx7TaNFaA": [
+  {
+   "grab_time": 98.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 111.8
+  }
+ ],
+ "1GzKsS0FSH-nhflD1BFJ2A": [],
+ "1H2ctm8oTHSy33bqD_cpkg": [],
+ "1H8_z2LZRKqLTU1WFI8q8g": [
+  {
+   "grab_time": 38.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 95.4
+  }
+ ],
+ "1He7Pt7sSrmLZiVrqWPrwQ": [],
+ "1hEAOjqCQpKpOJsrfHo_SA": [
+  {
+   "grab_time": 76.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 94.2
+  },
+  {
+   "grab_time": 201.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1hgujuvTQTqYeJ72sTS8MQ": [
+  {
+   "grab_time": 21.5,
+   "source": "Green",
+   "transfer": {
+    "time": 31.4,
+    "test": "Red"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1hl0qMUcRPmNYO3TJkHatg": [
+  {
+   "grab_time": 166.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 176.0
+  }
+ ],
+ "1HO8VQIdR62npF8HQGgrug": [],
+ "1HOUn4TbTiu3OYNrU88KuA": [],
+ "1hQaHCFzSyeeKooeLd9C6w": [],
+ "1hxOpBxDSUemFtizKir2kQ": [
+  {
+   "grab_time": 138.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 178.2
+  }
+ ],
+ "1ICE_ti4RNGKVI-Dw4JltA": [],
+ "1ij70K5qQ9iPnx1gHs4SPg": [
+  {
+   "grab_time": 70.7,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 82.9
+  }
+ ],
+ "1iLpYO_tTPCn7b-bD6m8jQ": [
+  {
+   "grab_time": 113.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 129.2
+  }
+ ],
+ "1INKbV_uQIW3QaGaiyznGw": [],
+ "1iP2PJ5qSDqdH0SxMh-flQ": [
+  {
+   "grab_time": 40.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1iWFaniwQXi1hSnFTVHtNA": [],
+ "1IXQyhKDQxKUaxlW3YYKng": [
+  {
+   "grab_time": 9.1,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 51.4
+  },
+  {
+   "grab_time": 112.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 132.9
+  },
+  {
+   "grab_time": 251.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 265.0
+  }
+ ],
+ "1iykNWVgR8KVYTNFq2vjEg": [],
+ "1JcdFTfQQwC2PV1Ok_Kdaw": [],
+ "1jlLhWhEQTulpOhbCigw9A": [],
+ "1k4wsdOWTlikhb4MZs0agg": [],
+ "1K6FwIaIRqehJ9sMZYaIgQ": [],
+ "1KdPSq3NQMGIcgC-YY3waw": [],
+ "1kftLZ-rTx2e9VtXyYw1Vg": [
+  {
+   "grab_time": 113.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 126.1
+  }
+ ],
+ "1KW5kxEkQs-hOFDX8L1lEQ": [],
+ "1KWRVAmdS2iAEr4fhPCOdQ": [
+  {
+   "grab_time": 106.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1Kxh5H9ZR4GN5Rl_58zgkA": [
+  {
+   "grab_time": 91.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 99.0
+  }
+ ],
+ "1KXJrKSiT12h5ul0ItWutA": [],
+ "1L08AAyNQm2C0Uu2SqliKg": [
+  {
+   "grab_time": 88.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 123.8
+  }
+ ],
+ "1Lamp5uhQFuL8-e92w7CaA": [
+  {
+   "grab_time": 18.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 37.0
+  }
+ ],
+ "1lIpWA76RwSJsbZuhdZTew": [],
+ "1LjbBH7MRYG4cSn2HFdL-w": [],
+ "1LkatGHyQr-ndViyRzCXtA": [
+  {
+   "grab_time": 248.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1LPodP8GQOWdqzDjkdrPHg": [],
+ "1ltdhiuQSbCgpicC9w_RHw": [],
+ "1MAkFNPlRP2grLjq9Dr_Sw": [],
+ "1MI3Xt8mQX6sIdLSU5Jg5w": [],
+ "1muaTY-YQX2U_5SYtz28TA": [],
+ "1mUf_CWwSz268bRaRnHDJA": [],
+ "1MWqVIWSTZ6IeqzrmZdhhw": [],
+ "1mYAK_wRQwyMwcE5Z8AdsQ": [
+  {
+   "grab_time": 49.3,
+   "source": "Blue",
+   "transfer": {
+    "time": 56.2,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 63.3
+  },
+  {
+   "grab_time": 98.4,
+   "source": "Green",
+   "transfer": {
+    "time": 102.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1MYuWRcpQG-7mtRijzBMfA": [
+  {
+   "grab_time": 36.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 99.3
+  }
+ ],
+ "1n0n2uIRRrCUXgBUcbeA_Q": [
+  {
+   "grab_time": 51.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 68.1
+  }
+ ],
+ "1n9ZBh6gTnOvK58N5Zeucg": [
+  {
+   "grab_time": 20.5,
+   "source": "Green",
+   "transfer": {
+    "time": 27.6,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 36.4
+  }
+ ],
+ "1nblmZphTZ6la6lZ-RHDpw": [
+  {
+   "grab_time": 51.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 149.4
+  }
+ ],
+ "1nEhz8o1QXi-kW6hvKi7vQ": [
+  {
+   "grab_time": 17.2,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 94.2
+  },
+  {
+   "grab_time": 111.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 123.9
+  }
+ ],
+ "1nKEmAoiSmSWRDGlrfKG0g": [],
+ "1NXxjGMnSP6-qx0m5i8g_w": [
+  {
+   "grab_time": 102.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 112.5
+  }
+ ],
+ "1nzkVIs-QgS5YJ23wMb3OA": [],
+ "1o09ElbjRJmHJHUdiCl-Sg": [],
+ "1odzEiXQSLCRttFXdfc0ag": [
+  {
+   "grab_time": 11.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1OFZc4OXSR-oOkD344jdhw": [],
+ "1oIKYryyTYqbhDwV8KCV9Q": [],
+ "1OKl-P3_Q96c0IXuqAkj9g": [
+  {
+   "grab_time": 0,
+   "source": null,
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 23.7
+  }
+ ],
+ "1OoDr3NGQtuZdwh-XUl1MQ": [],
+ "1opob0LVTYal5fb05aMcdQ": [
+  {
+   "grab_time": 177.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1OqbXtgKSUeXQGGM3E2Qpw": [
+  {
+   "grab_time": 127.5,
+   "source": "Green",
+   "transfer": {
+    "time": 132.1,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 140.4
+  },
+  {
+   "grab_time": 267.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 270.2,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1OY7EFsuSCCxufwbf6bbog": [
+  {
+   "grab_time": 115.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 155.7
+  },
+  {
+   "grab_time": 249.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1oY7rNakTGe24jXE0bZzgg": [
+  {
+   "grab_time": 225.0,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 234.9
+  }
+ ],
+ "1P47PexJQuySvbiPwsoL-Q": [],
+ "1PHywAFyScesZ1WW4qpKig": [
+  {
+   "grab_time": 16.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 49.4,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 55.5
+  },
+  {
+   "grab_time": 176.4,
+   "source": "Green",
+   "transfer": {
+    "time": 187.3,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1PH_kizJQB6skzrIFOSQzA": [],
+ "1pVXIFKfT3qBKEvFYM4XJg": [],
+ "1Pwzt4CESWusouvu-XlhGg": [
+  {
+   "grab_time": 159.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 167.3
+  }
+ ],
+ "1Q5V_lOPTMKhcLGNV_q3Gg": [],
+ "1q8f2wiqRY6Vm8rNOCrcyA": [],
+ "1qcjklFSTs-yZLO3ul04yQ": [],
+ "1QiEShyOQTyrFhP1eM3VWw": [
+  {
+   "grab_time": 131.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 185.9
+  },
+  {
+   "grab_time": 254.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1qr6SUpyQl-hbQtqTIwpZw": [],
+ "1qsvfXVITv-PqWjwccku1g": [],
+ "1qypfXTTTg--Ccu21VkFQQ": [],
+ "1r7CTE8USzenEqUj61VGmA": [
+  {
+   "grab_time": 80.0,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 90.7
+  }
+ ],
+ "1RBdE-NORrSB65SSNpRkdA": [],
+ "1RGKZiUbQn-2OOCT12V68Q": [],
+ "1rKDTttGSleVIkNPAESzyw": [],
+ "1RLZmfQMR3Cj15FFuo9GMA": [
+  {
+   "grab_time": 15.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 29.5
+  },
+  {
+   "grab_time": 214.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 233.6
+  }
+ ],
+ "1rNOTLLuQw-9FDFTwxqfPw": [
+  {
+   "grab_time": 29.1,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 36.8
+  }
+ ],
+ "1RTQQoS0RMi9ia1fUquqHg": [],
+ "1ru7O-3kQJKme0a3u6XBoQ": [],
+ "1s3seH5uR9yyQwuId5qgeA": [],
+ "1SBzi5aZRjCI_Siojah17w": [],
+ "1SdMuRc3SHmrny-Nm8NYIQ": [],
+ "1sn4MaLwRnuWdx7aE15cRg": [],
+ "1SsnD--HSr-YZQe3Ib3OcA": [],
+ "1sUtLxXcTOeXXkxZXA_7ww": [],
+ "1sVjwTcdTHm2csf4h5EJEA": [
+  {
+   "grab_time": 42.8,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 51.4
+  }
+ ],
+ "1tbs_-kURcaf_bS2-LSyCw": [
+  {
+   "grab_time": 103.7,
+   "source": "Yellow",
+   "transfer": {
+    "time": 107.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 113.9
+  },
+  {
+   "grab_time": 191.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 197.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1TTheFX6Tx2VWRN9cymn6w": [
+  {
+   "grab_time": 72.1,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1udu5dn-RKWBOA06ZLotlA": [
+  {
+   "grab_time": 8.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 20.2
+  },
+  {
+   "grab_time": 115.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 124.6
+  },
+  {
+   "grab_time": 193.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1UfN3iheSqq_ric4_xDUzw": [],
+ "1utmQ55jQuWJwdvtO1hJsg": [
+  {
+   "grab_time": 16.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 26.6
+  }
+ ],
+ "1uu9s2DCTWKrh8_57dm2aA": [
+  {
+   "grab_time": 87.8,
+   "source": "Green",
+   "transfer": {
+    "time": 91.0,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 99.2
+  },
+  {
+   "grab_time": 156.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 159.7,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 168.6
+  }
+ ],
+ "1UuN7NLWQf2FdGbTFoCQLA": [],
+ "1vCyR3_4QWKhj23H5ArRQw": [],
+ "1veO6Jm2Tum9CkQ5bUELbA": [],
+ "1VFoqW0ITTiC_9tM8aFNQw": [],
+ "1VkAoGSPRIioDUXI3Y7nBg": [],
+ "1VORQ16dTTynoxlSN7AYyw": [],
+ "1vw0fG9uR5GAt4drpT8lBQ": [
+  {
+   "grab_time": 97.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 108.0
+  },
+  {
+   "grab_time": 164.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 170.5
+  }
+ ],
+ "1WatUM6uSWC0Lw2xWTeJLw": [
+  {
+   "grab_time": 10.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 169.3
+  },
+  {
+   "grab_time": 245.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1Wde5iPvSTeNPVt3sR4dGw": [],
+ "1WjrQ_thTNq_JuQbdLlXTg": [],
+ "1wmhRTtgT9ujQvyBQL6awA": [],
+ "1WYPfL05SPyIB3pcVRJB3g": [],
+ "1wzOytobTyO7rs9rDQMnlQ": [
+  {
+   "grab_time": 17.2,
+   "source": "Yellow",
+   "transfer": {
+    "time": 23.1,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 30.8
+  }
+ ],
+ "1X1QGRwrTpSW4T-lbYhxRQ": [
+  {
+   "grab_time": 99.9,
+   "source": "Green",
+   "transfer": {
+    "time": 107.1,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1X5TFE5cSu2ZXdHHQmuNzA": [
+  {
+   "grab_time": 6.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1xfCrndNSwKhu29VKiIAFA": [
+  {
+   "grab_time": 180.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 188.4
+  }
+ ],
+ "1xFZTM9uQ6q4orcM517Rpw": [],
+ "1XIBx3nrQwifKgfR9xRjQw": [],
+ "1Xqh2pmaRRCxKtV70RUWjw": [],
+ "1XqUM5pcQHCBGp574qLNPw": [
+  {
+   "grab_time": 33.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 61.7
+  }
+ ],
+ "1XR3sHhOQ5eizH23oIuv4Q": [],
+ "1y8CxlByS7uFMHGidkqSDQ": [
+  {
+   "grab_time": 136.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1YK1saPkRQucaWoMiL3KSw": [],
+ "1yQk461oQ5GKlWl75DtZYQ": [
+  {
+   "grab_time": 159.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 168.8
+  },
+  {
+   "grab_time": 201.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1ysBeHcVTECHL3a2-Jn5IQ": [
+  {
+   "grab_time": 13.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 24.4
+  }
+ ],
+ "1yTZe03oTu-F2TCGZs0ehQ": [],
+ "1Yz490IfSs2tdc1E6N2Efw": [
+  {
+   "grab_time": 6.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 17.5
+  },
+  {
+   "grab_time": 65.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 77.7
+  },
+  {
+   "grab_time": 145.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 151.5
+  }
+ ],
+ "1z0JmtC_R0aiIQVCI7QWhQ": [],
+ "1ZEB8PFSQh2rzTmkB26skA": [],
+ "1zgtSETiRDSiov6EytGqkw": [],
+ "1zmo3gXMTvSxE9BKmNzJPQ": [],
+ "1zOiJR1GTNu8lWBq5HZKjQ": [
+  {
+   "grab_time": 171.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 192.9
+  }
+ ],
+ "1zWsLvoLQrusU5fe4IUVMw": [
+  {
+   "grab_time": 100.4,
+   "source": "Yellow",
+   "transfer": {
+    "time": 109.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 120.0
+  }
+ ],
+ "1ZxnaH1gTYeLpB3SvI1zpw": [
+  {
+   "grab_time": 35.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 47.4
+  }
+ ],
+ "1zXvIq60RLOzu9gUURU5EA": [],
+ "1_4vQCxsQeKqgWIuhx9nog": [
+  {
+   "grab_time": 175.0,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1_cFrwTuRE6HzBbp9R5aXA": [
+  {
+   "grab_time": 64.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 83.7,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "1_i9kH8lTVaLF-NnvJUpQQ": [
+  {
+   "grab_time": 38.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 49.3
+  }
+ ],
+ "1_oQ4pmGSt2Zikzg8C4YZw": [],
+ "2--Wuo-ARsWbWxBI7EMJnA": [],
+ "2-OjDY87RxipcyvnVbdLxQ": [],
+ "20-VnCACQjSp0LFIrtslfA": [],
+ "20C_12fuSmK843D9BOclFg": [],
+ "20ePigP-TFimTMGqlEAKvQ": [],
+ "219aPpO1SfK0R7STqZ8ogA": [
+  {
+   "grab_time": 59.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 68.5
+  }
+ ],
+ "22r6a9QOTemSB3oD1vA7RA": [
+  {
+   "grab_time": 89.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 102.1
+  },
+  {
+   "grab_time": 181.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 189.8
+  }
+ ],
+ "22vGQ9JGSUO6qJ_cK-N60w": [],
+ "22xsSeeIRrWG6xyC4_s9NA": [],
+ "234ULLfmT9qnOP1jH-r8ig": [],
+ "23amTIDiRiiS7OIjbQ6_3A": [],
+ "23ATXiVATwOreF22qAH1nw": [],
+ "23cxoK0dTdCQrmq92Z9xzw": [],
+ "23lOyxnrTDOywUCferobAA": [
+  {
+   "grab_time": 9.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 99.8
+  }
+ ],
+ "23RDD7STSF-PTNID_V9tHQ": [],
+ "23wXoWZ6QJqMTHEUUFsXmQ": [
+  {
+   "grab_time": 5.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "24tesRVUQFK_suCL1pOSaA": [
+  {
+   "grab_time": 138.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 174.4
+  }
+ ],
+ "24ZgA9AtT82Fg4iuMELuwQ": [],
+ "25iiFC64RMaLtG1Pq3jOaQ": [
+  {
+   "grab_time": 51.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 182.9
+  }
+ ],
+ "264Nl5drQU64tWOof2Unng": [],
+ "26IAAs8xQK-7P772FSTcGQ": [],
+ "26nzr97sQCaSeiG7cTwm2g": [
+  {
+   "grab_time": 133.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 141.3
+  }
+ ],
+ "26V9hGXZQ7O-AS8kqWkkmw": [],
+ "27c8VAQbTNyx3md8yRvL9A": [],
+ "27p8lhgTSa6OFBBrX7fYWA": [],
+ "27Pa8w7mTYOEO86M_66MZg": [
+  {
+   "grab_time": 123.9,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 139.2
+  }
+ ],
+ "27_3emywRVWXeYGoMUWwNw": [],
+ "2819rAlCSD-Dp9qyoBaQEg": [],
+ "28RkwgXHQrWxQ-mvcntbwA": [
+  {
+   "grab_time": 61.9,
+   "source": "Green",
+   "transfer": {
+    "time": 66.3,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 72.3
+  },
+  {
+   "grab_time": 91.0,
+   "source": "Blue",
+   "transfer": {
+    "time": 96.3,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 104.9
+  },
+  {
+   "grab_time": 204.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "28U2dhGYS2SKK5Ou-DatgA": [
+  {
+   "grab_time": 170.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "29BeTVBeT0qirDCEVQ26zw": [],
+ "29jRL2bWT--G1ItZFwbS2w": [
+  {
+   "grab_time": 35.4,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 121.4
+  }
+ ],
+ "29KuQ37jROmB846jZDZCbQ": [],
+ "29rRPRBeQJe8zlzyfuquIQ": [],
+ "29uMpV69QxW_1aQiUo8LQg": [],
+ "29ySlQpJTk6J955nuDo2cA": [],
+ "2ab9Q2piSfGGVZGTCFTJMw": [],
+ "2AkOs_P0SuSnZFtoQcVpYw": [],
+ "2B3Z-a3BRmeTmIsOQwn57Q": [],
+ "2b7Sspc0THK-lECHGDWmMA": [],
+ "2BfN5ywRT0CG7VeGlwzxrA": [],
+ "2BH0iV-ES5GzYYo7VoHfsA": [],
+ "2Bk3heFpT4qFd4p1scWy9Q": [
+  {
+   "grab_time": 28.3,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2bNNAD40RwuOeL_Rl2SNew": [],
+ "2bzMXM0gSB-w_RrdtfHGkw": [],
+ "2cBDlBT8SsO5-5Ifue53Ig": [],
+ "2cBQy5S1RG-wMZvIP52CrA": [],
+ "2CtuJpF6RMaRXzKjCzyDAw": [
+  {
+   "grab_time": 244.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2cWog6dPT6iJokZ-dIvjxw": [
+  {
+   "grab_time": 124.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 146.5
+  }
+ ],
+ "2CzFMuRfQFOZL9xfAZ2cQQ": [
+  {
+   "grab_time": 16.5,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 29.2
+  }
+ ],
+ "2c_Sh-E3RrWr5BZfDyRxVQ": [],
+ "2DcfzZ91Rre8WmzT1Zvlpw": [],
+ "2dL8MYlmSdGoBDi3UodLkg": [],
+ "2dur6oKFQ-CJp3tP4h3JdA": [],
+ "2ehblmkgS3KBzmMf3gX3WQ": [],
+ "2EhLUpRGR7e91Li6ZgQaOw": [],
+ "2ejIZngqRLSkJoiSMvaEWg": [],
+ "2eNevY7IR1eRHHHjiAIlHg": [],
+ "2EqfYap4R8OnpnGCTnZE1A": [
+  {
+   "grab_time": 78.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 95.5
+  }
+ ],
+ "2eQw_kZCRG2UPBA5Jni1JQ": [
+  {
+   "grab_time": 18.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 30.0
+  },
+  {
+   "grab_time": 128.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 174.1
+  }
+ ],
+ "2eSRT-TORLuCoW8ik6g5LQ": [],
+ "2eUM6tYJQNyqIqgnCGjimg": [
+  {
+   "grab_time": 49.6,
+   "source": "Green",
+   "transfer": {
+    "time": 53.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 60.6
+  }
+ ],
+ "2EURSNSGSbafIRd3JIhKug": [],
+ "2f5lgisMRo2-eWbmA52i-w": [],
+ "2F8ObodjTZ2YB79jXj-Z2A": [],
+ "2FaFVM1PQKaWjnUw95lzXA": [],
+ "2fIyifZiQtCTkjenAgp9dA": [
+  {
+   "grab_time": 48.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 60.4
+  },
+  {
+   "grab_time": 142.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2fJPanb1T-2NeJcdpCTHYg": [
+  {
+   "grab_time": 7.4,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 48.9
+  },
+  {
+   "grab_time": 97.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 109.0
+  }
+ ],
+ "2FmphIf9Q3yBIktV4cXAAg": [],
+ "2fNPHJB5TuKLz-TpVp9SAg": [],
+ "2fsAmTm6TwuMFNSKoUl81Q": [],
+ "2fYkclfmRm2f2caHbL8IYg": [
+  {
+   "grab_time": 80.3,
+   "source": "Green",
+   "transfer": {
+    "time": 118.9,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 123.2
+  },
+  {
+   "grab_time": 191.0,
+   "source": "Blue",
+   "transfer": {
+    "time": 199.9,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2F_yNiW8S0WABJNQJvOz-Q": [],
+ "2G-Ca2CJSRqvdycuYAXyKA": [],
+ "2G6tkBnCTMmZpVAK7l3wZg": [],
+ "2GAk-X3LSlCAZB5hNzsFlg": [],
+ "2GfJJnYfS0O4qJMvvzY13g": [
+  {
+   "grab_time": 13.4,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 18.8
+  }
+ ],
+ "2gl083JvQFWFUuNcyOKCqA": [
+  {
+   "grab_time": 59.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 76.3
+  }
+ ],
+ "2GNbBDxjSmmHaW-6WvLF6w": [],
+ "2Gw2bPelSSqk3kXsqrpryA": [],
+ "2gZkNMo7SA2a0F-Q_kB2qQ": [
+  {
+   "grab_time": 47.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2hawXVcsQVGxuqxtZpKxOA": [],
+ "2hho-RzLQ3SZLE8JhapMEw": [],
+ "2HiisuSQRiGd6kzre-u5fA": [
+  {
+   "grab_time": 59.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 74.0
+  }
+ ],
+ "2HKR8TUAQMqbJfc4R65zyA": [],
+ "2HN2gtZ9T62St9AcnJVRjQ": [],
+ "2HnE_LwGSfeT8K2QjT0K8A": [],
+ "2hOiGjUFS3OHXt_-f3HYjw": [],
+ "2HqJkBG-QP6-1LsTSeDW0A": [],
+ "2HS_RCefSKC3BQj80jiL7A": [
+  {
+   "grab_time": 121.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 163.2
+  }
+ ],
+ "2i4rxYzjTaKewaO76nEK7g": [],
+ "2IaM5IZZQ2mZrXF7chYfhA": [
+  {
+   "grab_time": 103.9,
+   "source": "Green",
+   "transfer": {
+    "time": 111.7,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 117.4
+  },
+  {
+   "grab_time": 160.9,
+   "source": "Yellow",
+   "transfer": {
+    "time": 164.2,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 174.1
+  }
+ ],
+ "2iedJOe-Rv2SXQZjXOOOjA": [
+  {
+   "grab_time": 5.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 87.7
+  }
+ ],
+ "2InD_AAyRm2ZLqc-ZpsPSQ": [],
+ "2ioc1S23TfGwBJKdcOh92g": [],
+ "2Irn_E6vT3-_4XgF6aisMA": [
+  {
+   "grab_time": 30.1,
+   "source": "Yellow",
+   "transfer": {
+    "time": 34.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 37.8
+  }
+ ],
+ "2jKGZEAFSB2zSxmRr3JCRw": [],
+ "2JkwhG1ARwmzzr0nc_YVJg": [
+  {
+   "grab_time": 14.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2jMZ2ecGSNCOTqV-zfipcA": [],
+ "2Jo3rpGyRVuovxZlPt3o6w": [
+  {
+   "grab_time": 35.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 39.8,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 48.0
+  },
+  {
+   "grab_time": 164.9,
+   "source": "Green",
+   "transfer": {
+    "time": 184.3,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 202.5
+  }
+ ],
+ "2jpndHpYQNKEbYZGKLkSsw": [],
+ "2JyYLs8DSnSLhauam9NQEQ": [
+  {
+   "grab_time": 47.2,
+   "source": "Yellow",
+   "transfer": {
+    "time": 54.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 60.3
+  }
+ ],
+ "2k8l7abTRquycZWVKiFfKQ": [
+  {
+   "grab_time": 86.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 100.6
+  }
+ ],
+ "2Kascw9LR82cfHgAenWJfQ": [],
+ "2KE2JrpNRUOVqhIZsit30A": [],
+ "2KhgQ-vxQXmeEfNY8lGi9g": [
+  {
+   "grab_time": 162.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2ki60M0cR3Sn1jvaZg3_9g": [
+  {
+   "grab_time": 52.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 64.8
+  }
+ ],
+ "2KMr8c2dTAK7C5vG8YaUEg": [],
+ "2kPusB6lTGeXQQ385aqNHA": [],
+ "2KR-Q8FKQ4i2qW-NlaMXKg": [],
+ "2LJVndLsSHyzkhskhYgEnA": [],
+ "2lkhpAfmTJafQgWSTkUr1A": [],
+ "2lKjPaGzRzOSJ_uXoKKhGA": [],
+ "2LyOsynhTY-7xFdMW6ilcA": [],
+ "2MiVjPVzS_Sb-hN9Og6jUw": [
+  {
+   "grab_time": 76.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 123.9
+  }
+ ],
+ "2Ms6KI4IT3-0ty8KRVfwBw": [
+  {
+   "grab_time": 94.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 101.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 108.9
+  }
+ ],
+ "2mu8F18KRKuX2LIoEGDN-A": [
+  {
+   "grab_time": 12.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 86.7
+  }
+ ],
+ "2mY5PDetRt-KiJYqfMi8cg": [],
+ "2N0RNf6CSRyhxtsIbv5NoQ": [],
+ "2NbyQrUOTGGp-ju5tlvnxA": [
+  {
+   "grab_time": 19.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 101.2
+  }
+ ],
+ "2Nkzc4IzRoiP5sZRze9_-Q": [],
+ "2NLNGAQJTVagXwc_inQH5A": [],
+ "2nOOchb3T12_VnzjRlMm-g": [],
+ "2npf7XlmR_GEjnuOZ-hEyQ": [],
+ "2nrlLUCETveqpxWJfT917A": [],
+ "2NwCVX2xTlqZLTJtLARj7w": [],
+ "2NYpNqWHR7ihmSjNKRkvsg": [
+  {
+   "grab_time": 92.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 101.3
+  }
+ ],
+ "2NYSdWttTDmaETEt807Okw": [
+  {
+   "grab_time": 12.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 20.6
+  },
+  {
+   "grab_time": 180.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2NzAm-thR3W9theLepP2qg": [],
+ "2n_5sv_ISSG8Zm0mMMslPA": [],
+ "2N_bQDxsRvSacLafEs3H3A": [],
+ "2oHs9S5sSku0h0dSuBML2A": [],
+ "2oOj7Xp1RFqtly4hA4cJQQ": [],
+ "2oT6a_I9ReyS1Aju4gikzg": [],
+ "2p3F7K6USCiBCun1LXUhkw": [],
+ "2pbGJx7nQFugwRIMV7q7_A": [],
+ "2pBrq9OIRTy4lCWnittYKg": [
+  {
+   "grab_time": 164.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 170.8
+  }
+ ],
+ "2PgEJwl8QG2JKPfYSa7u2A": [
+  {
+   "grab_time": 143.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 155.9
+  }
+ ],
+ "2PggVXzVSFCTF_wbfkUzqg": [],
+ "2Ph_9KGJRpWTXIAKfQixmw": [],
+ "2pLgPMXGRBm_krzRFTMeLg": [],
+ "2PmB750LSgGcWEn0J5EIEA": [],
+ "2Po855UyQ-yQ1YfQMqnT8Q": [],
+ "2PqGDTbZQsKW13QF2Mrk-Q": [],
+ "2pUSFLDxQQ-s548Vj6Ncsw": [],
+ "2Q6G6vKpRa2e7xp0Uu5ELA": [],
+ "2QcY18dtRkOqcywXFjOFfA": [],
+ "2QECElVyR1uXGhyc6Db7dQ": [],
+ "2QF6RSoNSima90-xNEunYQ": [],
+ "2QIGaIVOSzqWbbDYZmUQBw": [],
+ "2QJdpuucQWSMdBogM4_ZGQ": [
+  {
+   "grab_time": 54.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 161.2
+  }
+ ],
+ "2Ql7Nim-Qq2uns8OS7wG_g": [],
+ "2QlRd69HTlCLpLeyCuOHDg": [
+  {
+   "grab_time": 80.5,
+   "source": "Green",
+   "transfer": {
+    "time": 93.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 103.7
+  },
+  {
+   "grab_time": 190.6,
+   "source": "Blue",
+   "transfer": {
+    "time": 219.2,
+    "test": "Red"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 228.5
+  },
+  {
+   "grab_time": 249.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 256.4
+  }
+ ],
+ "2qnqDgwOSrG1xT5IkYVX6A": [],
+ "2QwE7N9XQSWxjxcd5RIThg": [
+  {
+   "grab_time": 61.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 73.2
+  },
+  {
+   "grab_time": 128.1,
+   "source": "Green",
+   "transfer": {
+    "time": 180.6,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2r7GT4ZPSBG95RL9SGSR8w": [],
+ "2RLYHprKRqiTrR0wh22M2w": [],
+ "2rmL0mDFT6yxYu4M22bZ6A": [],
+ "2rTN3mURShOe4c0HM0nQow": [
+  {
+   "grab_time": 206.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2RUADPAoSEWU_A43DXSdXw": [],
+ "2rWx8c7AQZWRDurWuMfuaw": [],
+ "2RYpOL_yS0i7ubfmZUpR6w": [],
+ "2R_LRW2WQuyjTmPAfNQcuA": [],
+ "2S6UbOPwTBaNJQ2qQWjelA": [],
+ "2sccH77MR2ejZ_9drV9_Nw": [],
+ "2shMZFa5TSWzgQ67kJ6C1Q": [],
+ "2sjHMRp5T4iO8t7r7Bf4kw": [
+  {
+   "grab_time": 26.7,
+   "source": "Red",
+   "transfer": {
+    "time": 32.2,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 39.3
+  },
+  {
+   "grab_time": 85.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 101.5
+  }
+ ],
+ "2SOheSPiRsaxs_zjWKetnQ": [
+  {
+   "grab_time": 91.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 198.3
+  }
+ ],
+ "2sPfzcKNTI2V3jS7Kavgxg": [],
+ "2StBaXGaR8ye8ZJseVWo5w": [],
+ "2sXHgCEcSQ-XQyslO3Je5w": [],
+ "2s_SY2rzQhe-0hSA_aW8RQ": [],
+ "2t1kfUM7QiuWefDkweeQHQ": [],
+ "2Tc3bMAlQgaifXZuVm1v_A": [],
+ "2Tc6gwlsRqapP5O_N5VH6w": [],
+ "2Tj9G0KiS0mUU--oWqjpAQ": [],
+ "2tLNvTiiSu2HWphswiepmA": [],
+ "2tTBVN_wQAieZBvK2WXCqQ": [
+  {
+   "grab_time": 25.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 29.3,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 34.7
+  },
+  {
+   "grab_time": 139.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2TtiitpnQMGhQVW3Hz-VBA": [
+  {
+   "grab_time": 8.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 67.4
+  },
+  {
+   "grab_time": 191.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2Tx--rOVSky9dO1YpkX1JA": [],
+ "2tXS5AjqTTanYYbC_8YHyA": [
+  {
+   "grab_time": 59.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 67.7
+  }
+ ],
+ "2u013i8UQ6mVrNfyUTcqUw": [],
+ "2uaS2aVhQ0SNQE0W3llXNw": [
+  {
+   "grab_time": 77.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 89.2
+  }
+ ],
+ "2uGa6PAZTo-3fJEEQKaJ6w": [],
+ "2Uhg-esZSCeHne50rt7mpg": [
+  {
+   "grab_time": 97.9,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 109.1
+  },
+  {
+   "grab_time": 176.8,
+   "source": "Blue",
+   "transfer": {
+    "time": 180.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 188.1
+  }
+ ],
+ "2Ukhi5mPRn-Ed_GbA1YXbw": [
+  {
+   "grab_time": 156.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2UM95Q8ERiSYtV9PY5JeHg": [],
+ "2upe60LcSsWzJDA2I-zU4Q": [],
+ "2UPMuC1TQEG-bqKSVgLyrw": [
+  {
+   "grab_time": 163.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 182.3
+  }
+ ],
+ "2uQAm4PQRpigvz3RyrXXdg": [],
+ "2URS-bDRR9iz0wyEmXlFIw": [
+  {
+   "grab_time": 48.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 62.7
+  }
+ ],
+ "2V12nwXoSN6e5R10321ldw": [],
+ "2V2EIc2mS1-er5e3DxJM0g": [],
+ "2v2Z3MiqQwO81Lx2q4H8cw": [],
+ "2Vf_-W52T3mFhQg6KosEKg": [],
+ "2VR4l0NvTySGHRtC5pAavg": [],
+ "2vSHO4OvQcmlVzOiN4rwDw": [],
+ "2W0YgEFySAW2k0wNEj9hMg": [
+  {
+   "grab_time": 40.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 44.6,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 56.1
+  },
+  {
+   "grab_time": 117.1,
+   "source": "Green",
+   "transfer": {
+    "time": 120.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 131.4
+  }
+ ],
+ "2wasJAOsRTCLG93DW7UBAg": [
+  {
+   "grab_time": 8.0,
+   "source": "Green",
+   "transfer": {
+    "time": 74.6,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 88.2
+  },
+  {
+   "grab_time": 151.3,
+   "source": "Yellow",
+   "transfer": {
+    "time": 168.6,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 217.6
+  }
+ ],
+ "2WCbByPLTD2Wh5-xUMoqJg": [
+  {
+   "grab_time": 22.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2WFis-sHT0mmh9AQTUqbgA": [
+  {
+   "grab_time": 183.7,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 230.4
+  }
+ ],
+ "2WFpUoX1Rq6nMSvol6lP5g": [
+  {
+   "grab_time": 8.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2wh0SEVxSayJYmBoarOxcw": [
+  {
+   "grab_time": 36.2,
+   "source": "Green",
+   "transfer": {
+    "time": 44.0,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 50.1
+  },
+  {
+   "grab_time": 141.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 177.3,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2wrV8QXmQjOF0Sp1CRlSFw": [],
+ "2wxFzK_iQgKyqUdpieq24A": [],
+ "2w_sMkFdSLKSVodPbpem0A": [],
+ "2X4uRqq3R_uWwOk12_F4GA": [],
+ "2x4VxTJsS2-sv5OrnyG1dg": [
+  {
+   "grab_time": 14.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 27.1
+  }
+ ],
+ "2xBildeASTehDGqYmdsVmw": [],
+ "2xKIUnv0QeKzUvMfsrbIjQ": [
+  {
+   "grab_time": 101.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 114.2
+  }
+ ],
+ "2XL37uRGShGqu18pDJL-Kg": [],
+ "2xvtawyaRcCL0AfCMvnS5g": [],
+ "2XvYGSjuQNSU5CKAj6d2SQ": [
+  {
+   "grab_time": 104.3,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 115.9
+  }
+ ],
+ "2xZgp5gxTMqiw6yDsHK0Ow": [
+  {
+   "grab_time": 8.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 91.5
+  }
+ ],
+ "2y4O2Aw1R7WdNpFOlUoPyA": [],
+ "2Y6H28gaTYiu2fc8JkzSkQ": [
+  {
+   "grab_time": 86.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 94.8
+  }
+ ],
+ "2ybqFjzCRVaO0ghFqECBbA": [
+  {
+   "grab_time": 134.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 145.5
+  }
+ ],
+ "2YhZK0xLTMO-bDltutfHUg": [
+  {
+   "grab_time": 118.7,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 127.7
+  },
+  {
+   "grab_time": 199.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2YUGB28gQAO4VD9ZJJvdKA": [],
+ "2zOprDOGSd6PGTjgS34uCg": [
+  {
+   "grab_time": 60.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "2zzazTnvRNeXaauUYoHZiQ": [],
+ "2_2FW1fURpqkIhXZ9opvyQ": [
+  {
+   "grab_time": 129.9,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 192.6
+  }
+ ],
+ "2_cJFzf6Tbi4YZ8F8CX8og": [],
+ "3-0pr7WlQky0aaRi7v3y2Q": [],
+ "3-0v8zb9RBi-W_AdCb0hMQ": [
+  {
+   "grab_time": 25.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 97.4
+  }
+ ],
+ "3-2m7RQ2R6uO7LY2p-vncg": [],
+ "3-6fSKOBQXa_EDhS2JKEHw": [],
+ "303yFgTGSAubjmVyz7Tr9A": [],
+ "305MUzQoTdGoWTTMQ-MaLw": [],
+ "30fytSJyTb-n8jFNw23LqA": [
+  {
+   "grab_time": 5.1,
+   "source": "Blue",
+   "transfer": {
+    "time": 8.5,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 13.0
+  },
+  {
+   "grab_time": 97.4,
+   "source": "Red",
+   "transfer": {
+    "time": 116.3,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 133.9
+  }
+ ],
+ "30u1UTjwR4qGpvBxALrUpQ": [],
+ "3175hCCSQYqoUSZQcEjmPA": [],
+ "31BkBaQISsyS1Un5HKSZzA": [],
+ "32m9oTsAQRSd6N5BYSxd6A": [
+  {
+   "grab_time": 119.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 130.9
+  }
+ ],
+ "32nHqOhuTwKC_0KDRwTmxw": [
+  {
+   "grab_time": 93.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 96.8
+  },
+  {
+   "grab_time": 196.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 209.7
+  }
+ ],
+ "32OS8A-gR4qZYCpmpVSB_w": [],
+ "32Ov5HYPReCTYobwGEpetQ": [],
+ "32swdfw5RsyQ8xmr1_t_sw": [
+  {
+   "grab_time": 9.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 37.3
+  }
+ ],
+ "3320nJprTVqlQi5rsDanGA": [
+  {
+   "grab_time": 137.0,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 145.2
+  }
+ ],
+ "336b6HXhTOi0iwKZqixkmw": [],
+ "33Cesmv9RCSPwSJd8mQ9eA": [],
+ "33HWUEwDRfqV8x60uLaZ3Q": [
+  {
+   "grab_time": 25.4,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 37.7
+  }
+ ],
+ "33PBv0doRSqttJDSg8o_pw": [
+  {
+   "grab_time": 14.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 51.2
+  }
+ ],
+ "33PY-xjCQGa9CiUBoujicw": [],
+ "33uBMzOuSV6Wse2zCU0XEA": [],
+ "33wmtDPbQzq3zPCwgG81bQ": [],
+ "341J2EFwTZyC0GQ5YR6EQQ": [],
+ "34eQiQzvRfel9baZ9ox2cA": [
+  {
+   "grab_time": 79.0,
+   "source": "Green",
+   "transfer": {
+    "time": 100.5,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 115.1
+  },
+  {
+   "grab_time": 151.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 169.4,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "34UUrqRvTL6r1-jYGISmiA": [],
+ "35LrzJ9UQMO55jxxKW3wWQ": [],
+ "36bgOZWlQj-GABE2Y6F1lg": [
+  {
+   "grab_time": 216.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 253.4
+  }
+ ],
+ "36bOy1GrSQKeoOI7E1Ag1Q": [],
+ "36jrK4tXR2GwnrYFJDd6oQ": [],
+ "36NdCzH-RMuUqa0S_Ir4mg": [],
+ "36rCGAPLQjud_J7Gn73VYg": [],
+ "36zs-ixQRMiKmd7sLvD4tg": [],
+ "377WDXSNQCGawUxd86xJeA": [],
+ "378qtBypSYSGldcI0EIIVQ": [],
+ "37GbYQx3R7esyJos1QhRcw": [],
+ "37Jm43CRSHCOT9KKYNEerQ": [
+  {
+   "grab_time": 20.3,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 35.5
+  },
+  {
+   "grab_time": 109.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 164.9
+  }
+ ],
+ "37kh8uDgQsGr2EC2AAyRzg": [],
+ "37uzIC1qRMGPmny-Q2m1eg": [],
+ "37XBVyBRSFaWISv285PXKQ": [
+  {
+   "grab_time": 12.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "37XTgWi5QNysaO3g7n3J9Q": [],
+ "387iZsCLS0e09CN4niCJXg": [
+  {
+   "grab_time": 149.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 158.0
+  }
+ ],
+ "398Vlb5SQrKMebe9f-2VeQ": [
+  {
+   "grab_time": 58.9,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 110.9
+  }
+ ],
+ "39DKyDJSRjWV669PXN_62A": [
+  {
+   "grab_time": 143.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 156.3
+  }
+ ],
+ "39J5_OIrRxqHHZVC8R920w": [],
+ "39ui55e8RDiuGVIHyeCBAg": [
+  {
+   "grab_time": 64.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 86.0
+  }
+ ],
+ "39xxcmPXRlSQbVuLS8H8MA": [],
+ "3a-ItQkjTb-z_0Odds2wAQ": [],
+ "3a2BhkJ5RnWR61as0KuTAA": [
+  {
+   "grab_time": 10.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 67.7
+  }
+ ],
+ "3adbS-5cRvuCyhsFyxZI8A": [
+  {
+   "grab_time": 71.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 88.2
+  }
+ ],
+ "3AkNmyuYSDmFD33a0wtHNQ": [],
+ "3ASt5vI0RB-p2myFPW3tmQ": [],
+ "3aT_kLFRSQ-l0iK58CGYLA": [
+  {
+   "grab_time": 20.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 27.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 35.5
+  }
+ ],
+ "3B2cXcJtQfqMPxDEpWDZvQ": [],
+ "3BAHt5xgRGqDLqW_7ujR7g": [],
+ "3bfysmsbTruDWjJZFyPzaw": [
+  {
+   "grab_time": 81.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 136.2
+  }
+ ],
+ "3BfzsC9yQwG6WzVwtkXAmA": [],
+ "3BQRpfFpQKOwBAdPobNjcw": [],
+ "3bVsHYkyTBWtiBc9H2ndfA": [],
+ "3c64WuS9SM2NkCxAvwNFnw": [],
+ "3CaCY4s_TxGrzBcybrpnjw": [],
+ "3Cnl9a34TWmDH-znC5lEGQ": [
+  {
+   "grab_time": 33.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3cNvyQATQFmDsUyNrcxI6w": [],
+ "3CQAqPYtQeSNWGify3ezNw": [
+  {
+   "grab_time": 79.7,
+   "source": "Red",
+   "transfer": {
+    "time": 83.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 88.9
+  },
+  {
+   "grab_time": 165.6,
+   "source": "Blue",
+   "transfer": {
+    "time": 169.0,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 173.9
+  }
+ ],
+ "3CT1J6owRny1VQyYbaKA-w": [],
+ "3CuFVwK2RRSqezZqnNyguw": [
+  {
+   "grab_time": 91.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3cUy8QoJSk6Cgx-HUcgxkg": [],
+ "3cx182AIRNG6qM16d9Mt0w": [],
+ "3dADI335Q0KIWWxoDXTfew": [
+  {
+   "grab_time": 184.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 194.3
+  }
+ ],
+ "3DAiLxySQdGruz6id6n5zg": [],
+ "3dIj8WAyQbyYJlT5TDZsQg": [],
+ "3dki6N-ESB2JlFBak55lqA": [
+  {
+   "grab_time": 12.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 134.9
+  }
+ ],
+ "3dqo2zqeQ8O0WrpmRZ4Jgw": [
+  {
+   "grab_time": 93.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 104.5
+  }
+ ],
+ "3dr41RKdQvOSo-vw2_i2Vw": [
+  {
+   "grab_time": 98.7,
+   "source": "Blue",
+   "transfer": {
+    "time": 107.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 113.6
+  },
+  {
+   "grab_time": 190.3,
+   "source": "Red",
+   "transfer": {
+    "time": 278.3,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 284.0
+  }
+ ],
+ "3Dx4m5BFRmOA2JZrSzLseg": [
+  {
+   "grab_time": 77.8,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3Dybmt-JTna02TPRLxHQHw": [
+  {
+   "grab_time": 5.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 9.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 13.8
+  }
+ ],
+ "3E9F7CDpS96rpudfXxo7wg": [],
+ "3EXwQvs7RS6THF86FgFhSw": [],
+ "3EzBiRmiQJity0OzjviEMQ": [],
+ "3FM6U2L4Tmay7xwQMTJ0NA": [
+  {
+   "grab_time": 19.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 40.7
+  }
+ ],
+ "3FTVJgmzRSC0wlClc8bWAQ": [
+  {
+   "grab_time": 13.1,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 28.0
+  }
+ ],
+ "3g7wQe9lQv2V8HXUuJjvvA": [],
+ "3G8GS_ZWTGuIkAkP3vzrfQ": [],
+ "3Gc89iVGSJegAgfLZAw7aQ": [],
+ "3GdoUZjUTSqPcWEh34QGGw": [],
+ "3gDvSetqT826TVwXEka-jg": [],
+ "3glnyKcGREaWluF21RExtw": [],
+ "3GPcPtPyTSKjPUQBP4-icg": [
+  {
+   "grab_time": 80.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 88.1
+  },
+  {
+   "grab_time": 172.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 179.9
+  }
+ ],
+ "3gqT4nxHRsWDCf6VLIyGHQ": [
+  {
+   "grab_time": 123.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 133.7
+  }
+ ],
+ "3gtTSMRNTumMy4K8gCWCQQ": [
+  {
+   "grab_time": 59.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3GxqAIt9QBy2j38GcpsVPg": [],
+ "3H22JhcuRSi5zocHS1y5Ug": [],
+ "3h4v3iX_SXK-4OC4eI5F5A": [
+  {
+   "grab_time": 149.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 160.7
+  }
+ ],
+ "3H5ptW8NSyeXyx9DeAhmhw": [],
+ "3HKPk5BgQ8OB5y2c8KmmsQ": [
+  {
+   "grab_time": 12.6,
+   "source": "Blue",
+   "transfer": {
+    "time": 74.0,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 78.7
+  }
+ ],
+ "3hvaax6yQEeGBiKPgmwCKg": [],
+ "3i11hpczRtqv0nX6R71UKQ": [
+  {
+   "grab_time": 84.0,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3iMaFC8USF6RpCRzZRbnfw": [],
+ "3iOl-IjxRuCOSkp7_MIN5g": [],
+ "3itmOnTgS1yOmlW0ac0weA": [
+  {
+   "grab_time": 53.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 163.4,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 171.3
+  }
+ ],
+ "3IUxoUZySxaUKKhSOzvGEg": [],
+ "3J8qKRnqTM27Q52GoWLGJg": [
+  {
+   "grab_time": 7.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 61.1,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 81.6
+  },
+  {
+   "grab_time": 163.7,
+   "source": "Yellow",
+   "transfer": {
+    "time": 166.2,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 176.4
+  }
+ ],
+ "3JeedlF9SRy4pzCZF1IGwA": [],
+ "3k3rNY5pTF6KkXWgQ4Il3g": [],
+ "3K94VhLCRqezb9ILAXsNDA": [],
+ "3Khff4jZQ6yrNoqrxyDiEg": [],
+ "3KyxWAtDSaCS0kdyPfV0eA": [
+  {
+   "grab_time": 17.4,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 64.7
+  }
+ ],
+ "3L2e5HJPSU6zVXDtlFHW7g": [],
+ "3l8nWpFOQ3a1WY41GDpvIw": [
+  {
+   "grab_time": 19.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 80.8
+  },
+  {
+   "grab_time": 222.2,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 233.5
+  }
+ ],
+ "3LKqfELMSjSpTfCa42u_4Q": [],
+ "3lUEvhzSTgK5G70gi83wfg": [
+  {
+   "grab_time": 54.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 67.9
+  },
+  {
+   "grab_time": 126.0,
+   "source": "Green",
+   "transfer": {
+    "time": 129.2,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 136.7
+  },
+  {
+   "grab_time": 168.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 174.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3LZQQ9GmTxCFxcbjMAp8Rw": [
+  {
+   "grab_time": 32.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 66.6
+  },
+  {
+   "grab_time": 118.1,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 163.8
+  }
+ ],
+ "3M6YTv44RtmMQl6ZkVUKdQ": [
+  {
+   "grab_time": 35.0,
+   "source": "Blue",
+   "transfer": {
+    "time": 44.6,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 50.0
+  },
+  {
+   "grab_time": 90.6,
+   "source": "Green",
+   "transfer": {
+    "time": 98.2,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 103.6
+  },
+  {
+   "grab_time": 114.8,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 123.1
+  }
+ ],
+ "3MfgGZRJTnG1idh3UMw5lg": [
+  {
+   "grab_time": 157.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 166.4
+  }
+ ],
+ "3mKLbxgUQFCAC3ZDIkdb3w": [],
+ "3MXsiCKsSIe6y4gyCY94Cw": [],
+ "3N6zOWw9QJi1deGnZsvb2w": [
+  {
+   "grab_time": 225.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 236.3
+  }
+ ],
+ "3N9sutIbThuv0kFFSHMKyg": [],
+ "3NEseDU1QJ6qJD852LLO3Q": [
+  {
+   "grab_time": 74.4,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 82.5
+  },
+  {
+   "grab_time": 150.1,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 157.5
+  }
+ ],
+ "3nGgyvjzSumfrtbL73YQaQ": [],
+ "3Ngo04RsQK6P9-52V7-uQQ": [
+  {
+   "grab_time": 95.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3nk-2PwPTYe62zL_nv0ryw": [
+  {
+   "grab_time": 43.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 95.1
+  }
+ ],
+ "3Nla5P0uTOyjOjXnM3Da7g": [
+  {
+   "grab_time": 130.2,
+   "source": "Green",
+   "transfer": {
+    "time": 138.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3NmcDegDTAW1az14R6CY1g": [],
+ "3NQK8ZafR2CtT6PlScpfDA": [
+  {
+   "grab_time": 11.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 126.2
+  }
+ ],
+ "3nQUWcTOTXqEoNM-pfX0hw": [
+  {
+   "grab_time": 67.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 81.8
+  },
+  {
+   "grab_time": 122.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 131.7
+  }
+ ],
+ "3NwqavNSS_qdEPiBqmDOHw": [
+  {
+   "grab_time": 74.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3O1jMhlhTwakzKmj-DnRag": [],
+ "3Og2BnWZS_26SUTp_lpMRw": [],
+ "3Ogug24bSIilK9kd3jfuug": [],
+ "3OLQhnbjSYiCf5jxUhI0Gg": [
+  {
+   "grab_time": 24.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 110.8
+  }
+ ],
+ "3ONmFXd3Smq-rlUbguvwoA": [
+  {
+   "grab_time": 59.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 69.6
+  }
+ ],
+ "3OOMQEG-Ta-nRGDT9YLkdw": [],
+ "3oYpfqSvQH6nhXrp23U1aA": [],
+ "3ozLD-N9SMyroUyjBOfsrg": [],
+ "3p3iHzpITU24DJrDpNxs0A": [],
+ "3pD8u_4VSFCJIc-Wfe0vPw": [],
+ "3pI-SbcRSH60FvDnG26f5Q": [
+  {
+   "grab_time": 71.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 147.7
+  },
+  {
+   "grab_time": 179.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 185.8
+  }
+ ],
+ "3PIw78EFSOOrefjT54XTbg": [],
+ "3Pvd2tTbT1e3R4Klj3POtg": [
+  {
+   "grab_time": 122.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 139.5
+  },
+  {
+   "grab_time": 173.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 189.8
+  }
+ ],
+ "3Q2vCuflRn6geLybm-p20A": [
+  {
+   "grab_time": 28.0,
+   "source": "Blue",
+   "transfer": {
+    "time": 36.7,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 41.2
+  },
+  {
+   "grab_time": 79.0,
+   "source": "Green",
+   "transfer": {
+    "time": 86.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 92.9
+  }
+ ],
+ "3Q75VmlyTx65NeOL0pvROw": [],
+ "3QFEv6DOQeedxNf84fuHbQ": [],
+ "3qftOAr0TCSiova7MBPyNw": [],
+ "3QtscUrtRx2KQQpsQ-oBKQ": [
+  {
+   "grab_time": 70.6,
+   "source": "Blue",
+   "transfer": {
+    "time": 140.5,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 146.2
+  },
+  {
+   "grab_time": 210.6,
+   "source": "Green",
+   "transfer": {
+    "time": 213.8,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 220.0
+  }
+ ],
+ "3QUEmHUBT8OxNCdr6IPlPQ": [],
+ "3qZcgxUfTNm0uthM_POrSg": [
+  {
+   "grab_time": 62.6,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 106.2
+  }
+ ],
+ "3q_eCSLTRLOSft-io8Ri_Q": [],
+ "3R-7gQq2RnC7KuEp7CTkiw": [],
+ "3R1UtqM0TB29NeHbHWU9uQ": [],
+ "3RA3BpI2R1O8Y83iTXA61g": [
+  {
+   "grab_time": 163.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 171.7
+  }
+ ],
+ "3rGGXyWoQQmV1BX5aj9qeA": [
+  {
+   "grab_time": 48.7,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 92.0
+  }
+ ],
+ "3rKWWt4gS7eS8rU6lWL0LA": [],
+ "3RL-ESKrSMWIMYnOwB26UA": [
+  {
+   "grab_time": 230.7,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 240.2
+  }
+ ],
+ "3rL662LrSuyxhUwWuSDYzg": [],
+ "3rm4Bp7wQjqoXGtS-nraMA": [],
+ "3rouwbDZR3Km1Px0HtyHWg": [],
+ "3RSAKfbKTYe5sNhb7n99dw": [
+  {
+   "grab_time": 6.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 52.0
+  }
+ ],
+ "3sC6cdayQ665RATA53aBOA": [
+  {
+   "grab_time": 33.7,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 44.7
+  },
+  {
+   "grab_time": 113.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 123.8
+  }
+ ],
+ "3SgraSu9Q1mspRza6uYFuQ": [
+  {
+   "grab_time": 16.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 113.8
+  }
+ ],
+ "3sIuPoQLQWWmJPg64qZKrQ": [],
+ "3sSP1sEhR_yPtsD3_S7HuA": [],
+ "3T2MuZzPRNSZ6q09eQEOgw": [],
+ "3TEJIl0eShmp_iVC5EGd3g": [
+  {
+   "grab_time": 78.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 87.6
+  }
+ ],
+ "3TGgqGQURkeHmfCx0miTqw": [
+  {
+   "grab_time": 72.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 105.9
+  }
+ ],
+ "3tGHqNaOSAeqduDSKMtNVg": [
+  {
+   "grab_time": 105.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 129.7
+  }
+ ],
+ "3TGZTS7MS0iUjiVJrPhXaw": [],
+ "3tPv4zfzRum4aaP6QtHbbQ": [],
+ "3Tq8T7IdSmOUS8yAPx1qyw": [],
+ "3TRRMNWwQEaNMSnq9v5czA": [],
+ "3U0T1jFHR02wuq-iurGngQ": [
+  {
+   "grab_time": 25.0,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 34.4
+  },
+  {
+   "grab_time": 58.8,
+   "source": "Blue",
+   "transfer": {
+    "time": 66.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3u7F_LlESXq7Wu05akdASw": [
+  {
+   "grab_time": 99.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 110.8
+  },
+  {
+   "grab_time": 159.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 171.6
+  }
+ ],
+ "3UklMUvpQ0C16Li-ss477A": [],
+ "3uTSivAURXGUYTwb7CJjQw": [],
+ "3uVHcuVqRs6HUmj1WjP4rw": [
+  {
+   "grab_time": 76.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 93.0
+  },
+  {
+   "grab_time": 164.6,
+   "source": "Green",
+   "transfer": {
+    "time": 167.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 177.2
+  },
+  {
+   "grab_time": 196.4,
+   "source": "Blue",
+   "transfer": {
+    "time": 199.5,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 203.8
+  }
+ ],
+ "3uZR856LRA6mZfgKMhCvfg": [
+  {
+   "grab_time": 13.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 38.4,
+    "test": "Red"
+   },
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 79.2
+  }
+ ],
+ "3VaLdgEMSLuTKns3VWKskA": [
+  {
+   "grab_time": 15.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 158.5
+  }
+ ],
+ "3VBmQy3DRvWBWr1j1Zw3Sw": [],
+ "3VN1RFTDTui0EdSZQAxLkQ": [
+  {
+   "grab_time": 47.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 140.9
+  }
+ ],
+ "3vqmD-JDR_CbrJGSJhdm1A": [],
+ "3VS_UdFTQICcdQZd_CZ1vg": [
+  {
+   "grab_time": 118.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 127.9
+  }
+ ],
+ "3vUWJhcGR1msw7kjEJJNAw": [
+  {
+   "grab_time": 8.4,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 72.7
+  }
+ ],
+ "3VuxVak8QB2AGPD_Coi7ig": [
+  {
+   "grab_time": 11.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 60.6
+  },
+  {
+   "grab_time": 0,
+   "source": null,
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 60.6
+  },
+  {
+   "grab_time": 200.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 208.1
+  }
+ ],
+ "3vWH7M_sS461rmT3TfpzbA": [],
+ "3vzwiAvMR7-3ouEMQoS2zA": [],
+ "3W6J4zpVTUCmLQmeewFtnA": [
+  {
+   "grab_time": 7.8,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 43.4
+  }
+ ],
+ "3w7HiPKETDmBiwfeptgW9w": [],
+ "3WAt97RgQ7mSWlidMkUqPg": [],
+ "3WDgOfSSTMKcv5avEm6lUg": [],
+ "3Wpcnl1qTkmcHRdGBfBH7A": [
+  {
+   "grab_time": 19.0,
+   "source": "Green",
+   "transfer": {
+    "time": 98.1,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 122.5
+  },
+  {
+   "grab_time": 151.9,
+   "source": "Blue",
+   "transfer": {
+    "time": 161.4,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 167.0
+  }
+ ],
+ "3wUZXyu-SHabmkKFGaUvXA": [
+  {
+   "grab_time": 5.7,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 16.6
+  }
+ ],
+ "3x4Hfa6aRHmo3g2DRiik8w": [],
+ "3xeyU1vQT-KWscbmHl9QXg": [],
+ "3xG3JbCHSZWBX7xU0ZhPEg": [],
+ "3XIvQkM4R4qM6qUcIS_NbQ": [],
+ "3XPsNOpGQjWnd5lzF9D_mQ": [
+  {
+   "grab_time": 65.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 123.0
+  }
+ ],
+ "3xsOUq2MRxC45TsDVlh60A": [],
+ "3XxLpfEgQXKeVlerA-lMGA": [],
+ "3y8hSrTESYiK7g8ctknCCw": [],
+ "3ycy-tZ2St6T08VR_g0xaA": [
+  {
+   "grab_time": 51.8,
+   "source": "Green",
+   "transfer": {
+    "time": 56.4,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 61.5
+  },
+  {
+   "grab_time": 135.3,
+   "source": "Blue",
+   "transfer": {
+    "time": 138.8,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 142.9
+  }
+ ],
+ "3yKtkCvoT-qpp3o4-2cz9g": [
+  {
+   "grab_time": 100.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "3YXkcS4qSh62Qv6DrpN4MA": [
+  {
+   "grab_time": 75.5,
+   "source": "Blue",
+   "transfer": {
+    "time": 82.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 88.5
+  }
+ ],
+ "3Z6MaKXXRVqvRn5g5mwH0A": [],
+ "3zasf0wTQNqEwutu9twRpQ": [],
+ "3zBKq3glQAGvvj1mxII5cQ": [
+  {
+   "grab_time": 78.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 122.1
+  }
+ ],
+ "3ZbPSoZ5RuqfS3ID3x-qhg": [],
+ "3zgHTKzsSlmUDNoPlmlhhg": [],
+ "3zktEukfT0eErRRAccrAfA": [
+  {
+   "grab_time": 150.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 181.0
+  }
+ ],
+ "3ZT6xeLnQR2B4l9mDvOc9g": [
+  {
+   "grab_time": 55.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 68.0
+  }
+ ],
+ "3Zz9x5CFQbeOK-sT2RwNpw": [
+  {
+   "grab_time": 15.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 36.1
+  },
+  {
+   "grab_time": 103.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 114.8
+  }
+ ],
+ "3_cAOhtGQ0i89-JbdFMrPw": [],
+ "3_GUMkTCSYiWLtCIphmHrw": [],
+ "4-4zTOLwT-i5-QpY8Whohg": [
+  {
+   "grab_time": 16.7,
+   "source": "Green",
+   "transfer": {
+    "time": 29.7,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 35.0
+  },
+  {
+   "grab_time": 140.1,
+   "source": "Blue",
+   "transfer": {
+    "time": 202.1,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4-hbstrMRoG0XVTIv2p3sQ": [
+  {
+   "grab_time": 58.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 65.8
+  }
+ ],
+ "4-I-rZaWRcapVgZLJg1lQw": [],
+ "4-r405kQSbevB7dEpWK8Gw": [
+  {
+   "grab_time": 102.4,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 107.2
+  }
+ ],
+ "4-W4HA8kROq-H9zOqul8qA": [],
+ "4-ZMT47PRb2NkpCjWvMvNg": [],
+ "402Qc5-aSmmbTzPULsgSHw": [],
+ "40hDc16yRvCiDk46bgI3bg": [
+  {
+   "grab_time": 6.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 104.6
+  },
+  {
+   "grab_time": 221.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 233.4
+  }
+ ],
+ "40ObT3G2TB6Jn4iddk16Ew": [
+  {
+   "grab_time": 13.9,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 36.3
+  }
+ ],
+ "41DqED3-QNGzdy9Inu6OPw": [],
+ "41jipR9BQEKthyy5WOaRrg": [
+  {
+   "grab_time": 59.9,
+   "source": "Yellow",
+   "transfer": {
+    "time": 105.0,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "41S1SAVhTt670PXseE4fzQ": [
+  {
+   "grab_time": 44.0,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 54.4
+  }
+ ],
+ "41XbIgTTTc2opVPcC6OuBQ": [],
+ "4234BTXNSAiceZdw74mG8Q": [],
+ "43D3-RmcQgGWgJJ4TvQuKA": [],
+ "43ZqpvdRRteULIqZ7pGFjw": [],
+ "447TadZgT0m0kRs_5f8zJw": [
+  {
+   "grab_time": 91.9,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 108.8
+  }
+ ],
+ "44wjpa2iSNWvFAQ9lo7Y6Q": [
+  {
+   "grab_time": 109.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 122.0
+  }
+ ],
+ "45AKpZJVTUuFr--YBnCdUw": [],
+ "45gn4DKvRcWOonjC6KuseQ": [],
+ "45hCoQBaQU-baqupszTuzQ": [
+  {
+   "grab_time": 26.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 39.5
+  },
+  {
+   "grab_time": 61.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 68.3
+  }
+ ],
+ "45jh80LvQVu58e4o-c6mMQ": [],
+ "45YyTKJfT5G0X6t-3_CdGw": [
+  {
+   "grab_time": 86.9,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 123.2
+  }
+ ],
+ "46LTc5ZySeitbr1LpEMCgQ": [
+  {
+   "grab_time": 64.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 69.2
+  }
+ ],
+ "470zsjmdQxCGhfyaxiG1VQ": [],
+ "479CJkW-QBepMMPLaSrKMA": [],
+ "47fd1vBwSZa5UgoYjwniMw": [],
+ "47Fe6SUVRSyrNDeI_AdUWA": [
+  {
+   "grab_time": 19.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 32.7
+  },
+  {
+   "grab_time": 84.3,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 96.7
+  }
+ ],
+ "47Ii6TnbQ_KjQv0Wd-WCSA": [
+  {
+   "grab_time": 55.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 75.6
+  },
+  {
+   "grab_time": 129.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 145.5
+  }
+ ],
+ "47L2foBeSl--AmoNnhEIoQ": [],
+ "47wuWOdQSQiZYc83aOo1Mw": [],
+ "48P4OTkQSN2VTok61yPnOg": [],
+ "48tgEWN9RPOCmRHtCX4JVA": [],
+ "492fcD9sQamiumVQR6-UEw": [
+  {
+   "grab_time": 15.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 28.3
+  },
+  {
+   "grab_time": 140.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 149.7
+  }
+ ],
+ "49D5a1RYT1mWrt00qBJPDA": [
+  {
+   "grab_time": 119.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 127.4
+  }
+ ],
+ "49e4GeXbTE2iKxD6qNhw7A": [
+  {
+   "grab_time": 45.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 150.2
+  }
+ ],
+ "49J0h8wrQYeGBzmHnkTw0Q": [],
+ "49L8vhOSTgCfGh9zghIcVA": [],
+ "49z1x6qiR8yCEb5cBnh4BQ": [],
+ "49zV-WF8RTa7DkLmWDG5gA": [
+  {
+   "grab_time": 15.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 22.5
+  },
+  {
+   "grab_time": 77.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "49_MgtTmQ-Cjb477zQGG6g": [],
+ "4A314X4hRtSGlVHgVh1rjg": [],
+ "4A9WLCFySEWf45YFIIXXDA": [],
+ "4ah9cpLZQbKQhZ8L2PU0fQ": [],
+ "4Alc06OaTIezkM-nTstKHg": [
+  {
+   "grab_time": 101.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 113.4
+  },
+  {
+   "grab_time": 188.0,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 200.1
+  }
+ ],
+ "4AOzUewqRc2kfVnAjHyPvQ": [],
+ "4Au7eY5VQ6mz4KMeSLTonQ": [
+  {
+   "grab_time": 107.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 116.0
+  }
+ ],
+ "4Awn4dISQGO_OOxCB9BZYg": [
+  {
+   "grab_time": 9.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 19.4
+  },
+  {
+   "grab_time": 116.0,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4ax2W8xXRv609vkEdPHGzQ": [],
+ "4b4oEGyJQsmkwP4y4HB01w": [],
+ "4bI7lG1EQNOyvLJrII3zWQ": [
+  {
+   "grab_time": 43.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 110.9
+  }
+ ],
+ "4BIQfvZpT6CP-eEnXvshoQ": [],
+ "4bpAHshjRMCQrHSqt1C-cg": [],
+ "4bQaXnHGQmCZsN_f85JBOA": [],
+ "4bT_AFe9RAyV2T5C2KBmHg": [
+  {
+   "grab_time": 100.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 117.2
+  }
+ ],
+ "4ce5rEEbQjiCLX8vuK-Gow": [
+  {
+   "grab_time": 105.9,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4civt84GSbWIaVRJtJAVpQ": [],
+ "4CNHenDvRquZG58Xtrr1MA": [],
+ "4CQTxZ9sTJW1f8xON1OQYw": [],
+ "4d3PE4U7Q0aF9NZaTMqXoQ": [],
+ "4dAaDGtjSG6vTGRdu8IMEQ": [
+  {
+   "grab_time": 119.7,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 191.5
+  }
+ ],
+ "4DBZ5JWISImUTe1X6kpm0A": [],
+ "4DCDzv1QR--KSdCE_GN08g": [
+  {
+   "grab_time": 138.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 169.0
+  }
+ ],
+ "4dHlsTYzRJGy8mVdhzWGxw": [
+  {
+   "grab_time": 15.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 23.4
+  },
+  {
+   "grab_time": 163.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 190.9
+  }
+ ],
+ "4dIiH-QJTz6gMux_XVBQUA": [],
+ "4DT5wnPlSGuzB7D7MyGW2g": [
+  {
+   "grab_time": 46.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 54.4
+  }
+ ],
+ "4d_e9e6AT5Cg1tfIuVlX0Q": [],
+ "4e-HKAgESGmwNnqLJaPS1w": [
+  {
+   "grab_time": 129.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 179.9
+  }
+ ],
+ "4eEyqh_ZTIW7jFQv3mX4Qw": [],
+ "4eg9dWN9Qp6Kzqllrvj_mg": [],
+ "4EGKttOBQxCflEyedWDHrg": [],
+ "4EmjzX22RpCtv2KxHiYcQw": [],
+ "4epobjsBRfKg60FS5lv9TA": [
+  {
+   "grab_time": 68.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 80.5
+  }
+ ],
+ "4eRu_cu7TlG9I-dGqINrmw": [
+  {
+   "grab_time": 20.2,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 118.3
+  }
+ ],
+ "4fjG1n_0R0eqSofg6jY0NA": [
+  {
+   "grab_time": 22.9,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 175.9
+  }
+ ],
+ "4fl7bQi_QQiuIp-HNjMMZw": [],
+ "4FLZuYvPQfCjymCaN9qSKA": [
+  {
+   "grab_time": 12.4,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 22.2
+  },
+  {
+   "grab_time": 159.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 167.7
+  }
+ ],
+ "4fq-S0NQS32JPWAgb3oLFg": [],
+ "4fw4qP9pQ2KLD1xL0zkJiQ": [
+  {
+   "grab_time": 168.5,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 173.1
+  }
+ ],
+ "4fY-HW93Sf-cFrVqcEkgAw": [],
+ "4GDQ8tOuRGu4BCWAww-FSA": [],
+ "4GeAFe7NTFqmaywD3Y_r0A": [
+  {
+   "grab_time": 101.5,
+   "source": "Green",
+   "transfer": {
+    "time": 105.6,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 109.9
+  },
+  {
+   "grab_time": 154.8,
+   "source": "Blue",
+   "transfer": {
+    "time": 178.4,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4GEBhEzYSayvz-YPQ7FAoQ": [],
+ "4GouBvQtQXeZsNN71nNWcw": [],
+ "4GT83V5GRpuoR8sgTm6G0Q": [],
+ "4guCPal0R7OszWm9kS8xqw": [],
+ "4GWDK26bQgSsPM5lRLxDTA": [],
+ "4GYLu1KATASKlGlgJ5KymQ": [],
+ "4gZd_Zx0TpmTysBltqSGrg": [
+  {
+   "grab_time": 31.2,
+   "source": "Red",
+   "transfer": {
+    "time": 35.6,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4H4uoxYbSB6dZalzy23SbQ": [],
+ "4hawARtKSbKj30Mm_ktahA": [
+  {
+   "grab_time": 12.7,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 85.7
+  }
+ ],
+ "4HH0NPQVSzazRZJ4vF4pzg": [],
+ "4hj0UBtMTKucAtEbw2Rmrg": [],
+ "4HLjnjkdRIiZO1Fh2Cb6mw": [],
+ "4hMRqgelQtShUxid33wGfA": [],
+ "4HoB8jUpRHm9Fqu7JUOL6Q": [],
+ "4hoX-tL9QeG_HyoZT0wXwA": [
+  {
+   "grab_time": 23.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 41.7
+  }
+ ],
+ "4HRkRMrrQmWsvJQxDoUBbQ": [
+  {
+   "grab_time": 61.9,
+   "source": "Green",
+   "transfer": {
+    "time": 67.0,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 74.2
+  },
+  {
+   "grab_time": 118.0,
+   "source": "Blue",
+   "transfer": {
+    "time": 130.9,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 137.7
+  }
+ ],
+ "4HXOIIiaT6mswv-S509Xvw": [],
+ "4hYjBreLR96Qp0cs4-fBqA": [
+  {
+   "grab_time": 59.9,
+   "source": "Green",
+   "transfer": {
+    "time": 67.8,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 75.6
+  },
+  {
+   "grab_time": 135.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 149.3
+  }
+ ],
+ "4I55cooRTEekp1FkVEkXCw": [],
+ "4I6URvY5Rfay3S7LdVuOgQ": [
+  {
+   "grab_time": 47.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Yellow",
+   "return_time": 114.4
+  }
+ ],
+ "4IALKxpfQMWAVI7Cy1CEpg": [
+  {
+   "grab_time": 103.0,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 117.3
+  }
+ ],
+ "4IdD0nuySd2taYM6WeBZxQ": [],
+ "4igGmr1lS0e9NbTez8W3rQ": [
+  {
+   "grab_time": 166.8,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 176.2
+  }
+ ],
+ "4II0pjjURU67j_kYTkkW5Q": [],
+ "4IocbKh2RESbFCJEir46HQ": [
+  {
+   "grab_time": 95.6,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 196.2
+  }
+ ],
+ "4iS_xsPeRYGTo3jNMkpyrw": [
+  {
+   "grab_time": 9.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 112.1
+  }
+ ],
+ "4iTj75w1TRucVy5UzJk1rQ": [],
+ "4iUle5VRRSu350u43lELRg": [],
+ "4iWSFnRkQIeGKVh20GoJyw": [],
+ "4J6tdLm7SOK5ykKMQOrDNg": [],
+ "4j7Wmb1gSx6bak7mtAVwmg": [
+  {
+   "grab_time": 8.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 143.1
+  }
+ ],
+ "4jknuEFWTK2LS9Khy49rSg": [],
+ "4jn3sbKUQCORoPLEEeFkGA": [],
+ "4jPx9LyJRXSpXDEJOW4-dw": [],
+ "4jXNlI19QzWhYT-Wg3rnLQ": [
+  {
+   "grab_time": 171.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 206.3
+  }
+ ],
+ "4jxPrE9ASqeVXHeLa1Id4w": [],
+ "4jYec-XSSI6h_O4jUrNHkQ": [],
+ "4jzcGncsSPKMm_LUk8C1bQ": [
+  {
+   "grab_time": 16.7,
+   "source": "Yellow",
+   "transfer": {
+    "time": 20.3,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 29.4
+  },
+  {
+   "grab_time": 104.0,
+   "source": "Green",
+   "transfer": {
+    "time": 113.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 119.5
+  }
+ ],
+ "4JZQoeYKSIaipi1Lb6S6iA": [],
+ "4KEgJLntRZiSDE8i3fUG0g": [
+  {
+   "grab_time": 8.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 50.3
+  }
+ ],
+ "4KgxqbYvTlOQe-ybQT1XQw": [
+  {
+   "grab_time": 33.6,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 92.0
+  },
+  {
+   "grab_time": 109.1,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 117.7
+  }
+ ],
+ "4Kl-mr-3Q8O8z9oYlZnNmQ": [
+  {
+   "grab_time": 8.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4kL8PQknTjuiipOZbmB16Q": [
+  {
+   "grab_time": 31.8,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 47.5
+  },
+  {
+   "grab_time": 111.4,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Red",
+   "return_time": 120.9
+  }
+ ],
+ "4KoUnIMBTY6hleFD0sdZOw": [],
+ "4KToVyLCRmmUP4Tap1x5XQ": [],
+ "4kWBGVaKScmyQcbTOOgy9w": [
+  {
+   "grab_time": 161.0,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4KxiT7gqRdO4PUTbfCkb0Q": [],
+ "4lIAp7KFSue7zAzSFsMGmQ": [],
+ "4LkBF4LuT5SUHJ1P46HuFg": [],
+ "4lmODqfRQ0-lqB1LngQH5w": [
+  {
+   "grab_time": 31.2,
+   "source": "Blue",
+   "transfer": {
+    "time": 37.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4M5_obSQQ-mX46p6CGq33Q": [],
+ "4m9G6h1hSV6AS44VCzuv8A": [],
+ "4mc5fYS0RzCJha5cB3yLHQ": [],
+ "4MjFaTEjRbqJtsFzLSEcMA": [],
+ "4MozsZtcTRKCRFIbhUHI9g": [
+  {
+   "grab_time": 98.5,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 145.9
+  }
+ ],
+ "4mpLsdvoRD2CGlekDWnTkQ": [],
+ "4mqG3pZ_Qve-HVDmCS_C3w": [],
+ "4mQU2HUURC-zFl1XjY9ubQ": [],
+ "4N1lP1fcQlWdfsy11EZ_Lw": [
+  {
+   "grab_time": 37.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 48.4
+  },
+  {
+   "grab_time": 79.8,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 132.9
+  }
+ ],
+ "4NDgyTo3Tcq0tWNVx-Xd7w": [
+  {
+   "grab_time": 24.9,
+   "source": "Green",
+   "transfer": {
+    "time": 72.9,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 79.6
+  }
+ ],
+ "4NEnqq17SNmmFUG8PR2xbQ": [],
+ "4nleFdGBR1qm0hyzmQO5fw": [],
+ "4NLU3T7lQtuDQJ2MsbWoeg": [],
+ "4nl_TuXvQTSObR9ZRK-DBg": [],
+ "4NQnetndRHy0H0ia92ZTLA": [
+  {
+   "grab_time": 9.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4nrYfhkqSMuGSYvqsPrPvg": [],
+ "4ns0ijU3R26xJ5CxwESGmA": [],
+ "4nuvfcW4Q5KkKhCHuCHi3w": [],
+ "4nz6G429Qy-w1kI5VIi5_w": [
+  {
+   "grab_time": 29.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 43.5
+  }
+ ],
+ "4o1M5UcUQy-PcwmbjaQSsA": [
+  {
+   "grab_time": 16.1,
+   "source": "Green",
+   "transfer": {
+    "time": 31.2,
+    "test": "White"
+   },
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 80.7
+  }
+ ],
+ "4O3pdCBwQfaWr2-fYECjug": [],
+ "4oaqjhYKTqyY8Pde7auHIQ": [],
+ "4of0elZfRbiZZbVjglpkGw": [
+  {
+   "grab_time": 134.9,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 151.0
+  }
+ ],
+ "4OjfdA5NQ2KDB1UJjShXlw": [],
+ "4OJi5iA5SlaU6dUh3VHuZg": [],
+ "4oNycW5WRRO6H-d_0rZJUg": [],
+ "4oOslQE4QRKU6EUu6nmP9A": [],
+ "4ovHdC_-SgiHZE2NMh68bA": [],
+ "4oyACNryTSK_BfqX8K_TXA": [
+  {
+   "grab_time": 87.3,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 103.4
+  }
+ ],
+ "4pcVFt-MToOgWsVD32SO8g": [],
+ "4PG3FenHRH-pywzY-BpF0g": [],
+ "4PMn-3YqQtyt5eNPtx6MvA": [],
+ "4Q-bsZreQDGC5yU8DIK_Qw": [],
+ "4Q3N6sx0SCaDmFGo7NR-wQ": [],
+ "4qC6FTOcT3S_7KXhZAko_w": [],
+ "4qdStKAUSdia7PssBiLhCA": [],
+ "4QE2BkquTh2TxpfS2AjXlA": [],
+ "4qFhsSKzTVKfoGKT1yOS_Q": [
+  {
+   "grab_time": 10.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 71.2
+  }
+ ],
+ "4r-7cD_5SdGsYftHjXdr0A": [],
+ "4R4S6beaSeeOkHBm4Jo6ZA": [],
+ "4r7jXFBqTqyqBR0RHwD55Q": [],
+ "4rBbjqnuSuq5wWTh2PAD0A": [
+  {
+   "grab_time": 70.9,
+   "source": "Yellow",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 83.9
+  }
+ ],
+ "4RDCX8LlTu2HjOZQ5yGjHg": [],
+ "4rhY87v3TSevLVdeIN889g": [],
+ "4rSCDetiSSWqbqMDxjIYSg": [
+  {
+   "grab_time": 65.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4RykVUv5SROhbxRG2DM1nA": [
+  {
+   "grab_time": 70.5,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Green",
+   "return_time": 120.2
+  }
+ ],
+ "4s6du2-GRrqr8rUrVysFhw": [
+  {
+   "grab_time": 162.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Blue",
+   "return_time": 176.3
+  }
+ ],
+ "4s8f8uARTg2ibOJl7GfsZg": [],
+ "4SeMyu9QRyWgTeB5z4_znQ": [
+  {
+   "grab_time": 70.8,
+   "source": "Yellow",
+   "transfer": {
+    "time": 74.9,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": "Yellow",
+   "return_time": 82.5
+  }
+ ],
+ "4SF4wC1uQwa3B4JiK4omlw": [],
+ "4SojT9FVQlCODnCtWJDpFg": [],
+ "4SQVaH0kTUekQEGplpMuFw": [],
+ "4SqxZysDSouYTD5f4kxwJQ": [],
+ "4sTAGnKfS5uFjxcM6LZPZw": [
+  {
+   "grab_time": 120.9,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4TexJlU8TuOpiGadyMgTAQ": [
+  {
+   "grab_time": 66.9,
+   "source": "Green",
+   "transfer": {
+    "time": 77.9,
+    "test": "Green"
+   },
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 83.3
+  },
+  {
+   "grab_time": 216.7,
+   "source": "Red",
+   "transfer": {
+    "time": 274.3,
+    "test": "Green"
+   },
+   "taken_away": true,
+   "destination": "Red",
+   "return_time": 282.9
+  }
+ ],
+ "4tH1CiJGQxibofp28vCV_g": [],
+ "4TmC8qW7TSWGsEplGXsr6Q": [],
+ "4TrqWzKmSae8QsfzXjajfA": [],
+ "4tugpb4SQvyx3hEQmibvbw": [],
+ "4tvDTaH0Q8m2IRIILGcbxQ": [],
+ "4Tx8lXsYTvqLhXh_cZW3FA": [
+  {
+   "grab_time": 91.8,
+   "source": "Red",
+   "transfer": null,
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4Tz5qJqnSy6qdLBKNBnlgg": [
+  {
+   "grab_time": 11.4,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 36.0
+  },
+  {
+   "grab_time": 59.1,
+   "source": "Blue",
+   "transfer": null,
+   "taken_away": true,
+   "destination": "Blue",
+   "return_time": 124.6
+  }
+ ],
+ "4TZPnwcORYyMNLfCcdFgNQ": [
+  {
+   "grab_time": 109.2,
+   "source": "Green",
+   "transfer": null,
+   "taken_away": false,
+   "destination": "Green",
+   "return_time": 117.9
+  }
+ ],
+ "4UkT_1KnSeib4UjbAGHO2g": [],
+ "4uL_yyWlQuWCP1-tCkIHbg": [],
+ "4upQPN0KSPWS8sXdES3ABw": [],
+ "4UQ5j_avQOyar1yyfvpUNQ": [
+  {
+   "grab_time": 82.7,
+   "source": "Yellow",
+   "transfer": {
+    "time": 99.7,
+    "test": "White"
+   },
+   "taken_away": false,
+   "destination": null,
+   "return_time": null
+  }
+ ],
+ "4UtZaztZSFOIu9y9lm9stA": [],
+ "4UZ93uhiQSq8pgPBI9JtFQ": [],
+ "4VBNiptzQrmYtU3Ltm8HlQ": [],
+ "4vnS0giCTZ-7cPaWbrRsSw": []
+}

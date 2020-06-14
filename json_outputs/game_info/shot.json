@@ -1,0 +1,5504 @@
+{
+ "--3mWqGXRBWewaPjAhwo2w": {
+  "time": 137.7,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "--w4frfFSiir3wmusPzYnQ": {
+  "time": 119.6,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "-121kIDyQfumuU7bFNO-JA": {
+  "time": 164.5,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "-1F_upBGTdqYfeigblTt3A": {
+  "time": 79.2,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "-1H6s9IUQNK5AwLTCbDRqQ": {
+  "time": 160.0,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "-1ZIz7KvQ1K6HGPLjBizKw": {
+  "time": 240.1,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": 4.2
+ },
+ "-23SOVLqRFmQgLwcOzJ3hA": {
+  "time": 152.3,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": 2.3
+ },
+ "-26shXGbR9Gh_j4vux9d6Q": {
+  "time": 103.1,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-3eWWt4eSc-l1CPZ14iPCw": {
+  "time": 160.3,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "-3i1c4dJQTWF-iGkDnbhbg": {
+  "time": 103.2,
+  "chara": "G",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "-3r_4fI4Q_Kg9v7Ge2NImg": {
+  "time": 93.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-3uJ6JdsSfKZ1tplMEbAig": {
+  "time": 71.3,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-45SBr8tT52e1TEOz9shiA": {
+  "time": 109.4,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-48pxc4eSK696XMihnfK6A": {
+  "time": 196.2,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "-4Th9XAlT1OSXRzPd-1pMw": {
+  "time": 46.9,
+  "chara": "C",
+  "latency": 5.5,
+  "countdown": null
+ },
+ "-4XA52YgQLCV-dogEayZ8A": {
+  "time": 119.9,
+  "chara": "B",
+  "latency": 3.6,
+  "countdown": 9.5
+ },
+ "-50KpnqrTIO8vTklD1Gv2g": {
+  "time": 94.4,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "-5Mw1CKSSYOgZ5r43Y1JBQ": {
+  "time": 131.7,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "-6WvpFTdQcm9XDCz7_aXEQ": {
+  "time": 134.3,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-6_fiua8Q8uERtBv1DEu2Q": {
+  "time": 215.6,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-76s3xriSNib5ceWyOA5oQ": {
+  "time": 191.0,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "-7IuWFUHRWiFf140-Pc2Ug": {
+  "time": 249.4,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-7ZTR0EJRBOVKL-hfI1O_w": {
+  "time": 82.7,
+  "chara": "N",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-89GRLvPQDepH8GZLPPqkA": {
+  "time": 191.7,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "-8e655sKScK1z5RY-osNDQ": {
+  "time": 177.7,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": 3.3
+ },
+ "-8u_2KZBSpG-Q40vPrVwjQ": {
+  "time": 151.3,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-9oiA5IgRmevmSioZ2KQQg": {
+  "time": 110.0,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-9tQRDT-TZuErNK3xatvLw": {
+  "time": 114.2,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-9Xkf67sRX-E3Y6h2sjVsA": {
+  "time": 181.9,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": 3.8
+ },
+ "-apN5mNIR_iXXAtLgDOgjw": {
+  "time": 208.4,
+  "chara": "J",
+  "latency": 5.9,
+  "countdown": null
+ },
+ "-ARjoFR4TH2FEtjgwou72w": {
+  "time": 179.5,
+  "chara": "L",
+  "latency": 3.5,
+  "countdown": 3.1
+ },
+ "-AxjQiGXR9SX3XYo367PbA": {
+  "time": 184.0,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-AxOo24iQq24cPNWB8JoTw": {
+  "time": 14.7,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-ay3qsBtQv2_fm7kz9RoKg": {
+  "time": 244.7,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-azTJp8NSAyzDLjc09uDOA": {
+  "time": 515.1,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-BIp4pTiTlGKeqYsJsXDgA": {
+  "time": 204.3,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": 8.2
+ },
+ "-Bv_wU-VTTqkPXNPMFA1tQ": {
+  "time": 136.7,
+  "chara": "D",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "-BWMgZLzT8ySu1j14ltptg": {
+  "time": 208.0,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-bXsGBEZTJimCuq2pt1nxg": {
+  "time": 144.4,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-cD2zFIPS8akL5yr5c96dA": {
+  "time": 270.1,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-cSzSJ8KTBCuvauZM8fjQw": {
+  "time": 103.4,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "-CzdVsCjS5u-o4ybtu_wjg": {
+  "time": 140.7,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-dFabxKMTeSFvLWGHDUW2g": {
+  "time": 40.0,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "-dFQWvCqSB2NHzn9YledRg": {
+  "time": 242.5,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-dKFPxcXTSmCd-TLVRk_Ew": {
+  "time": 379.0,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": 9.7
+ },
+ "-duW5mWgTp6ALuK1fCgKSA": {
+  "time": 230.7,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-e8RCfC8TNmQvT7L_275qA": {
+  "time": 73.9,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-EBmG8ARRR2_JuL-0bYfFg": {
+  "time": 150.0,
+  "chara": "G",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "-ee0IP69Q5CHyuQeIHTPtA": {
+  "time": 204.7,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-EH0ebF-QfGs0IHhRo625A": {
+  "time": 12.5,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-EQBYClORDWSEgkrcJ63rw": {
+  "time": 164.6,
+  "chara": "C",
+  "latency": 4.6,
+  "countdown": null
+ },
+ "-evpO0TXSJ20Bj8viJSWKg": {
+  "time": 198.7,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-FCVwayFQSiTCLVTeO6PYA": {
+  "time": 226.8,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": 9.9
+ },
+ "-FkjQ78pQciuFaEmIVQ2Qg": {
+  "time": 269.9,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": 9.6
+ },
+ "-fSiM0AIQu2nImy_8QQVhQ": {
+  "time": 252.8,
+  "chara": "N",
+  "latency": 1.2,
+  "countdown": 1.2
+ },
+ "-fy6TzbkTKySWpsazEAm4Q": {
+  "time": 149.9,
+  "chara": "F",
+  "latency": 4.1,
+  "countdown": null
+ },
+ "-FZWizgcTEWT6dxPdbijkA": {
+  "time": 95.1,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "-g2lqGBRQ5iQ6FD4Gox6Yw": {
+  "time": 156.7,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-gFVYxO_QaOvTUgvXiIeIA": {
+  "time": 219.5,
+  "chara": "I",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-GGjb0CkQCGKN-eDhb9Frw": {
+  "time": 49.0,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "-Ghhd1PsQXaD1d9VHT5OWw": {
+  "time": 165.0,
+  "chara": "U",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "-gIgmYQVQsiF-o9ajq_9gQ": {
+  "time": 173.1,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "-Gjm9oicRwGsswzWf2HPmQ": {
+  "time": 224.9,
+  "chara": "G",
+  "latency": 4.6,
+  "countdown": 3.5
+ },
+ "-gpVuEfIRKeqyLpLvgQDQQ": {
+  "time": 251.5,
+  "chara": "K",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-GVTi5rIQAqYofnTdNMxDw": {
+  "time": 139.4,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "-GxbSsRTTYyuaZd_lnliVw": {
+  "time": 118.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-HaoBEnXS1GLYYlSKHotEw": {
+  "time": 154.4,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "-Hdn7rVuTYiUeI-FGxuEPQ": {
+  "time": 95.3,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-Hj-XB9JTie091Wii82MAg": {
+  "time": 35.7,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "-hlVd8dpRTm3aXqm59-M7g": {
+  "time": 171.9,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-HPvAOvvSOCmRgxCS4GJyQ": {
+  "time": 232.0,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": 3.2
+ },
+ "-HZxsHsLRZyd9LgpQGspcw": {
+  "time": 119.8,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "-iOVyWmLRdCywJvnhc7eLQ": {
+  "time": 193.3,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": 10.6
+ },
+ "-iPLhdf2Q16Iz1EABeSFGw": {
+  "time": 195.4,
+  "chara": "T",
+  "latency": 3.7,
+  "countdown": 6.9
+ },
+ "-IrizG4mR5WT2n0Mr2bQwQ": {
+  "time": 66.7,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-is7kW3-TkejeaVCxWCI5w": {
+  "time": 93.5,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "-J7DV5FOReigc7hpFu638g": {
+  "time": 60.4,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "-j7SiIXcQqeUtMfgGXeIAw": {
+  "time": 167.8,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-JbGEmKRRvizYDmL7G9tUg": {
+  "time": 156.3,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-JnzJlYVTRCyhfeZIWzStw": {
+  "time": 151.2,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "-k3FJkL9QfqpJ3Qn5TlckA": {
+  "time": 114.5,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-kb2eZ5RTeq0D5At6yxdbA": {
+  "time": 245.8,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "-KC9V29pQnuEF6UAsWL3TQ": {
+  "time": 178.5,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": 6.9
+ },
+ "-KF-QpobR-CtLIWLttHc4g": {
+  "time": 81.5,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": 8.7
+ },
+ "-KGc_c8PS0iRwP5a9ceEVg": {
+  "time": 116.8,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-KzOR0vCRFmcNFJYg2BBWA": {
+  "time": 161.6,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "-K_klSVvSjiCCrKRsysJOw": {
+  "time": 136.0,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": 9.5
+ },
+ "-L5g7mOjSa-y1W7dwaaY_A": {
+  "time": 154.6,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "-l9j8dD3QvW0Eh6KhDFQpA": {
+  "time": 69.5,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-LjkrtqvRCKUoZINMwHo4Q": {
+  "time": 216.3,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "-LprGexcRJqAdDWAjLM5pQ": {
+  "time": 81.2,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-LS16pI1QnK3zqerlUs1PA": {
+  "time": 138.3,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-LTqNd_eRd6c_DLsVbpZWw": {
+  "time": 75.1,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "-lyU1BOKTLaHQSE_NPavHg": {
+  "time": 128.8,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-lZ6wpeWRAC98fnDBJ_ifg": {
+  "time": 151.2,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "-M4SCNYeRDWgKm7MZARFJw": {
+  "time": 86.9,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-m9wNyBkTlCQLKfjJZ7UaQ": {
+  "time": 203.6,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": 5.1
+ },
+ "-MeA4tPYRSC7zHZEpzuvlw": {
+  "time": 190.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-mt4OBzzQg2Xlm7pZSpvEQ": {
+  "time": 211.6,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": 7.1
+ },
+ "-NEBAwE8S36uV1qAnoabog": {
+  "time": 214.7,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "-NifmEvES8OxXbMk_8IFDQ": {
+  "time": 76.0,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "-NPjMNjYSFuMZcN86UlpKA": {
+  "time": 242.4,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-nWDOlEERdGcPadgl-RtSQ": {
+  "time": 102.0,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": 6.5
+ },
+ "-OdRjb5KTtW3TEL1pBiVjg": {
+  "time": 169.4,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "-oHeADmgSJmo9j7POItkNA": {
+  "time": 152.7,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "-OLwQWb5Sx2xihXK7O2knw": {
+  "time": 270.0,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": 2.7
+ },
+ "-oqmjdp8Q9WyCjj-U-XfUw": {
+  "time": 186.1,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-OUEbTCaRF6K0ZzVMbRVKw": {
+  "time": 187.8,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": 4.6
+ },
+ "-oWXV4o8RNuciWYZ9LDiew": {
+  "time": 295.1,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": 10.8
+ },
+ "-P0-M0nlRamdzmtBstjZHg": {
+  "time": 159.2,
+  "chara": "C",
+  "latency": 0.3,
+  "countdown": null
+ },
+ "-PAcxm1tRBCOy9O3jnsJEQ": {
+  "time": 61.6,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-Pdy16HCSXqRYuziamXKjQ": {
+  "time": 136.5,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-pI3euHVQxq99C2-ganoFg": {
+  "time": 93.5,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-pLQYGhjQKiQgMCQqdfoMA": {
+  "time": 39.9,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-PnYjf4NTdOZ3MumdM_Qhw": {
+  "time": 205.4,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-PrAUNvIRbm1jXdl-a6rtg": {
+  "time": 173.2,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "-pU4fNlGREielIf5XdgUpw": {
+  "time": 224.5,
+  "chara": "I",
+  "latency": 3.7,
+  "countdown": 7.2
+ },
+ "-qXN21aMQnq_p64BsfdsAQ": {
+  "time": 139.2,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": 4.6
+ },
+ "-qydUF9fTMq3iz__NZvejg": {
+  "time": 161.2,
+  "chara": "T",
+  "latency": 3.7,
+  "countdown": 6.5
+ },
+ "-rCQyPoDTbW_C9hTAqCe2Q": {
+  "time": 138.9,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-RXL2EQwQcCgefaCPll5xQ": {
+  "time": 57.5,
+  "chara": "K",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "-RxW-vNZQzSU2ilR6tbIRw": {
+  "time": 210.0,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": 8.9
+ },
+ "-s63FomoTw6WauFBIZs1UQ": {
+  "time": 178.8,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "-SCzdfHOSDOw7tBoTRaAGw": {
+  "time": 209.0,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 8.2
+ },
+ "-sE49AB-SQKEqF5YK_Es1w": {
+  "time": 58.2,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "-SF1yJPCSiusRKHvmMAVBw": {
+  "time": 160.0,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-sm9rWX1R2aMdYU5nDomaA": {
+  "time": 162.5,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-Tb3nyusTpeRxnFXe7ZLkg": {
+  "time": 244.7,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-tLS79W3Q-SUe3BsoowkIw": {
+  "time": 135.9,
+  "chara": "P",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "-TXg9PaTQFiP0UDuSMS7Jw": {
+  "time": 109.7,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-tz3hhBRSTC6F9-Rl3YwrA": {
+  "time": 167.9,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-uCn08gwTziGiY5m0YI2-Q": {
+  "time": 192.3,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": 8.2
+ },
+ "-uduAmTaT3iCZeQ8yp84gA": {
+  "time": 164.3,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-UmAzyCqQt-P_esAzEhQrA": {
+  "time": 212.9,
+  "chara": "U",
+  "latency": 4.1,
+  "countdown": 9.6
+ },
+ "-V-sNPwJS36Ch0fEE7KfTA": {
+  "time": 163.4,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": 4.0
+ },
+ "-vb3QzknTFqvKbwY22f87g": {
+  "time": 99.0,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-VCX06f-Rn-rpg-24owD7A": {
+  "time": 214.3,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": 5.3
+ },
+ "-VGshoOnRRGF31TyIWGW8Q": {
+  "time": 260.3,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-vO1Qxp2TN-rQZr1okpMIw": {
+  "time": 163.2,
+  "chara": "A",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-VoM8igaQfiAiIT43D1RMw": {
+  "time": 195.8,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": 7.1
+ },
+ "-Vw0w9FTQ1O-R7tKLkWrQQ": {
+  "time": 163.5,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": 7.3
+ },
+ "-Vy-M2B7S8y1jiiyCNGcqA": {
+  "time": 184.2,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": 6.7
+ },
+ "-wssyaPdSQGkmGJ4OngX8Q": {
+  "time": 125.9,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-WZx9aZESo-2_TRbtDr6bQ": {
+  "time": 13.5,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-XB7Je0nR8idvBBfxIPyqQ": {
+  "time": 130.7,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-xe5_NdVRU6emy0WM5r4Cg": {
+  "time": 243.4,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-XipkR00RkuLQd4a7pItnw": {
+  "time": 126.9,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "-xMnyqy8Qfqt_FBM9A1SWQ": {
+  "time": 215.9,
+  "chara": "G",
+  "latency": 4.6,
+  "countdown": null
+ },
+ "-xn6ixO4SKSTfEYLhnFd9Q": {
+  "time": 184.7,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "-XW8YajmSLy6odOhod6tcw": {
+  "time": 212.2,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": 3.4
+ },
+ "-YboDZciT4a5XPmhWjPg4Q": {
+  "time": 212.5,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-yFIoe2QQsWk3hi5fcNcBQ": {
+  "time": 243.7,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": 8.7
+ },
+ "-yr1QLRPQu2lkyi3HScJWA": {
+  "time": 208.1,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": 5.8
+ },
+ "-yvsJBm1RHWX00Y425jdHA": {
+  "time": 141.1,
+  "chara": "I",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "-YX90NV9QteynaV-k8sSsw": {
+  "time": 74.2,
+  "chara": "P",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "-Z9MNkqzQYGdyKUjoby-uQ": {
+  "time": 148.6,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "-ze_Ap4cQ9qwD4eMbr3bjw": {
+  "time": 139.1,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "-ZH44vThQuiKzMMpjYOHRA": {
+  "time": 219.8,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": 7.7
+ },
+ "-ZN0CEzDQ7WjGofMAmSI5Q": {
+  "time": 282.5,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": 9.8
+ },
+ "-zVSON4KTN6uR0ae0IaNMw": {
+  "time": 159.6,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "-_9nIKZHSB2lcAM5sDbOWA": {
+  "time": 201.0,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "-_AFmYFqTTip17AtflZwzQ": {
+  "time": 254.3,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": 9.7
+ },
+ "-_dnXORzQOiCpLzM06lH_g": {
+  "time": 168.6,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0-XqFWJZSZm8eTh1y8SSZg": {
+  "time": 147.7,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "004IS9n_Ry2C2MgbEaiytw": {
+  "time": 132.6,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "00adjEelQmKqS-cf1iWYsQ": {
+  "time": 17.8,
+  "chara": "P",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "00tMV6PuSTW7D2mMgOO8dQ": {
+  "time": 173.0,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "00Vl9qkEQHikDI8rYj_omg": {
+  "time": 173.8,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "014IJ4uGSoCfdt4LazA6Kg": {
+  "time": 340.0,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "015ZykfFQUSilqU_56XIsw": {
+  "time": 170.0,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "016ZN1IyRQSC0fykg-uSmQ": {
+  "time": 124.1,
+  "chara": "I",
+  "latency": 3.8,
+  "countdown": 7.9
+ },
+ "01XOjN8lQcOQGiFBu5TdcQ": {
+  "time": 204.2,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "02RUgCJoRpuBv0rKdN9wjg": {
+  "time": 60.4,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "02trylvFSLqo0xLoI03YmQ": {
+  "time": 17.1,
+  "chara": "J",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "03amj3K7SpyibgufHaZvpQ": {
+  "time": 252.6,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": 6.4
+ },
+ "03eZ8AdaQN2UWN2HjyNWTg": {
+  "time": 98.2,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "03QJrJadSiy43qQDaFFJdA": {
+  "time": 191.6,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "0489Kwb_TuGUJJoaKQeU6g": {
+  "time": 237.2,
+  "chara": "E",
+  "latency": 3.7,
+  "countdown": 8.8
+ },
+ "04JzBNk8St6R6dRWBOrGRw": {
+  "time": 170.3,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": 10.1
+ },
+ "04mQrLJNQIWT3pniDVpoyw": {
+  "time": 201.9,
+  "chara": "G",
+  "latency": 4.6,
+  "countdown": 6.7
+ },
+ "04U5LUh8R3G2j3OpzLBp9A": {
+  "time": 197.1,
+  "chara": "G",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "05FUZG8rQkKqVhM3Xf2avA": {
+  "time": 123.0,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": 3.1
+ },
+ "05h1nwmvQtql9UDpGYwNhg": {
+  "time": 184.2,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": 8.2
+ },
+ "05nl9OTpRqWNo0YaW8m43w": {
+  "time": 147.2,
+  "chara": "C",
+  "latency": 4.6,
+  "countdown": null
+ },
+ "05RRAfFgQlaeXd-MuuTjhA": {
+  "time": 172.2,
+  "chara": "O",
+  "latency": 3.7,
+  "countdown": 4.6
+ },
+ "05VnEwCwSMiYsMV6A2rdoA": {
+  "time": 159.2,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "061Tf25UTdOeI87SLWzVHg": {
+  "time": 210.4,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": 5.1
+ },
+ "06b4x4AnSKKkeGJVvHDCCA": {
+  "time": 251.7,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "06IeCQIrTfuJcQ52VkHRQQ": {
+  "time": 92.4,
+  "chara": "G",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "07ls-HpuTreIGfWH6imtRw": {
+  "time": 80.2,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "07WVnz3aR3i6445zgSCZjA": {
+  "time": 201.9,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "07ZksTWXQAGHJsDe0-tz2Q": {
+  "time": 223.0,
+  "chara": "O",
+  "latency": 3.4,
+  "countdown": 8.8
+ },
+ "085l8a4bTGyqNMPA8wFkQA": {
+  "time": 162.8,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "08EU0nJuQ4CZgahGTpHsrA": {
+  "time": 271.9,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": 6.3
+ },
+ "08QGgY6fT4-AlZ5w3qWu9Q": {
+  "time": 224.1,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": 11.0
+ },
+ "09z5eCweRAaQ5HLXCODxFQ": {
+  "time": 214.0,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": 6.0
+ },
+ "0A3GmdjWQtKmLUtiZAj7oQ": {
+  "time": 190.2,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "0APmha_ERfuev3FZy11ZlA": {
+  "time": 133.6,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0aVqpd1jQX2TKjirhGk_3w": {
+  "time": 138.6,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "0AXyIE95Qj2TuNrASlnhRw": {
+  "time": 137.9,
+  "chara": "F",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "0bxQ84xPRsGTGKY68xXJAQ": {
+  "time": 97.6,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0C4hrbsgRXeXJVH6nxk1jw": {
+  "time": 90.4,
+  "chara": "G",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "0CCj4NNUSdGENGrGELw6sQ": {
+  "time": 74.5,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0CpA6539RRaEi7NR-zXmEA": {
+  "time": 29.7,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0CtOXBj3SRSPNVAaqYzy9g": {
+  "time": 13.9,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0dindBgmTmeZX_FhkDB2aw": {
+  "time": 64.9,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0DjH5-2mR0OErXmp8SmU8A": {
+  "time": 50.8,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0dpozUyfTQKKzwDMny-_5w": {
+  "time": 210.2,
+  "chara": "N",
+  "latency": 1.6,
+  "countdown": 1.4
+ },
+ "0dYYxlQYSc2k6Xx0W9hBwg": {
+  "time": 210.6,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": 5.7
+ },
+ "0E1EpCkETc6EmEkUT2TKlg": {
+  "time": 202.4,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "0evuIvJjSomRIHE1AL11bQ": {
+  "time": 83.7,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0exlJSW9S3aNW9SCqVoULg": {
+  "time": 168.1,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "0f1A0BpLSWCj9Zjl7tvysQ": {
+  "time": 165.3,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "0fALSh2MTQaATr2eQbfE8Q": {
+  "time": 147.4,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0FCsws7-Qza-HCedZrR2VQ": {
+  "time": 196.2,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0FSPKns_RLKe2ejCaFOJUw": {
+  "time": 279.4,
+  "chara": "F",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "0FTgz9zCRXWfnzpHnoHIzA": {
+  "time": 173.0,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": 9.2
+ },
+ "0GgfrKHpS7G2CB5s0b4R1Q": {
+  "time": 126.1,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0gJnIcAhTtucFKbDrJBGSA": {
+  "time": 64.3,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0GjO1xmnQcuZyDqBzddqgA": {
+  "time": 103.9,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0gNwMZXJSRSq4fepd601ug": {
+  "time": 94.5,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0H80wMopR-q38UsZ61lqbQ": {
+  "time": 127.4,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0HGv1lfhSyCDIck1SKKNhg": {
+  "time": 54.3,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "0HI2m6uHTCSq05xoe67kfw": {
+  "time": 127.4,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "0Hj_ssqgTqCA9oKWbVxJ5A": {
+  "time": 157.0,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0hMm0Jg1T6m_FQ-O5S4OzQ": {
+  "time": 130.4,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "0HWviqsVRWmA0A2C5QFXfA": {
+  "time": 107.4,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "0i3JeV3QQCmbUmBnZvOiVQ": {
+  "time": 233.2,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "0iElCqUORiOA1PI3skB7aA": {
+  "time": 93.9,
+  "chara": "G",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "0ijNmguPQNCCVwngNpgJnA": {
+  "time": 181.5,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": 5.2
+ },
+ "0iLDzbUnRVCVswsPgbPKJQ": {
+  "time": 127.1,
+  "chara": "J",
+  "latency": 6.1,
+  "countdown": null
+ },
+ "0IlFt-qrQTWMYjtdx8BSyQ": {
+  "time": 241.4,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": 4.1
+ },
+ "0imvRpTtRD6oFQo14sK8oA": {
+  "time": 200.3,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0iRGngMWT0ee5VQppI9ANQ": {
+  "time": 219.2,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": 5.5
+ },
+ "0isOhYXgRzSGXurFdjOtyA": {
+  "time": 75.5,
+  "chara": "G",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "0iTu4osrR9ahGbr1NM_0EA": {
+  "time": 185.5,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0iUleORPTJeRwKoVwkSBgA": {
+  "time": 63.0,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0IxQcTzfQeib4a_qsDgUbw": {
+  "time": 139.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0IyzUjaRQwy1WnP_SK0clA": {
+  "time": 233.0,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0J9WzkA2R_WGKYKCMsdFGg": {
+  "time": 202.0,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": 3.2
+ },
+ "0JKdv1-zTYGl1gLlm-T0VQ": {
+  "time": 170.4,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0Jx0D0jXQXOCfRzy-jP3qA": {
+  "time": 161.8,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0jxmbJgGTPqibHgfcjkcHw": {
+  "time": 195.5,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": 2.5
+ },
+ "0JynxXhpSiimMIiKDCI7CQ": {
+  "time": 226.5,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "0kEAzGtoQmW8_UDJIFnX4w": {
+  "time": 67.0,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0kLQ0jD6RDK_CFN98ERmuQ": {
+  "time": 20.4,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0KUHBJ48STCv9Gm-caNPJA": {
+  "time": 188.7,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0kUynOzhRk-gR674tF4IUA": {
+  "time": 243.1,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "0KxrH-srQtuTskkGP_G_fA": {
+  "time": 147.9,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0l1iUYATRtCwx1_U_iVYKA": {
+  "time": 196.5,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0lI5YT-IRkaYRzfOO8HYEg": {
+  "time": 137.6,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0lvnrYqrSbaGkmbDI5iCNg": {
+  "time": 25.3,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0M8YfsICR4CSGSJtMWOViw": {
+  "time": 208.2,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0mo3ecbwRHezaEft5e_5jA": {
+  "time": 109.2,
+  "chara": "N",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0myrE6T2SCaLSZ5VJD2WUg": {
+  "time": 163.1,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0NG31UqrSrWlAc2YWpqCEQ": {
+  "time": 140.7,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "0NqVQ0ssSHqF6mrV1WyrJA": {
+  "time": 27.9,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0nsuFPcTRC2Ci45IUDNh3w": {
+  "time": 120.4,
+  "chara": "T",
+  "latency": 3.7,
+  "countdown": 8.8
+ },
+ "0NugREVJRu-c0F8xHr-A9g": {
+  "time": 181.3,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": 7.7
+ },
+ "0NwZAXbUT7SodL9VStzPCA": {
+  "time": 159.1,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": 3.9
+ },
+ "0o0sx6CbQxedUqmC6uUQlQ": {
+  "time": 228.2,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": 6.5
+ },
+ "0O7m42CHR_CJvUt6gck7DQ": {
+  "time": 227.3,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "0qMHwnaUQW-poiTNdF-hIA": {
+  "time": 190.0,
+  "chara": "L",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0QQNs7Q5SmeEtM_0ISApPA": {
+  "time": 152.3,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0Rf7SMyKS3mQF1t6hsbaPQ": {
+  "time": 112.4,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0riLm91_SKigLoCsBWds2g": {
+  "time": 76.3,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "0Sa8CwAcTaqZbNpyqk8qrQ": {
+  "time": 166.9,
+  "chara": "E",
+  "latency": 2.8,
+  "countdown": null
+ },
+ "0SbtfZ0VT_iE4qAUojZqvw": {
+  "time": 166.7,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0SnHFp5PTdKwfqT-R3B9IQ": {
+  "time": 199.9,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0SwHgaiXSySv6w-rg8hATg": {
+  "time": 153.0,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "0SY1TeQzQPa1zlu-qyFFOQ": {
+  "time": 149.1,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "0sYlnzN7RmSuYAZ2jYFOHA": {
+  "time": 135.0,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0SZDrN6TQS2RGWXaW6jiRA": {
+  "time": 200.4,
+  "chara": "J",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "0S_3qHEoSTipvRkwgu18Tw": {
+  "time": 31.5,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0tQoR0k6QZ2uYYwIikm27w": {
+  "time": 124.4,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "0Tv6SmJpQuGhZeyanKRCxw": {
+  "time": 257.7,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": 7.7
+ },
+ "0tyyoefUQvyHRl6-wEy8Og": {
+  "time": 141.4,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "0u3uTGyETjSZbv5lQHWjxQ": {
+  "time": 95.7,
+  "chara": "G",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "0U9o7X1mQ5S3whWCUpdRgw": {
+  "time": 84.0,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0uavikiRSpe0u8OCCBQSpQ": {
+  "time": 218.7,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0UEvGHt5T3a-mOtL6-dh7w": {
+  "time": 153.3,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0UN55subQ5K8tUq7gZQKaQ": {
+  "time": 144.4,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0UWPrFTXSYizWPIwTcJW8w": {
+  "time": 160.2,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "0VVZUuacRvW4MvT82B3nig": {
+  "time": 190.6,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": 7.8
+ },
+ "0vW6ynQ7Q2yOe8TVRZl_Og": {
+  "time": 153.6,
+  "chara": "K",
+  "latency": 4.1,
+  "countdown": null
+ },
+ "0w2cy5C4SnyysS5pE--F-A": {
+  "time": 238.0,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0wEMIQujQMiDNJ_hP9lcxw": {
+  "time": 125.9,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": 10.4
+ },
+ "0wkiGi85Q2m96rvQifMhiw": {
+  "time": 228.1,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0WpydIIvSZCnUAzwGEhQPw": {
+  "time": 159.9,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "0WVGqjHaQaiY3Awvkg5mow": {
+  "time": 182.0,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": 8.0
+ },
+ "0WVUShXYQEmROH2n09g4zg": {
+  "time": 64.8,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "0x0Q4riRQla1I8Fvs4oqPg": {
+  "time": 103.2,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0XBko6OvSGuQa9md4sn_2Q": {
+  "time": 149.0,
+  "chara": "H",
+  "latency": 5.5,
+  "countdown": null
+ },
+ "0xdGdl0zSHmhmXectS9kqg": {
+  "time": 95.9,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "0xetXvqoQRuar06rWGH_1Q": {
+  "time": 212.3,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": 8.8
+ },
+ "0XPT-WWvSu6NwweyzrRKhQ": {
+  "time": 172.7,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "0XSf2hi9QBqlCRe6AuYxcg": {
+  "time": 139.2,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0xSUaafxSf2l4XVoZc2SIg": {
+  "time": 148.2,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "0XuItc5RTruUQPgjhHX7vQ": {
+  "time": 153.9,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "0y7esBp-SRWkFz48LE5tPQ": {
+  "time": 166.3,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "0YCQh7tLQvm26W47MZEvWA": {
+  "time": 209.2,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0YES3aBGQPCbtKrm7z_YEg": {
+  "time": 206.0,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": 6.8
+ },
+ "0ySY75j5Rl6Fb7FGZhdmxA": {
+  "time": 55.7,
+  "chara": "K",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "0yufC4ypTnG_He2i_s9Phw": {
+  "time": 40.1,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "0yxKT7-jSVarEC8evRH7Ew": {
+  "time": 214.1,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "0YxVA43pT1uQz1GcJ38IAg": {
+  "time": 213.9,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "0Z4O1qe6R3iFuVhJdCS85A": {
+  "time": 91.9,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "0z9vLA6FTrq50R0rdI-awA": {
+  "time": 223.7,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "0zCibDB5TTGj2Oi--2eXxQ": {
+  "time": 109.0,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "0ZLxZzlRREKe7ONLz3DW6g": {
+  "time": 186.2,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0z_okeR_SB-xGdJJTnA1EA": {
+  "time": 10.1,
+  "chara": "B",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "0_UMljZBR0uElVfp7AfOGQ": {
+  "time": 100.8,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": 8.1
+ },
+ "1-5mEI7RSQuZLirFwqXI8w": {
+  "time": 239.1,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "1-kw_5hlQUOyahjO89PS8A": {
+  "time": 62.6,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "100wMfODQOqu21242jK41g": {
+  "time": 203.7,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "10SPtfXrQ02kxt1iXQaYHQ": {
+  "time": 166.5,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "11Rmk1qfTdKiAYXK6k3jPw": {
+  "time": 256.0,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "13jbBPwYQzG_dp0uw7Ri4w": {
+  "time": 181.0,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": 8.0
+ },
+ "15CQY-RJRjWSrR04yDERXw": {
+  "time": 233.2,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": null
+ },
+ "15z06YiLTRqB8VdrnRgfAw": {
+  "time": 158.5,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "15_RftugSpCq0JrlFv-_fg": {
+  "time": 162.4,
+  "chara": "L",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "16iG19oxRrebTb-k-PDi2g": {
+  "time": 264.9,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": 7.5
+ },
+ "16mUE3LlQE2nx-o5NcWFTg": {
+  "time": 222.9,
+  "chara": "I",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "17ezXaIVQcCtk23yKQGMww": {
+  "time": 275.7,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": 10.3
+ },
+ "17u3ThdZRIC4H6emadx8Wg": {
+  "time": 232.7,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "196hOEZmSWitHW_HTggkCQ": {
+  "time": 167.0,
+  "chara": "D",
+  "latency": 1.4,
+  "countdown": 1.4
+ },
+ "19u_wSmrSu2wdGu7B63rPw": {
+  "time": 255.8,
+  "chara": "E",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "1aHZUswbRRafTQfbUYDZjw": {
+  "time": 211.9,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 3.6
+ },
+ "1AmQG0ujRT2WVf6ZpGlR-w": {
+  "time": 152.1,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "1aOHoxT4Rj6CQ4rLW3mPuA": {
+  "time": 137.5,
+  "chara": "J",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "1AuG4QhoRVa4SKMAi6CmNg": {
+  "time": 105.9,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "1b4kLfNqTgG8MrtGgvxkag": {
+  "time": 190.9,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1BES_Q0XTcWA39d_lBwDqg": {
+  "time": 87.9,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1beZ0Rd5Q96X05KG_q83Zg": {
+  "time": 206.5,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "1BiHviM3QvC1q-Z_Cc9F9w": {
+  "time": 13.7,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "1Bx8LpunQzK2HpxXH71BJg": {
+  "time": 174.4,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "1Cf5JXuBTcWyNyJzthL9XQ": {
+  "time": 159.5,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1d-kFT8nQ1KOXI6-lT-Wyw": {
+  "time": 194.5,
+  "chara": "B",
+  "latency": 3.9,
+  "countdown": 6.9
+ },
+ "1DPQEECzSNihqiSo9v08Pg": {
+  "time": 210.1,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": 4.7
+ },
+ "1DWxh4-fRAyFeKy_8A3J4g": {
+  "time": 354.6,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 9.6
+ },
+ "1DX-IvY7QmOObrjq4Dk_vw": {
+  "time": 181.7,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1EdvmMfiR5S0IcYZCsnV2Q": {
+  "time": 242.5,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "1EMX12sqQcu4yZbqd1b1wQ": {
+  "time": 185.5,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1ePIXJjtSpCLoE2n4rRF7A": {
+  "time": 196.5,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": 9.4
+ },
+ "1f6uxtl8SIyPcaYYbZZsDQ": {
+  "time": 61.9,
+  "chara": "F",
+  "latency": 4.1,
+  "countdown": null
+ },
+ "1fb71xOnRkGgVlxUayYnwA": {
+  "time": 167.7,
+  "chara": "G",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "1FC8LMi_QIur1ENFkDvroA": {
+  "time": 203.2,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": 5.2
+ },
+ "1FUxrM0dQneqikBTniMKVw": {
+  "time": 35.5,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1fycdhFfTLWfsQ7OVyiP5w": {
+  "time": 74.2,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "1F_8rGkZS1C6fD6djJSC8g": {
+  "time": 239.2,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1GAfeCQmTq6HPjwxHj6Z1Q": {
+  "time": 164.0,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "1gCFSMa1TUWWmRZhcYJ-ZA": {
+  "time": 214.2,
+  "chara": "M",
+  "latency": 7.0,
+  "countdown": null
+ },
+ "1gd8kJVXQIG1zRtrGI0l8A": {
+  "time": 159.0,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1gF4tLncTFOiVNPtPFZrcQ": {
+  "time": 162.6,
+  "chara": "G",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "1gk9r_IfR6exyR0z5XM7Dw": {
+  "time": 180.7,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1GKmAJ07RS2UQzWu3BBs1A": {
+  "time": 17.0,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "1GsazLn1Rkm3c31euRLauQ": {
+  "time": 194.1,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": 8.1
+ },
+ "1GU2IgP3TQabbRFX4YkFvw": {
+  "time": 221.7,
+  "chara": "J",
+  "latency": 6.1,
+  "countdown": null
+ },
+ "1gXSHXJdQxOa5wx7TaNFaA": {
+  "time": 185.0,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "1H2ctm8oTHSy33bqD_cpkg": {
+  "time": 177.5,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1H8_z2LZRKqLTU1WFI8q8g": {
+  "time": 162.4,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "1He7Pt7sSrmLZiVrqWPrwQ": {
+  "time": 115.0,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1hgujuvTQTqYeJ72sTS8MQ": {
+  "time": 70.2,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "1HO8VQIdR62npF8HQGgrug": {
+  "time": 95.6,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "1hxOpBxDSUemFtizKir2kQ": {
+  "time": 178.5,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "1ICE_ti4RNGKVI-Dw4JltA": {
+  "time": 184.0,
+  "chara": "I",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1ij70K5qQ9iPnx1gHs4SPg": {
+  "time": 164.3,
+  "chara": "M",
+  "latency": 2.5,
+  "countdown": null
+ },
+ "1iLpYO_tTPCn7b-bD6m8jQ": {
+  "time": 196.4,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "1INKbV_uQIW3QaGaiyznGw": {
+  "time": 78.6,
+  "chara": "I",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "1iP2PJ5qSDqdH0SxMh-flQ": {
+  "time": 119.4,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "1iWFaniwQXi1hSnFTVHtNA": {
+  "time": 92.9,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1IXQyhKDQxKUaxlW3YYKng": {
+  "time": 282.4,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "1iykNWVgR8KVYTNFq2vjEg": {
+  "time": 154.7,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "1K6FwIaIRqehJ9sMZYaIgQ": {
+  "time": 13.6,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1kftLZ-rTx2e9VtXyYw1Vg": {
+  "time": 160.0,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "1KW5kxEkQs-hOFDX8L1lEQ": {
+  "time": 91.8,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "1KWRVAmdS2iAEr4fhPCOdQ": {
+  "time": 108.8,
+  "chara": "G",
+  "latency": 4.6,
+  "countdown": null
+ },
+ "1Kxh5H9ZR4GN5Rl_58zgkA": {
+  "time": 168.9,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1KXJrKSiT12h5ul0ItWutA": {
+  "time": 140.0,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "1Lamp5uhQFuL8-e92w7CaA": {
+  "time": 196.8,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "1lIpWA76RwSJsbZuhdZTew": {
+  "time": 139.6,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "1LjbBH7MRYG4cSn2HFdL-w": {
+  "time": 109.7,
+  "chara": "Q",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "1LkatGHyQr-ndViyRzCXtA": {
+  "time": 252.7,
+  "chara": "K",
+  "latency": 2.3,
+  "countdown": null
+ },
+ "1LPodP8GQOWdqzDjkdrPHg": {
+  "time": 201.1,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1ltdhiuQSbCgpicC9w_RHw": {
+  "time": 173.8,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1MAkFNPlRP2grLjq9Dr_Sw": {
+  "time": 71.6,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "1MI3Xt8mQX6sIdLSU5Jg5w": {
+  "time": 171.5,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": 6.0
+ },
+ "1MWqVIWSTZ6IeqzrmZdhhw": {
+  "time": 200.2,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": 3.4
+ },
+ "1mYAK_wRQwyMwcE5Z8AdsQ": {
+  "time": 106.4,
+  "chara": "F",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "1MYuWRcpQG-7mtRijzBMfA": {
+  "time": 100.5,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "1n0n2uIRRrCUXgBUcbeA_Q": {
+  "time": 228.0,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "1nEhz8o1QXi-kW6hvKi7vQ": {
+  "time": 221.5,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "1NXxjGMnSP6-qx0m5i8g_w": {
+  "time": 189.3,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1nzkVIs-QgS5YJ23wMb3OA": {
+  "time": 102.1,
+  "chara": "L",
+  "latency": 2.6,
+  "countdown": null
+ },
+ "1o09ElbjRJmHJHUdiCl-Sg": {
+  "time": 114.6,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1odzEiXQSLCRttFXdfc0ag": {
+  "time": 26.7,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "1OKl-P3_Q96c0IXuqAkj9g": {
+  "time": 111.9,
+  "chara": "J",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "1OoDr3NGQtuZdwh-XUl1MQ": {
+  "time": 193.5,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 3.7
+ },
+ "1OqbXtgKSUeXQGGM3E2Qpw": {
+  "time": 272.9,
+  "chara": "J",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "1oY7rNakTGe24jXE0bZzgg": {
+  "time": 251.4,
+  "chara": "K",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "1P47PexJQuySvbiPwsoL-Q": {
+  "time": 184.4,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "1PHywAFyScesZ1WW4qpKig": {
+  "time": 189.0,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "1pVXIFKfT3qBKEvFYM4XJg": {
+  "time": 197.4,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1Pwzt4CESWusouvu-XlhGg": {
+  "time": 180.4,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": 10.9
+ },
+ "1qcjklFSTs-yZLO3ul04yQ": {
+  "time": 195.3,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": 7.6
+ },
+ "1qr6SUpyQl-hbQtqTIwpZw": {
+  "time": 203.4,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1qsvfXVITv-PqWjwccku1g": {
+  "time": 205.8,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": 9.7
+ },
+ "1r7CTE8USzenEqUj61VGmA": {
+  "time": 190.8,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1RBdE-NORrSB65SSNpRkdA": {
+  "time": 104.4,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": 5.9
+ },
+ "1rNOTLLuQw-9FDFTwxqfPw": {
+  "time": 189.4,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "1RTQQoS0RMi9ia1fUquqHg": {
+  "time": 135.4,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": 2.4
+ },
+ "1s3seH5uR9yyQwuId5qgeA": {
+  "time": 115.1,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "1SBzi5aZRjCI_Siojah17w": {
+  "time": 127.0,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1sn4MaLwRnuWdx7aE15cRg": {
+  "time": 59.7,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "1SsnD--HSr-YZQe3Ib3OcA": {
+  "time": 149.6,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": 10.3
+ },
+ "1sUtLxXcTOeXXkxZXA_7ww": {
+  "time": 105.7,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "1sVjwTcdTHm2csf4h5EJEA": {
+  "time": 244.8,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": 8.5
+ },
+ "1tbs_-kURcaf_bS2-LSyCw": {
+  "time": 201.1,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "1TTheFX6Tx2VWRN9cymn6w": {
+  "time": 122.3,
+  "chara": "M",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "1UfN3iheSqq_ric4_xDUzw": {
+  "time": 43.0,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1utmQ55jQuWJwdvtO1hJsg": {
+  "time": 192.4,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "1UuN7NLWQf2FdGbTFoCQLA": {
+  "time": 173.9,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "1vCyR3_4QWKhj23H5ArRQw": {
+  "time": 74.7,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "1veO6Jm2Tum9CkQ5bUELbA": {
+  "time": 211.2,
+  "chara": "I",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "1VFoqW0ITTiC_9tM8aFNQw": {
+  "time": 84.0,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": 7.9
+ },
+ "1VkAoGSPRIioDUXI3Y7nBg": {
+  "time": 92.4,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "1VORQ16dTTynoxlSN7AYyw": {
+  "time": 176.4,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "1vw0fG9uR5GAt4drpT8lBQ": {
+  "time": 199.5,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "1Wde5iPvSTeNPVt3sR4dGw": {
+  "time": 80.7,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1WjrQ_thTNq_JuQbdLlXTg": {
+  "time": 144.1,
+  "chara": "G",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "1wmhRTtgT9ujQvyBQL6awA": {
+  "time": 170.1,
+  "chara": "L",
+  "latency": 2.9,
+  "countdown": null
+ },
+ "1WYPfL05SPyIB3pcVRJB3g": {
+  "time": 189.6,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": 3.9
+ },
+ "1wzOytobTyO7rs9rDQMnlQ": {
+  "time": 67.9,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "1X1QGRwrTpSW4T-lbYhxRQ": {
+  "time": 109.3,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1X5TFE5cSu2ZXdHHQmuNzA": {
+  "time": 26.4,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "1xfCrndNSwKhu29VKiIAFA": {
+  "time": 212.6,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": 5.3
+ },
+ "1xFZTM9uQ6q4orcM517Rpw": {
+  "time": 182.0,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": 3.4
+ },
+ "1XqUM5pcQHCBGp574qLNPw": {
+  "time": 88.6,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1XR3sHhOQ5eizH23oIuv4Q": {
+  "time": 156.7,
+  "chara": "L",
+  "latency": 3.6,
+  "countdown": 7.3
+ },
+ "1y8CxlByS7uFMHGidkqSDQ": {
+  "time": 197.5,
+  "chara": "M",
+  "latency": 2.7,
+  "countdown": null
+ },
+ "1YK1saPkRQucaWoMiL3KSw": {
+  "time": 251.4,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "1ysBeHcVTECHL3a2-Jn5IQ": {
+  "time": 113.6,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "1yTZe03oTu-F2TCGZs0ehQ": {
+  "time": 211.5,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": 6.7
+ },
+ "1Yz490IfSs2tdc1E6N2Efw": {
+  "time": 199.9,
+  "chara": "G",
+  "latency": 4.6,
+  "countdown": 5.8
+ },
+ "1ZEB8PFSQh2rzTmkB26skA": {
+  "time": 61.4,
+  "chara": "D",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1zgtSETiRDSiov6EytGqkw": {
+  "time": 139.7,
+  "chara": "M",
+  "latency": 3.3,
+  "countdown": 4.1
+ },
+ "1zmo3gXMTvSxE9BKmNzJPQ": {
+  "time": 72.7,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "1zWsLvoLQrusU5fe4IUVMw": {
+  "time": 190.1,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "1ZxnaH1gTYeLpB3SvI1zpw": {
+  "time": 262.5,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": 9.7
+ },
+ "1zXvIq60RLOzu9gUURU5EA": {
+  "time": 122.3,
+  "chara": "L",
+  "latency": 4.1,
+  "countdown": null
+ },
+ "1_4vQCxsQeKqgWIuhx9nog": {
+  "time": 173.7,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1_cFrwTuRE6HzBbp9R5aXA": {
+  "time": 90.6,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "1_i9kH8lTVaLF-NnvJUpQQ": {
+  "time": 200.6,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": 6.3
+ },
+ "1_oQ4pmGSt2Zikzg8C4YZw": {
+  "time": 141.7,
+  "chara": "I",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2--Wuo-ARsWbWxBI7EMJnA": {
+  "time": 64.7,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2-OjDY87RxipcyvnVbdLxQ": {
+  "time": 145.2,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "20-VnCACQjSp0LFIrtslfA": {
+  "time": 117.0,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "20ePigP-TFimTMGqlEAKvQ": {
+  "time": 212.1,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": 5.0
+ },
+ "219aPpO1SfK0R7STqZ8ogA": {
+  "time": 145.2,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "22vGQ9JGSUO6qJ_cK-N60w": {
+  "time": 33.0,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "22xsSeeIRrWG6xyC4_s9NA": {
+  "time": 61.6,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "234ULLfmT9qnOP1jH-r8ig": {
+  "time": 196.0,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "23amTIDiRiiS7OIjbQ6_3A": {
+  "time": 160.4,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "23cxoK0dTdCQrmq92Z9xzw": {
+  "time": 12.3,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "23RDD7STSF-PTNID_V9tHQ": {
+  "time": 166.5,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": 7.6
+ },
+ "23wXoWZ6QJqMTHEUUFsXmQ": {
+  "time": 52.1,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "24ZgA9AtT82Fg4iuMELuwQ": {
+  "time": 197.5,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "25iiFC64RMaLtG1Pq3jOaQ": {
+  "time": 257.5,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "264Nl5drQU64tWOof2Unng": {
+  "time": 209.6,
+  "chara": "D",
+  "latency": 3.4,
+  "countdown": 5.2
+ },
+ "26IAAs8xQK-7P772FSTcGQ": {
+  "time": 181.2,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "26nzr97sQCaSeiG7cTwm2g": {
+  "time": 224.0,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "26V9hGXZQ7O-AS8kqWkkmw": {
+  "time": 101.2,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": 7.4
+ },
+ "27c8VAQbTNyx3md8yRvL9A": {
+  "time": 44.0,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "27p8lhgTSa6OFBBrX7fYWA": {
+  "time": 163.7,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "27_3emywRVWXeYGoMUWwNw": {
+  "time": 195.0,
+  "chara": "G",
+  "latency": 4.6,
+  "countdown": 10.0
+ },
+ "2819rAlCSD-Dp9qyoBaQEg": {
+  "time": 225.9,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "28RkwgXHQrWxQ-mvcntbwA": {
+  "time": 210.7,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": 6.8
+ },
+ "28U2dhGYS2SKK5Ou-DatgA": {
+  "time": 178.2,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": 3.9
+ },
+ "29BeTVBeT0qirDCEVQ26zw": {
+  "time": 195.4,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "29jRL2bWT--G1ItZFwbS2w": {
+  "time": 121.8,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "29KuQ37jROmB846jZDZCbQ": {
+  "time": 126.9,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "29rRPRBeQJe8zlzyfuquIQ": {
+  "time": 214.8,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "29uMpV69QxW_1aQiUo8LQg": {
+  "time": 16.6,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "2AkOs_P0SuSnZFtoQcVpYw": {
+  "time": 117.5,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "2BfN5ywRT0CG7VeGlwzxrA": {
+  "time": 71.4,
+  "chara": "K",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "2BH0iV-ES5GzYYo7VoHfsA": {
+  "time": 1.4,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2Bk3heFpT4qFd4p1scWy9Q": {
+  "time": 77.8,
+  "chara": "J",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "2bNNAD40RwuOeL_Rl2SNew": {
+  "time": 41.3,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2bzMXM0gSB-w_RrdtfHGkw": {
+  "time": 196.4,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "2cBDlBT8SsO5-5Ifue53Ig": {
+  "time": 240.5,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "2CtuJpF6RMaRXzKjCzyDAw": {
+  "time": 250.3,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "2CzFMuRfQFOZL9xfAZ2cQQ": {
+  "time": 276.7,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": 6.9
+ },
+ "2c_Sh-E3RrWr5BZfDyRxVQ": {
+  "time": 210.0,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2dL8MYlmSdGoBDi3UodLkg": {
+  "time": 128.1,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "2dur6oKFQ-CJp3tP4h3JdA": {
+  "time": 116.3,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": 7.8
+ },
+ "2ehblmkgS3KBzmMf3gX3WQ": {
+  "time": 89.4,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "2EqfYap4R8OnpnGCTnZE1A": {
+  "time": 161.5,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2eSRT-TORLuCoW8ik6g5LQ": {
+  "time": 223.5,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2eUM6tYJQNyqIqgnCGjimg": {
+  "time": 140.7,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "2EURSNSGSbafIRd3JIhKug": {
+  "time": 192.2,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "2f5lgisMRo2-eWbmA52i-w": {
+  "time": 160.5,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "2F8ObodjTZ2YB79jXj-Z2A": {
+  "time": 141.4,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2FaFVM1PQKaWjnUw95lzXA": {
+  "time": 82.0,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2fJPanb1T-2NeJcdpCTHYg": {
+  "time": 176.8,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "2fNPHJB5TuKLz-TpVp9SAg": {
+  "time": 201.8,
+  "chara": "N",
+  "latency": 2.9,
+  "countdown": null
+ },
+ "2fsAmTm6TwuMFNSKoUl81Q": {
+  "time": 154.4,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": 8.8
+ },
+ "2fYkclfmRm2f2caHbL8IYg": {
+  "time": 201.5,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2F_yNiW8S0WABJNQJvOz-Q": {
+  "time": 98.4,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "2GfJJnYfS0O4qJMvvzY13g": {
+  "time": 209.5,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": 7.0
+ },
+ "2gl083JvQFWFUuNcyOKCqA": {
+  "time": 178.1,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2GNbBDxjSmmHaW-6WvLF6w": {
+  "time": 197.0,
+  "chara": "T",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "2Gw2bPelSSqk3kXsqrpryA": {
+  "time": 154.7,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": 5.5
+ },
+ "2gZkNMo7SA2a0F-Q_kB2qQ": {
+  "time": 118.9,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "2hawXVcsQVGxuqxtZpKxOA": {
+  "time": 155.9,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": 9.8
+ },
+ "2hho-RzLQ3SZLE8JhapMEw": {
+  "time": 238.0,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": 6.8
+ },
+ "2HKR8TUAQMqbJfc4R65zyA": {
+  "time": 162.7,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "2HqJkBG-QP6-1LsTSeDW0A": {
+  "time": 200.0,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": 4.9
+ },
+ "2HS_RCefSKC3BQj80jiL7A": {
+  "time": 169.9,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2i4rxYzjTaKewaO76nEK7g": {
+  "time": 129.2,
+  "chara": "F",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "2IaM5IZZQ2mZrXF7chYfhA": {
+  "time": 240.2,
+  "chara": "C",
+  "latency": 1.5,
+  "countdown": 1.6
+ },
+ "2iedJOe-Rv2SXQZjXOOOjA": {
+  "time": 159.5,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "2InD_AAyRm2ZLqc-ZpsPSQ": {
+  "time": 128.8,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2ioc1S23TfGwBJKdcOh92g": {
+  "time": 180.3,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 7.2
+ },
+ "2Irn_E6vT3-_4XgF6aisMA": {
+  "time": 38.2,
+  "chara": "K",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "2jKGZEAFSB2zSxmRr3JCRw": {
+  "time": 177.0,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "2JkwhG1ARwmzzr0nc_YVJg": {
+  "time": 159.5,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "2jMZ2ecGSNCOTqV-zfipcA": {
+  "time": 85.9,
+  "chara": "J",
+  "latency": 7.0,
+  "countdown": null
+ },
+ "2jpndHpYQNKEbYZGKLkSsw": {
+  "time": 104.4,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "2JyYLs8DSnSLhauam9NQEQ": {
+  "time": 114.1,
+  "chara": "P",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "2k8l7abTRquycZWVKiFfKQ": {
+  "time": 213.7,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2Kascw9LR82cfHgAenWJfQ": {
+  "time": 165.5,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2KE2JrpNRUOVqhIZsit30A": {
+  "time": 188.5,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "2ki60M0cR3Sn1jvaZg3_9g": {
+  "time": 161.0,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "2KMr8c2dTAK7C5vG8YaUEg": {
+  "time": 175.4,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "2kPusB6lTGeXQQ385aqNHA": {
+  "time": 144.5,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2LJVndLsSHyzkhskhYgEnA": {
+  "time": 164.4,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "2LyOsynhTY-7xFdMW6ilcA": {
+  "time": 99.1,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2MiVjPVzS_Sb-hN9Og6jUw": {
+  "time": 233.5,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "2Ms6KI4IT3-0ty8KRVfwBw": {
+  "time": 183.0,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "2mu8F18KRKuX2LIoEGDN-A": {
+  "time": 209.5,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2mY5PDetRt-KiJYqfMi8cg": {
+  "time": 172.2,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "2N0RNf6CSRyhxtsIbv5NoQ": {
+  "time": 239.4,
+  "chara": "T",
+  "latency": 3.7,
+  "countdown": 4.8
+ },
+ "2NbyQrUOTGGp-ju5tlvnxA": {
+  "time": 226.0,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "2Nkzc4IzRoiP5sZRze9_-Q": {
+  "time": 175.7,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2nOOchb3T12_VnzjRlMm-g": {
+  "time": 184.2,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2npf7XlmR_GEjnuOZ-hEyQ": {
+  "time": 191.9,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2NwCVX2xTlqZLTJtLARj7w": {
+  "time": 272.2,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": 2.0
+ },
+ "2NYpNqWHR7ihmSjNKRkvsg": {
+  "time": 150.1,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2n_5sv_ISSG8Zm0mMMslPA": {
+  "time": 110.4,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": 9.8
+ },
+ "2N_bQDxsRvSacLafEs3H3A": {
+  "time": 149.2,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2oHs9S5sSku0h0dSuBML2A": {
+  "time": 8.3,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2pbGJx7nQFugwRIMV7q7_A": {
+  "time": 182.1,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": 6.8
+ },
+ "2pBrq9OIRTy4lCWnittYKg": {
+  "time": 171.4,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "2pLgPMXGRBm_krzRFTMeLg": {
+  "time": 238.2,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2Po855UyQ-yQ1YfQMqnT8Q": {
+  "time": 170.2,
+  "chara": "J",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "2PqGDTbZQsKW13QF2Mrk-Q": {
+  "time": 188.7,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2Q6G6vKpRa2e7xp0Uu5ELA": {
+  "time": 172.4,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2QECElVyR1uXGhyc6Db7dQ": {
+  "time": 67.1,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2QF6RSoNSima90-xNEunYQ": {
+  "time": 85.8,
+  "chara": "J",
+  "latency": 6.1,
+  "countdown": null
+ },
+ "2QJdpuucQWSMdBogM4_ZGQ": {
+  "time": 213.4,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2Ql7Nim-Qq2uns8OS7wG_g": {
+  "time": 258.2,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2QlRd69HTlCLpLeyCuOHDg": {
+  "time": 262.7,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "2QwE7N9XQSWxjxcd5RIThg": {
+  "time": 183.2,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": null
+ },
+ "2r7GT4ZPSBG95RL9SGSR8w": {
+  "time": 101.8,
+  "chara": "J",
+  "latency": 6.1,
+  "countdown": null
+ },
+ "2RLYHprKRqiTrR0wh22M2w": {
+  "time": 128.7,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2rmL0mDFT6yxYu4M22bZ6A": {
+  "time": 211.0,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": 3.5
+ },
+ "2rTN3mURShOe4c0HM0nQow": {
+  "time": 220.3,
+  "chara": "D",
+  "latency": 3.8,
+  "countdown": 2.1
+ },
+ "2RUADPAoSEWU_A43DXSdXw": {
+  "time": 32.7,
+  "chara": "E",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "2rWx8c7AQZWRDurWuMfuaw": {
+  "time": 180.1,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 3.8
+ },
+ "2RYpOL_yS0i7ubfmZUpR6w": {
+  "time": 134.9,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2S6UbOPwTBaNJQ2qQWjelA": {
+  "time": 161.7,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "2sccH77MR2ejZ_9drV9_Nw": {
+  "time": 24.4,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2shMZFa5TSWzgQ67kJ6C1Q": {
+  "time": 256.9,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "2sjHMRp5T4iO8t7r7Bf4kw": {
+  "time": 128.1,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2StBaXGaR8ye8ZJseVWo5w": {
+  "time": 220.3,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2sXHgCEcSQ-XQyslO3Je5w": {
+  "time": 174.7,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "2Tc6gwlsRqapP5O_N5VH6w": {
+  "time": 130.9,
+  "chara": "I",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "2Tj9G0KiS0mUU--oWqjpAQ": {
+  "time": 164.6,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "2tLNvTiiSu2HWphswiepmA": {
+  "time": 11.4,
+  "chara": "I",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "2tTBVN_wQAieZBvK2WXCqQ": {
+  "time": 145.9,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": null
+ },
+ "2Tx--rOVSky9dO1YpkX1JA": {
+  "time": 144.4,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": 8.1
+ },
+ "2tXS5AjqTTanYYbC_8YHyA": {
+  "time": 189.0,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "2u013i8UQ6mVrNfyUTcqUw": {
+  "time": 181.3,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "2uaS2aVhQ0SNQE0W3llXNw": {
+  "time": 203.0,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "2uGa6PAZTo-3fJEEQKaJ6w": {
+  "time": 126.3,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2Uhg-esZSCeHne50rt7mpg": {
+  "time": 220.3,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "2UM95Q8ERiSYtV9PY5JeHg": {
+  "time": 48.7,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "2upe60LcSsWzJDA2I-zU4Q": {
+  "time": 122.0,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "2UPMuC1TQEG-bqKSVgLyrw": {
+  "time": 241.8,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": 8.2
+ },
+ "2uQAm4PQRpigvz3RyrXXdg": {
+  "time": 291.6,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2URS-bDRR9iz0wyEmXlFIw": {
+  "time": 232.4,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "2V12nwXoSN6e5R10321ldw": {
+  "time": 229.8,
+  "chara": "J",
+  "latency": 5.0,
+  "countdown": 8.0
+ },
+ "2V2EIc2mS1-er5e3DxJM0g": {
+  "time": 201.8,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": 7.0
+ },
+ "2v2Z3MiqQwO81Lx2q4H8cw": {
+  "time": 91.7,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "2Vf_-W52T3mFhQg6KosEKg": {
+  "time": 68.7,
+  "chara": "F",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "2VR4l0NvTySGHRtC5pAavg": {
+  "time": 210.1,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2W0YgEFySAW2k0wNEj9hMg": {
+  "time": 174.3,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "2wasJAOsRTCLG93DW7UBAg": {
+  "time": 241.8,
+  "chara": "F",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "2WCbByPLTD2Wh5-xUMoqJg": {
+  "time": 117.2,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "2WFis-sHT0mmh9AQTUqbgA": {
+  "time": 232.0,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "2WFpUoX1Rq6nMSvol6lP5g": {
+  "time": 31.1,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "2wh0SEVxSayJYmBoarOxcw": {
+  "time": 192.8,
+  "chara": "G",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "2wrV8QXmQjOF0Sp1CRlSFw": {
+  "time": 203.9,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2X4uRqq3R_uWwOk12_F4GA": {
+  "time": 167.5,
+  "chara": "J",
+  "latency": 6.1,
+  "countdown": null
+ },
+ "2x4VxTJsS2-sv5OrnyG1dg": {
+  "time": 182.0,
+  "chara": "G",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "2xBildeASTehDGqYmdsVmw": {
+  "time": 44.7,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2xKIUnv0QeKzUvMfsrbIjQ": {
+  "time": 256.7,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2xZgp5gxTMqiw6yDsHK0Ow": {
+  "time": 210.9,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "2y4O2Aw1R7WdNpFOlUoPyA": {
+  "time": 175.2,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "2Y6H28gaTYiu2fc8JkzSkQ": {
+  "time": 232.2,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "2zOprDOGSd6PGTjgS34uCg": {
+  "time": 152.0,
+  "chara": "K",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "2_2FW1fURpqkIhXZ9opvyQ": {
+  "time": 217.4,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": null
+ },
+ "2_cJFzf6Tbi4YZ8F8CX8og": {
+  "time": 118.2,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": null
+ },
+ "3-0pr7WlQky0aaRi7v3y2Q": {
+  "time": 51.6,
+  "chara": "F",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "3-0v8zb9RBi-W_AdCb0hMQ": {
+  "time": 232.9,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "3-2m7RQ2R6uO7LY2p-vncg": {
+  "time": 93.5,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3-6fSKOBQXa_EDhS2JKEHw": {
+  "time": 114.5,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "305MUzQoTdGoWTTMQ-MaLw": {
+  "time": 171.0,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "30fytSJyTb-n8jFNw23LqA": {
+  "time": 183.3,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "30u1UTjwR4qGpvBxALrUpQ": {
+  "time": 188.2,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "3175hCCSQYqoUSZQcEjmPA": {
+  "time": 122.0,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "31BkBaQISsyS1Un5HKSZzA": {
+  "time": 55.5,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "32m9oTsAQRSd6N5BYSxd6A": {
+  "time": 212.2,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "32nHqOhuTwKC_0KDRwTmxw": {
+  "time": 210.5,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": 9.2
+ },
+ "32Ov5HYPReCTYobwGEpetQ": {
+  "time": 214.1,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": 8.5
+ },
+ "3320nJprTVqlQi5rsDanGA": {
+  "time": 214.0,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "336b6HXhTOi0iwKZqixkmw": {
+  "time": 120.7,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "33Cesmv9RCSPwSJd8mQ9eA": {
+  "time": 2.7,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "33PBv0doRSqttJDSg8o_pw": {
+  "time": 65.6,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "33PY-xjCQGa9CiUBoujicw": {
+  "time": 203.1,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "33wmtDPbQzq3zPCwgG81bQ": {
+  "time": 144.5,
+  "chara": "C",
+  "latency": 5.0,
+  "countdown": null
+ },
+ "341J2EFwTZyC0GQ5YR6EQQ": {
+  "time": 5.5,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "34eQiQzvRfel9baZ9ox2cA": {
+  "time": 172.0,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "35LrzJ9UQMO55jxxKW3wWQ": {
+  "time": 152.5,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "36bgOZWlQj-GABE2Y6F1lg": {
+  "time": 284.9,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": 2.4
+ },
+ "36bOy1GrSQKeoOI7E1Ag1Q": {
+  "time": 16.7,
+  "chara": "B",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "36jrK4tXR2GwnrYFJDd6oQ": {
+  "time": 130.8,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "36NdCzH-RMuUqa0S_Ir4mg": {
+  "time": 192.4,
+  "chara": "O",
+  "latency": 3.4,
+  "countdown": 3.5
+ },
+ "36zs-ixQRMiKmd7sLvD4tg": {
+  "time": 90.2,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "377WDXSNQCGawUxd86xJeA": {
+  "time": 188.9,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "37GbYQx3R7esyJos1QhRcw": {
+  "time": 6.6,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "37kh8uDgQsGr2EC2AAyRzg": {
+  "time": 55.5,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "37uzIC1qRMGPmny-Q2m1eg": {
+  "time": 123.4,
+  "chara": "F",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "37XBVyBRSFaWISv285PXKQ": {
+  "time": 164.8,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "387iZsCLS0e09CN4niCJXg": {
+  "time": 216.9,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "398Vlb5SQrKMebe9f-2VeQ": {
+  "time": 192.6,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "39DKyDJSRjWV669PXN_62A": {
+  "time": 199.9,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": 9.4
+ },
+ "39J5_OIrRxqHHZVC8R920w": {
+  "time": 179.7,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "39xxcmPXRlSQbVuLS8H8MA": {
+  "time": 91.5,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "3a2BhkJ5RnWR61as0KuTAA": {
+  "time": 198.4,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "3ASt5vI0RB-p2myFPW3tmQ": {
+  "time": 11.5,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "3aT_kLFRSQ-l0iK58CGYLA": {
+  "time": 201.9,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3B2cXcJtQfqMPxDEpWDZvQ": {
+  "time": 95.2,
+  "chara": "I",
+  "latency": 4.1,
+  "countdown": null
+ },
+ "3BAHt5xgRGqDLqW_7ujR7g": {
+  "time": 163.7,
+  "chara": "F",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "3bfysmsbTruDWjJZFyPzaw": {
+  "time": 181.0,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "3BfzsC9yQwG6WzVwtkXAmA": {
+  "time": 73.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": 8.3
+ },
+ "3BQRpfFpQKOwBAdPobNjcw": {
+  "time": 74.7,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "3bVsHYkyTBWtiBc9H2ndfA": {
+  "time": 195.1,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3c64WuS9SM2NkCxAvwNFnw": {
+  "time": 211.3,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": 10.4
+ },
+ "3CaCY4s_TxGrzBcybrpnjw": {
+  "time": 68.2,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "3Cnl9a34TWmDH-znC5lEGQ": {
+  "time": 55.2,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "3CT1J6owRny1VQyYbaKA-w": {
+  "time": 58.2,
+  "chara": "K",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "3CuFVwK2RRSqezZqnNyguw": {
+  "time": 168.9,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "3cUy8QoJSk6Cgx-HUcgxkg": {
+  "time": 6.0,
+  "chara": "G",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "3cx182AIRNG6qM16d9Mt0w": {
+  "time": 197.5,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3dADI335Q0KIWWxoDXTfew": {
+  "time": 283.0,
+  "chara": "P",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "3DAiLxySQdGruz6id6n5zg": {
+  "time": 157.5,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": 10.0
+ },
+ "3dIj8WAyQbyYJlT5TDZsQg": {
+  "time": 161.9,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "3dki6N-ESB2JlFBak55lqA": {
+  "time": 143.9,
+  "chara": "A",
+  "latency": 4.5,
+  "countdown": null
+ },
+ "3dr41RKdQvOSo-vw2_i2Vw": {
+  "time": 365.3,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "3Dx4m5BFRmOA2JZrSzLseg": {
+  "time": 169.4,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "3EXwQvs7RS6THF86FgFhSw": {
+  "time": 163.7,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": 8.0
+ },
+ "3FM6U2L4Tmay7xwQMTJ0NA": {
+  "time": 161.3,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "3FTVJgmzRSC0wlClc8bWAQ": {
+  "time": 221.6,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "3g7wQe9lQv2V8HXUuJjvvA": {
+  "time": 123.6,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "3Gc89iVGSJegAgfLZAw7aQ": {
+  "time": 163.5,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "3GdoUZjUTSqPcWEh34QGGw": {
+  "time": 120.9,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "3gDvSetqT826TVwXEka-jg": {
+  "time": 57.4,
+  "chara": "D",
+  "latency": 2.8,
+  "countdown": null
+ },
+ "3glnyKcGREaWluF21RExtw": {
+  "time": 180.3,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "3gqT4nxHRsWDCf6VLIyGHQ": {
+  "time": 179.5,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "3gtTSMRNTumMy4K8gCWCQQ": {
+  "time": 89.7,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3GxqAIt9QBy2j38GcpsVPg": {
+  "time": 49.9,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "3H22JhcuRSi5zocHS1y5Ug": {
+  "time": 166.0,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3h4v3iX_SXK-4OC4eI5F5A": {
+  "time": 238.8,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": 9.3
+ },
+ "3HKPk5BgQ8OB5y2c8KmmsQ": {
+  "time": 193.9,
+  "chara": "K",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "3hvaax6yQEeGBiKPgmwCKg": {
+  "time": 196.5,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": 8.9
+ },
+ "3i11hpczRtqv0nX6R71UKQ": {
+  "time": 90.5,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "3iOl-IjxRuCOSkp7_MIN5g": {
+  "time": 71.0,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "3IUxoUZySxaUKKhSOzvGEg": {
+  "time": 32.5,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "3J8qKRnqTM27Q52GoWLGJg": {
+  "time": 238.9,
+  "chara": "B",
+  "latency": 3.6,
+  "countdown": 1.4
+ },
+ "3K94VhLCRqezb9ILAXsNDA": {
+  "time": 185.9,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": 5.2
+ },
+ "3KyxWAtDSaCS0kdyPfV0eA": {
+  "time": 255.4,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "3L2e5HJPSU6zVXDtlFHW7g": {
+  "time": 105.4,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3LKqfELMSjSpTfCa42u_4Q": {
+  "time": 252.0,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "3lUEvhzSTgK5G70gi83wfg": {
+  "time": 176.8,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "3LZQQ9GmTxCFxcbjMAp8Rw": {
+  "time": 193.5,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "3N9sutIbThuv0kFFSHMKyg": {
+  "time": 136.9,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3NEseDU1QJ6qJD852LLO3Q": {
+  "time": 166.8,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "3nGgyvjzSumfrtbL73YQaQ": {
+  "time": 84.8,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "3Ngo04RsQK6P9-52V7-uQQ": {
+  "time": 131.6,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "3Nla5P0uTOyjOjXnM3Da7g": {
+  "time": 140.8,
+  "chara": "G",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "3NmcDegDTAW1az14R6CY1g": {
+  "time": 207.4,
+  "chara": "K",
+  "latency": 3.7,
+  "countdown": 7.6
+ },
+ "3nQUWcTOTXqEoNM-pfX0hw": {
+  "time": 294.4,
+  "chara": "T",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "3NwqavNSS_qdEPiBqmDOHw": {
+  "time": 110.2,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "3O1jMhlhTwakzKmj-DnRag": {
+  "time": 143.6,
+  "chara": "H",
+  "latency": 5.6,
+  "countdown": null
+ },
+ "3Og2BnWZS_26SUTp_lpMRw": {
+  "time": 178.1,
+  "chara": "J",
+  "latency": 6.1,
+  "countdown": null
+ },
+ "3Ogug24bSIilK9kd3jfuug": {
+  "time": 110.2,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "3OLQhnbjSYiCf5jxUhI0Gg": {
+  "time": 173.5,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "3ONmFXd3Smq-rlUbguvwoA": {
+  "time": 261.9,
+  "chara": "H",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "3oYpfqSvQH6nhXrp23U1aA": {
+  "time": 81.9,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "3p3iHzpITU24DJrDpNxs0A": {
+  "time": 107.3,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": 8.8
+ },
+ "3pD8u_4VSFCJIc-Wfe0vPw": {
+  "time": 52.2,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3pI-SbcRSH60FvDnG26f5Q": {
+  "time": 204.6,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 6.9
+ },
+ "3PIw78EFSOOrefjT54XTbg": {
+  "time": 241.5,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": 10.7
+ },
+ "3Pvd2tTbT1e3R4Klj3POtg": {
+  "time": 202.4,
+  "chara": "G",
+  "latency": 4.6,
+  "countdown": null
+ },
+ "3Q75VmlyTx65NeOL0pvROw": {
+  "time": 173.7,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "3qftOAr0TCSiova7MBPyNw": {
+  "time": 262.0,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "3QtscUrtRx2KQQpsQ-oBKQ": {
+  "time": 249.2,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3QUEmHUBT8OxNCdr6IPlPQ": {
+  "time": 202.0,
+  "chara": "D",
+  "latency": 3.7,
+  "countdown": 4.4
+ },
+ "3qZcgxUfTNm0uthM_POrSg": {
+  "time": 209.7,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "3R-7gQq2RnC7KuEp7CTkiw": {
+  "time": 154.0,
+  "chara": "C",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "3R1UtqM0TB29NeHbHWU9uQ": {
+  "time": 163.4,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "3RA3BpI2R1O8Y83iTXA61g": {
+  "time": 253.0,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "3rGGXyWoQQmV1BX5aj9qeA": {
+  "time": 278.4,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "3rKWWt4gS7eS8rU6lWL0LA": {
+  "time": 157.7,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "3rL662LrSuyxhUwWuSDYzg": {
+  "time": 99.1,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "3rm4Bp7wQjqoXGtS-nraMA": {
+  "time": 151.2,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "3rouwbDZR3Km1Px0HtyHWg": {
+  "time": 42.5,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3sC6cdayQ665RATA53aBOA": {
+  "time": 131.3,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3SgraSu9Q1mspRza6uYFuQ": {
+  "time": 140.4,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3sIuPoQLQWWmJPg64qZKrQ": {
+  "time": 74.5,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3TEJIl0eShmp_iVC5EGd3g": {
+  "time": 166.8,
+  "chara": "I",
+  "latency": 3.9,
+  "countdown": 5.7
+ },
+ "3TGZTS7MS0iUjiVJrPhXaw": {
+  "time": 115.0,
+  "chara": "B",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "3tPv4zfzRum4aaP6QtHbbQ": {
+  "time": 87.5,
+  "chara": "I",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "3U0T1jFHR02wuq-iurGngQ": {
+  "time": 68.3,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3u7F_LlESXq7Wu05akdASw": {
+  "time": 257.7,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3UklMUvpQ0C16Li-ss477A": {
+  "time": 108.9,
+  "chara": "G",
+  "latency": 4.6,
+  "countdown": null
+ },
+ "3uTSivAURXGUYTwb7CJjQw": {
+  "time": 157.0,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "3uVHcuVqRs6HUmj1WjP4rw": {
+  "time": 235.9,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3uZR856LRA6mZfgKMhCvfg": {
+  "time": 133.0,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "3VBmQy3DRvWBWr1j1Zw3Sw": {
+  "time": 202.2,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3VN1RFTDTui0EdSZQAxLkQ": {
+  "time": 161.7,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "3vqmD-JDR_CbrJGSJhdm1A": {
+  "time": 202.9,
+  "chara": "H",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "3VS_UdFTQICcdQZd_CZ1vg": {
+  "time": 218.4,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3VuxVak8QB2AGPD_Coi7ig": {
+  "time": 229.9,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "3vzwiAvMR7-3ouEMQoS2zA": {
+  "time": 190.6,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "3W6J4zpVTUCmLQmeewFtnA": {
+  "time": 225.5,
+  "chara": "F",
+  "latency": 3.7,
+  "countdown": 6.7
+ },
+ "3w7HiPKETDmBiwfeptgW9w": {
+  "time": 266.1,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "3WDgOfSSTMKcv5avEm6lUg": {
+  "time": 141.2,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "3Wpcnl1qTkmcHRdGBfBH7A": {
+  "time": 318.1,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "3x4Hfa6aRHmo3g2DRiik8w": {
+  "time": 13.6,
+  "chara": "H",
+  "latency": 4.5,
+  "countdown": null
+ },
+ "3xeyU1vQT-KWscbmHl9QXg": {
+  "time": 227.6,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "3xG3JbCHSZWBX7xU0ZhPEg": {
+  "time": 159.8,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "3XIvQkM4R4qM6qUcIS_NbQ": {
+  "time": 80.6,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3xsOUq2MRxC45TsDVlh60A": {
+  "time": 71.0,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "3XxLpfEgQXKeVlerA-lMGA": {
+  "time": 174.5,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": 5.2
+ },
+ "3yKtkCvoT-qpp3o4-2cz9g": {
+  "time": 134.1,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "3YXkcS4qSh62Qv6DrpN4MA": {
+  "time": 88.7,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "3Z6MaKXXRVqvRn5g5mwH0A": {
+  "time": 180.3,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": 1.6
+ },
+ "3zasf0wTQNqEwutu9twRpQ": {
+  "time": 158.5,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "3zBKq3glQAGvvj1mxII5cQ": {
+  "time": 178.3,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "3ZbPSoZ5RuqfS3ID3x-qhg": {
+  "time": 89.2,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "3zktEukfT0eErRRAccrAfA": {
+  "time": 215.5,
+  "chara": "L",
+  "latency": 3.6,
+  "countdown": 7.3
+ },
+ "3ZT6xeLnQR2B4l9mDvOc9g": {
+  "time": 194.2,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": 8.3
+ },
+ "3_cAOhtGQ0i89-JbdFMrPw": {
+  "time": 197.6,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": 9.0
+ },
+ "3_GUMkTCSYiWLtCIphmHrw": {
+  "time": 40.0,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "4-4zTOLwT-i5-QpY8Whohg": {
+  "time": 219.9,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "4-I-rZaWRcapVgZLJg1lQw": {
+  "time": 162.0,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": 5.8
+ },
+ "4-W4HA8kROq-H9zOqul8qA": {
+  "time": 13.5,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "40ObT3G2TB6Jn4iddk16Ew": {
+  "time": 182.6,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "41DqED3-QNGzdy9Inu6OPw": {
+  "time": 127.8,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "41jipR9BQEKthyy5WOaRrg": {
+  "time": 108.2,
+  "chara": "R",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "41S1SAVhTt670PXseE4fzQ": {
+  "time": 245.4,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": 8.5
+ },
+ "41XbIgTTTc2opVPcC6OuBQ": {
+  "time": 22.9,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "4234BTXNSAiceZdw74mG8Q": {
+  "time": 74.2,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "43D3-RmcQgGWgJJ4TvQuKA": {
+  "time": 211.5,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "43ZqpvdRRteULIqZ7pGFjw": {
+  "time": 210.0,
+  "chara": "D",
+  "latency": 5.1,
+  "countdown": null
+ },
+ "45AKpZJVTUuFr--YBnCdUw": {
+  "time": 150.7,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": 4.2
+ },
+ "45gn4DKvRcWOonjC6KuseQ": {
+  "time": 213.4,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "45hCoQBaQU-baqupszTuzQ": {
+  "time": 188.0,
+  "chara": "F",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "45jh80LvQVu58e4o-c6mMQ": {
+  "time": 149.4,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "45YyTKJfT5G0X6t-3_CdGw": {
+  "time": 214.5,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": 10.6
+ },
+ "46LTc5ZySeitbr1LpEMCgQ": {
+  "time": 74.4,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "470zsjmdQxCGhfyaxiG1VQ": {
+  "time": 138.2,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": null
+ },
+ "479CJkW-QBepMMPLaSrKMA": {
+  "time": 98.2,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "47fd1vBwSZa5UgoYjwniMw": {
+  "time": 128.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "47Fe6SUVRSyrNDeI_AdUWA": {
+  "time": 106.9,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "47Ii6TnbQ_KjQv0Wd-WCSA": {
+  "time": 247.2,
+  "chara": "H",
+  "latency": 4.6,
+  "countdown": 7.1
+ },
+ "47L2foBeSl--AmoNnhEIoQ": {
+  "time": 221.6,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "47wuWOdQSQiZYc83aOo1Mw": {
+  "time": 215.2,
+  "chara": "C",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "48tgEWN9RPOCmRHtCX4JVA": {
+  "time": 168.7,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "492fcD9sQamiumVQR6-UEw": {
+  "time": 215.2,
+  "chara": "K",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "49J0h8wrQYeGBzmHnkTw0Q": {
+  "time": 159.9,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": 10.8
+ },
+ "49zV-WF8RTa7DkLmWDG5gA": {
+  "time": 129.1,
+  "chara": "J",
+  "latency": 4.8,
+  "countdown": null
+ },
+ "49_MgtTmQ-Cjb477zQGG6g": {
+  "time": 133.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4A314X4hRtSGlVHgVh1rjg": {
+  "time": 141.9,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4A9WLCFySEWf45YFIIXXDA": {
+  "time": 140.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": 4.2
+ },
+ "4Alc06OaTIezkM-nTstKHg": {
+  "time": 226.8,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4AOzUewqRc2kfVnAjHyPvQ": {
+  "time": 244.5,
+  "chara": "L",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4Au7eY5VQ6mz4KMeSLTonQ": {
+  "time": 155.9,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4Awn4dISQGO_OOxCB9BZYg": {
+  "time": 120.9,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4ax2W8xXRv609vkEdPHGzQ": {
+  "time": 66.5,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4bI7lG1EQNOyvLJrII3zWQ": {
+  "time": 147.5,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4BIQfvZpT6CP-eEnXvshoQ": {
+  "time": 123.0,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": 7.7
+ },
+ "4bpAHshjRMCQrHSqt1C-cg": {
+  "time": 58.5,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4bQaXnHGQmCZsN_f85JBOA": {
+  "time": 144.6,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4ce5rEEbQjiCLX8vuK-Gow": {
+  "time": 114.7,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4CNHenDvRquZG58Xtrr1MA": {
+  "time": 30.1,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "4CQTxZ9sTJW1f8xON1OQYw": {
+  "time": 41.7,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": null
+ },
+ "4d3PE4U7Q0aF9NZaTMqXoQ": {
+  "time": 171.5,
+  "chara": "P",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4DBZ5JWISImUTe1X6kpm0A": {
+  "time": 157.7,
+  "chara": "R",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4DCDzv1QR--KSdCE_GN08g": {
+  "time": 189.2,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": 10.0
+ },
+ "4dHlsTYzRJGy8mVdhzWGxw": {
+  "time": 206.1,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": 2.3
+ },
+ "4dIiH-QJTz6gMux_XVBQUA": {
+  "time": 253.0,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": 10.2
+ },
+ "4DT5wnPlSGuzB7D7MyGW2g": {
+  "time": 104.4,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "4e-HKAgESGmwNnqLJaPS1w": {
+  "time": 218.2,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "4eEyqh_ZTIW7jFQv3mX4Qw": {
+  "time": 164.2,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4eg9dWN9Qp6Kzqllrvj_mg": {
+  "time": 177.7,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4EGKttOBQxCflEyedWDHrg": {
+  "time": 68.7,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4EmjzX22RpCtv2KxHiYcQw": {
+  "time": 45.7,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4epobjsBRfKg60FS5lv9TA": {
+  "time": 271.3,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 4.9
+ },
+ "4eRu_cu7TlG9I-dGqINrmw": {
+  "time": 223.2,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": 1.7
+ },
+ "4fl7bQi_QQiuIp-HNjMMZw": {
+  "time": 81.4,
+  "chara": "S",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4FLZuYvPQfCjymCaN9qSKA": {
+  "time": 176.3,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "4fq-S0NQS32JPWAgb3oLFg": {
+  "time": 207.3,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "4GDQ8tOuRGu4BCWAww-FSA": {
+  "time": 181.5,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": 9.0
+ },
+ "4GeAFe7NTFqmaywD3Y_r0A": {
+  "time": 180.7,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4GEBhEzYSayvz-YPQ7FAoQ": {
+  "time": 17.1,
+  "chara": "G",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "4GouBvQtQXeZsNN71nNWcw": {
+  "time": 138.4,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "4GT83V5GRpuoR8sgTm6G0Q": {
+  "time": 10.8,
+  "chara": "Q",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4guCPal0R7OszWm9kS8xqw": {
+  "time": 195.0,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "4GWDK26bQgSsPM5lRLxDTA": {
+  "time": 166.0,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": 9.6
+ },
+ "4gZd_Zx0TpmTysBltqSGrg": {
+  "time": 37.1,
+  "chara": "K",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "4H4uoxYbSB6dZalzy23SbQ": {
+  "time": 205.4,
+  "chara": "K",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "4hawARtKSbKj30Mm_ktahA": {
+  "time": 213.8,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": 7.6
+ },
+ "4HH0NPQVSzazRZJ4vF4pzg": {
+  "time": 174.9,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4hj0UBtMTKucAtEbw2Rmrg": {
+  "time": 103.3,
+  "chara": "U",
+  "latency": 4.1,
+  "countdown": null
+ },
+ "4HLjnjkdRIiZO1Fh2Cb6mw": {
+  "time": 202.0,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4hMRqgelQtShUxid33wGfA": {
+  "time": 214.0,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4HRkRMrrQmWsvJQxDoUBbQ": {
+  "time": 232.2,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4HXOIIiaT6mswv-S509Xvw": {
+  "time": 100.2,
+  "chara": "T",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4hYjBreLR96Qp0cs4-fBqA": {
+  "time": 189.4,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4I6URvY5Rfay3S7LdVuOgQ": {
+  "time": 228.6,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": 5.5
+ },
+ "4IALKxpfQMWAVI7Cy1CEpg": {
+  "time": 232.3,
+  "chara": "B",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4igGmr1lS0e9NbTez8W3rQ": {
+  "time": 224.4,
+  "chara": "D",
+  "latency": 1.4,
+  "countdown": 1.5
+ },
+ "4II0pjjURU67j_kYTkkW5Q": {
+  "time": 190.4,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4IocbKh2RESbFCJEir46HQ": {
+  "time": 217.9,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": 7.6
+ },
+ "4iUle5VRRSu350u43lELRg": {
+  "time": 129.5,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4iWSFnRkQIeGKVh20GoJyw": {
+  "time": 201.8,
+  "chara": "O",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4J6tdLm7SOK5ykKMQOrDNg": {
+  "time": 98.2,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4j7Wmb1gSx6bak7mtAVwmg": {
+  "time": 211.0,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": 10.0
+ },
+ "4jknuEFWTK2LS9Khy49rSg": {
+  "time": 162.9,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4jn3sbKUQCORoPLEEeFkGA": {
+  "time": 157.0,
+  "chara": "I",
+  "latency": 4.0,
+  "countdown": null
+ },
+ "4jxPrE9ASqeVXHeLa1Id4w": {
+  "time": 91.2,
+  "chara": "F",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "4jYec-XSSI6h_O4jUrNHkQ": {
+  "time": 178.0,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4JZQoeYKSIaipi1Lb6S6iA": {
+  "time": 72.1,
+  "chara": "E",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "4KgxqbYvTlOQe-ybQT1XQw": {
+  "time": 187.6,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": 7.8
+ },
+ "4Kl-mr-3Q8O8z9oYlZnNmQ": {
+  "time": 67.1,
+  "chara": "J",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "4kL8PQknTjuiipOZbmB16Q": {
+  "time": 147.2,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "4KToVyLCRmmUP4Tap1x5XQ": {
+  "time": 11.8,
+  "chara": "P",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "4KxiT7gqRdO4PUTbfCkb0Q": {
+  "time": 178.2,
+  "chara": "K",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4lIAp7KFSue7zAzSFsMGmQ": {
+  "time": 10.2,
+  "chara": "O",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "4LkBF4LuT5SUHJ1P46HuFg": {
+  "time": 164.6,
+  "chara": "I",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4lmODqfRQ0-lqB1LngQH5w": {
+  "time": 41.2,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4M5_obSQQ-mX46p6CGq33Q": {
+  "time": 44.6,
+  "chara": "P",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4m9G6h1hSV6AS44VCzuv8A": {
+  "time": 153.0,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "4MjFaTEjRbqJtsFzLSEcMA": {
+  "time": 186.1,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "4mpLsdvoRD2CGlekDWnTkQ": {
+  "time": 94.9,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4mqG3pZ_Qve-HVDmCS_C3w": {
+  "time": 96.9,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "4mQU2HUURC-zFl1XjY9ubQ": {
+  "time": 183.5,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4N1lP1fcQlWdfsy11EZ_Lw": {
+  "time": 219.5,
+  "chara": "B",
+  "latency": 3.7,
+  "countdown": null
+ },
+ "4NDgyTo3Tcq0tWNVx-Xd7w": {
+  "time": 166.0,
+  "chara": "H",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "4nleFdGBR1qm0hyzmQO5fw": {
+  "time": 155.8,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 8.2
+ },
+ "4NLU3T7lQtuDQJ2MsbWoeg": {
+  "time": 73.0,
+  "chara": "A",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4nl_TuXvQTSObR9ZRK-DBg": {
+  "time": 210.2,
+  "chara": "H",
+  "latency": 5.3,
+  "countdown": null
+ },
+ "4NQnetndRHy0H0ia92ZTLA": {
+  "time": 31.1,
+  "chara": "I",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "4nrYfhkqSMuGSYvqsPrPvg": {
+  "time": 178.6,
+  "chara": "Q",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4nz6G429Qy-w1kI5VIi5_w": {
+  "time": 181.0,
+  "chara": "N",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "4o1M5UcUQy-PcwmbjaQSsA": {
+  "time": 120.2,
+  "chara": "R",
+  "latency": 3.4,
+  "countdown": null
+ },
+ "4O3pdCBwQfaWr2-fYECjug": {
+  "time": 213.0,
+  "chara": "J",
+  "latency": 6.0,
+  "countdown": null
+ },
+ "4oaqjhYKTqyY8Pde7auHIQ": {
+  "time": 174.5,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4of0elZfRbiZZbVjglpkGw": {
+  "time": 198.9,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": 3.4
+ },
+ "4OjfdA5NQ2KDB1UJjShXlw": {
+  "time": 131.0,
+  "chara": "D",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "4OJi5iA5SlaU6dUh3VHuZg": {
+  "time": 115.5,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "4oOslQE4QRKU6EUu6nmP9A": {
+  "time": 209.4,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": 4.4
+ },
+ "4ovHdC_-SgiHZE2NMh68bA": {
+  "time": 220.5,
+  "chara": "K",
+  "latency": 4.0,
+  "countdown": 2.4
+ },
+ "4oyACNryTSK_BfqX8K_TXA": {
+  "time": 111.5,
+  "chara": "U",
+  "latency": 4.3,
+  "countdown": null
+ },
+ "4pcVFt-MToOgWsVD32SO8g": {
+  "time": 207.2,
+  "chara": "O",
+  "latency": 3.5,
+  "countdown": 9.5
+ },
+ "4PG3FenHRH-pywzY-BpF0g": {
+  "time": 148.2,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "4Q-bsZreQDGC5yU8DIK_Qw": {
+  "time": 54.9,
+  "chara": "M",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4Q3N6sx0SCaDmFGo7NR-wQ": {
+  "time": 31.7,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4QE2BkquTh2TxpfS2AjXlA": {
+  "time": 122.6,
+  "chara": "C",
+  "latency": 4.9,
+  "countdown": null
+ },
+ "4qFhsSKzTVKfoGKT1yOS_Q": {
+  "time": 74.7,
+  "chara": "F",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4r-7cD_5SdGsYftHjXdr0A": {
+  "time": 221.3,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "4R4S6beaSeeOkHBm4Jo6ZA": {
+  "time": 150.2,
+  "chara": "Q",
+  "latency": 3.3,
+  "countdown": 8.0
+ },
+ "4r7jXFBqTqyqBR0RHwD55Q": {
+  "time": 128.0,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "4rhY87v3TSevLVdeIN889g": {
+  "time": 102.0,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4rSCDetiSSWqbqMDxjIYSg": {
+  "time": 66.6,
+  "chara": "T",
+  "latency": 3.6,
+  "countdown": null
+ },
+ "4RykVUv5SROhbxRG2DM1nA": {
+  "time": 212.7,
+  "chara": "A",
+  "latency": 3.3,
+  "countdown": 9.8
+ },
+ "4SeMyu9QRyWgTeB5z4_znQ": {
+  "time": 129.5,
+  "chara": "G",
+  "latency": 4.7,
+  "countdown": null
+ },
+ "4SF4wC1uQwa3B4JiK4omlw": {
+  "time": 171.3,
+  "chara": "D",
+  "latency": 3.5,
+  "countdown": 2.6
+ },
+ "4SQVaH0kTUekQEGplpMuFw": {
+  "time": 44.7,
+  "chara": "R",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "4SqxZysDSouYTD5f4kxwJQ": {
+  "time": 101.6,
+  "chara": "S",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "4sTAGnKfS5uFjxcM6LZPZw": {
+  "time": 166.6,
+  "chara": "L",
+  "latency": 3.3,
+  "countdown": null
+ },
+ "4TexJlU8TuOpiGadyMgTAQ": {
+  "time": 286.8,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": 6.1
+ },
+ "4tH1CiJGQxibofp28vCV_g": {
+  "time": 220.9,
+  "chara": "H",
+  "latency": 5.4,
+  "countdown": null
+ },
+ "4TmC8qW7TSWGsEplGXsr6Q": {
+  "time": 144.9,
+  "chara": "B",
+  "latency": 3.5,
+  "countdown": null
+ },
+ "4TrqWzKmSae8QsfzXjajfA": {
+  "time": 282.0,
+  "chara": "L",
+  "latency": 3.0,
+  "countdown": null
+ },
+ "4tugpb4SQvyx3hEQmibvbw": {
+  "time": 41.9,
+  "chara": "N",
+  "latency": 3.1,
+  "countdown": null
+ },
+ "4tvDTaH0Q8m2IRIILGcbxQ": {
+  "time": 133.2,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "4Tz5qJqnSy6qdLBKNBnlgg": {
+  "time": 167.7,
+  "chara": "N",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4TZPnwcORYyMNLfCcdFgNQ": {
+  "time": 194.1,
+  "chara": "B",
+  "latency": 3.8,
+  "countdown": null
+ },
+ "4UkT_1KnSeib4UjbAGHO2g": {
+  "time": 90.8,
+  "chara": "E",
+  "latency": 3.9,
+  "countdown": null
+ },
+ "4uL_yyWlQuWCP1-tCkIHbg": {
+  "time": 187.5,
+  "chara": "U",
+  "latency": 4.2,
+  "countdown": null
+ },
+ "4UQ5j_avQOyar1yyfvpUNQ": {
+  "time": 101.6,
+  "chara": "Q",
+  "latency": 4.4,
+  "countdown": null
+ },
+ "4UZ93uhiQSq8pgPBI9JtFQ": {
+  "time": 15.9,
+  "chara": "S",
+  "latency": 3.2,
+  "countdown": null
+ },
+ "4vnS0giCTZ-7cPaWbrRsSw": {
+  "time": 136.7,
+  "chara": "M",
+  "latency": 3.0,
+  "countdown": null
+ }
+}

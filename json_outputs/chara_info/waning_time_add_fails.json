@@ -1,0 +1,63 @@
+{
+ "A": {},
+ "B": {
+  "Triggered": 2
+ },
+ "C": {
+  "Triggered": 4
+ },
+ "D": {
+  "Triggered": 5
+ },
+ "E": {
+  "Triggered": 1
+ },
+ "F": {
+  "Triggered": 2
+ },
+ "G": {
+  "Triggered": 2
+ },
+ "H": {
+  "Triggered": 2,
+  "White": 1
+ },
+ "I": {},
+ "J": {
+  "Triggered": 2
+ },
+ "K": {
+  "Triggered": 1
+ },
+ "L": {
+  "Triggered": 1
+ },
+ "M": {
+  "White": 1
+ },
+ "N": {
+  "Triggered": 1
+ },
+ "O": {
+  "Canceled": 1
+ },
+ "P": {
+  "Red": 1,
+  "Triggered": 1
+ },
+ "Q": {
+  "White": 1
+ },
+ "R": {
+  "Triggered": 2,
+  "Red": 1
+ },
+ "S": {
+  "Triggered": 1
+ },
+ "T": {
+  "Triggered": 3,
+  "Green": 1
+ },
+ "U": {}
+}

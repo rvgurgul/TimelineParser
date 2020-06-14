@@ -1,0 +1,207 @@
+{
+  "A": {
+    "complete": "Mr. A",
+    "internal": "Bond",
+    "nickname": "Bond",
+    "aliases": [
+      "Walt Disney",
+      "Andrew Ryan"
+    ],
+    "gender": "M"
+  },
+  "B": {
+    "complete": "Ms. B",
+    "internal": "Emma",
+    "nickname": "Boots",
+    "aliases": [
+      "Buns"
+    ],
+    "gender": "F"
+  },
+  "C": {
+    "complete": "Mr. C",
+    "internal": "Banker",
+    "nickname": "Taft",
+    "aliases": [
+      "Theodore Roosevelt"
+    ],
+    "gender": "M"
+  },
+  "D": {
+    "complete": "Mr. D",
+    "internal": "Morgan",
+    "nickname": "Cane",
+    "aliases": [
+      "Papa Danger"
+    ],
+    "gender": "M"
+  },
+  "E": {
+    "complete": "Ms. E",
+    "internal": "Beatrice",
+    "nickname": "White Dress",
+    "aliases": [
+      "Pearls",
+      "Helen Mirren"
+    ],
+    "gender": "F"
+  },
+  "F": {
+    "complete": "Ms. F",
+    "internal": "Alice",
+    "nickname": "Ponytail",
+    "aliases": [
+      "Jockey"
+    ],
+    "gender": "F"
+  },
+  "G": {
+    "complete": "Mr. G",
+    "internal": "General",
+    "nickname": "General",
+    "aliases": [
+      "Colonel",
+      "Admiral"
+    ],
+    "gender": "M"
+  },
+  "H": {
+    "complete": "Ms. H",
+    "internal": "Michelle",
+    "nickname": "Red Dress",
+    "aliases": [
+      "Hair",
+      "Oprah Winfrey"
+    ],
+    "gender": "F"
+  },
+  "I": {
+    "complete": "Mr. I",
+    "internal": "Victor",
+    "nickname": "Wheels",
+    "aliases": [
+      "Austin Powers"
+    ],
+    "gender": "M"
+  },
+  "J": {
+    "complete": "Ms. J",
+    "internal": "Clara",
+    "nickname": "Queen",
+    "aliases": [
+      "Queen Elizabeth",
+      "Grandma"
+    ],
+    "gender": "F"
+  },
+  "K": {
+    "complete": "Mr. K",
+    "internal": "Samrath",
+    "nickname": "Sikh",
+    "aliases": [],
+    "gender": "M"
+  },
+  "L": {
+    "complete": "Ms. L",
+    "internal": "Sibel",
+    "nickname": "Leopard",
+    "aliases": [
+      "Rocker"
+    ],
+    "gender": "F"
+  },
+  "M": {
+    "complete": "Dr. M",
+    "internal": "Sam",
+    "nickname": "Plain Twin",
+    "aliases": [],
+    "gender": "M"
+  },
+  "N": {
+    "complete": "Dr. N",
+    "internal": "Sam",
+    "nickname": "Bling Twin",
+    "aliases": [],
+    "gender": "M"
+  },
+  "O": {
+    "complete": "Ms. O",
+    "internal": "Sofia",
+    "nickname": "Green Dress",
+    "aliases": [
+      "Irish"
+    ],
+    "gender": "F"
+  },
+  "P": {
+    "complete": "Mr. P",
+    "internal": "Salvador",
+    "nickname": "Cowboy",
+    "aliases": [
+      "Tex",
+      "Carlos",
+      "Doug Dimmadome"
+    ],
+    "gender": "M"
+  },
+  "Q": {
+    "complete": "Mr. Q",
+    "internal": "Danger",
+    "nickname": "Salmon",
+    "aliases": [
+      "Mr. Clean"
+    ],
+    "gender": "M"
+  },
+  "R": {
+    "complete": "Ms. R",
+    "internal": "Danielle",
+    "nickname": "Teal",
+    "aliases": [],
+    "gender": "F"
+  },
+  "S": {
+    "complete": "Mr. S",
+    "internal": "Dom",
+    "nickname": "Smallman",
+    "aliases": [
+      "Danny DeVito"
+    ],
+    "gender": "M"
+  },
+  "T": {
+    "complete": "Ms. T",
+    "internal": "Devi",
+    "nickname": "Orange Dress",
+    "aliases": [
+      "Sari"
+    ],
+    "gender": "F"
+  },
+  "U": {
+    "complete": "Mr. U",
+    "internal": "Duke",
+    "nickname": "Duke",
+    "aliases": [
+      "Prince",
+      "Blondo"
+    ],
+    "gender": "M"
+  },
+  "n": {
+    "complete": "Damon",
+    "internal": "Damon",
+    "nickname": "Damon",
+    "aliases": [],
+    "gender": "M"
+  },
+  "y": {
+    "complete": "Toby",
+    "internal": "Toby",
+    "nickname": "Toby",
+    "aliases": [
+      "Swolby"
+    ],
+    "gender": "M"
+  }
+}

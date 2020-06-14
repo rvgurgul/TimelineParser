@@ -1,0 +1,3633 @@
+{
+ "-0txNHxLR8CPWfJb7UvbwQ": [
+  {
+   "request_time": 117.2,
+   "offer_time": 121.7,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 124.7
+   }
+  }
+ ],
+ "-121kIDyQfumuU7bFNO-JA": [],
+ "-45SBr8tT52e1TEOz9shiA": [
+  {
+   "request_time": 10.9,
+   "offer_time": 18.0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 73.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "-48pxc4eSK696XMihnfK6A": [
+  {
+   "request_time": 38.9,
+   "offer_time": 48.7,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 99.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "-4k0_uMjQSiG_DaCIOUypw": [],
+ "-50KpnqrTIO8vTklD1Gv2g": [],
+ "-6_fiua8Q8uERtBv1DEu2Q": [],
+ "-8EF0BViRDCURRho7wDXdQ": [
+  {
+   "request_time": 78.9,
+   "offer_time": 99.6,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "O",
+    "send_time": 147.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "-8u_2KZBSpG-Q40vPrVwjQ": [
+  {
+   "request_time": 36.5,
+   "offer_time": 59.9,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "R",
+    "send_time": 90.4,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 143.0,
+   "offer_time": 147.4,
+   "response_time": 4.6,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "-AxjQiGXR9SX3XYo367PbA": [
+  {
+   "request_time": 46.1,
+   "offer_time": 51.9,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 54.7
+   }
+  }
+ ],
+ "-axTqBEpTsOCDqqmN-f6-g": [
+  {
+   "request_time": 8.7,
+   "offer_time": 12.4,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 53.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "-BIp4pTiTlGKeqYsJsXDgA": [
+  {
+   "request_time": 194.5,
+   "offer_time": 198.8,
+   "response_time": 3.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 202.5
+   }
+  }
+ ],
+ "-bXsGBEZTJimCuq2pt1nxg": [
+  {
+   "request_time": 14.7,
+   "offer_time": 39.6,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "R",
+    "send_time": 56.8,
+    "fade_time": null
+   }
+  }
+ ],
+ "-cD2zFIPS8akL5yr5c96dA": [
+  {
+   "request_time": 16.4,
+   "offer_time": 26.9,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 208.6
+   }
+  },
+  {
+   "request_time": 158.4,
+   "offer_time": 163.1,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 191.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "-coM5m0qTPCdzoPqpjwDqg": [],
+ "-ctpOmu2RKSB6e8ga8rJig": [
+  {
+   "request_time": 36.9,
+   "offer_time": 49.7,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 151.5,
+   "offer_time": 161.9,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 164.7
+   }
+  }
+ ],
+ "-dNhz4eTSna6QJtFARm8Vw": [
+  {
+   "request_time": 6.0,
+   "offer_time": 10.2,
+   "response_time": 2.3,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 67.9,
+   "offer_time": 73.1,
+   "response_time": 1.7,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 81.6,
+   "offer_time": 86.2,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-ee0IP69Q5CHyuQeIHTPtA": [
+  {
+   "request_time": 43.2,
+   "offer_time": 63.9,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 158.0,
+   "offer_time": 171.7,
+   "response_time": 3.5,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "-EQBYClORDWSEgkrcJ63rw": [
+  {
+   "request_time": 93.9,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 162.7,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "-evpO0TXSJ20Bj8viJSWKg": [],
+ "-FkjQ78pQciuFaEmIVQ2Qg": [
+  {
+   "request_time": 53.2,
+   "offer_time": 68.1,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 93.3,
+    "fade_time": null
+   }
+  }
+ ],
+ "-fSiM0AIQu2nImy_8QQVhQ": [],
+ "-g2lqGBRQ5iQ6FD4Gox6Yw": [
+  {
+   "request_time": 79.5,
+   "offer_time": 96.4,
+   "response_time": 4.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-gIgmYQVQsiF-o9ajq_9gQ": [
+  {
+   "request_time": 72.5,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "-GxbSsRTTYyuaZd_lnliVw": [],
+ "-hdtHEaeSc-o7InVflWnyA": [
+  {
+   "request_time": 167.5,
+   "offer_time": 171.9,
+   "response_time": 4.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 206.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "-hlVd8dpRTm3aXqm59-M7g": [
+  {
+   "request_time": 26.7,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 109.6,
+   "offer_time": 112.5,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "L",
+    "send_time": 135.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "-iOVyWmLRdCywJvnhc7eLQ": [
+  {
+   "request_time": 51.7,
+   "offer_time": 56.7,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 99.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "-IrizG4mR5WT2n0Mr2bQwQ": [],
+ "-KC9V29pQnuEF6UAsWL3TQ": [
+  {
+   "request_time": 96.9,
+   "offer_time": 101.0,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-LRMDUc-SxWQZB3fRFcYLg": [],
+ "-LS16pI1QnK3zqerlUs1PA": [],
+ "-mt4OBzzQg2Xlm7pZSpvEQ": [
+  {
+   "request_time": 29.5,
+   "offer_time": 49.8,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 92.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "-NifmEvES8OxXbMk_8IFDQ": [
+  {
+   "request_time": 31.2,
+   "offer_time": 42.1,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-oHeADmgSJmo9j7POItkNA": [
+  {
+   "request_time": 124.4,
+   "offer_time": 131.2,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 141.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "-OLwQWb5Sx2xihXK7O2knw": [
+  {
+   "request_time": 123.1,
+   "offer_time": 127.4,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "I",
+    "send_time": 161.7,
+    "fade_time": 262.7
+   }
+  },
+  {
+   "request_time": 211.1,
+   "offer_time": 214.3,
+   "response_time": 3.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 240.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "-Pdy16HCSXqRYuziamXKjQ": [
+  {
+   "request_time": 15.2,
+   "offer_time": 18.7,
+   "response_time": 2.5,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "-PnYjf4NTdOZ3MumdM_Qhw": [],
+ "-SCzdfHOSDOw7tBoTRaAGw": [
+  {
+   "request_time": 52.9,
+   "offer_time": 59.2,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "F",
+    "send_time": 97.3,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 154.4,
+   "offer_time": 158.4,
+   "response_time": 5.8,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "-SF1yJPCSiusRKHvmMAVBw": [
+  {
+   "request_time": 109.0,
+   "offer_time": 130.7,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-Tb3nyusTpeRxnFXe7ZLkg": [
+  {
+   "request_time": 84.6,
+   "offer_time": 94.5,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "E",
+    "send_time": 133.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "-u-e3cKESlSQl9lHRXbvFw": [],
+ "-Vy-M2B7S8y1jiiyCNGcqA": [
+  {
+   "request_time": 8.2,
+   "offer_time": 19.5,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 39.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "-xe5_NdVRU6emy0WM5r4Cg": [
+  {
+   "request_time": 13.6,
+   "offer_time": 42.5,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "C",
+    "send_time": 86.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "-XipkR00RkuLQd4a7pItnw": [
+  {
+   "request_time": 47.9,
+   "offer_time": 52.2,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-xMnyqy8Qfqt_FBM9A1SWQ": [
+  {
+   "request_time": 59.7,
+   "offer_time": 63.1,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-XW8YajmSLy6odOhod6tcw": [
+  {
+   "request_time": 205.7,
+   "offer_time": 209.7,
+   "response_time": 3.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-Y9NRgnKSR-3F29SM15NgQ": [
+  {
+   "request_time": 84.3,
+   "offer_time": 99.1,
+   "response_time": 4.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": "L",
+    "send_time": 144.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "-yvsJBm1RHWX00Y425jdHA": [
+  {
+   "request_time": 40.1,
+   "offer_time": 43.9,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "-YX90NV9QteynaV-k8sSsw": [],
+ "-_9nIKZHSB2lcAM5sDbOWA": [
+  {
+   "request_time": 84.9,
+   "offer_time": 89.4,
+   "response_time": 4.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "H",
+    "send_time": 130.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "0-XqFWJZSZm8eTh1y8SSZg": [
+  {
+   "request_time": 65.4,
+   "offer_time": 77.9,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 125.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "009W5eWUSwKnsW7J0ZabzA": [
+  {
+   "request_time": 5.7,
+   "offer_time": 9.5,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "E",
+    "send_time": 32.5,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 195.7,
+   "offer_time": 208.4,
+   "response_time": 3.4,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "03eZ8AdaQN2UWN2HjyNWTg": [
+  {
+   "request_time": 69.2,
+   "offer_time": 73.6,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "T",
+    "send_time": 99.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "03QJrJadSiy43qQDaFFJdA": [
+  {
+   "request_time": 49.9,
+   "offer_time": 60.9,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 97.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "0489Kwb_TuGUJJoaKQeU6g": [
+  {
+   "request_time": 61.4,
+   "offer_time": 64.2,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 67.5
+   }
+  },
+  {
+   "request_time": 156.5,
+   "offer_time": 160.7,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "04JzBNk8St6R6dRWBOrGRw": [],
+ "04mQrLJNQIWT3pniDVpoyw": [
+  {
+   "request_time": 129.8,
+   "offer_time": 141.0,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 166.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "05YE2zOZSB2MXGyrQ7j6gw": [
+  {
+   "request_time": 180.2,
+   "offer_time": 183.6,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "061Tf25UTdOeI87SLWzVHg": [
+  {
+   "request_time": 9.5,
+   "offer_time": 13.1,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 45.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "08EU0nJuQ4CZgahGTpHsrA": [
+  {
+   "request_time": 43.9,
+   "offer_time": 53.9,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "U",
+    "send_time": 81.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "0bxQ84xPRsGTGKY68xXJAQ": [
+  {
+   "request_time": 17.0,
+   "offer_time": 20.0,
+   "response_time": 4.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "0E-jYqK1Q8mFKnYNCkgBuA": [],
+ "0e8uylKSQz-qGH_xDT1x8Q": [],
+ "0f1A0BpLSWCj9Zjl7tvysQ": [
+  {
+   "request_time": 103.4,
+   "offer_time": 107.0,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "0F5hUwcnSn6zqK1k_Lc9ow": [
+  {
+   "request_time": 102.7,
+   "offer_time": 107.0,
+   "response_time": 2.2,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "0fALSh2MTQaATr2eQbfE8Q": [],
+ "0fHex_xGSJuwJ1RysGM4ag": [
+  {
+   "request_time": 19.0,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 112.5,
+   "offer_time": 117.9,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 148.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "0FTgz9zCRXWfnzpHnoHIzA": [],
+ "0fu0ErVLRHORLd0cuma0UQ": [
+  {
+   "request_time": 21.5,
+   "offer_time": 44.4,
+   "response_time": 1.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "0hMm0Jg1T6m_FQ-O5S4OzQ": [],
+ "0ijNmguPQNCCVwngNpgJnA": [
+  {
+   "request_time": 56.5,
+   "offer_time": 68.7,
+   "response_time": 4.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 170.4,
+   "offer_time": 174.8,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 176.7
+   }
+  }
+ ],
+ "0iLDzbUnRVCVswsPgbPKJQ": [
+  {
+   "request_time": 11.0,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "0J9WzkA2R_WGKYKCMsdFGg": [
+  {
+   "request_time": 12.5,
+   "offer_time": 23.7,
+   "response_time": 4.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 193.0
+   }
+  },
+  {
+   "request_time": 150.1,
+   "offer_time": 162.8,
+   "response_time": 3.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 179.3,
+    "fade_time": null
+   }
+  }
+ ],
+ "0JKdv1-zTYGl1gLlm-T0VQ": [
+  {
+   "request_time": 103.6,
+   "offer_time": 112.5,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": "E",
+    "send_time": 168.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "0kEAzGtoQmW8_UDJIFnX4w": [
+  {
+   "request_time": 7.5,
+   "offer_time": 31.2,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "0KUHBJ48STCv9Gm-caNPJA": [
+  {
+   "request_time": 85.3,
+   "offer_time": 90.0,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "0KxrH-srQtuTskkGP_G_fA": [
+  {
+   "request_time": 95.8,
+   "offer_time": 108.4,
+   "response_time": 4.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "E",
+    "send_time": 145.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "0k_LUS97T--c-ba5iv-XYA": [
+  {
+   "request_time": 20.9,
+   "offer_time": 49.0,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 163.7,
+   "offer_time": 168.7,
+   "response_time": 3.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 172.6
+   }
+  }
+ ],
+ "0LGizHY4TBWxPcmfXnSo5Q": [
+  {
+   "request_time": 7.5,
+   "offer_time": 20.2,
+   "response_time": 2.0,
+   "accepted": true,
+   "purloin": null
+  },
+  {
+   "request_time": 140.6,
+   "offer_time": 154.4,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "C",
+    "send_time": 191.4,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 287.9,
+   "offer_time": 300.1,
+   "response_time": 1.7,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "0M_jNL06TLi4wuHuAZWhhw": [],
+ "0NG31UqrSrWlAc2YWpqCEQ": [
+  {
+   "request_time": 25.7,
+   "offer_time": 36.5,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 50.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "0NugREVJRu-c0F8xHr-A9g": [
+  {
+   "request_time": 74.1,
+   "offer_time": 77.6,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 80.0
+   }
+  }
+ ],
+ "0q32OWfFQcCgFQy4T59fhw": [
+  {
+   "request_time": 12.7,
+   "offer_time": 37.7,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 159.8,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "0QQNs7Q5SmeEtM_0ISApPA": [
+  {
+   "request_time": 96.0,
+   "offer_time": 99.4,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "E",
+    "send_time": 126.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "0Rf7SMyKS3mQF1t6hsbaPQ": [
+  {
+   "request_time": 9.9,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 65.7,
+   "offer_time": 69.9,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "0riLm91_SKigLoCsBWds2g": [],
+ "0SZDrN6TQS2RGWXaW6jiRA": [],
+ "0Tv6SmJpQuGhZeyanKRCxw": [
+  {
+   "request_time": 146.2,
+   "offer_time": 150.8,
+   "response_time": 4.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 186.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "0tyyoefUQvyHRl6-wEy8Og": [],
+ "0u3uTGyETjSZbv5lQHWjxQ": [
+  {
+   "request_time": 13.9,
+   "offer_time": 27.1,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "I",
+    "send_time": 70.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "0uavikiRSpe0u8OCCBQSpQ": [],
+ "0vpYrtTjTOWNwyRIA7b_Wg": [
+  {
+   "request_time": 131.2,
+   "offer_time": 146.1,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "0wo3Nh01SwuI79yzAPxPpw": [],
+ "0WVGqjHaQaiY3Awvkg5mow": [],
+ "0xdGdl0zSHmhmXectS9kqg": [],
+ "0XKeeZHMRRqyZlbHm7eaOw": [
+  {
+   "request_time": 125.9,
+   "offer_time": 131.2,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 153.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "0XPT-WWvSu6NwweyzrRKhQ": [
+  {
+   "request_time": 137.4,
+   "offer_time": 141.4,
+   "response_time": 2.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 159.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "0YCQh7tLQvm26W47MZEvWA": [
+  {
+   "request_time": 118.0,
+   "offer_time": 122.4,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 154.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "0YNBy8boTuuBoFm1CTwlig": [
+  {
+   "request_time": 81.4,
+   "offer_time": 85.9,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 265.2
+   }
+  },
+  {
+   "request_time": 215.5,
+   "offer_time": 235.2,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "F",
+    "send_time": 253.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "0Z4O1qe6R3iFuVhJdCS85A": [],
+ "0zCibDB5TTGj2Oi--2eXxQ": [],
+ "1-5mEI7RSQuZLirFwqXI8w": [
+  {
+   "request_time": 199.9,
+   "offer_time": 210.4,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "O",
+    "send_time": 233.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "100wMfODQOqu21242jK41g": [],
+ "10SPtfXrQ02kxt1iXQaYHQ": [
+  {
+   "request_time": 71.2,
+   "offer_time": 105.1,
+   "response_time": 3.4,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "11Rmk1qfTdKiAYXK6k3jPw": [
+  {
+   "request_time": 58.2,
+   "offer_time": 72.5,
+   "response_time": 3.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "131q3zUSStaw1OmAIYX3Kw": [],
+ "15CQY-RJRjWSrR04yDERXw": [
+  {
+   "request_time": 121.6,
+   "offer_time": 134.9,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "F",
+    "send_time": 163.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "15z06YiLTRqB8VdrnRgfAw": [
+  {
+   "request_time": 5.9,
+   "offer_time": 30.1,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 48.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "17q-z879R0mQnrhBa9ZQiw": [
+  {
+   "request_time": 128.2,
+   "offer_time": 136.0,
+   "response_time": 2.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "17u3ThdZRIC4H6emadx8Wg": [],
+ "17X1jvVWTDOY8qfZhplRHw": [
+  {
+   "request_time": 69.4,
+   "offer_time": 97.4,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "I",
+    "send_time": 116.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "1beZ0Rd5Q96X05KG_q83Zg": [
+  {
+   "request_time": 50.9,
+   "offer_time": 55.4,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1bnugmmlQI-roBXEb9_ISQ": [
+  {
+   "request_time": 35.4,
+   "offer_time": 58.4,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 105.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "1Bx8LpunQzK2HpxXH71BJg": [
+  {
+   "request_time": 10.0,
+   "offer_time": 40.0,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 53.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "1Cf5JXuBTcWyNyJzthL9XQ": [
+  {
+   "request_time": 146.7,
+   "offer_time": 155.1,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 157.8
+   }
+  }
+ ],
+ "1DPQEECzSNihqiSo9v08Pg": [
+  {
+   "request_time": 82.0,
+   "offer_time": 84.9,
+   "response_time": 2.8,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 157.4,
+   "offer_time": 162.5,
+   "response_time": 2.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1DX-IvY7QmOObrjq4Dk_vw": [
+  {
+   "request_time": 7.8,
+   "offer_time": 10.5,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1E4twkCBQ-CX5KFiUCnLPA": [
+  {
+   "request_time": 72.7,
+   "offer_time": 109.8,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "E",
+    "send_time": 130.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "1EdvmMfiR5S0IcYZCsnV2Q": [
+  {
+   "request_time": 204.3,
+   "offer_time": 208.9,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1ePIXJjtSpCLoE2n4rRF7A": [
+  {
+   "request_time": 43.9,
+   "offer_time": 67.6,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 69.5
+   }
+  }
+ ],
+ "1fb71xOnRkGgVlxUayYnwA": [
+  {
+   "request_time": 80.9,
+   "offer_time": 91.4,
+   "response_time": 4.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1fTNM5N3QKe-G6Yy3SxQDg": [
+  {
+   "request_time": 159.4,
+   "offer_time": 168.1,
+   "response_time": 5.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 201.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "1FUxrM0dQneqikBTniMKVw": [],
+ "1GAfeCQmTq6HPjwxHj6Z1Q": [],
+ "1GsazLn1Rkm3c31euRLauQ": [
+  {
+   "request_time": 44.5,
+   "offer_time": 52.4,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": "H",
+    "send_time": 70.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "1GzKsS0FSH-nhflD1BFJ2A": [
+  {
+   "request_time": 26.1,
+   "offer_time": 35.2,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "T",
+    "send_time": 67.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "1H2ctm8oTHSy33bqD_cpkg": [],
+ "1H8_z2LZRKqLTU1WFI8q8g": [],
+ "1hgujuvTQTqYeJ72sTS8MQ": [],
+ "1HO8VQIdR62npF8HQGgrug": [],
+ "1ICE_ti4RNGKVI-Dw4JltA": [
+  {
+   "request_time": 38.1,
+   "offer_time": 49.7,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "C",
+    "send_time": 100.1,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 171.3,
+   "offer_time": 174.8,
+   "response_time": 1.5,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "1iP2PJ5qSDqdH0SxMh-flQ": [],
+ "1JcdFTfQQwC2PV1Ok_Kdaw": [
+  {
+   "request_time": 87.1,
+   "offer_time": 91.0,
+   "response_time": 4.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1k4wsdOWTlikhb4MZs0agg": [
+  {
+   "request_time": 56.7,
+   "offer_time": 61.7,
+   "response_time": 4.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1K6FwIaIRqehJ9sMZYaIgQ": [],
+ "1KXJrKSiT12h5ul0ItWutA": [
+  {
+   "request_time": 55.9,
+   "offer_time": 64.7,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1muaTY-YQX2U_5SYtz28TA": [
+  {
+   "request_time": 146.1,
+   "offer_time": 148.6,
+   "response_time": 4.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1MWqVIWSTZ6IeqzrmZdhhw": [],
+ "1n0n2uIRRrCUXgBUcbeA_Q": [
+  {
+   "request_time": 120.8,
+   "offer_time": 134.5,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 137.1
+   }
+  }
+ ],
+ "1nblmZphTZ6la6lZ-RHDpw": [],
+ "1o09ElbjRJmHJHUdiCl-Sg": [
+  {
+   "request_time": 82.5,
+   "offer_time": 86.4,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 115.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "1oIKYryyTYqbhDwV8KCV9Q": [
+  {
+   "request_time": 28.2,
+   "offer_time": 65.5,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 99.5,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 221.2,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "1OoDr3NGQtuZdwh-XUl1MQ": [],
+ "1SdMuRc3SHmrny-Nm8NYIQ": [
+  {
+   "request_time": 48.7,
+   "offer_time": 57.4,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1sn4MaLwRnuWdx7aE15cRg": [],
+ "1SsnD--HSr-YZQe3Ib3OcA": [
+  {
+   "request_time": 13.7,
+   "offer_time": 43.2,
+   "response_time": 1.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 81.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "1sVjwTcdTHm2csf4h5EJEA": [
+  {
+   "request_time": 60.9,
+   "offer_time": 69.2,
+   "response_time": 4.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "R",
+    "send_time": 109.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "1udu5dn-RKWBOA06ZLotlA": [
+  {
+   "request_time": 30.6,
+   "offer_time": 34.0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "N",
+    "send_time": 60.8,
+    "fade_time": null
+   }
+  }
+ ],
+ "1vCyR3_4QWKhj23H5ArRQw": [],
+ "1veO6Jm2Tum9CkQ5bUELbA": [
+  {
+   "request_time": 96.4,
+   "offer_time": 106.9,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "J",
+    "send_time": 147.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "1WjrQ_thTNq_JuQbdLlXTg": [
+  {
+   "request_time": 37.5,
+   "offer_time": 41.1,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 101.7,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 113.2,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "1wmhRTtgT9ujQvyBQL6awA": [],
+ "1WYPfL05SPyIB3pcVRJB3g": [
+  {
+   "request_time": 5.5,
+   "offer_time": 9.3,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "1xFZTM9uQ6q4orcM517Rpw": [
+  {
+   "request_time": 11.1,
+   "offer_time": 38.5,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 74.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "1XIBx3nrQwifKgfR9xRjQw": [
+  {
+   "request_time": 109.1,
+   "offer_time": 112.9,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 147.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "1Xqh2pmaRRCxKtV70RUWjw": [
+  {
+   "request_time": 23.2,
+   "offer_time": 27.4,
+   "response_time": 5.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "H",
+    "send_time": 65.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "1XR3sHhOQ5eizH23oIuv4Q": [],
+ "1zmo3gXMTvSxE9BKmNzJPQ": [
+  {
+   "request_time": 38.1,
+   "offer_time": 41.9,
+   "response_time": 3.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 60.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "1ZxnaH1gTYeLpB3SvI1zpw": [
+  {
+   "request_time": 98.9,
+   "offer_time": 101.5,
+   "response_time": 5.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 229.0
+   }
+  },
+  {
+   "request_time": 183.9,
+   "offer_time": 187.6,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "L",
+    "send_time": 210.3,
+    "fade_time": null
+   }
+  }
+ ],
+ "1zXvIq60RLOzu9gUURU5EA": [
+  {
+   "request_time": 40.3,
+   "offer_time": 57.2,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 74.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "1_i9kH8lTVaLF-NnvJUpQQ": [
+  {
+   "request_time": 136.3,
+   "offer_time": 140.9,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 143.0
+   }
+  }
+ ],
+ "234ULLfmT9qnOP1jH-r8ig": [],
+ "23amTIDiRiiS7OIjbQ6_3A": [
+  {
+   "request_time": 124.2,
+   "offer_time": 132.3,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "23ATXiVATwOreF22qAH1nw": [
+  {
+   "request_time": 73.2,
+   "offer_time": 75.9,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "N",
+    "send_time": 136.7,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 196.9,
+   "offer_time": 200.2,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 203.0
+   }
+  }
+ ],
+ "23cxoK0dTdCQrmq92Z9xzw": [],
+ "23lOyxnrTDOywUCferobAA": [
+  {
+   "request_time": 254.2,
+   "offer_time": 257.9,
+   "response_time": 1.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 259.7
+   }
+  }
+ ],
+ "24tesRVUQFK_suCL1pOSaA": [
+  {
+   "request_time": 61.9,
+   "offer_time": 70.4,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "R",
+    "send_time": 93.3,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 208.3,
+   "offer_time": 212.7,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "27c8VAQbTNyx3md8yRvL9A": [],
+ "2819rAlCSD-Dp9qyoBaQEg": [
+  {
+   "request_time": 218.9,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "29rRPRBeQJe8zlzyfuquIQ": [
+  {
+   "request_time": 55.9,
+   "offer_time": 73.7,
+   "response_time": 3.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "R",
+    "send_time": 108.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "29ySlQpJTk6J955nuDo2cA": [
+  {
+   "request_time": 51.4,
+   "offer_time": 55.0,
+   "response_time": 3.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 72.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "2AkOs_P0SuSnZFtoQcVpYw": [],
+ "2B3Z-a3BRmeTmIsOQwn57Q": [
+  {
+   "request_time": 30.6,
+   "offer_time": 34.0,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "F",
+    "send_time": 87.4,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 124.1,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "2b7Sspc0THK-lECHGDWmMA": [
+  {
+   "request_time": 5.3,
+   "offer_time": 9.1,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 228.4,
+   "offer_time": 232.6,
+   "response_time": 1.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 234.0
+   }
+  }
+ ],
+ "2bzMXM0gSB-w_RrdtfHGkw": [],
+ "2cBDlBT8SsO5-5Ifue53Ig": [
+  {
+   "request_time": 73.7,
+   "offer_time": 77.6,
+   "response_time": 3.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 207.9
+   }
+  },
+  {
+   "request_time": 164.3,
+   "offer_time": 170.7,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "J",
+    "send_time": 183.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "2CtuJpF6RMaRXzKjCzyDAw": [
+  {
+   "request_time": 92.9,
+   "offer_time": 97.4,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "2c_Sh-E3RrWr5BZfDyRxVQ": [
+  {
+   "request_time": 65.2,
+   "offer_time": 85.9,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "2eNevY7IR1eRHHHjiAIlHg": [
+  {
+   "request_time": 110.9,
+   "offer_time": 115.1,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "A",
+    "send_time": 139.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "2eSRT-TORLuCoW8ik6g5LQ": [
+  {
+   "request_time": 52.3,
+   "offer_time": 65.0,
+   "response_time": 3.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 90.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "2FaFVM1PQKaWjnUw95lzXA": [
+  {
+   "request_time": 11.5,
+   "offer_time": 25.7,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 64.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "2G-Ca2CJSRqvdycuYAXyKA": [
+  {
+   "request_time": 10.0,
+   "offer_time": 16.6,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "C",
+    "send_time": 46.6,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 102.8,
+   "offer_time": 107.7,
+   "response_time": 6.7,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "2GAk-X3LSlCAZB5hNzsFlg": [
+  {
+   "request_time": 12.1,
+   "offer_time": 36.7,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "T",
+    "send_time": 78.4,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 176.8,
+   "offer_time": 188.1,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "L",
+    "send_time": 211.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "2GNbBDxjSmmHaW-6WvLF6w": [
+  {
+   "request_time": 46.9,
+   "offer_time": 53.8,
+   "response_time": 3.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "2HKR8TUAQMqbJfc4R65zyA": [
+  {
+   "request_time": 8.2,
+   "offer_time": 11.4,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "2HqJkBG-QP6-1LsTSeDW0A": [
+  {
+   "request_time": 8.4,
+   "offer_time": 39.1,
+   "response_time": 4.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 190.5
+   }
+  },
+  {
+   "request_time": 146.7,
+   "offer_time": 151.4,
+   "response_time": 4.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "N",
+    "send_time": 169.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "2jMZ2ecGSNCOTqV-zfipcA": [
+  {
+   "request_time": 36.7,
+   "offer_time": 41.8,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 69.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "2Kascw9LR82cfHgAenWJfQ": [],
+ "2KE2JrpNRUOVqhIZsit30A": [
+  {
+   "request_time": 84.9,
+   "offer_time": 88.8,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "L",
+    "send_time": 123.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "2LJVndLsSHyzkhskhYgEnA": [
+  {
+   "request_time": 118.6,
+   "offer_time": 127.0,
+   "response_time": 4.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "O",
+    "send_time": 148.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "2mu8F18KRKuX2LIoEGDN-A": [],
+ "2Nkzc4IzRoiP5sZRze9_-Q": [
+  {
+   "request_time": 31.6,
+   "offer_time": 56.1,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 87.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "2NLNGAQJTVagXwc_inQH5A": [
+  {
+   "request_time": 21.5,
+   "offer_time": 39.8,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "F",
+    "send_time": 75.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "2nOOchb3T12_VnzjRlMm-g": [
+  {
+   "request_time": 139.4,
+   "offer_time": 147.9,
+   "response_time": 3.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 169.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "2NwCVX2xTlqZLTJtLARj7w": [
+  {
+   "request_time": 108.3,
+   "offer_time": 113.2,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 141.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "2NYpNqWHR7ihmSjNKRkvsg": [],
+ "2oHs9S5sSku0h0dSuBML2A": [],
+ "2oOj7Xp1RFqtly4hA4cJQQ": [],
+ "2p3F7K6USCiBCun1LXUhkw": [
+  {
+   "request_time": 30.4,
+   "offer_time": 34.5,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "2pbGJx7nQFugwRIMV7q7_A": [
+  {
+   "request_time": 10.5,
+   "offer_time": 14.1,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 160.7,
+   "offer_time": 164.9,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "2PqGDTbZQsKW13QF2Mrk-Q": [
+  {
+   "request_time": 4.5,
+   "offer_time": 8.0,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 46.5,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 120.7,
+   "offer_time": 123.8,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 175.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "2Q6G6vKpRa2e7xp0Uu5ELA": [
+  {
+   "request_time": 161.6,
+   "offer_time": 165.7,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 168.2
+   }
+  }
+ ],
+ "2QIGaIVOSzqWbbDYZmUQBw": [
+  {
+   "request_time": 4.2,
+   "offer_time": 7.3,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 62.7,
+   "offer_time": 67.4,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 70.2
+   }
+  }
+ ],
+ "2Ql7Nim-Qq2uns8OS7wG_g": [
+  {
+   "request_time": 15.5,
+   "offer_time": 52.5,
+   "response_time": 3.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 85.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "2r7GT4ZPSBG95RL9SGSR8w": [],
+ "2RYpOL_yS0i7ubfmZUpR6w": [
+  {
+   "request_time": 41.9,
+   "offer_time": 45.7,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "2shMZFa5TSWzgQ67kJ6C1Q": [
+  {
+   "request_time": 109.5,
+   "offer_time": 122.0,
+   "response_time": 4.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "C",
+    "send_time": 175.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "2sjHMRp5T4iO8t7r7Bf4kw": [],
+ "2StBaXGaR8ye8ZJseVWo5w": [
+  {
+   "request_time": 128.6,
+   "offer_time": 132.7,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "O",
+    "send_time": 163.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "2t1kfUM7QiuWefDkweeQHQ": [],
+ "2Tc6gwlsRqapP5O_N5VH6w": [
+  {
+   "request_time": 16.9,
+   "offer_time": 42.6,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 81.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "2Tx--rOVSky9dO1YpkX1JA": [
+  {
+   "request_time": 98.5,
+   "offer_time": 102.1,
+   "response_time": 5.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "2Uhg-esZSCeHne50rt7mpg": [
+  {
+   "request_time": 117.3,
+   "offer_time": 128.0,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 149.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "2UPMuC1TQEG-bqKSVgLyrw": [
+  {
+   "request_time": 77.1,
+   "offer_time": 94.2,
+   "response_time": 2.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "2uQAm4PQRpigvz3RyrXXdg": [
+  {
+   "request_time": 5.1,
+   "offer_time": 15.7,
+   "response_time": 4.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "J",
+    "send_time": 47.4,
+    "fade_time": 137.6
+   }
+  },
+  {
+   "request_time": 66.8,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "2URS-bDRR9iz0wyEmXlFIw": [
+  {
+   "request_time": 200.1,
+   "offer_time": 204.6,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "T",
+    "send_time": 216.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "2V12nwXoSN6e5R10321ldw": [
+  {
+   "request_time": 19.0,
+   "offer_time": 41.9,
+   "response_time": 3.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 227.8
+   }
+  },
+  {
+   "request_time": 160.4,
+   "offer_time": 174.7,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 196.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "2v2Z3MiqQwO81Lx2q4H8cw": [
+  {
+   "request_time": 18.1,
+   "offer_time": 49.0,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "C",
+    "send_time": 84.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "2VR4l0NvTySGHRtC5pAavg": [
+  {
+   "request_time": 30.3,
+   "offer_time": 43.8,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "2vSHO4OvQcmlVzOiN4rwDw": [],
+ "2WFis-sHT0mmh9AQTUqbgA": [],
+ "2XL37uRGShGqu18pDJL-Kg": [
+  {
+   "request_time": 53.5,
+   "offer_time": 68.6,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 146.3,
+   "offer_time": 149.9,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 182.0,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 233.5,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "2xvtawyaRcCL0AfCMvnS5g": [
+  {
+   "request_time": 9.5,
+   "offer_time": 32.2,
+   "response_time": 2.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 44.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "2XvYGSjuQNSU5CKAj6d2SQ": [
+  {
+   "request_time": 122.4,
+   "offer_time": 138.0,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "I",
+    "send_time": 166.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "2xZgp5gxTMqiw6yDsHK0Ow": [
+  {
+   "request_time": 144.2,
+   "offer_time": 148.5,
+   "response_time": 3.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "J",
+    "send_time": 184.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "2ybqFjzCRVaO0ghFqECBbA": [
+  {
+   "request_time": 262.2,
+   "offer_time": 266.1,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "3-0v8zb9RBi-W_AdCb0hMQ": [
+  {
+   "request_time": 189.2,
+   "offer_time": 197.6,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 214.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "3-2m7RQ2R6uO7LY2p-vncg": [
+  {
+   "request_time": 88.1,
+   "offer_time": 92.4,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "3-6fSKOBQXa_EDhS2JKEHw": [],
+ "305MUzQoTdGoWTTMQ-MaLw": [
+  {
+   "request_time": 61.7,
+   "offer_time": 91.9,
+   "response_time": 4.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "F",
+    "send_time": 130.3,
+    "fade_time": null
+   }
+  }
+ ],
+ "32OS8A-gR4qZYCpmpVSB_w": [],
+ "32Ov5HYPReCTYobwGEpetQ": [
+  {
+   "request_time": 156.5,
+   "offer_time": 160.5,
+   "response_time": 2.9,
+   "accepted": false,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 199.1,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 203.0,
+   "offer_time": 207.5,
+   "response_time": 5.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 212.6
+   }
+  }
+ ],
+ "35LrzJ9UQMO55jxxKW3wWQ": [
+  {
+   "request_time": 80.8,
+   "offer_time": 94.8,
+   "response_time": 3.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 126.3,
+    "fade_time": null
+   }
+  }
+ ],
+ "36bgOZWlQj-GABE2Y6F1lg": [
+  {
+   "request_time": 45.6,
+   "offer_time": 69.9,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "O",
+    "send_time": 107.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "36jrK4tXR2GwnrYFJDd6oQ": [
+  {
+   "request_time": 70.2,
+   "offer_time": 80.8,
+   "response_time": 5.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "E",
+    "send_time": 107.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "37XBVyBRSFaWISv285PXKQ": [],
+ "387iZsCLS0e09CN4niCJXg": [
+  {
+   "request_time": 27.1,
+   "offer_time": 56.8,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "L",
+    "send_time": 100.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "39J5_OIrRxqHHZVC8R920w": [],
+ "3AkNmyuYSDmFD33a0wtHNQ": [
+  {
+   "request_time": 68.9,
+   "offer_time": 72.2,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": null
+  },
+  {
+   "request_time": 137.2,
+   "offer_time": 151.2,
+   "response_time": 1.8,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "3B2cXcJtQfqMPxDEpWDZvQ": [
+  {
+   "request_time": 74.3,
+   "offer_time": 82.2,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "3BfzsC9yQwG6WzVwtkXAmA": [
+  {
+   "request_time": 6.9,
+   "offer_time": 18.9,
+   "response_time": 3.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 46.3,
+    "fade_time": null
+   }
+  }
+ ],
+ "3Cnl9a34TWmDH-znC5lEGQ": [],
+ "3cx182AIRNG6qM16d9Mt0w": [
+  {
+   "request_time": 115.7,
+   "offer_time": 119.8,
+   "response_time": 3.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 169.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "3DAiLxySQdGruz6id6n5zg": [
+  {
+   "request_time": 70.2,
+   "offer_time": 74.4,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "H",
+    "send_time": 109.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "3dqo2zqeQ8O0WrpmRZ4Jgw": [
+  {
+   "request_time": 6.5,
+   "offer_time": 10.5,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 193.9
+   }
+  },
+  {
+   "request_time": 136.9,
+   "offer_time": 141.3,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "U",
+    "send_time": 167.3,
+    "fade_time": null
+   }
+  }
+ ],
+ "3Dybmt-JTna02TPRLxHQHw": [
+  {
+   "request_time": 57.7,
+   "offer_time": 69.7,
+   "response_time": 2.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "O",
+    "send_time": 95.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "3FM6U2L4Tmay7xwQMTJ0NA": [
+  {
+   "request_time": 52.2,
+   "offer_time": 62.4,
+   "response_time": 4.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 107.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "3FTVJgmzRSC0wlClc8bWAQ": [
+  {
+   "request_time": 127.9,
+   "offer_time": 143.0,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": "A",
+    "send_time": 174.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "3Gc89iVGSJegAgfLZAw7aQ": [
+  {
+   "request_time": 77.5,
+   "offer_time": 92.6,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "L",
+    "send_time": 134.8,
+    "fade_time": null
+   }
+  }
+ ],
+ "3glnyKcGREaWluF21RExtw": [
+  {
+   "request_time": 56.5,
+   "offer_time": 60.2,
+   "response_time": 4.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 105.8,
+    "fade_time": null
+   }
+  }
+ ],
+ "3H22JhcuRSi5zocHS1y5Ug": [],
+ "3iOl-IjxRuCOSkp7_MIN5g": [],
+ "3k3rNY5pTF6KkXWgQ4Il3g": [
+  {
+   "request_time": 14.1,
+   "offer_time": 24.8,
+   "response_time": 3.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 191.9,
+   "offer_time": 196.5,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 199.2
+   }
+  }
+ ],
+ "3LKqfELMSjSpTfCa42u_4Q": [
+  {
+   "request_time": 5.0,
+   "offer_time": 8.4,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 213.0,
+   "offer_time": 217.5,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 233.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "3mKLbxgUQFCAC3ZDIkdb3w": [
+  {
+   "request_time": 100.5,
+   "offer_time": 103.9,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "D",
+    "send_time": 142.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "3MXsiCKsSIe6y4gyCY94Cw": [
+  {
+   "request_time": 76.6,
+   "offer_time": 89.8,
+   "response_time": 4.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 155.1,
+   "offer_time": 158.6,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "G",
+    "send_time": 215.3,
+    "fade_time": null
+   }
+  }
+ ],
+ "3N6zOWw9QJi1deGnZsvb2w": [
+  {
+   "request_time": 7.0,
+   "offer_time": 11.2,
+   "response_time": 6.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "3NmcDegDTAW1az14R6CY1g": [
+  {
+   "request_time": 195.5,
+   "offer_time": 202.9,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 205.0
+   }
+  }
+ ],
+ "3Ogug24bSIilK9kd3jfuug": [
+  {
+   "request_time": 58.6,
+   "offer_time": 63.1,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "H",
+    "send_time": 83.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "3PIw78EFSOOrefjT54XTbg": [
+  {
+   "request_time": 24.2,
+   "offer_time": 33.5,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 75.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "3qftOAr0TCSiova7MBPyNw": [
+  {
+   "request_time": 71.2,
+   "offer_time": 74.2,
+   "response_time": 2.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "N",
+    "send_time": 108.8,
+    "fade_time": 260.4
+   }
+  },
+  {
+   "request_time": 217.2,
+   "offer_time": 221.5,
+   "response_time": 1.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "A",
+    "send_time": 244.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "3q_eCSLTRLOSft-io8Ri_Q": [
+  {
+   "request_time": 168.0,
+   "offer_time": 172.4,
+   "response_time": 8.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 180.5
+   }
+  }
+ ],
+ "3R-7gQq2RnC7KuEp7CTkiw": [
+  {
+   "request_time": 21.5,
+   "offer_time": 39.5,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "C",
+    "send_time": 69.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "3RA3BpI2R1O8Y83iTXA61g": [
+  {
+   "request_time": 10.3,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 85.5,
+   "offer_time": 90.0,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "T",
+    "send_time": 125.7,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 216.2,
+   "offer_time": 220.4,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "3sC6cdayQ665RATA53aBOA": [
+  {
+   "request_time": 52.5,
+   "offer_time": 59.8,
+   "response_time": 3.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 78.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "3Tq8T7IdSmOUS8yAPx1qyw": [
+  {
+   "request_time": 11.1,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 119.7,
+   "offer_time": 134.2,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "3vqmD-JDR_CbrJGSJhdm1A": [
+  {
+   "request_time": 32.7,
+   "offer_time": 35.7,
+   "response_time": 4.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "U",
+    "send_time": 79.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "3VuxVak8QB2AGPD_Coi7ig": [
+  {
+   "request_time": 72.1,
+   "offer_time": 93.7,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 120.5,
+    "fade_time": null
+   }
+  }
+ ],
+ "3vzwiAvMR7-3ouEMQoS2zA": [
+  {
+   "request_time": 13.9,
+   "offer_time": 18.0,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": 187.3
+   }
+  },
+  {
+   "request_time": 111.2,
+   "offer_time": 126.1,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "C",
+    "send_time": 160.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "3w7HiPKETDmBiwfeptgW9w": [
+  {
+   "request_time": 39.7,
+   "offer_time": 43.4,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "3WAt97RgQ7mSWlidMkUqPg": [
+  {
+   "request_time": 78.9,
+   "offer_time": 84.7,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "R",
+    "send_time": 121.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "3xeyU1vQT-KWscbmHl9QXg": [
+  {
+   "request_time": 3.2,
+   "offer_time": 7.1,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 194.5,
+   "offer_time": 198.5,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 218.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "3Z6MaKXXRVqvRn5g5mwH0A": [],
+ "3zgHTKzsSlmUDNoPlmlhhg": [],
+ "3_cAOhtGQ0i89-JbdFMrPw": [
+  {
+   "request_time": 35.7,
+   "offer_time": 39.4,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "T",
+    "send_time": 80.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "4-hbstrMRoG0XVTIv2p3sQ": [
+  {
+   "request_time": 18.7,
+   "offer_time": 21.0,
+   "response_time": 2.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 50.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "4-W4HA8kROq-H9zOqul8qA": [],
+ "40ObT3G2TB6Jn4iddk16Ew": [
+  {
+   "request_time": 45.8,
+   "offer_time": 49.9,
+   "response_time": 3.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "L",
+    "send_time": 85.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "43ZqpvdRRteULIqZ7pGFjw": [
+  {
+   "request_time": 32.3,
+   "offer_time": 50.4,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 101.8,
+    "fade_time": null
+   }
+  }
+ ],
+ "447TadZgT0m0kRs_5f8zJw": [
+  {
+   "request_time": 219.8,
+   "offer_time": 224.5,
+   "response_time": 4.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "45AKpZJVTUuFr--YBnCdUw": [],
+ "45gn4DKvRcWOonjC6KuseQ": [
+  {
+   "request_time": 66.6,
+   "offer_time": 81.8,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "F",
+    "send_time": 101.8,
+    "fade_time": 118.3
+   }
+  },
+  {
+   "request_time": 115.2,
+   "offer_time": 123.8,
+   "response_time": 2.7,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 131.7,
+   "offer_time": 135.7,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "46LTc5ZySeitbr1LpEMCgQ": [],
+ "470zsjmdQxCGhfyaxiG1VQ": [
+  {
+   "request_time": 90.7,
+   "offer_time": 106.3,
+   "response_time": 2.4,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "48tgEWN9RPOCmRHtCX4JVA": [
+  {
+   "request_time": 23.9,
+   "offer_time": 29.1,
+   "response_time": 2.1,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "49L8vhOSTgCfGh9zghIcVA": [],
+ "4ah9cpLZQbKQhZ8L2PU0fQ": [],
+ "4b4oEGyJQsmkwP4y4HB01w": [
+  {
+   "request_time": 66.4,
+   "offer_time": 69.2,
+   "response_time": 4.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 73.5
+   }
+  }
+ ],
+ "4CNHenDvRquZG58Xtrr1MA": [],
+ "4d3PE4U7Q0aF9NZaTMqXoQ": [],
+ "4dIiH-QJTz6gMux_XVBQUA": [
+  {
+   "request_time": 79.4,
+   "offer_time": 94.6,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 124.0,
+    "fade_time": null
+   }
+  }
+ ],
+ "4eEyqh_ZTIW7jFQv3mX4Qw": [
+  {
+   "request_time": 17.7,
+   "offer_time": 45.2,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "H",
+    "send_time": 64.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "4EGKttOBQxCflEyedWDHrg": [],
+ "4eRu_cu7TlG9I-dGqINrmw": [
+  {
+   "request_time": 152.0,
+   "offer_time": 156.7,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "R",
+    "send_time": 197.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "4fY-HW93Sf-cFrVqcEkgAw": [
+  {
+   "request_time": 188.4,
+   "offer_time": 192.6,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "4GEBhEzYSayvz-YPQ7FAoQ": [],
+ "4GWDK26bQgSsPM5lRLxDTA": [
+  {
+   "request_time": 14.4,
+   "offer_time": 31.9,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "K",
+    "send_time": 74.1,
+    "fade_time": null
+   }
+  }
+ ],
+ "4hawARtKSbKj30Mm_ktahA": [
+  {
+   "request_time": 204.4,
+   "offer_time": 208.4,
+   "response_time": 3.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 211.4
+   }
+  }
+ ],
+ "4hj0UBtMTKucAtEbw2Rmrg": [
+  {
+   "request_time": 3.6,
+   "offer_time": 6.9,
+   "response_time": 3.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 10.2
+   }
+  }
+ ],
+ "4hMRqgelQtShUxid33wGfA": [
+  {
+   "request_time": 78.6,
+   "offer_time": 97.6,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 117.6,
+    "fade_time": null
+   }
+  }
+ ],
+ "4HoB8jUpRHm9Fqu7JUOL6Q": [
+  {
+   "request_time": 54.0,
+   "offer_time": 70.5,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": "F",
+    "send_time": 112.2,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 194.6,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "4HRkRMrrQmWsvJQxDoUBbQ": [
+  {
+   "request_time": 8.0,
+   "offer_time": 12.4,
+   "response_time": 1.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 46.3,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 147.1,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  },
+  {
+   "request_time": 196.7,
+   "offer_time": 200.7,
+   "response_time": 2.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 217.9,
+    "fade_time": null
+   }
+  }
+ ],
+ "4II0pjjURU67j_kYTkkW5Q": [
+  {
+   "request_time": 23.3,
+   "offer_time": 53.1,
+   "response_time": null,
+   "accepted": false,
+   "purloin": {
+    "delegate": "B",
+    "send_time": 91.2,
+    "fade_time": null
+   }
+  }
+ ],
+ "4iTj75w1TRucVy5UzJk1rQ": [
+  {
+   "request_time": 79.9,
+   "offer_time": 88.2,
+   "response_time": 3.6,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "4jYec-XSSI6h_O4jUrNHkQ": [
+  {
+   "request_time": 54.3,
+   "offer_time": 58.4,
+   "response_time": 3.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "4KxiT7gqRdO4PUTbfCkb0Q": [
+  {
+   "request_time": 146.7,
+   "offer_time": 150.9,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "E",
+    "send_time": 175.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "4M5_obSQQ-mX46p6CGq33Q": [
+  {
+   "request_time": 27.3,
+   "offer_time": 40.2,
+   "response_time": 2.7,
+   "accepted": true,
+   "purloin": {
+    "delegate": false,
+    "send_time": null,
+    "fade_time": 42.9
+   }
+  }
+ ],
+ "4mc5fYS0RzCJha5cB3yLHQ": [
+  {
+   "request_time": 46.2,
+   "offer_time": 50.8,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 181.2,
+   "offer_time": 0,
+   "response_time": null,
+   "accepted": false,
+   "purloin": null
+  }
+ ],
+ "4ns0ijU3R26xJ5CxwESGmA": [
+  {
+   "request_time": 141.7,
+   "offer_time": 149.2,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": "J",
+    "send_time": 188.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "4O3pdCBwQfaWr2-fYECjug": [],
+ "4oOslQE4QRKU6EUu6nmP9A": [
+  {
+   "request_time": 53.1,
+   "offer_time": 73.4,
+   "response_time": 2.3,
+   "accepted": true,
+   "purloin": {
+    "delegate": true,
+    "send_time": null,
+    "fade_time": null
+   }
+  }
+ ],
+ "4PMn-3YqQtyt5eNPtx6MvA": [
+  {
+   "request_time": 19.2,
+   "offer_time": 41.2,
+   "response_time": 3.2,
+   "accepted": true,
+   "purloin": {
+    "delegate": "P",
+    "send_time": 69.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "4qdStKAUSdia7PssBiLhCA": [],
+ "4R4S6beaSeeOkHBm4Jo6ZA": [
+  {
+   "request_time": 103.2,
+   "offer_time": 107.4,
+   "response_time": 2.5,
+   "accepted": true,
+   "purloin": {
+    "delegate": "Q",
+    "send_time": 123.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "4r7jXFBqTqyqBR0RHwD55Q": [],
+ "4s8f8uARTg2ibOJl7GfsZg": [
+  {
+   "request_time": 35.3,
+   "offer_time": 60.5,
+   "response_time": 2.6,
+   "accepted": true,
+   "purloin": {
+    "delegate": "S",
+    "send_time": 94.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "4SqxZysDSouYTD5f4kxwJQ": [
+  {
+   "request_time": 18.8,
+   "offer_time": 21.9,
+   "response_time": 3.1,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 82.4,
+    "fade_time": null
+   }
+  }
+ ],
+ "4TexJlU8TuOpiGadyMgTAQ": [],
+ "4tH1CiJGQxibofp28vCV_g": [],
+ "4TrqWzKmSae8QsfzXjajfA": [
+  {
+   "request_time": 111.7,
+   "offer_time": 117.2,
+   "response_time": 4.0,
+   "accepted": true,
+   "purloin": {
+    "delegate": "T",
+    "send_time": 154.7,
+    "fade_time": null
+   }
+  }
+ ],
+ "4TZPnwcORYyMNLfCcdFgNQ": [
+  {
+   "request_time": 33.1,
+   "offer_time": 51.4,
+   "response_time": 2.8,
+   "accepted": true,
+   "purloin": {
+    "delegate": "O",
+    "send_time": 95.2,
+    "fade_time": null
+   }
+  },
+  {
+   "request_time": 146.0,
+   "offer_time": 150.0,
+   "response_time": 4.4,
+   "accepted": true,
+   "purloin": null
+  }
+ ],
+ "4vnS0giCTZ-7cPaWbrRsSw": [
+  {
+   "request_time": 46.6,
+   "offer_time": 66.1,
+   "response_time": 2.9,
+   "accepted": true,
+   "purloin": {
+    "delegate": "M",
+    "send_time": 93.0,
+    "fade_time": null
+   }
+  }
+ ]
+}
