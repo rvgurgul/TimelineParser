@@ -1,6 +1,6 @@
 from Classes.Game import Game
 from collections import Counter
-from Constants.Triple_Agent import PARSED_GAME_COUNT
+from datetime import datetime
 
 import json
 import os
@@ -20,9 +20,28 @@ def debug(uuid):
     except FileNotFoundError:
         print(f"Failed debug of {uuid}.json", sep="")
 
+def query_games(constraints=None, categorization_function=None) -> [Game]:
+    data_dir = os.listdir(root)
+    before = datetime.now()
+    # TODO hard to do limit/progress bar/query stats with advanced iterable functions :(
+    print("Querying games, please wait...", end="")
+    games = list(map(Game, filter(constraints, [
+        json.load(open(f"{root}{filename}", "r")) for filename in data_dir
+    ])))  # easily the most complicated line of code I've written
+    print(f"done (took {datetime.now() - before})")
+    if categorization_function is None:
+        return games
+    categories = {}
+    for g in games:
+        cat = categorization_function(g)
+        if cat in categories:
+            categories[cat].append(g)
+        else:
+            categories[cat] = [g]
+    return categories
 
-def query_games(constraints=None,
-                limit=PARSED_GAME_COUNT,
+def old_query_games(constraints=None,
+                limit=13477,
                 describe_results=True,
                 display_progress=True,
                 categorization_function=lambda game: None):
@@ -68,48 +87,3 @@ def query_games(constraints=None,
         if rejected > 0:
             print(f" Rejected {rejected} games ({rej_ratio}%)")
     return categories
-
-
-# SPF format:
-# uuid : []
-
-def parse_games(games, functions):
-    results = {}
-    # for fx_name in functions:
-    #     results[fx_name] = []
-    #     fx = functions[fx_name]
-    #     for game in games:
-    #         result = fx(game)
-    #         if result is not None:
-    #             if type(result) is list:
-    #                 for x in result:
-    #                     results[fx_name].append(x)
-    #             else:
-    #                 results[fx_name].append(result)
-    for fx in functions:
-        result = fx.parse_games(games)
-        results[fx.description] = result
-    return results
-
-
-class NamedFunction:
-    def __init__(self, desc, func, output_func=None):
-        self.description = desc
-        self.function = func
-        self.analysis = output_func
-
-    def parse_games(self, games):
-        results = []
-        for game in games:
-            result = self.function(game)
-            if result is None:
-                continue
-            if type(result) is list:
-                for x in result:
-                    results.append(x)
-            else:
-                results.append(result)
-        if self.analysis is not None:
-            print(f"{self.description}")  # \n{'-'*len(self.description)}")
-            self.analysis(results)
-        return results

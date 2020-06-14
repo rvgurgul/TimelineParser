@@ -1,0 +1,113 @@
+
+> abstract:
+
+Waning Time Add Fails are characterized by a "watch checked to add time" event followed by "spy ran out of time"
+in TimeOut games. The result is the character that failed to add time in the waning seconds of the match.
+
+Watch Check Animations are characterized as the time elapsed between "watch checked to add time" and
+"45 seconds added to match". The result is a list of valid times in a given game and the spy character.
+
+> input:
+
+from Criteria.Trivia.WatchCheckAnimationDuration import watchCheckAnimation
+from Criteria.Trivia.TimeOutFail import waning_time_add_fails
+
+x = analyze(waning_time_add_fails)
+occurrence_report(x)
+
+results = []
+x = analyze(watchCheckAnimation, categorization=cats.by_char_spy)
+for chara in x:
+    y = unpack(x[chara])
+    pkg = round(stats.avg(y), 3), chara, len(y)
+    results.append(pkg)
+results.sort()
+for x in results:
+    print(x[1], "'s average watch check time:\t", x[0], "\t(", x[2], " samples)", sep="")
+
+> output:
+
+Analyzing, please wait...
+0%                     25%                      50%                      75%                     100%
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+8x		Ms. F
+7x		Ms. B
+6x		Ms. R
+4x		Mr. G
+4x		Mr. C
+4x		Dr. M
+3x		Ms. O
+3x		Ms. L
+3x		Mr. Q
+3x		Mr. I
+3x		Mr. D
+2x		Ms. T
+2x		Ms. J
+2x		Ms. H
+2x		Ms. E
+2x		Mr. P
+2x		Mr. K
+1x		Mr. U
+1x		Dr. N
+Analyzing, please wait...
+0%                     25%                      50%                      75%                     100%
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Mr. S's average watch check time:	1.375	(223 samples)   1.4
+Mr. G's average watch check time:	2.281	(140 samples)   2.3
+Mr. K's average watch check time:	2.282	(98 samples)
+Ms. E's average watch check time:	2.3	(78 samples)
+Mr. D's average watch check time:	2.314	(148 samples)
+Mr. A's average watch check time:	2.315	(106 samples)
+Mr. I's average watch check time:	2.404	(67 samples)    2.4
+Ms. F's average watch check time:	2.407	(227 samples)
+Ms. J's average watch check time:	2.413	(98 samples)
+Mr. P's average watch check time:	2.428	(54 samples)
+Ms. R's average watch check time:	2.433	(141 samples)
+Mr. Q's average watch check time:	2.435	(94 samples)
+Ms. T's average watch check time:	2.435	(104 samples)
+Ms. H's average watch check time:	2.437	(141 samples)
+Ms. O's average watch check time:	2.437	(147 samples)
+Dr. M's average watch check time:	2.441	(157 samples)
+Dr. N's average watch check time:	2.441	(172 samples)
+Mr. U's average watch check time:	2.444	(81 samples)
+Ms. B's average watch check time:	3.737	(109 samples)   3.7
+Mr. C's average watch check time:	3.75	(115 samples)
+Ms. L's average watch check time:	3.778	(150 samples)
+
+
+from Criteria.Trivia.TimeOutFail import waning_time_add_fails
+
+x = analyze(lambda j: waning_time_add_fails(j) is None,
+            categorization=cats.by_char_spy,
+            constraints={"win_type": (['TimeOut', 'SniperWin'], ['SniperWin', 'TimeOut'])})
+for y in x:
+    percent = 100*(1-stats.avg(x[y]))
+    print(y, "\t", round(percent, 2), "\b%")
+
+# cool trivia questions:
+# Q: in timeout games where the spy tries to add time in the waning seconds, which character fails the most frequently?
+# A: Ms F (Alice, 19.5%), Ms B (Boots, 19%), Mr C (Taft, 17%)
+# Q: which character, other than smallman, has never failed to add time in the waning seconds of a timeout game?
+# A: Mr A (Disney, 0%)
+#
+# Ms. H 	 6.67%
+# Mr. C 	 16.67%
+# Ms. T 	 5.88%
+# Mr. D 	 7.69%
+# Mr. U 	 3.33%
+# Mr. K 	 8.7%
+# Mr. Q 	 11.54%
+# Ms. L 	 6.67%
+# Dr. N 	 2.44%
+# Dr. M 	 11.11%
+# Ms. F 	 19.51%
+# Mr. P 	 8.7%
+# Mr. A 	 0.0%
+# Ms. O 	 8.82%
+# Mr. G 	 9.3%
+# Ms. R 	 14.63%
+# Ms. B 	 18.92%
+# Ms. E 	 7.41%
+# Mr. I 	 18.75%
+# Mr. S 	 0.0%
+# Ms. J 	 5.41%

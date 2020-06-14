@@ -39,7 +39,7 @@ class Event:
         # self.held_book, self.bookshelf =   # (bks[0], bks[1]) if len(bks) == 2 else (None, None)
 
     def __str__(self):
-        return f"{self.clock}\t{self.character}({self.actor}) - {self.desc}"
+        return f"{self.clock} ({self.time})\t{self.character}({self.actor}) - {self.desc}"
         # f"\n\ti_c? {self.in_conversation}\tmwc? {self.during_countdown}\tbook {self.held_book},{self.bookshelf}"
 
     # Optional syntax to reduce certain operations by 5 characters

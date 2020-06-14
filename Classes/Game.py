@@ -34,6 +34,7 @@ class Game:
         self.missions_complete = []
         self.missions_progress = set()
         self.time_added = 0
+        self.reaches_ot = False
 
         in_convo = None
         during_countdown = False
@@ -58,6 +59,9 @@ class Game:
                 during_overtime = True
             elif json_event["event"] == "45 seconds added to match.":
                 self.time_added += 45
+
+            if json_event["time"] < 0:
+                self.reaches_ot = True
 
             if ("MissionSelected" in json_event["category"] or
                     "MissionEnabled" in json_event["category"] or

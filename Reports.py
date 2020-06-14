@@ -1,37 +1,68 @@
-import json
-from collections import Counter
 import matplotlib.pyplot as plt
-import numpy as np
+from collections import Counter
 
-
-def bar_chart(values, sort_by=None, title="", x_lab="", y_lab=""):
-    ctr = Counter(values)
-    if sort_by == 'keys':
-        pairs = sorted((k, ctr[k]) for k in ctr)
+def bar_chart(counts, sort_by=None, title="", x_lab="", y_lab="", sample_size=True):
+    # todo cast keys to string
+    # fixme rotate long x-axis strings
+    if sort_by == 'vals':
+        pairs = counts.most_common()
         x, y = [pair[0] for pair in pairs], [pair[1] for pair in pairs]
         plt.bar(x, y)
-    elif sort_by == 'vals':
-        pairs = sorted((ctr[k], k) for k in ctr)
-        x, y = [pair[1] for pair in pairs], [pair[0] for pair in pairs]
+    elif sort_by == 'keys':
+        pairs = sorted(counts.items(), key=lambda k: k[0])
+        x, y = [pair[0] for pair in pairs], [pair[1] for pair in pairs]
         plt.bar(x, y)
-        # plt.xticks(np.arange(min(x), max(x), 1.0))
     else:
-        plt.bar(ctr.keys(), ctr.values())
+        x, y = counts.keys(), counts.values()
+        plt.bar(x, y)
+    if sample_size:
+        title += f" (N={sum(y)})"
+    # if len(x[0]) > 3:
+    #     plt.xticks(rotation=25)
     plt.title(title)
     plt.xlabel(x_lab)
     plt.ylabel(y_lab)
     plt.show()
+    # TODO relocate charts/graphs into dataset
 
+class Dataset:
+    def __init__(self, vals):
+        self.size = len(vals)
+        if self.size == 0:
+            raise Exception("Empty data set")
+        self.vals = sorted(vals)
 
-# TODO build functionality to dump parsed statistics to a json file
+    def sample_size(self):
+        return self.size
 
-# TODO build functionality to analyze the results of parsed games
-def getJSON(jason):
-    return jason
+    def minimum(self):
+        return self.vals[0]
 
+    def median(self):
+        return self.vals[self.size//2]
 
-# with open('data.json', 'w') as f:
-#     json.dump(data, f)
+    def mode(self, n=1):
+        return Counter(self.vals).most_common(n)
 
-# y = json.dumps(x, indent=4)
-# print(y)
+    def maximum(self):
+        return self.vals[-1]
+
+    def average(self):
+        return sum(self.vals)/self.size
+
+    def binned_average(self, bins=3):
+        delta = self.size//bins
+        return [sum(self.vals[delta * i:delta * (i + 1)]) / delta for i in range(bins)]
+
+    def stats_report(self, rounding=2):
+        categories = {
+            "SIZE": self.sample_size,
+            "MIN": self.minimum,
+            "MAX": self.maximum,
+            "MED": self.median,
+            "AVG": self.average,
+            "Hi/Med/Lo": self.binned_average,
+        }
+        for cat in categories:
+            print(f"{cat.rjust(12)}: {round(categories[cat](), rounding)}")
+

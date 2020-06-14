@@ -12,7 +12,7 @@ def unpack(box):
 
 def occurrences(arr, ascending=False):
     cts = Counter(arr)
-    return sorted([(cts[x], x) for x in cts], reverse=not ascending)
+    return cts.most_common() if not ascending else reversed(cts.most_common())
 
 
 def occurrence_report(arr, ascending=False, threshold_count=2, threshold_percent=0, only_top=False):
@@ -31,20 +31,3 @@ def occurrence_report(arr, ascending=False, threshold_count=2, threshold_percent
             print(end=" ")
         print("(%.2f" % percent + "%)", sep="", end="\t")
         print(x[1])
-
-
-def analysis_report(result, numeric=False):
-    if type(result) is dict:
-        for x in result:
-            print("Results of", x)
-            if numeric:
-                statistic_report(result[x])
-            else:
-                occurrence_report(result[x])
-    elif type(result) is list:
-        if numeric:
-            statistic_report(result, DEFAULT_DUMP_STATISTICS)
-        else:
-            occurrence_report(result)
-    else:
-        print(result)

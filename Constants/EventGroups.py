@@ -2,11 +2,11 @@
 
 
 # [SniperLights, Books] --> marks
-marks = {
+sniper_marks = {
     "marked book."
 }
 
-lights = {
+sniper_lights = {
     "marked suspicious.": "Highlight",
     "marked spy suspicious.": "Highlight",
     "marked less suspicious.": "Lowlight",
@@ -16,7 +16,21 @@ lights = {
     "marked default suspicion.": "Default Light",
     "marked spy default suspicion.": "Default Light",
 }
-lights_abbreviated = {
+
+sniper_lights_up = {
+    "marked suspicious.",
+    "marked spy suspicious.",
+    "marked neutral suspicion.",
+    "marked spy neutral suspicion.",
+}
+sniper_lights_down = {
+    "marked less suspicious.",
+    "marked spy less suspicious.",
+    "marked neutral suspicion.",
+    "marked spy neutral suspicion.",
+}
+
+sniper_lights_abbreviated = {
     "marked suspicious.": "HL",
     "marked spy suspicious.": "HL",
     "marked less suspicious.": "LL",
@@ -25,6 +39,14 @@ lights_abbreviated = {
     "marked spy neutral suspicion.": "NL",
     "marked default suspicion.": "DL",
     "marked spy default suspicion.": "DL",
+}
+sniper_lights_numeric = {
+    "marked suspicious.": 2,
+    "marked spy suspicious.": 2,
+    "marked less suspicious.": 0,
+    "marked spy less suspicious.": 0,
+    "marked neutral suspicion.": 1,
+    "marked spy neutral suspicion.": 1,
 }
 
 drink_gulps = {
@@ -102,6 +124,15 @@ result_events_sniper_win = {
     "sniper shot spy."
 }
 game_ends = result_events_sniper_win | result_events_spy_win
+
+results_sniper_shot = {
+    "SpyShot",
+    "CivilianShot",
+}
+results_sniper_hold = {
+    "MissionsWin",
+    "TimeOut"
+}
 
 bb_start = {
     "real banana bread started.",
@@ -228,6 +259,13 @@ delegate_sends = {
     'delegated purloin to ms. t.',
 }
 
+pending_events = {
+    "statue swap pending.": "Swap",
+    "guest list purloin pending.": "Purloin",
+    "action test green: check watch": "Time Add",
+}
+pending_events.update({dgs: "Delegate" for dgs in delegate_sends})
+
 fingerprint_starts = {
     'started fingerprinting book.': "Book",
     'started fingerprinting briefcase.': "Briefcase",
@@ -262,8 +300,15 @@ audible_cancels = {
     'dropped statue.': "Clank",
 }
 
-action_triggers = {
-    'action triggered: bug ambassador',
+audible_events = {  # not necessarily 'audible', but may prompt sniper lights
+    '45 seconds added to match.',
+    'fake banana bread uttered.',
+    'banana bread uttered.',
+    'guest list purloined.',
+    'statue swapped.',
+} | set(audible_cancels.keys())
+
+action_triggers_with_test = {
     'action triggered: check watch',
     'action triggered: contact double agent',
     'action triggered: fingerprint ambassador',
@@ -272,6 +317,12 @@ action_triggers = {
     'action triggered: seduce target',
     'action triggered: swap statue',
     'action triggered: transfer microfilm',
+}
+action_triggers = action_triggers_with_test | {'action triggered: bug ambassador'}
+action_test_contact_talking = {
+    'action test ignored: contact double agent',
+    'action test red: contact double agent',
+    'action test white: contact double agent',
 }
 action_test_contact = {
     'action test canceled: contact double agent': "Canceled",
@@ -323,6 +374,17 @@ action_test_timeadd = {
     'action test red: check watch': "Red",
     'action test white: check watch': "White",
 }
+action_tests = (
+    set(action_test_contact) |
+    set(action_test_seduce) |
+    set(action_test_transfer) |
+    set(action_test_inspect) |
+    set(action_test_swap) |
+    set(action_test_purloin) |
+    set(action_test_fingerprint) |
+    set(action_test_timeadd)
+)
+
 # action_tests = (
 #     action_test_contact |
 #     action_test_seduce |
@@ -349,7 +411,7 @@ mission_completes = {
     "statue swapped.": "Swap",
     "guest list purloined.": "Purloin",
     "guest list returned.": "Purloin",
-    "fingerprinted ambassador": "Fingerprint",
+    "fingerprinted ambassador.": "Fingerprint",
 }
 
 mission_partials = {
@@ -362,7 +424,15 @@ mission_partials = {
     "guest list purloin pending.": "Purloin",
     "guest list return pending.": "Purloin",
     "45 seconds added to match.": "Time Add",
+    'picked up fingerprintable briefcase (difficult).': "Fingerprint",
+    'picked up fingerprintable briefcase.': "Fingerprint",
+    'picked up fingerprintable statue (difficult).': "Fingerprint",
+    'picked up fingerprintable statue.': "Fingerprint",
+    'picked up statue.': "Inspect",
 }
+mission_partials.update({fp: "Seduce" for fp in flirt_percents})  # dicts don't support union, yet :)
+mission_partials.update({fp: "Fingerprint" for fp in fingerprint_starts})
+mission_partials.update({dg: "Purloin" for dg in delegate_sends})
 
 mission_fails = {
     "failed planting bug while walking.": "Bug",
@@ -377,10 +447,27 @@ mission_fails = {
     'aborted watch check to add time.': "Time Add",
 }
 
-game_states = {
-    "game started.",
+statues_inspected = {
+    "left statue inspected.",
+    "held statue inspected.",
+    "right statue inspected.",
+}
+
+microfilm_transfered = {
+    "hide microfilm in book.",
+    "remove microfilm from book.",
+}
+
+game_states_sniper_shot = {
+    "took shot.",
+    "sniper shot too late for sync.",
+}
+game_states_missions_complete = {
     "missions completed. 10 second countdown.",
     "missions completed. countdown pending.",
+}
+game_states = game_states_missions_complete | {
+    "game started.",
     "overtime!"
 }
 
