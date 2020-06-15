@@ -12,9 +12,6 @@ class ClockUsage(Parser):
         # currently returns a percent (string) of clock time used, how is this a good idea
         # in fact, this is so easily computed, it was possible without the timeline at all (via spyparsey)
         self.complete = True
-        # TODO mark all non-parsing parsers (lol what) as complete for eventual removal
-        #  if a parser need not parse the timeline, should it just be a game property?
-
 
 class TimeAddUsage(Parser):
 

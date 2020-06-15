@@ -96,10 +96,6 @@ class Game:
 
         self.reaches_mwc = len(self.missions_complete) >= int(self.mode[1])
 
-        # TODO patch
-        # if self.guests is None:
-        #     self.guests = len(self.cast)
-
     def __str__(self):
         result = "Match:\t" + str(self.match) + " (" + self.date + ")"
         result += "\nVenue:\t" + str(self.venue) + " " + self.mode + ", " + str(len(self.cast)) + " guests, " + str(self.clock) + "s"

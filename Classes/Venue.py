@@ -22,8 +22,6 @@ class Venue:
         # briefcase + drink + statues + books
         return 2 + sum(self.statues) + len(self.bookshelves)
 
-    # TODO quantify the size of pads to simulate the chance of landing there, assuming equal likelihood
-    #  measured in taft-seconds
     def floor_pads(self):
         return self.windows + self.bar_pads + self.paintings + \
                len(self.conversations) + sum(self.statues) + len(self.bookshelves)

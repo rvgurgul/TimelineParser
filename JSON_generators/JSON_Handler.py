@@ -1,4 +1,4 @@
-from StatLoader import StatLoader
+from Classes.StatLoader import StatLoader
 
 def player_lookup(alias) -> str:
     loader = StatLoader()
@@ -25,3 +25,4 @@ def convert_time_to_clock(game, time) -> float:
         if events[i]["time"] < time < events[i + 1]["time"]:
             return events[i]["clock"] - time + events[i]["time"]
     return events[-1]["clock"] - time + events[-1]["time"]  # handles the last or only element
+    # TODO return 0:00 for hanging OT

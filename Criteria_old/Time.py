@@ -33,9 +33,3 @@ def time_add_usage(game):
     # todo alternative strategy which uses timeadd time immediately, rather than at the end
 
 
-def overtime(game):
-    for event in game.timeline.events:
-        pass
-        #
-
-

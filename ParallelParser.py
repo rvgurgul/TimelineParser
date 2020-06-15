@@ -1,5 +1,4 @@
 from Classes.Game import Game
-from collections import Counter
 from datetime import datetime
 
 import json
@@ -20,17 +19,28 @@ def debug(uuid):
     except FileNotFoundError:
         print(f"Failed debug of {uuid}.json", sep="")
 
+
 def query_games(constraints=None, categorization_function=None) -> [Game]:
-    data_dir = os.listdir(root)
-    before = datetime.now()
+    try:
+        data_dir = os.listdir(root)
+    except:
+        os.chdir("..")  # If query_games is called in a subdirectory, json_gamez/ is not found at that level
+        data_dir = os.listdir(root)
     # TODO hard to do limit/progress bar/query stats with advanced iterable functions :(
-    print("Querying games, please wait...", end="")
-    games = list(map(Game, filter(constraints, [
-        json.load(open(f"{root}{filename}", "r")) for filename in data_dir
-    ])))  # easily the most complicated line of code I've written
+
+    before = datetime.now()
+    print("Querying jsons, please wait...", end="")
+    jsons = filter(constraints, [json.load(open(f"{root}{filename}", "r")) for filename in data_dir])
     print(f"done (took {datetime.now() - before})")
+
+    before = datetime.now()
+    print("Querying games, please wait...", end="")
+    games = list(map(Game, jsons))
+    print(f"done (took {datetime.now() - before})")
+
     if categorization_function is None:
         return games
+
     categories = {}
     for g in games:
         cat = categorization_function(g)
@@ -40,11 +50,29 @@ def query_games(constraints=None, categorization_function=None) -> [Game]:
             categories[cat] = [g]
     return categories
 
+'''
+qg = query_games()
+print(len(qg))
+
+qg = query_games(constraints=lambda j: j["spy"] == "skrewwl00se" or j["sniper"] == "skrewwl00se")
+print(len(qg))
+
+qg = query_games(constraints=lambda j: j["sniper"] == "krazycaley")
+print(len(qg))
+
+qg = query_games(constraints=lambda j: j["spy"] == "Legorve Genine/steam")
+print(len(qg))
+
+qg = query_games(constraints=lambda j: j["venue"] == "Ballroom")
+print(len(qg))
+'''
+# TODO load_games(uuids)
+
 def old_query_games(constraints=None,
-                limit=13477,
-                describe_results=True,
-                display_progress=True,
-                categorization_function=lambda game: None):
+                    limit=13477,
+                    describe_results=True,
+                    display_progress=True,
+                    categorization_function=lambda game: None):
     data_directory = os.listdir(root)
     categories = {}
     accepted, rejected = 0, 0
@@ -71,7 +99,7 @@ def old_query_games(constraints=None,
             else:
                 rejected += 1
             if display_progress:
-                delta = (101 * (accepted+rejected) // limit)
+                delta = (101 * (accepted + rejected) // limit)
                 if delta > prog_bar:
                     print(end="|")
                     prog_bar += 1

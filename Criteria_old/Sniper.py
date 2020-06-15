@@ -1,19 +1,5 @@
 from Constants.EventGroups import lights_abbreviated, lights
 
-def shot_latency(game):
-    if game.cast.shot is None:
-        return
-    finish_ts = 0
-    for event in game.timeline[:-30:-1]:
-        if "GameEnd" in event.categories:
-            finish_ts = event.time
-        # elif event == "sniper shot too late for sync.":
-        #     finish_ts = event.time
-        elif event == "took shot.":
-            if finish_ts > 0:
-                return round(finish_ts - event.time, 1)
-
-
 def lowlight_quickdraw(game):
     cast = {"Toby": False, "Damon": False, game.cast.ambassador.name: False}
     if game.venue != "Balcony":

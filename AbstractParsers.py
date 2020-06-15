@@ -1,4 +1,4 @@
-from Constants.EventGroups import *
+from EventGroups import *
 
 def shot_time_related_to_progress(game):
     if game.cast.shot is None:

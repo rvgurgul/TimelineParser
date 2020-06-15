@@ -73,38 +73,3 @@ def toby_reoffer(game):
             prev_offer_ts = 0
         elif prev_offer_ts > 0 and event in {"waiter offered cupcake.", "waiter offered drink."}:
             return round(event.time - prev_offer_ts, 1)
-
-
-def offer_response_time(game):
-    offer_ts = 0
-    offers = []
-    for event in game.timeline:
-        if event in {"waiter offered cupcake.", "waiter offered drink."}:
-            offer_ts = event.time
-        elif event in {"waiter stopped offering cupcake.", "waiter stopped offering drink.", "waiter gave up."}:
-            offers.append(round(event.time - offer_ts, 1))
-    return offers
-
-
-__business = {
-    "get book from bookcase.",
-    "picked up statue.",
-    "bartender offered cupcake.",
-    "bartender offered drink.",
-    "waiter offered cupcake.",
-    "waiter offered drink.",
-    "request cupcake from bartender.",
-    "request cupcake from waiter.",
-    "request drink from bartender.",
-    "request drink from waiter.",
-}
-
-
-def starter_drink(game):
-    for event in game.timeline:
-        # cannot guarantee certainty if the drink was completed during ai-control
-        if event in drink_sips:
-            return True
-        elif event in __business:
-            return False
-

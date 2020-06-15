@@ -1,4 +1,3 @@
-from Classes.Parser import Parser
 
 # sum times between innocent actions IF no suspicious action occurs in between
 
@@ -14,24 +13,6 @@ from Classes.Parser import Parser
 # if toby is ignored, that time is not considered idling because the spy's attention was elsewhere
 # if the spy takes out a book and does action test microfilm with that book, then none of the time with the book is idle
 # if the spy takes out a book and eventually direct transfers that book, then none of the time with the book is idle
-
-
-class Idling(Parser):
-
-    def __init__(self, game):
-        Parser.__init__(self, "Idle Time")
-        self.ts = 0
-        self.idling = True
-        self.complete = {m: False for m in [
-            "Bug", "Contact", "Seduce", "Inspect", "Swap", "Purloin", "Transfer", "Fingerprint"
-        ]}
-
-    def parse(self, event):
-        if event == "picked up statue.":
-            self.ts = event.time
-            self.idling = True
-        elif "picked up fingerprintable statue" in event.desc:
-            self.idling = False
 
 
 # from Constants.Gameplay import missions

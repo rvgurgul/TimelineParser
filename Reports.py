@@ -25,12 +25,23 @@ def bar_chart(counts, sort_by=None, title="", x_lab="", y_lab="", sample_size=Tr
     plt.show()
     # TODO relocate charts/graphs into dataset
 
+def pie_chart(counts, title="", x_lab="", y_lab="", sample_size=True):
+    y = [float(v) for v in counts.values()]
+    plt.pie(y, labels=counts.keys(), autopct=None)
+    if sample_size:
+        title = f"{title} (N={sum(y)})"
+    plt.title(title)
+    plt.xlabel(x_lab)
+    plt.ylabel(y_lab)
+    plt.show()
+
 class Dataset:
     def __init__(self, vals):
         self.size = len(vals)
         if self.size == 0:
             raise Exception("Empty data set")
         self.vals = sorted(vals)
+        self.counts = Counter(self.vals)
 
     def sample_size(self):
         return self.size
@@ -42,7 +53,7 @@ class Dataset:
         return self.vals[self.size//2]
 
     def mode(self, n=1):
-        return Counter(self.vals).most_common(n)
+        return self.counts.most_common(n)
 
     def maximum(self):
         return self.vals[-1]
@@ -58,11 +69,21 @@ class Dataset:
         categories = {
             "SIZE": self.sample_size,
             "MIN": self.minimum,
-            "MAX": self.maximum,
             "MED": self.median,
-            "AVG": self.average,
-            "Hi/Med/Lo": self.binned_average,
+            "AVG": self.average, # TODO returns list of tuples..
+            # "MODE": self.mode,
+            "MAX": self.maximum,
+            # "Lo/Med/Hi": self.binned_average,  # TODO returns list which can't be rounded
         }
         for cat in categories:
-            print(f"{cat.rjust(12)}: {round(categories[cat](), rounding)}")
+            result = categories[cat]()
+            print(f"{cat.rjust(5)}: {round(result, rounding)}")
 
+
+def number_to_grade(percent):
+    beg_dig = percent // 10
+    end_dig = percent % 10
+    return "%s%s" % (
+        "F" if beg_dig < 6 else "D" if beg_dig < 7 else "C" if beg_dig < 8 else "B" if beg_dig < 9 else "A",
+        "-" if end_dig < 4 else "+" if end_dig > 6 else ""
+    )

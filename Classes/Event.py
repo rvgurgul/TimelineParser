@@ -1,4 +1,4 @@
-from Constants.EventGroups import *
+from EventGroups import *
 
 
 class Event:
@@ -9,7 +9,6 @@ class Event:
         self.desc = json_event["event"]
         self.mission = json_event["mission"]
         self.action_test = json_event["action_test"] if json_event["action_test"] != "NoAT" else None
-        # TODO trivia: coughs/BB with briefcase
         self.in_conversation = kwargs["in_convo"]
         self.during_countdown = kwargs["during_mwc"]
         self.during_overtime = kwargs["during_ot"]
@@ -26,7 +25,7 @@ class Event:
         self.character = (
             Character(name=json_event["cast_name"][0], role=json_event["role"][0])
             if len(json_event["role"]) > 0 else None  # TODO replace None with the actor, if applicable
-        )   # TODO purloin attempts without a request (checker purloins)
+        )
         # TODO pull character reference from the cast to reduce redundant data
 
         bks = json_event["books"]

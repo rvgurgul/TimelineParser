@@ -538,5 +538,4955 @@
   "hang_time": -0.4,
   "beep_time": 8.3,
   "final_mission": "Seduce"
+ },
+ "4WJ7m4LMS4Oekb-AZ52qPg": {
+  "hang_cause": "Swap",
+  "hang_time": 0.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "4x1TpSmnT9qLYsFvMfuCxQ": {
+  "hang_cause": null,
+  "hang_time": 0.8,
+  "beep_time": 5.2,
+  "final_mission": "Swap"
+ },
+ "4ZkMwYGzRcStCoVtKDosRw": {
+  "hang_cause": "Swap",
+  "hang_time": 8.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "58expcedS3yX0RZKABDXXw": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 4.2,
+  "final_mission": "Seduce"
+ },
+ "58SVsgleR7SWMgmU1RbVrw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 1.5,
+  "final_mission": "Seduce"
+ },
+ "59_2PqcjT_GkHbebbkZ6mw": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 9.4,
+  "final_mission": "Bug"
+ },
+ "5bY-PXnDSLKb7Pyp06WcOQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 1.4,
+  "final_mission": "Seduce"
+ },
+ "5dj8yCDTQq-HQgH-S_hDHA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "5dLir1D4TAmj7oHYZT1LwQ": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 1.9,
+  "final_mission": "Contact"
+ },
+ "5EZoe_ykTQWD-GoT84-a_w": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 8.0,
+  "final_mission": "Bug"
+ },
+ "5LWD22C3TJqQV_m-h_4D0w": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 2.1,
+  "final_mission": "Swap"
+ },
+ "5m75qZBrRiGKuDYqG2Z11Q": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "5ravzmTuRtCYxebGgwxzrA": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 1.9,
+  "final_mission": "Bug"
+ },
+ "5RC4NLHoRMuuPqu57Tx9qg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 4.5,
+  "final_mission": "Contact"
+ },
+ "5S6H1nKOQjaIMHoVp9hoyQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 8.5,
+  "final_mission": "Bug"
+ },
+ "5WtAqXkCRVGe-_r8C9hw9w": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 8.0,
+  "final_mission": "Swap"
+ },
+ "5Y0UHExnSHeesiBozC0wig": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.7,
+  "final_mission": "Seduce"
+ },
+ "60UZXeh3Sb6xkCqY7FzPEA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "68ysjMuKTZ2QZ2pBVYZAvg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.7,
+  "final_mission": "Seduce"
+ },
+ "6aIM13MiTYun2xzEQFmVcA": {
+  "hang_cause": "Swap",
+  "hang_time": -0.2,
+  "beep_time": 4.3,
+  "final_mission": "Swap"
+ },
+ "6dXmS-6tQ_awX6jtwyayDg": {
+  "hang_cause": "Purloin",
+  "hang_time": 6.8,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "6Hwe5EqqTIaF0HkvBVNL3Q": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 7.1,
+  "final_mission": "Bug"
+ },
+ "6i8X8M7FRTavOhEnqPZh4g": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "6JQB6NZTSEOgIu0_xvl_xQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 2.5,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "6L_JnTBJSTS4MMifVlK1gA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "6O5Wtj9YSweiJpjOj5TqAA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.7,
+  "final_mission": "Bug"
+ },
+ "6QqKoSKoTuiUbkjw-Fm6Vg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 8.7,
+  "final_mission": "Seduce"
+ },
+ "6zqxg0dBRMuf3u5L3U_1iw": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 1.1,
+  "final_mission": "Purloin"
+ },
+ "6_pc6LWhQOCRzq0iWhwNrg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 5.8,
+  "final_mission": "Seduce"
+ },
+ "72d7H77STuWx3dqCgh_uCw": {
+  "hang_cause": "Purloin",
+  "hang_time": 7.9,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "76oayMoVQzutcq55K7Vkvg": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 7.7,
+  "final_mission": "Contact"
+ },
+ "77tsnNKoTkOQKCOe84tn7w": {
+  "hang_cause": "Swap",
+  "hang_time": 22.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "78HkSmJcRqebPRjxQadK_g": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 6.4,
+  "final_mission": "Contact"
+ },
+ "7ccfnuBrQqONuyreovPLZA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.0,
+  "final_mission": "Seduce"
+ },
+ "7FsmMIouQNGwQBGqG6vjvA": {
+  "hang_cause": null,
+  "hang_time": -0.1,
+  "beep_time": 3.1,
+  "final_mission": "Bug"
+ },
+ "7GlCZIZOSr2nmfmXMWFauA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 0.8,
+  "final_mission": "Seduce"
+ },
+ "7glf-hJSTJKqJwiEkDz46A": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 6.1,
+  "final_mission": "Bug"
+ },
+ "7gnMgfsdS2CI3Fj5J3PwiQ": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 7.7,
+  "final_mission": "Bug"
+ },
+ "7kkvd6TmRQ-wH7Ext_jAaA": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 1.8,
+  "final_mission": "Purloin"
+ },
+ "7lgwtbyTTYGTc8OkwbdQaA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 6.9,
+  "final_mission": "Inspect"
+ },
+ "7Lpa1VM3SOi03qBNMXrexQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "7QHv768rRre5T13bTAmNuQ": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "7qjr1ABTQ9ag5a0sejycKQ": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 9.6,
+  "final_mission": "Purloin"
+ },
+ "7SM3815gRaih7ltUmrDkww": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 7.6,
+  "final_mission": "Seduce"
+ },
+ "7yCkF8cAT8u2-OnGupe-ng": {
+  "hang_cause": "Purloin",
+  "hang_time": 5.3,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "7ZWW5Q00SMCvmd1TS0auIg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "80JfB-uESeOHetT4-JsrGQ": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 5.3,
+  "final_mission": "Inspect"
+ },
+ "8b0buQxSTTuy_GcfCMo_WA": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 7.0,
+  "final_mission": "Swap"
+ },
+ "8b4m4PcMTs28w9-s0YARLA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 3.2,
+  "final_mission": "Seduce"
+ },
+ "8bZBDyqET86cq5fj9PulEA": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 7.4,
+  "final_mission": "Bug"
+ },
+ "8Cg3RCgISNGRTCpmVW33ww": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "8fO4UwNLSbSCUkWE-sQgqA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "8jzpHxWITmmZ02xMtEOUIA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 3.0,
+  "final_mission": "Bug"
+ },
+ "8pojAVaRTkS9aK8TSBI3dw": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 4.9,
+  "final_mission": "Purloin"
+ },
+ "8pr4dcNjSlCKGjniPI3raQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.4,
+  "final_mission": "Bug"
+ },
+ "8qcNeO4GToy-mieqSd-saw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 9.6,
+  "final_mission": "Bug"
+ },
+ "8Rk4EPeARP-rEAzRQ71oOg": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 9.8,
+  "final_mission": "Contact"
+ },
+ "8Tv4Guz9SnmCSFzf27srFQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.5,
+  "final_mission": "Inspect"
+ },
+ "8U8c4WyfRjeq4V7SZ0MwLQ": {
+  "hang_cause": "Swap",
+  "hang_time": 0.1,
+  "beep_time": 9.1,
+  "final_mission": "Inspect"
+ },
+ "8uf6pUK7TFegBD8Cbr2qMw": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 7.8,
+  "final_mission": "Seduce"
+ },
+ "8uWQFk-bT0qhI8YSI7OlpA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 0.9,
+  "final_mission": "Seduce"
+ },
+ "8xqrb3qLTVWzb7TIvp8-bg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 0.6,
+  "final_mission": "Fingerprint"
+ },
+ "8YMf6sH-QICLL9CWoAjTJw": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 8.2,
+  "final_mission": "Bug"
+ },
+ "9A9LO8Q8QQqKoXqoK8Qubw": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 9.0,
+  "final_mission": "Contact"
+ },
+ "9JFftiWxSr6qH3O5Cf_nMg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 0.8,
+  "final_mission": "Swap"
+ },
+ "9mTv7JiZRHSi8C0Is6QoQg": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 2.0,
+  "final_mission": "Fingerprint"
+ },
+ "9pCTUNxYTMuEyHVb4YOhNQ": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 9.6,
+  "final_mission": "Contact"
+ },
+ "9RaFjozYQwmEFXP0QwSoog": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.5,
+  "beep_time": 6.5,
+  "final_mission": "Purloin"
+ },
+ "9s_7j6veSXi5zUR19hcmpw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 6.8,
+  "final_mission": "Bug"
+ },
+ "9v8l5Dc1Si-PAySutt7xeQ": {
+  "hang_cause": "Swap",
+  "hang_time": 17.4,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "9Ws2xYxsSdyp7sTYB10gnw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.8,
+  "final_mission": "Bug"
+ },
+ "9y7MMO4OSg2mqVi6iKBuJQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.7,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "a0_a1tAFQVOGSQpT46AJNA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "a1PScWn0SZi1UMB46Q-c1w": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 8.3,
+  "final_mission": "Bug"
+ },
+ "a3YDZpwPSKWgo-PwHTE52w": {
+  "hang_cause": "Swap",
+  "hang_time": 9.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "A5-wLppSSeu-gyKGFB95yw": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 7.3,
+  "final_mission": "Seduce"
+ },
+ "A9KvL16uQAe2jIzdRnMgIg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "a9MSW5GJQmac2HQjiHwq_Q": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 7.2,
+  "final_mission": "Inspect"
+ },
+ "AaviC-KwTviqphtUNXkFjg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 3.7,
+  "final_mission": "Inspect"
+ },
+ "aBIhSHccTxefTgffoN47IA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 8.2,
+  "final_mission": "Fingerprint"
+ },
+ "ADMC4_jXSKeWfVVG_c2_WQ": {
+  "hang_cause": "Swap",
+  "hang_time": 8.2,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "AEsLMuPCRMC91dJM5YUbmw": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 5.9,
+  "final_mission": "Bug"
+ },
+ "AH3xqXX0SPS_dj4uB8Y4YQ": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 2.9,
+  "final_mission": "Fingerprint"
+ },
+ "AHTxviuNR82YS_4ILu04WA": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 1.7,
+  "final_mission": "Seduce"
+ },
+ "aIN3ihrMRM6PnvsvGwrr3w": {
+  "hang_cause": null,
+  "hang_time": 0.9,
+  "beep_time": 1.1,
+  "final_mission": "Contact"
+ },
+ "AKbvjNnHQU-9FOjFENtj7Q": {
+  "hang_cause": "Swap",
+  "hang_time": 0.2,
+  "beep_time": 5.2,
+  "final_mission": "Swap"
+ },
+ "aKsCRMWaSYOKNTnyq3hl0Q": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 6.2,
+  "final_mission": "Seduce"
+ },
+ "al9zSEuaSjq3NGruMl3x5g": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 7.6,
+  "final_mission": "Purloin"
+ },
+ "AlwXGqeIS5-uDk4ezZgdSg": {
+  "hang_cause": "Purloin",
+  "hang_time": 11.0,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "anOivL3OSLGhr-W5E6IcGw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 9.6,
+  "final_mission": "Bug"
+ },
+ "Ap6xHXncTRqJqQVh7Na7uQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "APqQNiVBSWefvck9TpAY4A": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 7.0,
+  "final_mission": "Contact"
+ },
+ "AQWq1dYsQY-cgnIrIzy6Zw": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 8.2,
+  "final_mission": "Fingerprint"
+ },
+ "AsaMQoU3TF-J2KT2UpUOQg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 1.3,
+  "final_mission": "Bug"
+ },
+ "AT46hPJbSHmXE7bAXGDjlg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 9.4,
+  "final_mission": "Contact"
+ },
+ "AtXjM3KqRr-XcqFmU3SNGw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "av6x91woSoa0QO_1isKGtQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 9.1,
+  "final_mission": "Fingerprint"
+ },
+ "AvMLAXGlROmbUDXyyNmB4w": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "AWH_272-TNSGyEzWz_3q_w": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.1,
+  "final_mission": "Contact"
+ },
+ "AWQ9aF9QRu-phND8bcboGg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.4,
+  "final_mission": "Swap"
+ },
+ "AwuUvPbSQ-a4RvIUI5zp1g": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 7.8,
+  "final_mission": "Bug"
+ },
+ "aWZmts8JTz2H-_JooGY0Uw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "AXxC4h-bQn2VT_Cl9e47yw": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 3.6,
+  "final_mission": "Swap"
+ },
+ "A_xlf1QKSMadw2VUeTDIMg": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 10.0,
+  "final_mission": "Bug"
+ },
+ "b-rJdjnqTzm2o4n8HKsNdw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "b2DoLk0PQEmMxyBXBZnMLA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "b4vLsIuCSn61obynBQ6hwg": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "b7U72V8BTtC4Q8LY59JXdw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "b8sWsdMmREeKyHsXjBBpKg": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 2.6,
+  "final_mission": "Fingerprint"
+ },
+ "bAlZ5jwhSSieWmCt4K7-kg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 7.9,
+  "final_mission": "Bug"
+ },
+ "bDFiI06YR_KM3qH5BMrMtw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 9.4,
+  "final_mission": "Seduce"
+ },
+ "bdOMJQIyTFeShv6oaA62wg": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 2.3,
+  "final_mission": "Fingerprint"
+ },
+ "BDTzef2fTf6SIrm6Bwqh5Q": {
+  "hang_cause": "Purloin",
+  "hang_time": 3.9,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "bf8yj087T2K5qKEeJftP2A": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.4,
+  "final_mission": "Bug"
+ },
+ "bFbuUmiyTvKdlSzr0yr6Vg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.4,
+  "final_mission": "Seduce"
+ },
+ "bfXu84qNQiC2pHPF9ujYyg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.1,
+  "final_mission": "Seduce"
+ },
+ "bgcki_7ATHu8eueMuJu3IQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 6.5,
+  "final_mission": "Purloin"
+ },
+ "BH0Eo003Rhm8J8To70oB_A": {
+  "hang_cause": "Swap",
+  "hang_time": 0.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "bhiJOg1MSmSqbKsiw8UNiA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 5.1,
+  "final_mission": "Purloin"
+ },
+ "BJl_AHlmTb6Hnj__QF2NCA": {
+  "hang_cause": "Swap",
+  "hang_time": 18.7,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "BkbEngsWQ0ut78AGnweZgg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.5,
+  "final_mission": "Inspect"
+ },
+ "BNZ8tiBtRH2lvTz76qEZWA": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.5,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "BQ1_7pXUT_CnvuJ3OcOFgg": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 7.5,
+  "final_mission": "Inspect"
+ },
+ "bqRsKVGzS5u7QNatp7jAKQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 1.7,
+  "final_mission": "Swap"
+ },
+ "brrhfIz8R5Cu-RvmzWFJVA": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.4,
+  "beep_time": 7.5,
+  "final_mission": "Purloin"
+ },
+ "BS8fgOGXTl-AMeLtpP8hCA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.6,
+  "final_mission": "Purloin"
+ },
+ "BTprTzjfTiWk2UqKhdyASQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "BVD8Sn0sR9GzNoSDNj4bnQ": {
+  "hang_cause": "Swap",
+  "hang_time": 11.1,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "bwcfe8PUQpaDc-KKknpflQ": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 3.1,
+  "final_mission": "Purloin"
+ },
+ "bwKijploQ9qdXUbvH_IUWQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.8,
+  "final_mission": "Seduce"
+ },
+ "bXRrfviXRC6ExP4FComRyg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Fingerprint"
+ },
+ "c-ODnC_0S-yL6sLrtZ-GQA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 5.7,
+  "final_mission": "Bug"
+ },
+ "c02K1ZFaR7q50x2X36p0FQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.0,
+  "beep_time": 1.7,
+  "final_mission": "Purloin"
+ },
+ "c0Byna1VTEqlj6Jz4lONsA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 1.7,
+  "final_mission": "Fingerprint"
+ },
+ "C4f2Nf8pSMuRshqN4uBMLA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "C8G-7UK6RVqpvxYo_dXKTA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "CAhWxZeITGiC6Fw2z2cT7w": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 6.1,
+  "final_mission": "Bug"
+ },
+ "CawB-gGeTsGFfZoBrHPgRA": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 8.1,
+  "final_mission": "Purloin"
+ },
+ "CcEOXv1-T0OtMS-7SqRm3g": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.1,
+  "final_mission": "Seduce"
+ },
+ "CcsfeoABQxacMbW8BDvMmg": {
+  "hang_cause": "Swap",
+  "hang_time": 5.5,
+  "beep_time": 10.0,
+  "final_mission": "Contact"
+ },
+ "CdxqGg24SFyYb6l5r96yXw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "CES9NcaoQVOc6LO-IPGdEw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "cfDwSc0ETtmCMYoeFvka-A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "cFL9ZY0rRg2sRI9EFHeXxQ": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 7.6,
+  "final_mission": "Inspect"
+ },
+ "cgmwE2lmShiCPR0BYXD1Dw": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 4.9,
+  "final_mission": "Fingerprint"
+ },
+ "CGyMrep0Q2q8b2950PBhyQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "cI3W266aQhW8hls1acyhrA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "cIfBKE4-RpKENFobj1tvJA": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 1.5,
+  "final_mission": "Inspect"
+ },
+ "CJFxq4sZRgK7r_hE9Z7Q3Q": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "cjzWW6MfR2K27OPq3PR-kg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 9.4,
+  "final_mission": "Purloin"
+ },
+ "CNcJ04LgRt-LeEnZvRo0KA": {
+  "hang_cause": "Swap",
+  "hang_time": 0.3,
+  "beep_time": 9.6,
+  "final_mission": "Swap"
+ },
+ "coTI6JMgS4uIKcGFt8Leng": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 8.5,
+  "final_mission": "Bug"
+ },
+ "cq3MJj3LT4S4jyOVy1-gqA": {
+  "hang_cause": "Swap",
+  "hang_time": 6.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "cqyBeeljTCWay2osUjveLQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 1.4,
+  "final_mission": "Fingerprint"
+ },
+ "cS63vF-RQculIvEE4d3emA": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 4.3,
+  "final_mission": "Inspect"
+ },
+ "cSMfQAUhQGqkS8_XG33zhw": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 7.5,
+  "final_mission": "Swap"
+ },
+ "CujNxhLXQF2Vgfo6uzqcnw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "cVDi0DqlQUO8DWbVOjIT4A": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 8.2,
+  "final_mission": "Bug"
+ },
+ "CwzP4paJQlOf2VpsQpHxcQ": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 7.7,
+  "final_mission": "Swap"
+ },
+ "CxvuuJZlQ8SrXT8Jada4_A": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 6.4,
+  "final_mission": "Seduce"
+ },
+ "CYq5H3MaSPy5RZfkgAPQRw": {
+  "hang_cause": "Swap",
+  "hang_time": 15.1,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "CZbfMIzkRxmxW4eYPfUapw": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.4,
+  "beep_time": 2.0,
+  "final_mission": "Purloin"
+ },
+ "c_0BG6TwT3KFc4ril1jwMA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "C_kSOv0sTvmm7HvPcO61Tg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "d2bfaDdrQyaSW-LjH_3x2A": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.3,
+  "final_mission": "Bug"
+ },
+ "D6HLGesIQwe0lO2BCdsWlQ": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 3.9,
+  "final_mission": "Bug"
+ },
+ "D7c5r4ZvTOOg68addATxXQ": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 7.8,
+  "final_mission": "Seduce"
+ },
+ "da6F1BGLQzK9laBUHCk6ig": {
+  "hang_cause": "Purloin",
+  "hang_time": 9.3,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "dCDeL57oSeSRpoxdJ8ylyQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "DcjGODm_TcSKvckJNu66nw": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "DDjCbbSbSdeAQ27a2uxRnA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.4,
+  "final_mission": "Contact"
+ },
+ "ddTc6LrYQQi0n49WoRvEDg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 2.6,
+  "final_mission": "Seduce"
+ },
+ "dfbGTgzHRaK3UIBJG_YGRA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 1.5,
+  "final_mission": "Contact"
+ },
+ "dFeQWJmmQdiD1Yxjp6p3rQ": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.2,
+  "beep_time": 5.4,
+  "final_mission": "Purloin"
+ },
+ "dFzcMM-ZStuzk-LfC2xJ1A": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 2.4,
+  "final_mission": "Fingerprint"
+ },
+ "DGhH5dXqRoi75R6vLyjjwQ": {
+  "hang_cause": "Swap",
+  "hang_time": 12.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "Dhf_oDPJRf2BSPrrwAVjOQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 2.9,
+  "final_mission": "Seduce"
+ },
+ "dhHMqh6RRQODHZMwvJwd3g": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 10.0,
+  "final_mission": "Seduce"
+ },
+ "DiaRQQCFSoqN8jMaxBX0CA": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "dIoyj-T5TsGw00rb1ecNAA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "DJInvxHIR-Wpz61D8vgD-w": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 4.4,
+  "final_mission": "Inspect"
+ },
+ "DJJjpWa0SeCR8MpioLYv6A": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "dL18DeK8SRmxkqgmrdqz3A": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 8.0,
+  "final_mission": "Purloin"
+ },
+ "DLx4yvUhRASvfnrDKldrrQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "dM-GuKRfTQiOni_jenHH7g": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 6.9,
+  "final_mission": "Seduce"
+ },
+ "dn6FjPCwQ4qYseQCBR6oYg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "DpbG6MwBTHKgHgeGlnofYA": {
+  "hang_cause": "Swap",
+  "hang_time": 13.4,
+  "beep_time": 10.0,
+  "final_mission": "Bug"
+ },
+ "DRGnAVnlRR6pyLYHExwujg": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 7.4,
+  "final_mission": "Bug"
+ },
+ "dTrTBmI6QWCDYAgyqW2DBw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 2.2,
+  "final_mission": "Contact"
+ },
+ "dtS3xZylQ8mchPkl8OcBKw": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 6.7,
+  "final_mission": "Seduce"
+ },
+ "dZMS-MO6QoOHhgGqyLT5FQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 7.2,
+  "final_mission": "Swap"
+ },
+ "DzNLqfgDStOKh_XVHeOk2w": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 2.0,
+  "final_mission": "Swap"
+ },
+ "DZUldigTSDeDFSimeW31-Q": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 4.8,
+  "final_mission": "Contact"
+ },
+ "e-Z7rJuoQACCaUNvSAcoqw": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 3.3,
+  "final_mission": "Fingerprint"
+ },
+ "E0N0c-0yRpqLzfChGZFP5Q": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "E2dm9S3_T8OV9QylH-nIaw": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "e36bEBZnSfqfCm7wSJ1goQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "E3FqAckPROWzdgho94sXSw": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 7.9,
+  "final_mission": "Swap"
+ },
+ "E4UZZMTKSRWFUBdbo0IZAQ": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 7.1,
+  "final_mission": "Fingerprint"
+ },
+ "E4Z0P972RLGWt6D7yMwmNA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "e5_3LOKWRdiSk6gY2DpSHw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "E6l7BVBZTQW_SWOWqG_CwA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "e7SrWAIPQiSNBDXDunmEDg": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.6,
+  "beep_time": 1.0,
+  "final_mission": "Bug"
+ },
+ "ed56gdG1Tym-yyojQ0I4Pw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 9.4,
+  "final_mission": "Bug"
+ },
+ "ED9mGIdNQoyef2i6PGSoEw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.1,
+  "final_mission": "Bug"
+ },
+ "edVs_WcwQcqUNWCknmrj6g": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 2.5,
+  "final_mission": "Seduce"
+ },
+ "EFCvgbTSRq-p4zjN8Evluw": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "eFfS_YkcTMGqV9oBf2soUw": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 5.1,
+  "final_mission": "Fingerprint"
+ },
+ "EGeJWCTbTjOT52UfIcwS6Q": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 9.5,
+  "final_mission": "Swap"
+ },
+ "eGIxcVm-QtyH-l1HGfBqlQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "egoG0xbwS26AwlZoSGY64A": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 0.9,
+  "final_mission": "Inspect"
+ },
+ "EHnuxyCYR-CfkVDT24nWtg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 9.1,
+  "final_mission": "Bug"
+ },
+ "EHw9AodpTbi3AupwUXyPSg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.4,
+  "final_mission": "Bug"
+ },
+ "EJ0BBfVTT52kVzjC4lbr2Q": {
+  "hang_cause": "Purloin",
+  "hang_time": 26.0,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "eK7O297GS_6ZuU9Bkrf-3Q": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.2,
+  "beep_time": 7.6,
+  "final_mission": "Purloin"
+ },
+ "en4GdXsURHK9MxKm8hVt1Q": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "eOPsEj14QauJtA2VVYI05Q": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "eQjsHbqHSeK_M1WFCht04w": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 2.0,
+  "final_mission": "Contact"
+ },
+ "ErpDqxhoTj2wZgaZsY0jLg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "Et6yI-4yRsO1MbAOGjPhaA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 9.1,
+  "final_mission": "Bug"
+ },
+ "EU98BlfpS4GZhJrRn9L6Ow": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 5.1,
+  "final_mission": "Purloin"
+ },
+ "EV6LiQMdRuuiOUV2w8Fotg": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 3.4,
+  "final_mission": "Purloin"
+ },
+ "EyiESaOHSEu0Qrf31_kLeA": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 4.5,
+  "final_mission": "Swap"
+ },
+ "eylrYvpjTXqPccCTtS9VAw": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 5.8,
+  "final_mission": "Contact"
+ },
+ "EzF9e6x8Sq-lWGXeYA0umA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 1.4,
+  "final_mission": "Seduce"
+ },
+ "F5PqhPEiSpyfNWjIsnZTgg": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 3.4,
+  "final_mission": "Bug"
+ },
+ "F6_vaeLbQDC2TJAZYbciVg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 7.8,
+  "final_mission": "Inspect"
+ },
+ "fA0Xfe-oQ9iXsAcH5V9MHg": {
+  "hang_cause": "Swap",
+  "hang_time": 15.4,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "fb_427ItTWCVVgllmTWTng": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 7.2,
+  "final_mission": "Seduce"
+ },
+ "FcqK7M-RRECPWhxZMoi-nA": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 9.7,
+  "final_mission": "Purloin"
+ },
+ "FfFa8iwxT5mUz7qXylo5_A": {
+  "hang_cause": "Swap",
+  "hang_time": 13.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "FGFODE4tTX2prWmFhBNLdg": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 2.2,
+  "final_mission": "Seduce"
+ },
+ "FIhjxLg5Sxa2SZsezgM1Eg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "FkfMyRvFSVmajjMTo-8GLg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 3.9,
+  "final_mission": "Fingerprint"
+ },
+ "flAKrA-XQaqEMlOzq0z2-Q": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 7.3,
+  "final_mission": "Inspect"
+ },
+ "fLDHBNDATBCNq9rj-8OWVQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.3,
+  "final_mission": "Swap"
+ },
+ "fLmpq3anRz6zxo5OC1ZsFQ": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "FNcMsvOXRmWfN0Anz72C0Q": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "Fnfocna8QzmjK7we-5sbeQ": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.3,
+  "final_mission": "Purloin"
+ },
+ "fO3s8tzhQiu5PEXPRs4XPw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 3.6,
+  "final_mission": "Seduce"
+ },
+ "FOBw668YRGyG1VHJyZBgeA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 4.7,
+  "final_mission": "Swap"
+ },
+ "fOH4D1KlRTWJIN1kb7egPw": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 3.8,
+  "final_mission": "Contact"
+ },
+ "FOQQfASKTema8ba8gdV2Iw": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 2.3,
+  "final_mission": "Contact"
+ },
+ "fP9-nnEFQmKson2LuyObQg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.5,
+  "final_mission": "Purloin"
+ },
+ "FsMcfTpXT6GYP60QkWS6Xw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "fU3IQqifRkm-du5epWOFQA": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 8.6,
+  "final_mission": "Bug"
+ },
+ "FuFVtQuISO6DRFOOBnJc6g": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 4.2,
+  "final_mission": "Seduce"
+ },
+ "fxaB4fTDS5WSGy4GysGkkg": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 4.6,
+  "final_mission": "Bug"
+ },
+ "fxtEn07jTqmZXuRr0_KTCg": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 5.5,
+  "final_mission": "Contact"
+ },
+ "G-vGxUejRlCJX53lvKXNkA": {
+  "hang_cause": "Swap",
+  "hang_time": 0.1,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "G2urKQgzRoiAgoLXM_RjLA": {
+  "hang_cause": "Swap",
+  "hang_time": -0.4,
+  "beep_time": 4.5,
+  "final_mission": "Swap"
+ },
+ "g4QCNX97SAiC_Ve3ODDyxQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 6.7,
+  "final_mission": "Seduce"
+ },
+ "G4tqloAFR8GPejt_bpUQkw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 5.7,
+  "final_mission": "Seduce"
+ },
+ "GavR31NaRlSl_1hZ4SwqWQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 4.3,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "GDi5UnF9SUOlbUEk-u6xIQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 5.9,
+  "final_mission": "Inspect"
+ },
+ "gDL2zhmATqKqi8RRxxDK7A": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 1.0,
+  "final_mission": "Seduce"
+ },
+ "ge80rztTSeib2BQ0iW5emQ": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 6.5,
+  "final_mission": "Seduce"
+ },
+ "ghepf--aR5adHZ3akqIeAA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "ghTOI6BDR_KnEt3yy7uEBQ": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 1.3,
+  "final_mission": "Seduce"
+ },
+ "gI7LAMToTyab01Nv30WPHQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "gklxZLc2Sk68_rQyugUOMw": {
+  "hang_cause": null,
+  "hang_time": -0.1,
+  "beep_time": 8.5,
+  "final_mission": "Purloin"
+ },
+ "gllVu-VLTh6bJfed96b7Gw": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 3.3,
+  "final_mission": "Inspect"
+ },
+ "GLm7X_AwRdaIrdf563URRw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 2.2,
+  "final_mission": "Seduce"
+ },
+ "gLRLwIkURC-_Fj4hla5kuA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 5.2,
+  "final_mission": "Swap"
+ },
+ "GmEWjSAHQXepKaLt6jbPew": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 7.8,
+  "final_mission": "Fingerprint"
+ },
+ "gOl_Jvp2QvWkazaDQ0k1Fg": {
+  "hang_cause": "Purloin",
+  "hang_time": 3.7,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "Gp5L4amETsGIPVwh5fdjkA": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 7.3,
+  "final_mission": "Fingerprint"
+ },
+ "GQ3VWdbRQPi3ZAsVxWivfQ": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "GSfSl_1nR_6zSC89VdYTnw": {
+  "hang_cause": "Swap",
+  "hang_time": 1.1,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "gt2Ejt5tTyeTamk_Jec7jQ": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "GTsulzd4QNKYEurjU67fnA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "Gtzd5u0_R4uTlXcwbuUqAw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 3.0,
+  "final_mission": "Contact"
+ },
+ "GTZnHqM7Sp-0W18fobbfTw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 5.6,
+  "final_mission": "Seduce"
+ },
+ "GV6SaK4bSa6f9oHhyOrqcw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 4.0,
+  "final_mission": "Seduce"
+ },
+ "GwHv9UdLQ5CXF7wkNHTtow": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.7,
+  "final_mission": "Contact"
+ },
+ "gx0u1RsaTCC_LP-RCk7Suw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 3.6,
+  "final_mission": "Swap"
+ },
+ "gxwwnkdISPygfBngkMnq6Q": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "h22tzX4NR9OLhxMVmQeUvA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "h8aHfQgFQtCJQ_d6hLsXOg": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.5,
+  "beep_time": 3.9,
+  "final_mission": "Purloin"
+ },
+ "H8R-ruG7Q4yGzatqvIhkBA": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 4.0,
+  "final_mission": "Inspect"
+ },
+ "hCsig436TK2QzPOKWAvX4g": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.2,
+  "beep_time": 10.0,
+  "final_mission": "Bug"
+ },
+ "hE67GKqbQZiNK1hjqksGHg": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 2.7,
+  "final_mission": "Bug"
+ },
+ "HfGrBJnjSlqQhq_0A6hxdQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 3.6,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "HFMNhiG3Q0642EHiuYsIYA": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.5,
+  "beep_time": 6.5,
+  "final_mission": "Purloin"
+ },
+ "hGExyEnjSUGsXZlhbDIjqw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 6.9,
+  "final_mission": "Contact"
+ },
+ "hgFh_zquRjCA2-QINDi6tA": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 8.9,
+  "final_mission": "Bug"
+ },
+ "HGw-v4WKTi6S34shjSZDtQ": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "hJsXHIi5QH-IF4D4P93mdg": {
+  "hang_cause": null,
+  "hang_time": -0.1,
+  "beep_time": 3.5,
+  "final_mission": "Fingerprint"
+ },
+ "Hk2ynO0nS06-YbP8Dcw5pQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Fingerprint"
+ },
+ "HK8XYxnXRPST15-4WHD9kw": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.4,
+  "beep_time": 0.6,
+  "final_mission": "Purloin"
+ },
+ "hKF47ffqQaOG1y0Y9DOBGw": {
+  "hang_cause": "Purloin",
+  "hang_time": 15.9,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "hKXqYDaUTsmdz88fWVI4Zw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.6,
+  "final_mission": "Inspect"
+ },
+ "HlvsPhF5SVqTyqJTQAMF3g": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 5.0,
+  "final_mission": "Seduce"
+ },
+ "hnhLKTjASOKmAFY-tTleZw": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 6.8,
+  "final_mission": "Seduce"
+ },
+ "hNTkbW89TIOPKmGBDeq4uQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 6.5,
+  "final_mission": "Bug"
+ },
+ "hOGDHc8AQRupgwGrKm7lfg": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 6.3,
+  "final_mission": "Bug"
+ },
+ "HUEUVAEgRS2lpfCv9SPm_Q": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "HvGESvxTSjySnxEo0gPJyg": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 9.0,
+  "final_mission": "Fingerprint"
+ },
+ "hXCpifG-T1OFz8-n6i5Cuw": {
+  "hang_cause": "Swap",
+  "hang_time": 23.9,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "HyA0hJC_SjGNbRlpmAiqsQ": {
+  "hang_cause": "Swap",
+  "hang_time": -0.4,
+  "beep_time": 2.3,
+  "final_mission": "Swap"
+ },
+ "h_fNkizcR0mBFlokph3yEw": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 8.3,
+  "final_mission": "Purloin"
+ },
+ "I1rBi2ohRbCwM-_GraF3lw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 2.3,
+  "final_mission": "Contact"
+ },
+ "i3i4bcCxR7Kij6U5TiPdDg": {
+  "hang_cause": "Purloin",
+  "hang_time": 12.6,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "I4PWMwJFTFWzH5CaDQ4egg": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 7.9,
+  "final_mission": "Bug"
+ },
+ "I5ugRNQJTjSuDC6TJOfwDw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "I7vi4_SCT3qWS70cg75I0Q": {
+  "hang_cause": "Swap",
+  "hang_time": 5.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "iC5MF1CjT8eGqB-jTBnTaA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.4,
+  "final_mission": "Fingerprint"
+ },
+ "IcoJwS1EThifQmYbBoD_rQ": {
+  "hang_cause": "Swap",
+  "hang_time": 1.3,
+  "beep_time": 10.0,
+  "final_mission": "Bug"
+ },
+ "iDIg2U4WQ_GxGHm4iGx7VQ": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 5.0,
+  "final_mission": "Seduce"
+ },
+ "iDpWO01oQ6uT_5CY4cMd1g": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 1.1,
+  "final_mission": "Fingerprint"
+ },
+ "IEP9hGwlTTG72tvGmH6PFw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "IEXHstf5QiGDrqbOZtc9yg": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 4.4,
+  "final_mission": "Contact"
+ },
+ "IEYBGwWrSDyVZdNGgkF_nQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 1.9,
+  "final_mission": "Swap"
+ },
+ "ig47eimwT2OQYyLlMRPEDw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.6,
+  "final_mission": "Inspect"
+ },
+ "IhQxJ9gBTAyaF3q_RKS_pg": {
+  "hang_cause": "Purloin",
+  "hang_time": 13.0,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "IHZ4n0vXTE-0swuRrGsL7A": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 0.6,
+  "final_mission": "Purloin"
+ },
+ "IjcvYa1GT6i1yDj80RDDqw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 3.1,
+  "final_mission": "Purloin"
+ },
+ "ikxWRhf5TFCVlclq-GmrOA": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 6.4,
+  "final_mission": "Bug"
+ },
+ "IlNwzPmsQIyLi08Wo0sulg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "ilR-8ALlQcu_z0kh1gKJHg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "ImM3PczLQRSZzinmrC63Rw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "In8OyLAPRSekBjuSpZEyPg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "inVnKxlKRWOO_hqhLYcFjQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 16.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "IrwoDamnQmGOyosbzY0fQg": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 3.4,
+  "final_mission": "Bug"
+ },
+ "ISlCpjVBTH28mKcpKdIQrQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 2.8,
+  "final_mission": "Swap"
+ },
+ "Isr18A70QxaNoyFCC7D--w": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 8.7,
+  "final_mission": "Contact"
+ },
+ "itK5TOKzQ52L8gIFYA1PtA": {
+  "hang_cause": "Purloin",
+  "hang_time": 6.8,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "iUJACNdTRYeyH9vXZnWlRQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "IU_A4LmrR7iRahbypjk3IQ": {
+  "hang_cause": "Swap",
+  "hang_time": 0.8,
+  "beep_time": 7.6,
+  "final_mission": "Swap"
+ },
+ "iVYlY-hoQY6HLncNP5SCiA": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 5.5,
+  "final_mission": "Inspect"
+ },
+ "iwGpeHNcSBmHgq3l6xHJiA": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 8.3,
+  "final_mission": "Bug"
+ },
+ "IY4jaAXsRduZ1cjl7biqpA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 4.1,
+  "final_mission": "Swap"
+ },
+ "IzIALQEiTbW5Y0NXnZbhsw": {
+  "hang_cause": "Swap",
+  "hang_time": 0.2,
+  "beep_time": 9.9,
+  "final_mission": "Swap"
+ },
+ "I_CZlc3lSWiJp0JF1ZAAFg": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.5,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "j-Z-pOUPT3eGcKEbooZicw": {
+  "hang_cause": "Swap",
+  "hang_time": 2.2,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "J3jYAkqZQ-y4ReIdKZ9XpA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "J5XSc4XxSjyN0fxIhR1Psw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 4.0,
+  "final_mission": "Seduce"
+ },
+ "j6BPNvZDQZCxgWqZ9xfk0g": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 0.9,
+  "final_mission": "Seduce"
+ },
+ "j6FEafOSTSmu5pYg0Rdspg": {
+  "hang_cause": "Swap",
+  "hang_time": 12.8,
+  "beep_time": 10.0,
+  "final_mission": "Seduce"
+ },
+ "J7OX3J97TDmnSJgHLqu1Jw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "jEAb3wa5TuOFA-62dacotg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "jeiu1u1YSVe85NJDoSqZKA": {
+  "hang_cause": null,
+  "hang_time": -1.4,
+  "beep_time": 5.6,
+  "final_mission": "Bug"
+ },
+ "jGrLs4TFRIO8PY8bUqPfpQ": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 4.8,
+  "final_mission": "Purloin"
+ },
+ "JhaOkJRTQfWk_X4HyJzjfQ": {
+  "hang_cause": "Swap",
+  "hang_time": -35.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "JJ59kNXLTj6AQ7cShwK7Tw": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 6.2,
+  "final_mission": "Swap"
+ },
+ "jJNTdw2zR22cpl_v0cpVlQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.3,
+  "final_mission": "Inspect"
+ },
+ "jJxCUz6hTdOvfFvgub1Cxw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Fingerprint"
+ },
+ "jNqGf4ZyR-q6Yt5_9j4NDw": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 2.9,
+  "final_mission": "Seduce"
+ },
+ "JO9OoM8zQdWHNQ-iBLQd9w": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Fingerprint"
+ },
+ "JP1b_mclTBOaKwfw-GOl-w": {
+  "hang_cause": null,
+  "hang_time": -9.1,
+  "beep_time": 10.0,
+  "final_mission": "Bug"
+ },
+ "jqAYGvDMTFipnLtIUYkljA": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 9.5,
+  "final_mission": "Swap"
+ },
+ "jqf3sGknTWGaIrwwPXh-9A": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "Jw3kKJqQTEmYhJj5iurnhw": {
+  "hang_cause": "Purloin",
+  "hang_time": 9.6,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "jw6bfgvmSyuwpvpwh5Splw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "JweknHO3Rt2-tsjWVB0iKQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "JYXZkFTtRGmKl4UoRcPjLw": {
+  "hang_cause": "Swap",
+  "hang_time": 19.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "JZuzQgJ-QFGf7tKpzlvZXg": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.9,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "Jzv7ruYrSOyE787i6taNQw": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 6.1,
+  "final_mission": "Purloin"
+ },
+ "J_CXLOxbSYaSe8ZKQL3xqg": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.5,
+  "beep_time": 5.1,
+  "final_mission": "Purloin"
+ },
+ "J_r1HucXQZCxDxiffv2jww": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 8.0,
+  "final_mission": "Fingerprint"
+ },
+ "K0_yNxsPSEqlVpYgYtazyg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 2.0,
+  "final_mission": "Bug"
+ },
+ "K53CZLLxRrOIdMc7W5wiYA": {
+  "hang_cause": "Swap",
+  "hang_time": 7.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "K5WjgRFDQ9OKxsSUVZheRA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 4.1,
+  "final_mission": "Bug"
+ },
+ "k9ls-5VyRJiIDG-Sd-Dybw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 4.4,
+  "final_mission": "Inspect"
+ },
+ "KaQIxtu7TTm1X9nhkuLXYA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "kd06zYTdQyWtyYqGg17H3A": {
+  "hang_cause": "Swap",
+  "hang_time": 0.4,
+  "beep_time": 8.8,
+  "final_mission": "Swap"
+ },
+ "KGAVMId3TQOq9DCIVCNGBQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.2,
+  "final_mission": "Fingerprint"
+ },
+ "kgoqOM_KTa6PfzZ6ne7oig": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.4,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "KgOsADEtTpWkz2sCXxDkgQ": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 1.5,
+  "final_mission": "Seduce"
+ },
+ "KIKFln4PTy6RhBjEimCtgQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "KikwW-ggR-OBNu6so38qoQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 8.2,
+  "final_mission": "Swap"
+ },
+ "kiylN_feSo2pGXYxOPcAWQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 7.4,
+  "final_mission": "Seduce"
+ },
+ "Kl4r2ZsjRo2MU0tgivJlpw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Fingerprint"
+ },
+ "km5IPopdQJe2vXmfRbyDuw": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 4.3,
+  "final_mission": "Seduce"
+ },
+ "km9EFKCnSC-MjGWvfaXyhg": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 4.6,
+  "final_mission": "Seduce"
+ },
+ "kMRQ1fq0TKCNUoKvlXt1UQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "knQgLbHpQN-Ea-HE770_Yw": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 6.6,
+  "final_mission": "Seduce"
+ },
+ "KtdIkuTBTaSaYcbFXoe9YQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "ktw4WQdyQ-S--5gNrLZ_WQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.7,
+  "final_mission": "Seduce"
+ },
+ "KyaorTYtQlykNiYKItxBXA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.2,
+  "final_mission": "Seduce"
+ },
+ "KY_mikLKTEyvhfaELxeo_Q": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 6.5,
+  "final_mission": "Bug"
+ },
+ "K_Ynf_h0Si-pvtLCuPetow": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 5.2,
+  "final_mission": "Inspect"
+ },
+ "L119UNEvSpWU5gZzvNt2nw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 6.3,
+  "final_mission": "Bug"
+ },
+ "L1hwoj9wSgKxFr7t4XUgTg": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 3.8,
+  "final_mission": "Contact"
+ },
+ "l1O62JNOStC1xMkvUUqyEA": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.1,
+  "beep_time": 7.6,
+  "final_mission": "Purloin"
+ },
+ "l24t18QmTDS_GnwKzuJ7Jg": {
+  "hang_cause": "Swap",
+  "hang_time": 17.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "l2ioL9z8Q6i-9aqpE4X7Eg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 0.6,
+  "final_mission": "Inspect"
+ },
+ "l5SMfSCZTf2vMAv1KOI7ug": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 6.3,
+  "final_mission": "Bug"
+ },
+ "L78P2iBlQnOu5ETOOgL6bw": {
+  "hang_cause": "Swap",
+  "hang_time": 0.5,
+  "beep_time": 4.7,
+  "final_mission": "Swap"
+ },
+ "l7gK2qbESQGFNFW_54AMmQ": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "l9M5OaNYTc2GfAPJxhLIDg": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 9.2,
+  "final_mission": "Bug"
+ },
+ "lA6etT_fQK2k5mN8nVz6mw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.9,
+  "final_mission": "Seduce"
+ },
+ "lD9uyqy_SqqpxoYJYAnT7g": {
+  "hang_cause": "Purloin",
+  "hang_time": 25.1,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "lDk-RmmARgCVKUseon-smw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "lEF0aj7iSOWat3wvaE1UXQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 15.2,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "lGv6suffRimRtNxSgAxOpg": {
+  "hang_cause": "Swap",
+  "hang_time": 10.9,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "LINOjLUjQHi2vh8BAi9x7w": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 3.7,
+  "final_mission": "Seduce"
+ },
+ "ljHgSWzxSh6YBzuIdudo8A": {
+  "hang_cause": "Swap",
+  "hang_time": -0.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "lJv5fsA8Q-i4F00bGU71ZQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 9.1,
+  "final_mission": "Seduce"
+ },
+ "LK1_-WTZSNS1IQ9YYOcI8g": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 3.1,
+  "final_mission": "Contact"
+ },
+ "llHjQBQ-TLC0edCsOPfGFA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.1,
+  "final_mission": "Seduce"
+ },
+ "lLJgRtbkSimx9r4HF1k7hw": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 8.1,
+  "final_mission": "Bug"
+ },
+ "LlJM-25IQ3W9TCPUZvJAMg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "lLtKqPjKSuKD7pRa53IVNQ": {
+  "hang_cause": "Swap",
+  "hang_time": 0.5,
+  "beep_time": 9.6,
+  "final_mission": "Swap"
+ },
+ "Ln7Z6AUlRJWMOnsVaU3c9w": {
+  "hang_cause": "Swap",
+  "hang_time": -0.2,
+  "beep_time": 5.2,
+  "final_mission": "Swap"
+ },
+ "lOGAhg_pT0agz6TN75s-fA": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 3.7,
+  "final_mission": "Seduce"
+ },
+ "lOGf7W_MSlu1RRYxW2MMsA": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 6.1,
+  "final_mission": "Inspect"
+ },
+ "lR99Xpx_SQOPjt5QiUpz8Q": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 1.2,
+  "final_mission": "Purloin"
+ },
+ "Ls41rmdLRjWityBhZBL1iA": {
+  "hang_cause": "Swap",
+  "hang_time": 0.2,
+  "beep_time": 9.6,
+  "final_mission": "Swap"
+ },
+ "lTyxHmCBRzi3qn4JZ4sd9g": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 9.3,
+  "final_mission": "Seduce"
+ },
+ "lvj5oCzVSdGVnTMUdD0Bcw": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 5.9,
+  "final_mission": "Bug"
+ },
+ "M24WB7fTTE2jlDbiOeHz5w": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 5.2,
+  "final_mission": "Swap"
+ },
+ "m3OJhh7qRvWlzUtE1R18NA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "M6WrZRFKQFaZyIoVjqpvag": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 9.8,
+  "final_mission": "Bug"
+ },
+ "ma0PzfFIRGqdeFUNhJhGqw": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 4.2,
+  "final_mission": "Inspect"
+ },
+ "MaufZylHQyGyZOnND-DJWw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 5.6,
+  "final_mission": "Purloin"
+ },
+ "MBdKLsrbQU61hDo3V9iYOA": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 1.4,
+  "final_mission": "Seduce"
+ },
+ "McilJOElQWWFvlUvlWTgFw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.8,
+  "final_mission": "Bug"
+ },
+ "mff3HnODTVW5W42odEXFyQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 5.4,
+  "final_mission": "Inspect"
+ },
+ "Mg3oVYWKQ0CKdu9st13nsw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Fingerprint"
+ },
+ "mGn6hLI6RGaLd7DAGldgNQ": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 4.0,
+  "final_mission": "Seduce"
+ },
+ "MjpcKwhkTCe6JB4svP4giw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "mk78ON3dRdSaB4fQStEoLA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 0.8,
+  "final_mission": "Contact"
+ },
+ "MkcM_90bSfW8eRjGZGZV-Q": {
+  "hang_cause": "Swap",
+  "hang_time": 0.9,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "mKy96ALNTKat4D2sJ3bYIQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 6.7,
+  "final_mission": "Swap"
+ },
+ "mLco1h4VThid7jO80yme4w": {
+  "hang_cause": "Swap",
+  "hang_time": 24.3,
+  "beep_time": 10.0,
+  "final_mission": "Bug"
+ },
+ "MMZwSifTTei4FYxaKQNT6g": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "mpMrDFJ3QMupce5ZT9G92w": {
+  "hang_cause": "Swap",
+  "hang_time": 38.1,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "mRWoWrYOT5mKR_7qVaYv2A": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "mSF1Bqx1Rm-OPvmtlWrMCw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "muKFZ1vrSGKcnswa-JrvJA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 2.2,
+  "final_mission": "Seduce"
+ },
+ "mV3aDop0RESsfKq9wPmHLQ": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "MwCq2YSmQVmheYDcsrIASQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.1,
+  "final_mission": "Swap"
+ },
+ "mwF84aF8Siy0LPXxWk0HFg": {
+  "hang_cause": "Purloin",
+  "hang_time": 13.5,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "MwqJ46_qSn6vJ_eK18kXDg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 9.0,
+  "final_mission": "Contact"
+ },
+ "MxhHJ-RERoSZQVZwBooLNQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 2.7,
+  "final_mission": "Seduce"
+ },
+ "N1glGtfvRt-FwcN1gfBgtA": {
+  "hang_cause": "Swap",
+  "hang_time": 9.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "n4B0c8PfR1S7ji4Q1sVRzQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 1.2,
+  "final_mission": "Swap"
+ },
+ "N69_q0HrTTqEsGBS3qSsCA": {
+  "hang_cause": "Swap",
+  "hang_time": 2.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "Nc5dnMocTFC3zLtFDcw4BA": {
+  "hang_cause": "Swap",
+  "hang_time": 4.9,
+  "beep_time": 10.0,
+  "final_mission": "Seduce"
+ },
+ "NCFlyr17TcOa4ZKQ57D4gQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "NCYJ2413RQCj9E7AsCk1Mw": {
+  "hang_cause": "Swap",
+  "hang_time": 16.5,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "NDr_8_OsQFmwCFLZCBEQCg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "NE6V9FlXT0GY6E9_kaH_2Q": {
+  "hang_cause": "Swap",
+  "hang_time": 6.7,
+  "beep_time": 10.0,
+  "final_mission": "Contact"
+ },
+ "neA26DFuRMqlnlfF-jMWkw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 0.8,
+  "final_mission": "Seduce"
+ },
+ "NFIy8yFbSvC0dAj5HOeOig": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 8.2,
+  "final_mission": "Bug"
+ },
+ "NftdId42Ryy32tMBDWQFkg": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 6.5,
+  "final_mission": "Swap"
+ },
+ "nfYKTNJ0SJCmfOiMvK-1Pw": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 3.0,
+  "final_mission": "Seduce"
+ },
+ "nGKeXqEbT16bgKPQiWKM3g": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.4,
+  "beep_time": 9.1,
+  "final_mission": "Purloin"
+ },
+ "nGX3_vOST0qNRgaLcwvU6g": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 3.0,
+  "final_mission": "Seduce"
+ },
+ "NIhReZ44SICc50drwMX5Ow": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.9,
+  "final_mission": "Swap"
+ },
+ "niJ_HQ5ZTS-kJYKHTvma3A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "nJxSTlmfT1O0_zYpfjIpjw": {
+  "hang_cause": "Swap",
+  "hang_time": 0.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "nKLdLKOiSKiGbYTi4PkdTg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "NOskkLegRXK4CRDNIH2KTw": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 7.7,
+  "final_mission": "Bug"
+ },
+ "NPRY-nsZQGG14mqs4g9chg": {
+  "hang_cause": "Swap",
+  "hang_time": 16.0,
+  "beep_time": 10.0,
+  "final_mission": "Seduce"
+ },
+ "NSGHwdbvQNClAFavqUOUNQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.0,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "nTOwnNOcT4GDra3G0dC-pA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 6.8,
+  "final_mission": "Contact"
+ },
+ "nUBZibgtQIOJIWjmH1OEwg": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 3.6,
+  "final_mission": "Bug"
+ },
+ "nwlmMUb8RiKNH-8mXXciyQ": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 8.4,
+  "final_mission": "Bug"
+ },
+ "nzB1wKnPQjOGvvZRBgazxg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.5,
+  "final_mission": "Seduce"
+ },
+ "O069DKz1SduyTnf_nsDD2Q": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.1,
+  "final_mission": "Bug"
+ },
+ "O52aBjpbRkCYrkstc2naXQ": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 3.0,
+  "final_mission": "Bug"
+ },
+ "o7FC7gLRR3GqW7gwws5wsQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "O8tSGf3pSMiVRbgFuREvMw": {
+  "hang_cause": "Swap",
+  "hang_time": 18.5,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "Oa3GmaeAQ_epS-c39d7w-w": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 1.9,
+  "final_mission": "Bug"
+ },
+ "OAl-yw4DQ3yMeyi86K7VpQ": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 2.2,
+  "final_mission": "Bug"
+ },
+ "OfW5aYmRRPu28RumJE9ytQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 6.2,
+  "final_mission": "Swap"
+ },
+ "OIE8zedlRHGqEvUyCp4SpQ": {
+  "hang_cause": "Swap",
+  "hang_time": 17.1,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "okDkvpegTAagVfMuC6ZzEg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 5.7,
+  "final_mission": "Swap"
+ },
+ "onmnFx0_Ty-y8yLcjheldg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.9,
+  "final_mission": "Seduce"
+ },
+ "OoR-bBbtRqmQsmLQ9KaCeQ": {
+  "hang_cause": "Swap",
+  "hang_time": 6.7,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "ooXeSijcTVCJtkMqPsRJKQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.6,
+  "final_mission": "Inspect"
+ },
+ "oPnhZm37QXyr2OZE8tbF-A": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.3,
+  "final_mission": "Bug"
+ },
+ "OUhK3MHESvKI5bx9Gl-8sA": {
+  "hang_cause": "Swap",
+  "hang_time": 13.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "Ouk-1ldaTieY3tlcDDn9-w": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "OVoNOCw2RzeD5MPRi1SVXQ": {
+  "hang_cause": "Swap",
+  "hang_time": 5.4,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "OxkDH8PcSwK-O3jCwtwmmA": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.5,
+  "beep_time": 9.4,
+  "final_mission": "Purloin"
+ },
+ "OXkxLleDQOu9f0BL32tSvA": {
+  "hang_cause": "Swap",
+  "hang_time": 11.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "Oz-0tBXxQV2SXYrgdEF5zA": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "ozA52WFLS1q3f0NV5ep8zg": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 7.1,
+  "final_mission": "Seduce"
+ },
+ "ozpPF7KQQPGd8wnd3LkYjg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 1.5,
+  "final_mission": "Bug"
+ },
+ "p-3MNA04TniMO1rzernaCQ": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "p-kiGiLcReyG3daWVnPv0g": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.7,
+  "final_mission": "Inspect"
+ },
+ "P-tkNk_kQr-3a2xznC-cpg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "p5SYHgOHTJWnRWJ-_yahWw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.6,
+  "final_mission": "Inspect"
+ },
+ "p7ZpPQDTSlmi9_YeKOD2OA": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 7.8,
+  "final_mission": "Seduce"
+ },
+ "p8aQY8A_RRiV6YbxUSO7MQ": {
+  "hang_cause": null,
+  "hang_time": -0.1,
+  "beep_time": 1.2,
+  "final_mission": "Contact"
+ },
+ "P8os_kJ-TDKaVwjI8oypug": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 8.8,
+  "final_mission": "Inspect"
+ },
+ "PdR85yaTSJqiJa5l6mbsWg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 1.6,
+  "final_mission": "Seduce"
+ },
+ "pE7UsdU_R3mNP43Ndx84-g": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 8.7,
+  "final_mission": "Swap"
+ },
+ "peFcL1y0QSmWmHJxc88zNg": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 7.3,
+  "final_mission": "Contact"
+ },
+ "PfzmmV9rRPaM_S0shEnDIw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 5.3,
+  "final_mission": "Bug"
+ },
+ "pGfhSrRRQtC642DNjDrepw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 3.2,
+  "final_mission": "Seduce"
+ },
+ "Ph857WzfRMeiHWvef-YdYg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.1,
+  "final_mission": "Swap"
+ },
+ "PI3U9RtWTFyEta90UKCSmQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "PJfE-5z-S26eeoCZ5d-7DA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 4.3,
+  "final_mission": "Swap"
+ },
+ "pJPjtajMQnGcAkvJmu3DHw": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.3,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "pLJds2inReye87C4WbfMtA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 8.7,
+  "final_mission": "Seduce"
+ },
+ "plppE2RSS_O96puBY-xI-A": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.4,
+  "final_mission": "Swap"
+ },
+ "pMCLGf6JSACVDXYPOyJCwQ": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "pmQHwweuTfiDlM-LEx1S1Q": {
+  "hang_cause": "Swap",
+  "hang_time": 14.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "PNM3bawtSRuct7iaZ0KFIA": {
+  "hang_cause": "Swap",
+  "hang_time": 20.2,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "po9-ubiRQPWP-uq0N6KQWg": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 9.7,
+  "final_mission": "Purloin"
+ },
+ "pouw1QKHTBSDN8h_CFhA1A": {
+  "hang_cause": "Swap",
+  "hang_time": -0.5,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "PsdpesTFR5OeqcOR_U4Bzg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.8,
+  "final_mission": "Purloin"
+ },
+ "pt-hGRDeSiKBSMz74TQpmQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 9.9,
+  "final_mission": "Seduce"
+ },
+ "ptxHurZ7TBOVuwo1Yo9EtQ": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 3.1,
+  "final_mission": "Fingerprint"
+ },
+ "PTZDBdIvTY6Y0gBt-KsT7A": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 4.9,
+  "final_mission": "Seduce"
+ },
+ "pvdZh7t3Q9OIJfJX2EEprg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "pVZ9eZxyT-m5UkD3XUpxwQ": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 4.2,
+  "final_mission": "Swap"
+ },
+ "pVZMz5bgSzmO7mTwDcGNng": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 3.2,
+  "final_mission": "Bug"
+ },
+ "pYWU7-cjTlep2bFzkh6j3Q": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "q0_sS75bRlKzJDOcatVXyA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "q1oprXc6RdanTCKFcYGNhw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 4.3,
+  "final_mission": "Seduce"
+ },
+ "q3HGvvVKTOCHbK6F7WG-bA": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 5.5,
+  "final_mission": "Fingerprint"
+ },
+ "q3ZPAILpQ1uypvlcWI0z4Q": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 7.6,
+  "final_mission": "Bug"
+ },
+ "Qai8_p0dQruGPYno7xIfTQ": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 10.0,
+  "final_mission": "Fingerprint"
+ },
+ "QcGT_2NzRTuykYR1kB_ZEw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 4.6,
+  "final_mission": "Inspect"
+ },
+ "qcjvE8veTN-GNVDNhxqR_w": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 3.2,
+  "final_mission": "Inspect"
+ },
+ "Qd9GveRrQCGkpF83DHZ88g": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 6.5,
+  "final_mission": "Seduce"
+ },
+ "qDacRnf_QqKY2q8RMA8oKA": {
+  "hang_cause": "Purloin",
+  "hang_time": 2.0,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "qDWttn5fS56nb6R6GmDKVg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "QFWLwVOSRMWKceiGUf1guA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.1,
+  "final_mission": "Fingerprint"
+ },
+ "qgRkyCPAQ0KVF8grbcQCJg": {
+  "hang_cause": "Swap",
+  "hang_time": 28.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "QKfceNB-RSuvYi2ZmG524Q": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "qKTW0fRDSJWH8PoUCv_4Tw": {
+  "hang_cause": "Purloin",
+  "hang_time": 3.7,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "QlNsRWoUSO2JE6EDWgt9Hg": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 6.7,
+  "final_mission": "Seduce"
+ },
+ "QMolt8ppR0aailUgnCSgKg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.6,
+  "final_mission": "Fingerprint"
+ },
+ "Qp0w4wMsSdukCZL4llXjlQ": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 5.2,
+  "final_mission": "Seduce"
+ },
+ "QQlN-3SwT2G-DIW_-2bYqg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 4.5,
+  "final_mission": "Seduce"
+ },
+ "qUqK59QAQqGT-HwZzaJH_Q": {
+  "hang_cause": "Purloin",
+  "hang_time": 3.3,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "qvsy2zpcS3m5IJkJ_QXzNw": {
+  "hang_cause": "Swap",
+  "hang_time": 9.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "QWFyzoKnTZOc5Ihwabb84w": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "qxhRp77NRsaHSLAH4mgzUQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 2.9,
+  "final_mission": "Seduce"
+ },
+ "qxqqlK7sQ-aMBNvHjzhHGQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "qYl-GTZ7SyKlg7KGTSr1zQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.1,
+  "final_mission": "Inspect"
+ },
+ "QyQ_-PxUT6SYOmn_Wzh6Jg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "QzFaPeJQTy6_qeIZOD0XdA": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 1.8,
+  "final_mission": "Seduce"
+ },
+ "R1_nr03WRt-l0yRHpgdHPg": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.4,
+  "beep_time": 3.5,
+  "final_mission": "Swap"
+ },
+ "R2Dj2Sg0TQ-W5bSN_lZEKA": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 1.7,
+  "final_mission": "Fingerprint"
+ },
+ "r56Svjz8Rx6fSS-G3dyCtQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.3,
+  "final_mission": "Contact"
+ },
+ "r6Jb9BUgRlmH3rqySp4JlA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "R7-F9W70TK6NOsO-VVWUYw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "r9MUCxKMRTS21c68rUi8xw": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.8,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "ra7T654yRUOinilOnvbhOA": {
+  "hang_cause": "Swap",
+  "hang_time": 0.3,
+  "beep_time": 0.6,
+  "final_mission": "Swap"
+ },
+ "re7DvYm3SxqQh8ZSS1nbuQ": {
+  "hang_cause": "Swap",
+  "hang_time": 0.0,
+  "beep_time": 6.7,
+  "final_mission": "Swap"
+ },
+ "rHuUchd_Qxe-aiVAWmudag": {
+  "hang_cause": "Swap",
+  "hang_time": 0.2,
+  "beep_time": 4.6,
+  "final_mission": "Swap"
+ },
+ "RI1wuO7KRQOn-HvYLmdtag": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "Ri6yn1D5RTuzwE-otRU4GQ": {
+  "hang_cause": "Swap",
+  "hang_time": 13.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "RjH1GmBuQH--8K8YnW6aWw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.0,
+  "final_mission": "Swap"
+ },
+ "RjJbRvIbS7yRukd6RmN2Fw": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 1.4,
+  "final_mission": "Bug"
+ },
+ "rJOx0Xj8Q5qSyrWs_oqB1A": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 5.5,
+  "final_mission": "Inspect"
+ },
+ "rkDYScVXTw-lZJqOx8UG4A": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 3.9,
+  "final_mission": "Seduce"
+ },
+ "RKr7dpcdSsKWVNrlPRqA5A": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.5,
+  "beep_time": 1.7,
+  "final_mission": "Purloin"
+ },
+ "RKtfggyZQLiJ_kJsZ8AZfA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 9.4,
+  "final_mission": "Seduce"
+ },
+ "RlNNLkFgTdmQwC3EOhXJrA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "ROIhD-cARduy1COezqfHQQ": {
+  "hang_cause": null,
+  "hang_time": 1.3,
+  "beep_time": 3.3,
+  "final_mission": "Seduce"
+ },
+ "RoJDF-ViTpG89cgLYkKqyA": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.6,
+  "beep_time": 2.2,
+  "final_mission": "Purloin"
+ },
+ "RSNAoImERUq622rdgzIYkA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 4.3,
+  "final_mission": "Bug"
+ },
+ "rtVFip7FRsiLppbSPGtY_A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "RufcdH48Qz6vLaSnusoJhw": {
+  "hang_cause": "Purloin",
+  "hang_time": 2.1,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "rUV3wSgLRYO4IWHdzZCrhA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 2.9,
+  "final_mission": "Bug"
+ },
+ "rWj-1o5aSeempB4vnOfuFQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.1,
+  "beep_time": 7.6,
+  "final_mission": "Purloin"
+ },
+ "rZH7vaiBSCKisbZJd0EsnA": {
+  "hang_cause": "Purloin",
+  "hang_time": 7.3,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "r_XWMspjT9aSGx9ckxuXrw": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 2.6,
+  "final_mission": "Seduce"
+ },
+ "s315vIrwR-ur03u5rkaUWw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 0.8,
+  "final_mission": "Swap"
+ },
+ "S4HjO56LTD6ydrzC3OwU9w": {
+  "hang_cause": "Swap",
+  "hang_time": 4.8,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "S4MBhvy6QM6HdhCLDGGKDg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "S4MQ0rQlQvemaIObzNzGtQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 7.5,
+  "final_mission": "Bug"
+ },
+ "sbhC4i0PR9WJoArpn6LCkA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 4.7,
+  "final_mission": "Seduce"
+ },
+ "sbjFXAbQRFy-ClojsJN55g": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.7,
+  "final_mission": "Contact"
+ },
+ "sc6PIxTXRB-RdzvRW-dh7w": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "SDHDERBEQ0Op52sqf60ERQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.5,
+  "beep_time": 9.1,
+  "final_mission": "Swap"
+ },
+ "SFefmVlaS9qFms38pzorjA": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 2.1,
+  "final_mission": "Seduce"
+ },
+ "SGmc9-upTPWJRn659xLkbQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 29.4,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "ShrzEKOqTs6VHm3YEZJ-sQ": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 8.4,
+  "final_mission": "Inspect"
+ },
+ "SKEEeQdJTwmIkcVn89Qj0A": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.3,
+  "final_mission": "Fingerprint"
+ },
+ "SKUcRXRQQ5SB-4o0Bbzf_A": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 7.1,
+  "final_mission": "Seduce"
+ },
+ "sLPsG6gbSrefAKZ9ObAmKg": {
+  "hang_cause": "Swap",
+  "hang_time": 2.1,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "smH4S-NkRXGkZfoBFljrfw": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.1,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "SmOcENBPSi-wHslzYu2iTw": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.4,
+  "beep_time": 5.6,
+  "final_mission": "Inspect"
+ },
+ "SMvNV71JStalQZUyduRh0g": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 3.7,
+  "final_mission": "Contact"
+ },
+ "SnRw9s_hQ4KIR-Pf3V2D3Q": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.4,
+  "final_mission": "Seduce"
+ },
+ "Sptbo8igSGG7L1LY9h-BfA": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 10.0,
+  "final_mission": "Bug"
+ },
+ "sr-uISe3S7-rlj8eIXrG7A": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 5.3,
+  "final_mission": "Seduce"
+ },
+ "ss-lVlVGTf-vjmJR4I0lAQ": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "Ss1ZTS26RISMjN4ARa-Y1g": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.5,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "SSMC9K1JQnyCzz7SCuRaqw": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 4.8,
+  "final_mission": "Seduce"
+ },
+ "StBC4kOwRwaFp1BIBkHJ3A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "SuBKhVIMSn2ulSUXzq0pCg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "SwcqpU0WTXSQ0l8-GGzAlA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 6.7,
+  "final_mission": "Swap"
+ },
+ "swO1Z2yPR0K4LrzteY3LgA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "t0ivk1UnRy6mLegPKQR6AQ": {
+  "hang_cause": "Swap",
+  "hang_time": -3.5,
+  "beep_time": 10.0,
+  "final_mission": "Bug"
+ },
+ "T3GSZGB7QJ2Mu970_Q6ddg": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.2,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "t4PrZ_5XQTabOaKVV3zVpA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 6.6,
+  "final_mission": "Seduce"
+ },
+ "T8J8yZCeRdaiCwtQEUiYKA": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 6.9,
+  "final_mission": "Seduce"
+ },
+ "tajfZXivQP-Ul6M-Esf8Uw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 6.6,
+  "final_mission": "Bug"
+ },
+ "tBjTUQ5MT6CnM-zHqT5Ixg": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.1,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "TD1iwa-bSUqlqbnCerIxqg": {
+  "hang_cause": null,
+  "hang_time": -5.8,
+  "beep_time": 10.0,
+  "final_mission": "Contact"
+ },
+ "TdDbAlC6SlK2CADCahPx6A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "Te_Xguy0RGa4_W-y5iXRcQ": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 1.4,
+  "final_mission": "Seduce"
+ },
+ "tfNapxDfR1eRUR2KTOmG2Q": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 9.2,
+  "final_mission": "Bug"
+ },
+ "tfY4WZTJQkOKH4v2d_IUtQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 4.2,
+  "final_mission": "Seduce"
+ },
+ "tg0L2nPmS7yFj2NMcEqEkQ": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 7.6,
+  "final_mission": "Inspect"
+ },
+ "TGiV7HO0SjKuaE_tm5B7mQ": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 1.4,
+  "final_mission": "Bug"
+ },
+ "tGRhLX2eQsa1HmsJ4EK3Og": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 7.6,
+  "final_mission": "Purloin"
+ },
+ "thH3FTaPQQmOlz_dcQELrg": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 2.0,
+  "final_mission": "Fingerprint"
+ },
+ "ThnEuhHeQVqJOhnF_VCWpA": {
+  "hang_cause": "Purloin",
+  "hang_time": 25.1,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "tiHpcf_nSxizuF46EwDdOA": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 6.2,
+  "final_mission": "Swap"
+ },
+ "tm0lJiYHRpa2j-lLmHigYw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "tmdDNUmUQkeMCUCG0IndvA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "tR19DW6yQluPHRgbaaJJAA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 9.6,
+  "final_mission": "Inspect"
+ },
+ "TtCEPfruQyiZH8q5MtdxEA": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "tTew4UzSSem5CQtwehkAxg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 0.7,
+  "final_mission": "Bug"
+ },
+ "TtLLH6OESGCUFvYXQN6nOw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 5.6,
+  "final_mission": "Bug"
+ },
+ "Tw4qe3flS2mjFrjM_Bs0aA": {
+  "hang_cause": null,
+  "hang_time": -2.8,
+  "beep_time": 10.0,
+  "final_mission": "Seduce"
+ },
+ "TWkmU15gTp20fnf6sx8XtA": {
+  "hang_cause": "Purloin",
+  "hang_time": 2.5,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "tXDBxpt7T5GlsZA6gl3yZQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 9.4,
+  "final_mission": "Fingerprint"
+ },
+ "TykFSS4PRAWSy3QMhv_wFA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 2.4,
+  "final_mission": "Seduce"
+ },
+ "TyQNm-RiTZS2QLWXUUohmQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 7.9,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "U-2W4MfsRweXBUqNgaA0uA": {
+  "hang_cause": "Swap",
+  "hang_time": 9.5,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "u-dGynyKQGGyiMSnhHyitA": {
+  "hang_cause": null,
+  "hang_time": 1.2,
+  "beep_time": 2.2,
+  "final_mission": "Fingerprint"
+ },
+ "U1DzWDUJQ-Kj6PKUnUnt7Q": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "U4TquuQ6SqG6Pi_duyp-6g": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 7.2,
+  "final_mission": "Bug"
+ },
+ "u8faVjn0SlWpyWNerfjmrA": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.4,
+  "beep_time": 6.8,
+  "final_mission": "Purloin"
+ },
+ "u9GziEC0Tr-vpdI6EWnQ3A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "uawUc7JBTwWEoY6Pr4xTsA": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 8.6,
+  "final_mission": "Bug"
+ },
+ "uezUWtmNRoiSOm9TuSdJgA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 5.9,
+  "final_mission": "Fingerprint"
+ },
+ "ufS9dMsGSoiQo8CHAJptfA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "Uhi5nJL2SaGyE33A5rngxg": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 3.3,
+  "final_mission": "Purloin"
+ },
+ "uhQV0z5XRPmsxOy3J9VUGg": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.7,
+  "final_mission": "Bug"
+ },
+ "Uhxf8xJHQBmqkG8R0vDMsQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "UjKSMe3EQcW9pXcgnxN-5g": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 6.5,
+  "final_mission": "Bug"
+ },
+ "uMIjwDbsS4Suyjo05Az62g": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 1.5,
+  "final_mission": "Swap"
+ },
+ "Un8WhMGgS76-3LMMWe2vnA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 2.3,
+  "final_mission": "Swap"
+ },
+ "unPbI8SHTbebv3hdHTYpOg": {
+  "hang_cause": "Swap",
+  "hang_time": 11.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "Uns7GBfvRVa2xnvJHMuLqw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "UNxin-M4QcyYspu4gqNs_w": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "UQ-A8DfNQLKztFv7YgiVnQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 14.0,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "URY2LZmaQX-amcjQGcdmxQ": {
+  "hang_cause": "Swap",
+  "hang_time": 5.0,
+  "beep_time": 10.0,
+  "final_mission": "Inspect"
+ },
+ "utl3tC44Qt-OMX0CKx1AbA": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "UtmBzVlbRp2bA3gvFIyLEw": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 5.5,
+  "final_mission": "Seduce"
+ },
+ "uUhfdIFOTGCjjtOrM3VJPQ": {
+  "hang_cause": "Swap",
+  "hang_time": 9.2,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "uvjnoCJkSgmzvPZnUl_AJA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 8.8,
+  "final_mission": "Bug"
+ },
+ "UvugCuoHQhi33ED8GW-hsQ": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 8.6,
+  "final_mission": "Swap"
+ },
+ "UwhAcqxRScm9PZaDGMfHGQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 3.3,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "Ux0Rer7LSGuMDBvx8UMZXQ": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 2.9,
+  "final_mission": "Seduce"
+ },
+ "UzcIP9AzQviG-RZjpHV5DA": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "Uzv3BsuCRh6CsPmcme5CFw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "v3eh9eEZQvSkdm1REkCU_Q": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 5.9,
+  "final_mission": "Contact"
+ },
+ "v5fN5ipTT3yCAGU389ZscA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "v6Uu3TzZTpml0GNHYUEKTQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.1,
+  "final_mission": "Seduce"
+ },
+ "v8SPd4k4RQqT5LVtcOrrmA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 1.1,
+  "final_mission": "Seduce"
+ },
+ "vC84SXZxRJSCOCjRKXtL1w": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 2.4,
+  "final_mission": "Inspect"
+ },
+ "vdAlZSG5RFysrZb0W-ioqQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.2,
+  "beep_time": 5.0,
+  "final_mission": "Purloin"
+ },
+ "vE8GMM9JRA-q__xLtmfccQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 4.4,
+  "final_mission": "Fingerprint"
+ },
+ "VEvkUzsSQte3YvCmd9RZ6Q": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.1,
+  "beep_time": 9.0,
+  "final_mission": "Purloin"
+ },
+ "VF5HXyA1S-CQM0zV55ictA": {
+  "hang_cause": "Purloin",
+  "hang_time": 23.7,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "VFordBOyROmxWXLH4U6JXQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 1.7,
+  "final_mission": "Seduce"
+ },
+ "vGuLSfG0RZ6ANqQE8yHzwQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "VJdXJtvLQsGDVnVaK2z0_w": {
+  "hang_cause": "Swap",
+  "hang_time": 21.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "VjiVk8cfQGeKyMQceFD4tw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 5.5,
+  "final_mission": "Contact"
+ },
+ "vLb1AgfKRKqcpLcQsd8Y2g": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 4.2,
+  "final_mission": "Seduce"
+ },
+ "VLyL6pcSSoufW0z4s5OJKg": {
+  "hang_cause": "Swap",
+  "hang_time": 7.2,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "VNSbXfY9TAaCzk6It4edyQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "VODnAG-3QqaVjELrnUOy3Q": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.1,
+  "final_mission": "Seduce"
+ },
+ "VoG__MQ0STmJdfxMsI_Q6Q": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 8.5,
+  "final_mission": "Swap"
+ },
+ "VokW_vBnT9quhofI0fdmJQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 20.4,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "vqu9De-TQT-ydIiE4yUICg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "VRxMBrE2SZabiLt6e8WQWw": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 8.7,
+  "final_mission": "Swap"
+ },
+ "vtp9JaxdQoi_3-Wp7gunZQ": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 8.4,
+  "final_mission": "Purloin"
+ },
+ "vtvQrYaFRAixnqwRCoLVtg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.0,
+  "final_mission": "Purloin"
+ },
+ "vT_aL6QpRruq_MqLyNz6Jw": {
+  "hang_cause": "Swap",
+  "hang_time": 4.4,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "vU36GR-KQYOz-j_esEVG-w": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 8.9,
+  "final_mission": "Swap"
+ },
+ "Vukre96QR1-xN6SqcV4cnw": {
+  "hang_cause": "Purloin",
+  "hang_time": 7.9,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "VV-Ae4ulQiqNurP-Y3baYA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "VVeKFjrRR_2bvO99t2ywhA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 4.8,
+  "final_mission": "Seduce"
+ },
+ "VXUsCiuqR_6l8Av7O8XAxQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 15.8,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "VxxUdR96S2yMJh8WV49_aw": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 7.2,
+  "final_mission": "Contact"
+ },
+ "Vyn2nTxrRxeZyg4VYwdo-A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "VyZCkK2IT9i9H5ruSjm6kA": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.1,
+  "final_mission": "Seduce"
+ },
+ "VZ9xKBxFTta_6IQSgorIig": {
+  "hang_cause": null,
+  "hang_time": 1.5,
+  "beep_time": 4.5,
+  "final_mission": "Contact"
+ },
+ "VZgIPyYMSKiX28TdZ7vzfQ": {
+  "hang_cause": "Swap",
+  "hang_time": 10.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "V_gHtX2GQRSVpk35dgrPUw": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "W-hIRoM4RomUNfGbwO1lqg": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "w-WkxtmPTtCUkvOLbGmbmA": {
+  "hang_cause": "Swap",
+  "hang_time": 4.5,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "W1_wL0JAQF2n-yPEE8Wysw": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 6.4,
+  "final_mission": "Contact"
+ },
+ "W6E-52gQTBipgOzbTZRmTQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.1,
+  "final_mission": "Contact"
+ },
+ "W7SXeftnR4iF-i0UsXSIjw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 5.5,
+  "final_mission": "Purloin"
+ },
+ "W7yA08bxRpODgNWozgQnGQ": {
+  "hang_cause": "Swap",
+  "hang_time": 2.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "W9FfJsCHQ-idSBn2VNAtPg": {
+  "hang_cause": "Swap",
+  "hang_time": -0.3,
+  "beep_time": 2.1,
+  "final_mission": "Swap"
+ },
+ "WBzC_j2ZRpuYctnZFD0knA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "wd4AA-SgR0ubpJkm1YhTgQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 8.0,
+  "final_mission": "Bug"
+ },
+ "WDmFdsfOR0WEEHmqlrRxNQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "wf2zscwcQV2IikOfnbUxgg": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 2.9,
+  "final_mission": "Seduce"
+ },
+ "WF3jjcZKQkuiWd7tbvAQVA": {
+  "hang_cause": "Swap",
+  "hang_time": 6.6,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "Wgff7alkTQq_OvPjnh9UIw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 7.9,
+  "final_mission": "Seduce"
+ },
+ "WgtDnsi2RN2UCtxYX5euMg": {
+  "hang_cause": "Swap",
+  "hang_time": 3.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "WgxMMiCMTN6PxDGJOcBKIA": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 1.9,
+  "final_mission": "Fingerprint"
+ },
+ "wH_Jsd0ZQGeArJ4kbwsWsg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 9.6,
+  "final_mission": "Bug"
+ },
+ "WImwiKdSRBOh9IXkm1ZwQQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 8.3,
+  "final_mission": "Bug"
+ },
+ "wJfo2OHMRHORUUiYsd5LDg": {
+  "hang_cause": "Swap",
+  "hang_time": 9.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "WJoxapWNRFWK62_q6cuhjA": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 9.2,
+  "final_mission": "Seduce"
+ },
+ "WjsyS65vS3-W9Uh4rDNCuQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.8,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "WJypYqeTT_-WsvpLQzTNwg": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 3.3,
+  "final_mission": "Bug"
+ },
+ "wkndBKBURAOtBDHpljHGBA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 6.2,
+  "final_mission": "Seduce"
+ },
+ "wkXW0KrpTmmHTXcPZRyqQg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "WLouncUKShulB4toNcU_Jw": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 2.2,
+  "final_mission": "Seduce"
+ },
+ "wnvH96mOQuae-N4dBi9FNA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "wnvQXoYjSEWYfzPgbyn4Iw": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 3.7,
+  "final_mission": "Purloin"
+ },
+ "WOFHCE41QBWCMqS3AsbU7w": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 5.4,
+  "final_mission": "Purloin"
+ },
+ "wQ7bCXJSRxOh4_pxzfI91A": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Inspect"
+ },
+ "wQaZCaV0Tf-z8TnO7-Wz0w": {
+  "hang_cause": "Swap",
+  "hang_time": 7.2,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "wQIyLfRoRhGU5A0u9UpihQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.6,
+  "final_mission": "Inspect"
+ },
+ "wQqYHxbjR5u2luwhPu4Ckw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "Ws_QEmOQSI6xjCTaAKRDag": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 1.7,
+  "final_mission": "Inspect"
+ },
+ "wTTSMSOBQKWW4B1XbLToLA": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.8,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "WUasWpeOTWm1EKObAcJrmg": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.2,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "wUcUnOvWRWKvywcXEXgsVA": {
+  "hang_cause": "Swap",
+  "hang_time": 0.1,
+  "beep_time": 6.5,
+  "final_mission": "Swap"
+ },
+ "WWC7K9kNTPqV6TIkgsqAyg": {
+  "hang_cause": "Swap",
+  "hang_time": 16.9,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "wwgEq1cHRCO90u4KFgdxoQ": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 8.1,
+  "final_mission": "Bug"
+ },
+ "WzYMCr-ZQ4OdOFbl4zhDYw": {
+  "hang_cause": "Swap",
+  "hang_time": 16.3,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "X-r5UTDlRfi_hkoO5KNrig": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.2,
+  "beep_time": 4.6,
+  "final_mission": "Bug"
+ },
+ "X1pZrpA5TkeEhKNPMy2peA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 3.4,
+  "final_mission": "Seduce"
+ },
+ "x1q89zUeT46cC2irWD05rQ": {
+  "hang_cause": null,
+  "hang_time": -0.6,
+  "beep_time": 6.6,
+  "final_mission": "Bug"
+ },
+ "x3j478eJRaGvN2jItPffkw": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 9.7,
+  "final_mission": "Bug"
+ },
+ "X3K3OWDFRJ6uyXrzqqoc9A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "X4hvDZv2Q-WeOdLgbNSdpg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "X5kfIH8RQNWxSWPCEvBCOA": {
+  "hang_cause": null,
+  "hang_time": 1.8,
+  "beep_time": 0.5,
+  "final_mission": "Swap"
+ },
+ "X8KRkmcAQ3uzQGBa_ZhnyQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "XdRw4nxZTjCjbv8XpxtYTw": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "XdS08flvSoGOWEaxlgaBQg": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "XG7IP1kuRVOao1qRkYbVDw": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 6.7,
+  "final_mission": "Bug"
+ },
+ "XHeDc7LVRnOgcIhhoAvL0A": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 6.6,
+  "final_mission": "Purloin"
+ },
+ "XhXn20nzSfK8v50QMctKKA": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 2.2,
+  "final_mission": "Seduce"
+ },
+ "xkniwQzDQYywWXY6JAae6w": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "Xl5-XWReSqSgnRxwJCdNvA": {
+  "hang_cause": "Swap",
+  "hang_time": 2.9,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "XMx22Q2ASNew6i2-MYcr_A": {
+  "hang_cause": null,
+  "hang_time": -0.4,
+  "beep_time": 6.4,
+  "final_mission": "Bug"
+ },
+ "xnj0wNPgQDeObA4Pt87Znw": {
+  "hang_cause": null,
+  "hang_time": 0.7,
+  "beep_time": 5.1,
+  "final_mission": "Seduce"
+ },
+ "xQbGiQgJQhGADlpd-FhvdA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "XQFoOpoBRIyo6QcTUvZZZA": {
+  "hang_cause": null,
+  "hang_time": -0.2,
+  "beep_time": 2.2,
+  "final_mission": "Bug"
+ },
+ "xqK5ty06Qm2myo6zILklug": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 3.9,
+  "final_mission": "Purloin"
+ },
+ "XQz0ggOjT0mX3X8cUEaATw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "xSp6BAYhTH22VUGD5iL9vw": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 9.0,
+  "final_mission": "Swap"
+ },
+ "xSZaJqkTQ12PYl2XPP-84g": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "xvZKRWgiQCu6xiNNiQmmoQ": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 4.4,
+  "final_mission": "Inspect"
+ },
+ "Xw97uh6nSZW3wuz-pdJSVw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 2.3,
+  "final_mission": "Inspect"
+ },
+ "XwZueZCUSsymUIvhaTOn9A": {
+  "hang_cause": null,
+  "hang_time": 0.4,
+  "beep_time": 8.6,
+  "final_mission": "Swap"
+ },
+ "XX0uYf32TZS_pMRt08RaUQ": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 5.4,
+  "final_mission": "Seduce"
+ },
+ "XYv7FhVlRXe6jTGN9kUJhQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "XzH9mjNdQoChwnd_HHItcA": {
+  "hang_cause": "Purloin",
+  "hang_time": 1.1,
+  "beep_time": 10.0,
+  "final_mission": "Contact"
+ },
+ "xZWqbT0_QOKyuWQLAAAv9w": {
+  "hang_cause": "Swap",
+  "hang_time": 30.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "y0Fl4oKtTaqD0Rsv8CWaig": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.5,
+  "final_mission": "Bug"
+ },
+ "y6jtIzQZRJ2x3RVRIUOuMQ": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 8.1,
+  "final_mission": "Bug"
+ },
+ "Y7OMlyyCQ9GxR7JrtaJE9w": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.5,
+  "final_mission": "Purloin"
+ },
+ "Y8iI99wSSyK1GcrgakygZw": {
+  "hang_cause": "Swap",
+  "hang_time": 9.2,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "y9rXCj8YSjCJ8CQIn76FvQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "YAzHvXuwQGqNLRZy5MpE7g": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.7,
+  "final_mission": "Fingerprint"
+ },
+ "YCGT6am0Q6GYnrtaFEXnUw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "YgW5VBjJQ6mDsUUacwz0qw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 5.9,
+  "final_mission": "Inspect"
+ },
+ "YhXSZOeMQJSV3fqw_KjH8w": {
+  "hang_cause": "Purloin",
+  "hang_time": -0.6,
+  "beep_time": 4.0,
+  "final_mission": "Purloin"
+ },
+ "YjbXW3dwSOOFwP4Bfn6ZKA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 7.3,
+  "final_mission": "Bug"
+ },
+ "yjWax1M3Rgyx72MpgBppow": {
+  "hang_cause": "Swap",
+  "hang_time": 1.5,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "yK4UuXXkTPyuNHjbFEDoDA": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 0.6,
+  "final_mission": "Seduce"
+ },
+ "yL7UMSirRoyJ2rNaBX6TTw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "Ylh5OtEfS4iBJYvmQN0nAw": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 7.1,
+  "final_mission": "Seduce"
+ },
+ "YlV9XC9hT9C3loO34AM6DQ": {
+  "hang_cause": "Purloin",
+  "hang_time": 6.9,
+  "beep_time": 10.0,
+  "final_mission": "Purloin"
+ },
+ "yokc1e7wR8WDj_mdKKUgfA": {
+  "hang_cause": "Swap",
+  "hang_time": 6.7,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "YP17tduNSmqWgBCfH-pZRA": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 9.0,
+  "final_mission": "Seduce"
+ },
+ "Yq-Zh7gpSCaFvKzw9CROuw": {
+  "hang_cause": "Swap",
+  "hang_time": 0.4,
+  "beep_time": 3.1,
+  "final_mission": "Swap"
+ },
+ "yqosaWKJTYeZE4lA-xT-Vw": {
+  "hang_cause": null,
+  "hang_time": 0.6,
+  "beep_time": 0.6,
+  "final_mission": "Contact"
+ },
+ "YQYlZCImSYG0xKbf5tId4g": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.8,
+  "beep_time": 4.1,
+  "final_mission": "Inspect"
+ },
+ "Ysq5Pfu0QB2W4XlCDSfHig": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.5,
+  "beep_time": 8.2,
+  "final_mission": "Purloin"
+ },
+ "yuTBEAs1Tjy9NLoG8FuDnw": {
+  "hang_cause": null,
+  "hang_time": 0.1,
+  "beep_time": 4.4,
+  "final_mission": "Seduce"
+ },
+ "yuvDyg7wRBi69waBMrIigA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "ywKlddGEQxKB8yaX8rUNFA": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 9.2,
+  "final_mission": "Seduce"
+ },
+ "ywqfq57MQEqzO8roX8_SjQ": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "YYKG87PyQ5insC5cgUfRiA": {
+  "hang_cause": null,
+  "hang_time": -5.2,
+  "beep_time": 10.0,
+  "final_mission": "Fingerprint"
+ },
+ "yYljaINBQ3iYRlT5OGtBtA": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 6.3,
+  "final_mission": "Fingerprint"
+ },
+ "yYy3qso-QZWfwJI48ND0gw": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 6.0,
+  "final_mission": "Seduce"
+ },
+ "YZEPaDeGRwmQFX9vjF5jNA": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 3.6,
+  "final_mission": "Fingerprint"
+ },
+ "yZJLAzVJTVuTmSPaLqabig": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 8.5,
+  "final_mission": "Seduce"
+ },
+ "z-wH22gbTomArbZw6oQC4A": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 7.4,
+  "final_mission": "Fingerprint"
+ },
+ "z0n9UXYYSC2P9blEZgvBzg": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 8.5,
+  "final_mission": "Bug"
+ },
+ "z2yOGPK0R3K5odwxVQ-Ufg": {
+  "hang_cause": null,
+  "hang_time": -44.4,
+  "beep_time": 5.7,
+  "final_mission": "Seduce"
+ },
+ "ZAqlTSXqR3Khb7Bj_PgKOA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "zAS8oczgQpu7O2P2W_3jOA": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 7.2,
+  "final_mission": "Purloin"
+ },
+ "zbYhG71_QzWc8NU9lyRqeQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 6.8,
+  "final_mission": "Seduce"
+ },
+ "ZCMvrNq0QkiPxNXFM45uFg": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 9.8,
+  "final_mission": "Seduce"
+ },
+ "Zdlzk4rIRmuOkthCj7G8WQ": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "ZESAYZXJQDOWKVc3lxpTbw": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "zFdrKg46TzGp8PUDi0HiwQ": {
+  "hang_cause": "Swap",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Seduce"
+ },
+ "zGRxfF5TTbW0kN9cr1dOHw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "zhTVHZWiSDm1lhNIIIAxqw": {
+  "hang_cause": null,
+  "hang_time": -0.5,
+  "beep_time": 4.2,
+  "final_mission": "Swap"
+ },
+ "ZhxIsq1yRYep2-VP_ab1mQ": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "ZjTSex1nQbGYPTX00t7LNQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.7,
+  "final_mission": "Inspect"
+ },
+ "ZKU7Fu8ISkG72kfk3BOTxQ": {
+  "hang_cause": null,
+  "hang_time": 0.5,
+  "beep_time": 8.2,
+  "final_mission": "Purloin"
+ },
+ "zkV6ZAYmTuCvCw0UjgTwfg": {
+  "hang_cause": null,
+  "hang_time": -0.3,
+  "beep_time": 0.8,
+  "final_mission": "Contact"
+ },
+ "zL2MY4ZZQs-yPp7PwPEHQw": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.2,
+  "final_mission": "Inspect"
+ },
+ "zNsY0AzTTii_TTjSawO4ug": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 5.3,
+  "final_mission": "Inspect"
+ },
+ "Zpj7Rv8sSWeIFx9wrO6rvA": {
+  "hang_cause": "Swap",
+  "hang_time": 0.5,
+  "beep_time": 5.7,
+  "final_mission": "Swap"
+ },
+ "ZPKEAs7hQ-Wx8sVfa9i2XA": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Purloin"
+ },
+ "ZpzSkK_rQJm0QRMkKftAVg": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "zrfFkfeLQQu5SVNpWTZF-A": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "zseXHLYtRPqWLbBIzxm38Q": {
+  "hang_cause": "Swap",
+  "hang_time": 21.2,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "zTcDSc3sSHSiJHfjhkzxMw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "zTNJGsnxSmSjSeLe6mruKw": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "ZtreDGYaQO-l4ORKNdHoWA": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Contact"
+ },
+ "zU07GpDqTf29UqoPjYIz1g": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 3.3,
+  "final_mission": "Seduce"
+ },
+ "zUxvFC08RhCuKSIsN9Voyg": {
+  "hang_cause": null,
+  "hang_time": 0.8,
+  "beep_time": 6.4,
+  "final_mission": "Inspect"
+ },
+ "zxszOe_ZRbarlIvr_7OeEQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 7.4,
+  "final_mission": "Contact"
+ },
+ "ZZsr8F49TNSLwnS8ovuYsw": {
+  "hang_cause": "Swap",
+  "hang_time": 5.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "_0-co7s9SkSu0rpxB1b0PA": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.4,
+  "beep_time": 5.5,
+  "final_mission": "Purloin"
+ },
+ "_5gnhsaeTR-6h_KJNyVjLQ": {
+  "hang_cause": null,
+  "hang_time": 0.3,
+  "beep_time": 8.1,
+  "final_mission": "Swap"
+ },
+ "_8kemiOmQKan0i1GDLqUVQ": {
+  "hang_cause": null,
+  "hang_time": 0.0,
+  "beep_time": 3.2,
+  "final_mission": "Bug"
+ },
+ "_aPNkcpmRBaUj9rEfPr1-Q": {
+  "hang_cause": "Purloin",
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Swap"
+ },
+ "_iyr5K8HR421WOGjAYQ_-A": {
+  "hang_cause": "Swap",
+  "hang_time": 22.0,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "_KRSSCl6Qsu0yC4LT8GWrw": {
+  "hang_cause": "Swap",
+  "hang_time": 0.4,
+  "beep_time": 7.5,
+  "final_mission": "Swap"
+ },
+ "_PFIhbLCQoGV-tZgTXQvZQ": {
+  "hang_cause": "Swap",
+  "hang_time": 7.5,
+  "beep_time": 10.0,
+  "final_mission": "Swap"
+ },
+ "_PWBPwVzRtCl0jJmaMZ6fg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 9.2,
+  "final_mission": "Inspect"
+ },
+ "_rMYAKJAQ4WQQ64EshgWcg": {
+  "hang_cause": "Purloin",
+  "hang_time": 0.3,
+  "beep_time": 1.0,
+  "final_mission": "Purloin"
+ },
+ "_u00Sg5sS4qJv83CcOuZcw": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 9.0,
+  "final_mission": "Purloin"
+ },
+ "_UEbK88wSwya02bUkWzZxA": {
+  "hang_cause": null,
+  "hang_time": null,
+  "beep_time": null,
+  "final_mission": "Bug"
+ },
+ "_wHDE241RoKNRZUcT8Ntpg": {
+  "hang_cause": null,
+  "hang_time": 0.2,
+  "beep_time": 1.3,
+  "final_mission": "Seduce"
  }
 }

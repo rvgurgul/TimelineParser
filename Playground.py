@@ -1,4 +1,4 @@
-from Constants.Triple_Agent import search_events
+from EventGroups import search_events
 from ParallelParser import debug
 
 search_events("brief")

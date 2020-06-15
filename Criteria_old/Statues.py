@@ -15,6 +15,7 @@ def paws(game, require_inspects=True):
             return swap_ts if swap_ts and (inspected or not require_inspects) else None
 
 
+
 def time_to_inspect(game, all_in_one=True):
     first_inspect = None
     inspect_ats = []

@@ -1,4 +1,4 @@
-from Constants.EventGroups import *
+from EventGroups import *
 
 
 def all_bug_info(game):
@@ -10,12 +10,11 @@ def all_bug_info(game):
     in_convo = False
     transit = False
     for event in game.timeline:
-        pass
         if event == "bugged ambassador while walking." or event == "bugged ambassador while standing.":
             bugs.append({
                 "time": event.time,
                 "type": bug_type,
-                "success": True
+                # "success": True
             })
             return bugs
         elif event == "spy enters conversation.":
@@ -32,8 +31,6 @@ def all_bug_info(game):
             in_convo = False
         elif event == "begin planting bug while walking.":
             planting = True
-            # if holding_case:
-            #     bug_type = "Briefcase"
             if in_convo:
                 bug_type = "Reverse"
             else:
@@ -47,27 +44,15 @@ def all_bug_info(game):
             bugs.append({
                 "time": event.time,
                 "type": bug_type,
-                "success": False
+                # "success": False
             })
             planting, transit = False, False
             bug_type = ""
-        # elif event.desc in drink_accepts:
-        #     holding_left = "Drink"
-        # elif event.desc in drink_finishes:
-        #     holding_left = None
-        # elif event == "get book from bookcase.":
-        #     holding_left = "Book"
-        # elif event == "put book in bookcase.":
-        #     holding_left = None
-        # elif event == "spy picks up briefcase.":
-        #     holding_case = True
-        # elif event == "spy puts down briefcase." or event == "spy returns briefcase.":
-        #     holding_case = False
     return bugs
 
 
 def shot_details(game):
-    if game.cast.shot is None:
+    if game.cast.shot is None:  # TODO does this register for TLFS games?
         return
     shot_time = None
     finish_ts = 0
@@ -100,8 +85,8 @@ def all_cast_info(game):
         "SeductionTarget": game.cast.seduction_target.name[-1] if game.cast.seduction_target is not None else None,
         "Ambassador": game.cast.ambassador.name[-1],
         "DoubleAgent": game.cast.double_agent.name[-1],
-        "SuspectedDoubleAgent": [x.name[-1] for x in game.cast.suspected_agents],
-        "Civilian": [x.name[-1] for x in game.cast.civilians]
+        "SuspectedDoubleAgent": "".join(x.name[-1] for x in game.cast.suspected_agents),
+        "Civilian": "".join(x.name[-1] for x in game.cast.civilians)
     }
 
 
@@ -139,7 +124,7 @@ def all_book_info(game):
             books.append({
                 "grab_time": grab_time,
                 "source": book_color,
-                "transfer": transfer,
+                "microfilm": transfer,
                 "taken_away": taken_away,
                 "destination": event.bookshelf,
                 "return_time": event.time
@@ -152,7 +137,7 @@ def all_book_info(game):
             books.append({
                 "grab_time": grab_time,
                 "source": book_color,
-                "transfer": transfer,
+                "microfilm": transfer,
                 "taken_away": taken_away,
                 "destination": None,
                 "return_time": None
@@ -183,7 +168,7 @@ def all_fingerprints(game):
         elif event in __printed:
             prints.append({
                 "time": event.time,
-                "object": item,
+                "item": item,
                 "test": last_atr,
             })
             item, last_atr = None, None
@@ -308,9 +293,9 @@ def all_contact_info(game):
         "joiner": None,
         "test": None,
         "trigger_time": 0,
-        "utter_time": 0,
         "initial": None,
         "final": None,
+        "utter_time": 0,
         "split_time": None
     }  # work the dough until it is baked
     baking = None
@@ -349,9 +334,9 @@ def all_contact_info(game):
                 "joiner": None,
                 "test": None,
                 "trigger_time": 0,
-                "utter_time": 0,
                 "initial": None,
                 "final": None,
+                "utter_time": 0,
                 "split_time": None
             }  # work the dough until it is baked
             baking = None
@@ -624,8 +609,8 @@ def all_watch_info(game):
 
 def all_header_info(game):
     return {
-        "spy_username": game.spy_username,
-        "sniper_username": game.sniper_username,
+        "spy": game.spy_username,
+        "sniper": game.sniper_username,
         "date_played": game.date,
         "venue": game.venue.name,
         "setup": game.mode,
@@ -772,6 +757,7 @@ def all_audible_info(game):
                 __log_noise(event, "*cough*")
         elif red_tested_contact and event in bb_utter:
             __log_noise(event, "banana bread *cough*")
+            red_tested_contact = False
         # elif event in bb_utter:  # bb is very redundant
         #     if red_tested_contact:
         #         __log_noise(event, "banana bread *cough*")
@@ -863,28 +849,32 @@ def all_briefcase_info(game):
     cases = []
     case = {
         "pickup_time": 0,
-        "putdown_time": None,
-        "handoff_time": None,
+        "returned": None,
+        "putback_time": None,
     }
     for event in game.timeline:
         if event == "spy picks up briefcase.":
             case["pickup_time"] = event.time
         elif event == "spy returns briefcase.":
-            case["handoff_time"] = event.time
+            case["returned"] = True
+            case["putback_time"] = event.time
             cases.append(case)
             case = {
                 "pickup_time": 0,
-                "putdown_time": None,
-                "handoff_time": None,
+                "returned": None,
+                "putback_time": None,
             }
         elif event == "spy puts down briefcase.":
-            case["putdown_time"] = event.time
+            case["returned"] = False
+            case["putback_time"] = event.time
             cases.append(case)
             case = {
                 "pickup_time": 0,
-                "putdown_time": None,
-                "handoff_time": None,
+                "returned": None,
+                "putback_time": None,
             }
+        elif event in game_ends:
+            cases.append(case)  # The spy can be shot holding the case
     # despite the briefcase being available in every game, it is picked up sparsely
     if len(cases) > 0:
         return cases
