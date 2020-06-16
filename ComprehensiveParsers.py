@@ -614,12 +614,16 @@ def all_header_info(game):
         "date_played": game.date,
         "venue": game.venue.name,
         "setup": game.mode,
-        "missions": {  # lists selected missions and if they are completed or not
-            mission: mission in game.missions_complete for mission in game.missions_selected
-        },
-        "result": game.specific_win_condition
+        "result": game.specific_win_condition,
     }
 
+def all_mission_info(game):
+    misns = {mission: (False if mission in game.missions_selected else None) for mission in game.venue.missions}
+    if len(game.missions_complete) > 0:
+        for event in game.timeline:
+            if event in mission_completes:
+                misns[event.mission] = event.time
+    return misns
 
 def all_sips_info(game):
     sips = []
@@ -773,11 +777,12 @@ def all_audible_info(game):
 
 
 def info_sniper_lights(game):
-    return [{
+    prelim = [{
         "time": event.time,
         "chara": event.character.name[-1],
         "light": sniper_lights_numeric[event]
     } for event in game.timeline if event in sniper_lights_numeric]
+    return [light for i, light in enumerate(prelim) if light["chara"] != prelim[i+1]["chara"]]
 
 
 def info_sniper_marks(game):

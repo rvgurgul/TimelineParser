@@ -9,6 +9,7 @@ class Venue:
         self.bookshelves = info_dict["bookshelves"]
         self.paintings = info_dict["paintings"]
         self.inspects = info_dict["inspects"]
+        self.missions = info_dict["loadout"]
         self.statues = info_dict["statues"]
         self.windows = info_dict["windows"]
         self.bar_pads = info_dict["bar"]
@@ -30,6 +31,11 @@ class Venue:
         return self.name
 
 
+__moderne = ("Bug", "Contact", "Transfer", "Inspect", "Swap", "Seduce", "Purloin", "Fingerprint")
+__terrace = ("Bug", "Contact", "Inspect", "Swap", "Seduce", "Purloin", "Fingerprint")
+__pullman = ("Bug", "Contact", "Transfer", "Seduce", "Purloin", "Fingerprint")
+__balcony = ("Bug", "Contact", "Seduce", "Purloin", "Fingerprint")
+
 __large = ["Large"]
 __small = ["Small"]
 
@@ -43,6 +49,7 @@ Aquarium = Venue(name="Aquarium", info_dict={
     "paintings": 0,
     "windows": 5,
     "agents": 2,
+    "loadout": __moderne
 })
 Balcony = Venue(name="Balcony", info_dict={
     "high_view_angle": True,
@@ -54,6 +61,7 @@ Balcony = Venue(name="Balcony", info_dict={
     "paintings": 0,
     "windows": 2,
     "agents": 0,
+    "loadout": __balcony
 })
 Ballroom = Venue(name="Ballroom", info_dict={
     "high_view_angle": False,
@@ -65,6 +73,7 @@ Ballroom = Venue(name="Ballroom", info_dict={
     "paintings": 2,
     "windows": 6,
     "agents": 2,
+    "loadout": __moderne
 })
 Courtyard = Venue(name="Courtyard", info_dict={
     "high_view_angle": True,
@@ -76,6 +85,7 @@ Courtyard = Venue(name="Courtyard", info_dict={
     "paintings": 0,
     "windows": 4,
     "agents": 2,
+    "loadout": __terrace
 })
 Gallery = Venue(name="Gallery", info_dict={
     "high_view_angle": True,
@@ -87,6 +97,7 @@ Gallery = Venue(name="Gallery", info_dict={
     "paintings": 8,
     "windows": 2,
     "agents": 2,
+    "loadout": __moderne
 })
 Highrise = Venue(name="High-Rise", info_dict={
     "high_view_angle": False,
@@ -98,6 +109,7 @@ Highrise = Venue(name="High-Rise", info_dict={
     "paintings": 1,
     "windows": 3,
     "agents": 2,
+    "loadout": __moderne
 })
 Library = Venue(name="Library", info_dict={
     "high_view_angle": True,
@@ -109,6 +121,7 @@ Library = Venue(name="Library", info_dict={
     "paintings": 3,
     "windows": 4,
     "agents": 3,
+    "loadout": __moderne
 })
 Moderne = Venue(name="Moderne", info_dict={
     "high_view_angle": False,
@@ -120,6 +133,7 @@ Moderne = Venue(name="Moderne", info_dict={
     "paintings": 0,
     "windows": 3,
     "agents": 3,
+    "loadout": __moderne
 })
 Pub = Venue(name="Pub", info_dict={
     "high_view_angle": True,
@@ -131,6 +145,7 @@ Pub = Venue(name="Pub", info_dict={
     "paintings": 0,
     "windows": 3,
     "agents": 2,
+    "loadout": __terrace
 })
 Redwoods = Venue(name="Redwoods", info_dict={
     "high_view_angle": False,
@@ -142,6 +157,7 @@ Redwoods = Venue(name="Redwoods", info_dict={
     "paintings": 0,
     "windows": 5,
     "agents": 2,
+    "loadout": __moderne
 })
 Teien = Venue(name="Teien", info_dict={
     "high_view_angle": False,
@@ -153,6 +169,7 @@ Teien = Venue(name="Teien", info_dict={
     "paintings": 0,
     "windows": 5,
     "agents": 2,
+    "loadout": __moderne
 })
 Terrace = Venue(name="Terrace", info_dict={
     "high_view_angle": True,
@@ -164,6 +181,7 @@ Terrace = Venue(name="Terrace", info_dict={
     "paintings": 0,
     "windows": 3,
     "agents": 1,
+    "loadout": __terrace
 })
 DoubleModern = Venue(name="Double Modern", info_dict={
     "high_view_angle": True,
@@ -175,6 +193,7 @@ DoubleModern = Venue(name="Double Modern", info_dict={
     "paintings": 0,
     "windows": 3,
     "agents": 1,
+    "loadout": __balcony
 })
 Veranda = Venue(name="Veranda", info_dict={
     "high_view_angle": False,
@@ -186,6 +205,7 @@ Veranda = Venue(name="Veranda", info_dict={
     "paintings": 0,
     "windows": 7,
     "agents": 3,
+    "loadout": __moderne
 })
 
 Venues = {

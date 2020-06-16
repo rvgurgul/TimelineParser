@@ -20,7 +20,8 @@ functions = {
     # "game_info/seduce": all_seduce_info,
     # "game_info/psv": all_psv_info,
     # "game_info/overtime": all_overtime_info,  # todo fine for now, but investigate triple nulls
-    # "game_info/header": all_header_info,  # TODO move selected/completion missions to separate file
+    "game_info/missions": all_mission_info,
+    "game_info/header": all_header_info,  # TODO move selected/completion missions to separate file
     "game_info/fingerprints": all_fingerprints,
     # "game_info/drinks_tray": all_drink_info_tray,
     "game_info/drinks_bar": all_drink_info_bar,  # fixme delegates do not update fade_time
@@ -48,6 +49,8 @@ functions = {
     # "venue_info/veranda_4_8": lambda g: retro_result(g, venue="Veranda", og_mode="a5/8", decreased_mission_count=4),
     # "venue_info/ballroom_3_8": lambda g: retro_result(g, venue="Ballroom", og_mode="a4/8", decreased_mission_count=3),
 }
+
+# TODO _v84s1Q-THC4W86c2EDHAQ has a BB with utter_time 0
 
 for fx in functions:
     results = {}
