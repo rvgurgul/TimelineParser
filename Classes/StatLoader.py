@@ -10,8 +10,6 @@ class StatLoader:
         self.stat_dict = StatLoader.__instance__
 
     def get_stat(self, stat, verbose=True):
-        if not stat.startswith("json_outputs/"):
-            stat = f"json_outputs/{stat}"
         if not stat.endswith(".json"):
             stat = f"{stat}.json"
         try:

@@ -59,7 +59,7 @@ class Dataset:
         return self.vals[-1]
 
     def average(self):
-        return sum(self.vals)/self.size
+        return average(self.vals)
 
     def binned_average(self, bins=3):
         delta = self.size//bins
@@ -70,7 +70,7 @@ class Dataset:
             "SIZE": self.sample_size,
             "MIN": self.minimum,
             "MED": self.median,
-            "AVG": self.average, # TODO returns list of tuples..
+            "AVG": self.average,  # TODO returns list of tuples..
             # "MODE": self.mode,
             "MAX": self.maximum,
             # "Lo/Med/Hi": self.binned_average,  # TODO returns list which can't be rounded
@@ -79,6 +79,8 @@ class Dataset:
             result = categories[cat]()
             print(f"{cat.rjust(5)}: {round(result, rounding)}")
 
+def average(array, rounding=2):
+    return round(sum(array) / len(array), rounding)
 
 def number_to_grade(percent):
     beg_dig = percent // 10

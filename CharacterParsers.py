@@ -1,4 +1,4 @@
-from Constants.EventGroups import action_test_timeadd
+from EventGroups import action_test_timeadd
 
 
 def watch_check_durations(game):
@@ -10,21 +10,6 @@ def watch_check_durations(game):
         elif event == "45 seconds added to match.":
             wcs.append(round(event.time - wcts, 1))
     return wcs
-
-def waning_time_add_fail(game):
-    if game.specific_win_condition != "TimeOut":
-        return
-    for event in game.timeline[::-1]:
-        # if event == "watch checked to add time.":
-        #     return True
-        if event == "action triggered: check watch":
-            return "Triggered"
-        elif event == "45 seconds added to match.":
-            return
-        elif event == "aborted watch check to add time.":
-            return "Canceled"
-        elif event in action_test_timeadd:
-            return action_test_timeadd[event]
 
 def statue_hold_times(game):
     shs = []

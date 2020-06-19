@@ -82,7 +82,7 @@ def shot_details(game):
 def all_cast_info(game):
     return {
         "Spy": game.cast.spy.name[-1],
-        "SeductionTarget": game.cast.seduction_target.name[-1] if game.cast.seduction_target is not None else None,
+        "SeductionTarget": game.cast.seduction_target.name[-1] if game.cast.seduction_target is not None else "",
         "Ambassador": game.cast.ambassador.name[-1],
         "DoubleAgent": game.cast.double_agent.name[-1],
         "SuspectedDoubleAgent": "".join(x.name[-1] for x in game.cast.suspected_agents),
@@ -100,7 +100,7 @@ __intermediate = {
 
 
 def all_book_info(game):
-    if game.venue.bookshelves == 0:
+    if not game.venue.bookshelves:
         return
     books = []
     book_color = None
@@ -174,14 +174,6 @@ def all_fingerprints(game):
             item, last_atr = None, None
     return prints
 
-
-__inspected = {
-    "held statue inspected.": "inspect_held",
-    "left statue inspected.": "inspect_left",
-    "right statue inspected.": "inspect_right"
-}
-
-
 def all_statue_info(game):
     if game.venue.statues == 0:
         return
@@ -190,32 +182,30 @@ def all_statue_info(game):
     statues = []
     statue = {
         "pickup_time": None,
-        "inspect_left": None,
-        "inspect_held": None,
-        "inspect_right": None,
+        "inspect": [],
         "swap": None,
         "putback_time": None
     }
-    last_atr = None
     for event in game.timeline:
         if event == "picked up statue.":
             statue["pickup_time"] = event.time
-        elif event.mission == "Inspect" and event.action_test is not None:
-            last_atr = event.action_test
-        elif event.mission == "Swap" and event.action_test is not None:
+        elif event in action_test_inspect:
+            statue["inspect"].append({
+                "time": event.time,
+                "test": event.action_test,
+                "which": None,  # unknown until the inspect is complete
+            })
+        elif event in action_test_swap:
             statue["swap"] = {
+                "time": event.time,
                 "test": event.action_test,
                 "swapper": None,
                 "swap_time": None,
             }
-        elif event in __inspected:
-            statue[__inspected[event]] = last_atr
-        # elif event == "held statue inspected.":
-        #     statue["inspect_held"] = last_atr
-        # elif event == "left statue inspected.":
-        #     statue["inspect_left"] = last_atr
-        # elif event == "right statue inspected.":
-        #     statue["inspect_right"] = last_atr
+        elif event in inspect_completed:
+            statue["inspect"][-1]["which"] = inspect_completed[event]
+        # elif event in inspect_interrupted:
+        #     statue["inspect"][-1]["done"] = False
         elif event == "statue swapped.":
             if event.character is None:
                 statue["swap"]["swapper"] = game.cast.spy.name[-1]
@@ -227,14 +217,12 @@ def all_statue_info(game):
                         pickup["swap"]["swap_time"] = event.time
                         break
         elif event == "put back statue." or event == "dropped statue.":
-            # clanks are treated the same as a normal statue putback
+            # clanks are treated the same as a normal statue putback, can be determined with audibles.json
             statue["putback_time"] = event.time
             statues.append(statue)
             statue = {
                 "pickup_time": None,
-                "inspect_left": None,
-                "inspect_held": None,
-                "inspect_right": None,
+                "inspect": [],
                 "swap": None,
                 "putback_time": None
             }
@@ -587,23 +575,23 @@ def all_drink_info_bar(game):
     return offers
 
 
-__watch_checks = {
-    "watch checked.",
-    "action test green: check watch",
-    "action test ignored: check watch",
-    "action test red: check watch",
-    "action test white: check watch"
-}
-
-
 def all_watch_info(game):
     checks = []
     for event in game.timeline:
-        if event in __watch_checks:
+        if event == "action triggered: check watch":
             checks.append({
                 "time": event.time,
-                "test": event.action_test
+                "test": None,
+                "done": None,
             })
+        elif event == "watch checked to add time.":
+            checks[-1]["test"] = "Triggered"
+        elif event in action_test_timeadd:
+            checks[-1]["test"] = action_test_timeadd[event]
+        elif event == "45 seconds added to match.":
+            checks[-1]["done"] = True
+        elif event == "aborted watch check to add time.":
+            checks[-1]["done"] = False
     return checks
 
 
@@ -618,11 +606,13 @@ def all_header_info(game):
     }
 
 def all_mission_info(game):
-    misns = {mission: (False if mission in game.missions_selected else None) for mission in game.venue.missions}
+    misns = {mission: False for mission in game.missions_selected}
     if len(game.missions_complete) > 0:
+        mc = 1
         for event in game.timeline:
             if event in mission_completes:
-                misns[event.mission] = event.time
+                misns[event.mission] = mc
+                mc += 1
     return misns
 
 def all_sips_info(game):
@@ -782,14 +772,17 @@ def info_sniper_lights(game):
         "chara": event.character.name[-1],
         "light": sniper_lights_numeric[event]
     } for event in game.timeline if event in sniper_lights_numeric]
-    return [light for i, light in enumerate(prelim) if light["chara"] != prelim[i+1]["chara"]]
-
+    i = 1  # removes lights where the character is repeated twice in a row because they are not very meaningful
+    while i < len(prelim):
+        if prelim[i - 1]["chara"] == prelim[i]["chara"]:
+            prelim.pop(i - 1)
+            continue
+        i += 1
+    return prelim
 
 def info_sniper_marks(game):
     if game.venue.bookshelves == 0:
         return  # can't bookmark if there are no books!
-    # if "Transfer" not in game.missions_selected:
-    #     return  # couldn't bookmark if transfer isn't selected
     if game.date > "2019-11-06T16:21:00":
         return  # bookmarking was removed after the Redwoods Update
     return [{
@@ -893,9 +886,10 @@ def all_at_info(game):
             last_trig = event.time
         elif event in action_tests:
             ats.append({
+                "test": event.action_test,
+                "time": event.time,
                 "duration": round(event.time - last_trig, 1),
                 "mission": event.mission,
-                "test": event.action_test
             })
     return ats
 

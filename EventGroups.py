@@ -453,6 +453,16 @@ cooldowns = {
     "delegated purloin timer expired."
 }
 
+inspect_completed = {
+    "held statue inspected.": "Held",
+    "left statue inspected.": "Left",
+    "right statue inspected.": "Right",
+}
+inspect_interrupted = {
+    "inspection interrupted.",
+    "statue inspection interrupted."
+}
+
 flirt_percents = {
     'flirt with seduction target: 17%': 17,
     'flirt with seduction target: 18%': 18,
@@ -674,6 +684,7 @@ action_test_inspect = {
     'action test white: inspect statues': "White",
 }
 action_test_timeadd = {
+    'action test canceled: check watch': "Canceled",
     'action test green: check watch': "Green",
     'action test ignored: check watch': "Ignored",
     'action test red: check watch': "Red",

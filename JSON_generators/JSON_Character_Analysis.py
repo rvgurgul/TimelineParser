@@ -4,11 +4,10 @@ from ParallelParser import query_games
 
 from CharacterParsers import *
 
-qg = query_games(limit=2500)[None]
+qg = query_games()
 
 funx = {
     "chara_info/watch_check_durations": watch_check_durations,
-    "chara_info/waning_time_add_fails": waning_time_add_fail,
     "chara_info/statue_hold_durations": statue_hold_times,
 }
 

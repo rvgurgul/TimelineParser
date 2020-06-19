@@ -1,63 +1,89 @@
 {
  "A": {},
  "B": {
-  "Triggered": 2
+  "Aborted": 1,
+  "White": 3,
+  "Green": 3
  },
  "C": {
-  "Triggered": 4
+  "White": 3,
+  "Aborted": 1
  },
  "D": {
-  "Triggered": 5
+  "White": 1,
+  "Canceled": 1,
+  "Aborted": 1
  },
  "E": {
-  "Triggered": 1
+  "Triggered": 1,
+  "Aborted": 1
  },
  "F": {
-  "Triggered": 2
+  "Green": 3,
+  "Triggered": 1,
+  "Aborted": 1,
+  "White": 3
  },
  "G": {
-  "Triggered": 2
+  "Red": 2,
+  "Aborted": 1,
+  "Green": 1
  },
  "H": {
-  "Triggered": 2,
-  "White": 1
+  "White": 1,
+  "Triggered": 1
  },
- "I": {},
+ "I": {
+  "Canceled": 1,
+  "White": 1,
+  "Green": 1
+ },
  "J": {
-  "Triggered": 2
+  "Green": 1,
+  "Triggered": 1
  },
  "K": {
-  "Triggered": 1
+  "Green": 1,
+  "White": 1
  },
  "L": {
-  "Triggered": 1
+  "White": 1,
+  "Green": 2
  },
  "M": {
-  "White": 1
+  "White": 3,
+  "Red": 1
  },
  "N": {
   "Triggered": 1
  },
  "O": {
-  "Canceled": 1
+  "Aborted": 1,
+  "White": 1,
+  "Triggered": 1
  },
  "P": {
   "Red": 1,
-  "Triggered": 1
- },
- "Q": {
-  "White": 1
- },
- "R": {
-  "Triggered": 2,
-  "Red": 1
- },
- "S": {
-  "Triggered": 1
- },
- "T": {
-  "Triggered": 3,
   "Green": 1
  },
- "U": {}
+ "Q": {
+  "White": 1,
+  "Green": 1,
+  "Aborted": 1
+ },
+ "R": {
+  "Triggered": 1,
+  "Red": 1,
+  "Green": 2,
+  "White": 1,
+  "Aborted": 1
+ },
+ "S": {},
+ "T": {
+  "Green": 1,
+  "Triggered": 1
+ },
+ "U": {
+  "Triggered": 1
+ }
 }

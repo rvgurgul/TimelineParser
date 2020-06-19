@@ -10,8 +10,8 @@ way_before = datetime.now()
 qg = query_games()
 
 functions = {
-    # "game_info/watch": all_watch_info,  # fixme could add "done" bool to mark incomplete time adds
-    # "game_info/statues": all_statue_info,  # fixme don't love the inspect_left/held/right: test format
+    # "game_info/watch": all_watch_info,
+    # "game_info/statues": all_statue_info,
     # "game_info/spy_start": all_spy_start_info,
     # "game_info/sniper_marks": info_sniper_marks,
     # "game_info/sniper_lights": info_sniper_lights,
@@ -20,22 +20,22 @@ functions = {
     # "game_info/seduce": all_seduce_info,
     # "game_info/psv": all_psv_info,
     # "game_info/overtime": all_overtime_info,  # todo fine for now, but investigate triple nulls
-    "game_info/missions": all_mission_info,
-    "game_info/header": all_header_info,  # TODO move selected/completion missions to separate file
-    "game_info/fingerprints": all_fingerprints,
+    "game_info/missions": all_mission_info,  # TODO finalize format and perhaps also move setup (aX/Y)
+    # "game_info/header": all_header_info,
+    # "game_info/fingerprints": all_fingerprints,
     # "game_info/drinks_tray": all_drink_info_tray,
-    "game_info/drinks_bar": all_drink_info_bar,  # fixme delegates do not update fade_time
-                                                 #  also no way to know the expire time
+    "game_info/drinks_bar": all_drink_info_bar,  # fixme delegates do not update fade_time!!!
+                                                 #  also no way to know the expire time!!!
     "game_info/conversations": all_convo_info,  # TODO detect and ignore briefcase pickup convos, UNLESS a talk happens
     "game_info/contact": all_contact_info,
     "game_info/clock": all_time_info,  # TODO overhaul: "time": float, "spy_clock": float, "sni_clock": float,
                                        #  remove "event" -> it is assumed this file logs time changes
                                        #  also remove OT events, as those do not influence the time
-    "game_info/cast": all_cast_info,
-    "game_info/bugs": all_bug_info,
-    "game_info/briefcases": all_briefcase_info,
+    # "game_info/cast": all_cast_info,
+    # "game_info/bugs": all_bug_info,
+    "game_info/briefcases": all_briefcase_info,  # fixme TOTALLY BROKE THIS ONE
     "game_info/books": all_book_info,
-    "game_info/audibles": all_audible_info,  # fixme white/green BB after red may still be flagged as bb coughs
+    # "game_info/audibles": all_audible_info,
     # "game_info/action_tests": all_at_info,  # fixme consider adding trigger time?
 
 
