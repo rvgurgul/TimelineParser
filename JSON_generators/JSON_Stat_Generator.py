@@ -8,6 +8,7 @@ from ComprehensiveParsers import *
 way_before = datetime.now()
 
 qg = query_games()
+# qg = query_games(limit=1500)
 
 functions = {
     # "game_info/watch": all_watch_info,
@@ -20,26 +21,26 @@ functions = {
     # "game_info/seduce": all_seduce_info,
     # "game_info/psv": all_psv_info,
     # "game_info/overtime": all_overtime_info,  # todo fine for now, but investigate triple nulls
-    "game_info/missions": all_mission_info,  # TODO finalize format and perhaps also move setup (aX/Y)
+    "game_info/missions": all_mission_info,
     # "game_info/header": all_header_info,
     # "game_info/fingerprints": all_fingerprints,
     # "game_info/drinks_tray": all_drink_info_tray,
-    "game_info/drinks_bar": all_drink_info_bar,  # fixme delegates do not update fade_time!!!
-                                                 #  also no way to know the expire time!!!
-    "game_info/conversations": all_convo_info,  # TODO detect and ignore briefcase pickup convos, UNLESS a talk happens
-    "game_info/contact": all_contact_info,
+    # "game_info/drinks_bar": all_drink_info_bar,
+    # "game_info/da_convos": all_da_intersects,
+    "game_info/conversations": all_convo_info,
+    # "game_info/contact": all_contact_info,
     "game_info/clock": all_time_info,  # TODO overhaul: "time": float, "spy_clock": float, "sni_clock": float,
-                                       #  remove "event" -> it is assumed this file logs time changes
-                                       #  also remove OT events, as those do not influence the time
+                                        # remove "event" -> it is assumed this file logs time changes
+                                        # also remove OT events, as those do not influence the time
     # "game_info/cast": all_cast_info,
     # "game_info/bugs": all_bug_info,
-    "game_info/briefcases": all_briefcase_info,  # fixme TOTALLY BROKE THIS ONE
-    "game_info/books": all_book_info,
+    # "game_info/briefcases": all_briefcase_info,
+    # "game_info/books": all_book_info,
     # "game_info/audibles": all_audible_info,
     # "game_info/action_tests": all_at_info,  # fixme consider adding trigger time?
 
 
-    "specific_stats/possible_direct_transfer": probably_a_direct_transfer_shot,  # fixme output seems wrong
+    # "specific_stats/possible_direct_transfer": probably_a_direct_transfer_shot,  # fixme output seems wrong
     # "specific_stats/progress_to_shot_time": shot_time_related_to_progress,
     # "specific_stats/mission_pacing": progress_per_time,
 

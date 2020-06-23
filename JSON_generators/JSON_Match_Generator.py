@@ -1,7 +1,7 @@
 import json
 from ParallelParser import query_games
 
-qg = query_games()[None]
+qg = query_games()
 
 events = {}
 
@@ -48,6 +48,6 @@ for event in events:
         for match in events[event][div]:  # sort games by date then select the UUID
             match["games"] = [game.uuid for game in sorted(match["games"], key=lambda g: g.date, reverse=True)]
 
-with open(f"json_stats/events_matches.json", "w") as file:
+with open(f"json_outputs/events_matches.json", "w") as file:
     json.dump(events, file, indent=3)
 

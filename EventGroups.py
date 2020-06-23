@@ -306,6 +306,18 @@ def search_events(*terms):
                 print(ev)
                 break
 
+mission_names = [
+    "Bug",
+    "Contact",
+    "Transfer",
+    "Swap",
+    "Inspect",
+    "Seduce",
+    "Purloin",
+    "Fingerprint"
+]
+
+
 # [SniperLights, Books] --> marks
 sniper_marks = {
     "marked book."
@@ -387,7 +399,7 @@ drink_offers_bar = {
     "bartender offered cupcake.",
     "bartender offered drink."
 }
-drink_offers = drink_accepts_tray | drink_accepts_bar
+drink_offers = drink_offers_bar | drink_offers_tray
 
 drink_end_offers = {
     "waiter stopped offering cupcake.",

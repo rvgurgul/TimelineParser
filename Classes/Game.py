@@ -41,10 +41,17 @@ class Game:
         during_overtime = False
         for json_event in jason["timeline"]:
             # counterintuitive, but the initial value must be the opposite of the event itself
-            if json_event["event"] == "spy enters conversation.":
+            if json_event["event"] in {
+                "spy enters conversation.",
+            }:
                 in_convo = False
                 break
-            elif json_event["event"] == "spy leaves conversation.":
+            elif json_event["event"] in {
+                "spy leaves conversation.",
+                "double agent joined conversation with spy.",
+                "double agent left conversation with spy.",
+                "stopped talking."
+            }:
                 in_convo = True
                 break
 

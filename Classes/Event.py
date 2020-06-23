@@ -3,8 +3,8 @@ from EventGroups import *
 
 class Event:
     def __init__(self, json_event, **kwargs):
-        self.time = json_event["elapsed_time"]
-        self.clock = json_event["time"]
+        self.time = round(json_event["elapsed_time"], 1)
+        self.clock = round(json_event["time"], 1)
 
         self.desc = json_event["event"]
         self.mission = json_event["mission"]
@@ -26,7 +26,6 @@ class Event:
             Character(name=json_event["cast_name"][0], role=json_event["role"][0])
             if len(json_event["role"]) > 0 else None  # TODO replace None with the actor, if applicable
         )
-        # TODO pull character reference from the cast to reduce redundant data
 
         bks = json_event["books"]
         if len(bks) == 2:
@@ -63,13 +62,6 @@ class Event:
 
     def __hash__(self):
         return hash(self.desc)
-
-
-# TODO cast data structure:
-#  Name, Role, Lights->
-#  ex:
-#  Ms. B, Spy, Default->Lowlight->Neutral->Highlight->Shot
-#  Ms. F, Ambassador, Default->Highlight
 
 class Character:
     def __init__(self, name, role):

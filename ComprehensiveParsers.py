@@ -54,14 +54,15 @@ def all_bug_info(game):
 def shot_details(game):
     if game.cast.shot is None:  # TODO does this register for TLFS games?
         return
+    tlfs = False
     shot_time = None
     finish_ts = 0
     mission_complete_time = None
     for event in game.timeline[::-1]:
-        if event == "sniper shot too late for sync.":
-            print(f"\t{game.uuid}")
         if event in game_ends:
             finish_ts = event.time
+        elif event == "sniper shot too late for sync.":
+            tlfs = True
         elif event == "took shot.":
             shot_time = event.time
             if not game.reaches_mwc:
@@ -73,7 +74,7 @@ def shot_details(game):
     return {
         "time": shot_time,
         "chara": game.cast.shot.name[-1],
-        "latency": round(finish_ts - shot_time, 1),
+        "latency": None if tlfs else round(finish_ts - shot_time, 1),
         "countdown": round(10 - shot_time + mission_complete_time, 1) if mission_complete_time is not None else None
         # "role": game.cast.shot.role,  # role is redundant with cast_info
     }
@@ -182,6 +183,7 @@ def all_statue_info(game):
     statues = []
     statue = {
         "pickup_time": None,
+        "printable": 0,
         "inspect": [],
         "swap": None,
         "putback_time": None
@@ -189,6 +191,10 @@ def all_statue_info(game):
     for event in game.timeline:
         if event == "picked up statue.":
             statue["pickup_time"] = event.time
+        elif event == 'picked up fingerprintable statue (difficult).':
+            statue["printable"] = 1
+        elif event == 'picked up fingerprintable statue.':
+            statue["printable"] = 2
         elif event in action_test_inspect:
             statue["inspect"].append({
                 "time": event.time,
@@ -204,8 +210,6 @@ def all_statue_info(game):
             }
         elif event in inspect_completed:
             statue["inspect"][-1]["which"] = inspect_completed[event]
-        # elif event in inspect_interrupted:
-        #     statue["inspect"][-1]["done"] = False
         elif event == "statue swapped.":
             if event.character is None:
                 statue["swap"]["swapper"] = game.cast.spy.name[-1]
@@ -222,6 +226,7 @@ def all_statue_info(game):
             statues.append(statue)
             statue = {
                 "pickup_time": None,
+                "printable": 0,
                 "inspect": [],
                 "swap": None,
                 "putback_time": None
@@ -277,59 +282,72 @@ def all_contact_info(game):
     if "Contact" not in game.missions_selected:
         return  # so few games have contact disabled, this almost isn't worth it
     contacts = []
-    dough = {
-        "joiner": None,
-        "test": None,
-        "trigger_time": 0,
-        "initial": None,
-        "final": None,
-        "utter_time": 0,
-        "split_time": None
-    }  # work the dough until it is baked
-    baking = None
     for event in game.timeline:
-        if event in action_test_contact:
-            dough["test"] = event.action_test
-        elif event == "spy joined conversation with double agent.":
-            dough["joiner"] = "Spy"
-        elif event == "double agent joined conversation with spy.":
-            dough["joiner"] = "DoubleAgent"
-        elif event in {"spy left conversation with double agent.", "double agent left conversation with spy."}:
-            dough["joiner"] = None
-        elif event == "action triggered: contact double agent":
-            baking = True
-            dough["trigger_time"] = event.time
-        elif event == "real banana bread started.":
-            dough["initial"] = "Real"
-        elif event == "fake banana bread started.":
-            dough["initial"] = "Fake"
-        elif event == "fake banana bread uttered.":
-            baking = False
-            dough["final"] = "Fake"
-            dough["utter_time"] = event.time
-        elif event == "banana bread uttered.":
-            baking = False
-            dough["final"] = "Real"
-            dough["utter_time"] = event.time
-        elif event in {"banana bread aborted.", "left alone while attempting banana bread."}:
-            baking = False
-        elif len(contacts) > 0 and event == "spy leaves conversation.":
-            contacts[-1]["split_time"] = event.time
-
-        if baking is False:
-            contacts.append(dough)
-            dough = {
-                "joiner": None,
+        if event == "action triggered: contact double agent":
+            contacts.append({
+                "time": event.time,
                 "test": None,
-                "trigger_time": 0,
                 "initial": None,
                 "final": None,
-                "utter_time": 0,
-                "split_time": None
-            }  # work the dough until it is baked
-            baking = None
+                "utter_time": None,
+                "confirm_time": None,
+            })
+        elif event in action_test_contact:
+            contacts[-1]["test"] = event.action_test
+        elif event == "real banana bread started.":
+            contacts[-1]["initial"] = "Real"
+        elif event == "fake banana bread started.":
+            contacts[-1]["initial"] = "Fake"
+        elif event == "fake banana bread uttered.":
+            contacts[-1]["final"] = "Fake"
+            contacts[-1]["utter_time"] = event.time
+        elif event == "banana bread uttered.":
+            contacts[-1]["final"] = "Real"
+            contacts[-1]["utter_time"] = event.time
+        elif event == "double agent contacted.":
+            contacts[-1]["confirm_time"] = event.time
     return contacts
 
+def all_da_intersects(game):
+    da_convos = []
+    for event in game.timeline:
+        if event == "spy joined conversation with double agent.":
+            da_convos.append({
+                "joiner": "Spy",
+                "enter_time": event.time,
+                "leave_time": None,
+                "leaver": None
+            })
+        elif event == "double agent joined conversation with spy.":
+            da_convos.append({
+                "joiner": "DoubleAgent",
+                "enter_time": event.time,
+                "leave_time": None,
+                "leaver": None
+            })
+        elif event == "spy left conversation with double agent.":
+            if len(da_convos) > 0:
+                da_convos[-1]["leave_time"] = event.time
+                da_convos[-1]["leaver"] = "Spy"
+            else:
+                da_convos.append({
+                    "joiner": None,
+                    "enter_time": None,
+                    "leave_time": event.time,
+                    "leaver": "Spy"
+                })
+        elif event == "double agent left conversation with spy.":
+            if len(da_convos) > 0:
+                da_convos[-1]["leave_time"] = event.time
+                da_convos[-1]["leaver"] = "DoubleAgent"
+            else:
+                da_convos.append({
+                    "joiner": None,
+                    "enter_time": None,
+                    "leave_time": event.time,
+                    "leaver": "DoubleAgent"
+                })
+    return da_convos
 
 def all_time_info(game):
     notable_time_events = []
@@ -493,84 +511,75 @@ def all_drink_info_bar(game):
     if not game.venue.bar:
         return
     offers = []
-    drink_offer = {
-        # "demanded": False,
-        "request_time": 0,
-        "offer_time": 0,
-        "response_time": None,
-        "accepted": False,
-        "purloin": None
-    }
     for event in game.timeline:
-        if event in drink_requests_bar or event in drink_demands_bar:
-            if drink_offer["request_time"] > 0:
-                offers.append(drink_offer)
-                drink_offer = {
-                    # "demanded": False,
-                    "request_time": 0,
-                    "offer_time": 0,
+        if event in drink_requests_bar:
+            offers.append({
+                "request_time": event.time,
+                "demand_time": None,
+                "notice_time": None,
+                "offer_time": None,
+                "response_time": None,
+                "accepted": None,
+                "purloin": None,
+            })
+        elif event in drink_demands_bar:
+            if len(offers) == 0:
+                offers.append({
+                    "request_time": None,
+                    "demand_time": event.time,
+                    "offer_time": None,
+                    "notice_time": None,
                     "response_time": None,
-                    "accepted": False,
-                    "purloin": None
-                }
-            drink_offer["request_time"] = event.time
+                    "accepted": None,
+                    "purloin": None,
+                })
+            else:  # TODO may be able to overwrite existing entries by not appending a new offer
+                offers[-1]["demand_time"] = event.time
+        elif event == 'bartender picked next customer.':
+            offers[-1]["notice_time"] = event.time
         elif event in drink_offers_bar:
-            drink_offer["offer_time"] = event.time
+            offers[-1]["offer_time"] = event.time
         elif event in drink_accepts_bar:
-            drink_offer["accepted"] = True
-            drink_offer["response_time"] = round(event.time - drink_offer["offer_time"], 1)
+            offers[-1]["response_time"] = event.time
+            offers[-1]["accepted"] = True
         elif event in drink_rejects_bar:
-            # drink_offer["accepted"] = False  # defaults to false
-            drink_offer["response_time"] = round(event.time - drink_offer["offer_time"], 1)
-        elif event == "delegating purloin guest list.":
-            drink_offer["purloin"] = {
-                "delegate": True,
+            offers[-1]["response_time"] = event.time
+            offers[-1]["accepted"] = False
+        elif event == "action triggered: purloin guest list" and not event.in_conversation:
+            offers[-1]["purloin"] = {
+                "time": event.time,
+                "delegate": None,
                 "send_time": None,
                 "fade_time": None
             }
-        elif event.desc.startswith("delegated purloin to "):
-            if drink_offer["purloin"] is None:
-                for prev_offer in offers[::-1]:
-                    if prev_offer["purloin"] is not None:
-                        prev_offer["purloin"]["delegate"] = event.character.name[-1]
-                        prev_offer["purloin"]["send_time"] = event.time
-                        break
-                continue
-            drink_offer["purloin"]["delegate"] = event.character.name[-1]
-            drink_offer["purloin"]["send_time"] = event.time
+        elif event == "delegating purloin guest list.":
+            offers[-1]["purloin"]["delegate"] = True
+            if offers[-1]["accepted"] is None:
+                offers[-1]["accepted"] = False  # delegate reject patch
+        elif event in delegate_sends:
+            for prev_offer in offers[::-1]:
+                if prev_offer["purloin"]:
+                    prev_offer["purloin"]["delegate"] = event.character.name[-1]
+                    prev_offer["purloin"]["send_time"] = event.time
+                    break
         elif event == "guest list purloined.":
             if event.character.role == "Spy":
-                drink_offer["purloin"] = {
-                    "delegate": False,
-                    "send_time": None,
-                    "fade_time": event.time
-                }
-                offers.append(drink_offer)
-                drink_offer = {
-                    # "demanded": False,
-                    "request_time": 0,
-                    "offer_time": 0,
-                    "response_time": None,
-                    "accepted": False,
-                    "purloin": None
-                }
-            else:
-                for prev_offer in offers[::-1]:
-                    if prev_offer["purloin"] is not None:
-                        prev_offer["purloin"]["fade_time"] = event.time
-                        break
-        elif event == "delegated purloin timer expired.":
-            offers.append(drink_offer)
-            drink_offer = {
-                # "demanded": False,
-                "request_time": 0,
-                "offer_time": 0,
-                "response_time": None,
-                "accepted": False,
-                "purloin": None
-            }
-    if drink_offer["request_time"] > 0:
-        offers.append(drink_offer)
+                offers[-1]["purloin"]["delegate"] = False
+            for prev_offer in offers[::-1]:
+                if prev_offer["purloin"]:
+                    prev_offer["purloin"]["fade_time"] = event.time
+                    break
+        # elif event == "delegated purloin timer expired.":
+        #     offers.append(drink_offer)
+        #     drink_offer = {
+        #         # "demanded": False,
+        #         "request_time": 0,
+        #         "offer_time": 0,
+        #         "response_time": None,
+        #         "accepted": False,
+        #         "purloin": None
+        #     }
+
     # TODO still needs some work to resolve 'fade_time' entries
     return offers
 
@@ -606,14 +615,31 @@ def all_header_info(game):
     }
 
 def all_mission_info(game):
-    misns = {mission: False for mission in game.missions_selected}
-    if len(game.missions_complete) > 0:
-        mc = 1
-        for event in game.timeline:
-            if event in mission_completes:
-                misns[event.mission] = mc
-                mc += 1
-    return misns
+    if len(game.mode) < 4:
+        print(game.mode)
+        return
+    of = int(game.mode[3])
+    wip_format = {
+        "any": int(game.mode[1]),
+        "of": of,
+        "missions": {mission: -2 for mission in mission_names}
+    }
+    for mission in game.venue.missions:
+        wip_format["missions"][mission] = -1
+    for mission in game.missions_selected:
+        wip_format["missions"][mission] = 0
+    # if of == len(game.venue.missions):
+    #     wip_format.update({
+    #         mission: 0 for mission in mission_names
+    #     })
+    # else:
+    #     wip_format.update({
+    #         mission: 0 if mission in game.missions_selected else -1 for mission in game.venue.missions
+    #     })
+    for event in game.timeline:
+        if event in mission_completes:
+            wip_format["missions"][mission_completes[event]] = event.time
+    return wip_format
 
 def all_sips_info(game):
     sips = []
@@ -637,11 +663,13 @@ def all_sips_info(game):
 
 __non_drink_events = drink_offers | drink_requests | {
     "picked up statue.",
-    "got book from bookcase.",
+    "get book from bookcase.",
 }
 __destinations = {
     "spy enters conversation.": "Conversation",
     "spy leaves conversation.": "Conversation",
+    "double agent joined conversation with spy.": "Conversation",
+    "double agent left conversation with spy.": "Conversation",
     "action triggered: check watch": "Window",  # Time Adds happen at windows too
     "picked up statue.": "Statue",
     "put back statue.": "Statue",
@@ -686,32 +714,27 @@ def all_spy_start_info(game):
             elif event in __non_drink_events:
                 began_with_drink = False
 
-        if control_time is None and event == "spy player takes control from ai.":
-            # only one of these events so the 'control_time is None' is not necessary
+        if event == "spy player takes control from ai.":
             control_time = event.time
 
-        if destination is None and event in __destinations:
-            destination = __destinations[event]
-        elif event in __destinations and first_act is None:
-            # if the spy going to a second destination without performing an action, they're idling
-            first_act = "Idle"
+        if control_time is not None:
+            if event in __destinations:
+                if destination is None:
+                    destination = __destinations[event]
+                elif first_act is None:
+                    # if the spy going to a second destination without performing an action, they idled to start
+                    first_act = "Idle"
 
-        if first_act is None:
-            if event in __first_actions:
-                first_act = __first_actions[event]
-            elif event == "put book in bookcase." and event.bookshelf != event.held_book:
-                first_act = "Direct Transfer"
+            if first_act is None:
+                if event in __first_actions:
+                    first_act = __first_actions[event]
+                elif event == "put book in bookcase." and event.bookshelf != event.held_book:
+                    first_act = "Direct Transfer"
 
-        if (began_with_drink is not None and
-                # control_time is not None and
-                destination is not None and
-                first_act is not None):
-            break
     # print(f"{game.uuid} resulted in at least one null:")
     # print(f"\ttake_control_time: {control_time}")
     # print(f"\tbegan_with_drink: {began_with_drink}")
     # print(f"\tfirst_destination: {destination}")
-    # TODO investigate null began_with_drink and first_destination entries
     return {
         "take_control_time": control_time,
         "began_with_drink": began_with_drink,
@@ -736,13 +759,14 @@ def all_audible_info(game):
             red_tested_contact = True
         elif event == "action test red: check watch":
             red_tested_timeadd = True
+        elif event == "action test canceled: contact double agent":
+            __log_noise(event, "*cough* *cough*")
         elif (
                 event == "aborted watch check to add time." or
                 (red_tested_timeadd and event == "45 seconds added to match.")
         ):
             __log_noise(event, "*beep*")
             red_tested_timeadd = False
-        # TODO missing "*cough* *cough*"
         elif event == "banana bread aborted.":
             if red_tested_contact:
                 __log_noise(event, "*cough* *cough* *cough*")
@@ -752,17 +776,11 @@ def all_audible_info(game):
         elif red_tested_contact and event in bb_utter:
             __log_noise(event, "banana bread *cough*")
             red_tested_contact = False
-        # elif event in bb_utter:  # bb is very redundant
-        #     if red_tested_contact:
-        #         __log_noise(event, "banana bread *cough*")
-        #     else:
-        #         __log_noise(event, "banana bread")
         elif event == "dropped statue.":
             __log_noise(event, "*clank*")
         elif event == "purloin guest list aborted.":
             __log_noise(event, "*crash*")
     # audibles are sparse, so this reduces uuid redundancy
-    # alternatively, include ALL audible information with normal BB and beeps --> MASSIVE redundance
     return noises if len(noises) > 0 else None
 
 
@@ -792,7 +810,7 @@ def info_sniper_marks(game):
     } for event in game.timeline if event in sniper_marks]
 
 
-def all_convo_info(game):
+def all_convo_info(game):  # TODO detect and ignore briefcase pickup convos, UNLESS a talk happens
     convos = []
     convo = {
         "enter_time": None,
@@ -803,10 +821,8 @@ def all_convo_info(game):
     def __log_talk(evt, typ):
         convo["talks"].append({
             "time": evt.time,
-            "type": typ
-            # TODO add stop-talk flag
-            #  double talks?
-            #  convo bails?
+            "type": typ,
+            "stop": None,
         })
 
     flirted_in_this_convo = False
@@ -822,8 +838,8 @@ def all_convo_info(game):
                 "talks": [],
                 "leave_time": None,
             }
+            flirted_in_this_convo = False
         elif event == "started talking.":
-            # TODO guilty talks
             __log_talk(event, "Innocent Talk")
         elif event == "interrupted speaker.":
             __log_talk(event, "Interrupt")
@@ -831,13 +847,21 @@ def all_convo_info(game):
             __log_talk(event, "Delegate")
         elif event in action_test_contact_talking:
             __log_talk(event, "Contact")
-        elif event.in_conversation:
-            if event == "action triggered: seduce target":
-                if flirted_in_this_convo:
-                    __log_talk(event, "Timer Flirt")
-                else:
-                    __log_talk(event, "Flirt")
-                    flirted_in_this_convo = True
+        elif event == "action triggered: seduce target" and event.in_conversation:
+            if flirted_in_this_convo:
+                __log_talk(event, "Timer Flirt")
+            else:
+                __log_talk(event, "Flirt")
+                flirted_in_this_convo = True
+        elif event == "stopped talking.":  # and len(convo["talks"]) > 0:
+            if len(convo["talks"]) == 0:
+                convo["talks"].append({
+                    "time": None,
+                    "type": "AI Talk",
+                    "stop": True
+                })
+                continue  # AI began talking
+            convo["talks"][-1]["stop"] = event.time
     if convo["enter_time"] is not None:
         convos.append(convo)
     return convos
@@ -845,34 +869,56 @@ def all_convo_info(game):
 
 def all_briefcase_info(game):
     cases = []
-    case = {
-        "pickup_time": 0,
-        "returned": None,
-        "putback_time": None,
-    }
     for event in game.timeline:
         if event == "spy picks up briefcase.":
-            case["pickup_time"] = event.time
+            cases.append({
+                "pickup_time": event.time,
+                "printable": 0,
+                "returned": None,
+                "putback_time": None,
+            })
+        elif event == 'picked up fingerprintable briefcase (difficult).':
+            if len(cases) == 0:
+                cases.append({
+                    "pickup_time": None,
+                    "printable": 1,
+                    "returned": None,
+                    "putback_time": None,
+                })
+            else:
+                cases[-1]["printable"] = 1
+        elif event == 'picked up fingerprintable briefcase.':
+            if len(cases) == 0:
+                cases.append({
+                    "pickup_time": None,
+                    "printable": 2,
+                    "returned": None,
+                    "putback_time": None,
+                })
+            else:
+                cases[-1]["printable"] = 2
         elif event == "spy returns briefcase.":
-            case["returned"] = True
-            case["putback_time"] = event.time
-            cases.append(case)
-            case = {
-                "pickup_time": 0,
-                "returned": None,
-                "putback_time": None,
-            }
+            if len(cases) == 0:
+                cases.append({
+                    "pickup_time": None,
+                    "printable": None,
+                    "returned": True,
+                    "putback_time": event.time,
+                })
+            else:
+                cases[-1]["returned"] = True
+                cases[-1]["putback_time"] = event.time
         elif event == "spy puts down briefcase.":
-            case["returned"] = False
-            case["putback_time"] = event.time
-            cases.append(case)
-            case = {
-                "pickup_time": 0,
-                "returned": None,
-                "putback_time": None,
-            }
-        elif event in game_ends:
-            cases.append(case)  # The spy can be shot holding the case
+            if len(cases) == 0:
+                cases.append({
+                    "pickup_time": None,
+                    "printable": None,
+                    "returned": False,
+                    "putback_time": event.time,
+                })
+            else:
+                cases[-1]["returned"] = False
+                cases[-1]["putback_time"] = event.time
     # despite the briefcase being available in every game, it is picked up sparsely
     if len(cases) > 0:
         return cases

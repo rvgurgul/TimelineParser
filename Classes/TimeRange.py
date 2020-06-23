@@ -1,15 +1,13 @@
+from math import inf
+
 class TimeRange:
 
     def __init__(self, lower: float, upper: float):
-        self.lb = lower
-        self.ub = upper
-        self.mid = (upper+lower)/2
+        self.lb = -inf if lower is None else lower
+        self.ub = inf if upper is None else upper
 
     def is_inverted(self):
         return self.ub > self.lb
-
-    def dist_from_mid(self, val):
-        return val - self.mid
 
     def to_list(self, steps: int = 1, include_right: bool = False):
         steps = max(1, steps)

@@ -4,7 +4,7 @@ from datetime import datetime
 import json
 import os
 
-root = "json_gamez/"
+root = "json_games/"
 
 
 def debug(uuid):
@@ -20,13 +20,16 @@ def debug(uuid):
         print(f"Failed debug of {uuid}.json", sep="")
 
 
-def query_games(constraints=None, categorization_function=None) -> [Game]:
+def query_games(constraints=None, categorization_function=None, limit: int = None) -> [Game]:
     try:
         data_dir = os.listdir(root)
     except:
         os.chdir("..")  # If query_games is called in a subdirectory, json_gamez/ is not found at that level
         data_dir = os.listdir(root)
     # TODO hard to do limit/progress bar/query stats with advanced iterable functions :(
+
+    if limit is not None and limit > 0:
+        data_dir = data_dir[:limit]
 
     before = datetime.now()
     print("Querying jsons, please wait...", end="")
