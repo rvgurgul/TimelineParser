@@ -54,7 +54,6 @@ class Game:
             }:
                 in_convo = True
                 break
-
         for json_event in jason["timeline"]:
             if json_event["event"] == "spy enters conversation.":
                 in_convo = True
@@ -87,18 +86,15 @@ class Game:
                     during_ot=during_overtime,
                 )
                 self.timeline.append(event)
-                if "MissionComplete" in json_event["category"]:
-                    self.missions_complete.append(event.mission)
-                elif ("MissionPartial" in json_event["category"] or
-                      "ActionTriggered" in json_event["category"]):
-                    self.missions_progress.add(event.mission)
-                elif "SniperLights" in json_event["category"]:
-                    self.sniper_lights.append(event)
-                elif event == "guest list purloined." and event.character.role != "Spy":
-                    self.cast.invite(event.character, "Delegate")
-                elif event == "statue swapped." and event.character.role != "Spy":
-                    self.cast.invite(event.character, "Swapper")
-                elif "SniperShot" in json_event["category"]:
+                # if "MissionComplete" in json_event["category"]:
+                #     self.missions_complete.append(event.mission)
+                # elif "SniperLights" in json_event["category"]:
+                #     self.sniper_lights.append(event)
+                # elif event == "guest list purloined." and event.character.role != "Spy":
+                #     self.cast.invite(event.character, "Delegate")
+                # elif event == "statue swapped." and event.character.role != "Spy":
+                #     self.cast.invite(event.character, "Swapper")
+                if "SniperShot" in json_event["category"]:
                     self.cast.invite(event.character, "Shot")
 
         self.reaches_mwc = len(self.missions_complete) >= int(self.mode[1])

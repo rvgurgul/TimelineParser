@@ -22973,10 +22973,7 @@
   {
    "grab_time": 43.2,
    "source": "Green",
-   "microfilm": {
-    "time": 97.1,
-    "test": "Canceled"
-   },
+   "microfilm": null,
    "taken_away": true,
    "destination": "Green",
    "return_time": 102.6
@@ -35954,10 +35951,7 @@
   {
    "grab_time": 183.2,
    "source": "Yellow",
-   "microfilm": {
-    "time": 236.2,
-    "test": "Canceled"
-   },
+   "microfilm": null,
    "taken_away": true,
    "destination": "Green",
    "return_time": 282.8
@@ -43720,10 +43714,7 @@
   {
    "grab_time": 5.8,
    "source": "Green",
-   "microfilm": {
-    "time": 14.9,
-    "test": "Canceled"
-   },
+   "microfilm": null,
    "taken_away": false,
    "destination": null,
    "return_time": null
@@ -54781,10 +54772,7 @@
   {
    "grab_time": 20.6,
    "source": "Green",
-   "microfilm": {
-    "time": 54.9,
-    "test": "Canceled"
-   },
+   "microfilm": null,
    "taken_away": true,
    "destination": "Red",
    "return_time": 61.7

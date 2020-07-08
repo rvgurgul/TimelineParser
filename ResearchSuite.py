@@ -236,3 +236,7 @@ def dump_results_to_dossier(player, results_dict):
 
 
 # prompt_user()
+
+
+
+# eventually, show the researched player's deviation from mean (of all samples or of only current division)

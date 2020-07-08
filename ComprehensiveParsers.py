@@ -5,54 +5,48 @@ def all_bug_info(game):
     if "Bug" not in game.missions_selected:
         return
     bugs = []
-    bug_type = ""
-    planting = False
-    in_convo = False
-    transit = False
+    planting, transit = False, False
     for event in game.timeline:
-        if event == "bugged ambassador while walking." or event == "bugged ambassador while standing.":
+        if event == "action triggered: bug ambassador":
             bugs.append({
                 "time": event.time,
-                "type": bug_type,
-                # "success": True
+                "type": None,
+                "took": None,
+                "confirm_time": None,
             })
-            return bugs
-        elif event == "spy enters conversation.":
-            if transit or bug_type == "Exit":
-                bug_type = "Twitch"
-            elif planting:
-                bug_type = "Entry"
-            in_convo = True
-        elif event == "spy leaves conversation.":
-            if transit or bug_type == "Entry":
-                bug_type = "Twitch"
-            elif planting:
-                bug_type = "Exit"
-            in_convo = False
-        elif event == "begin planting bug while walking.":
             planting = True
-            if in_convo:
-                bug_type = "Reverse"
-            else:
-                bug_type = "Walking"
         elif event == "begin planting bug while standing.":
-            planting = True
-            bug_type = "Standing"
+            bugs[-1]["type"] = "Standing"
+        elif event == "begin planting bug while walking.":
+            if event.in_conversation:
+                bugs[-1]["type"] = "Reverse"
+            else:
+                bugs[-1]["type"] = "Walking"
+        elif event == "spy enters conversation.":
+            if transit or bugs[-1]["type"] == "Exit":
+                bugs[-1]["type"] = "Twitch"
+            elif planting:
+                bugs[-1]["type"] = "Entry"
+        elif event == "spy leaves conversation.":
+            if transit or bugs[-1]["type"] == "Standing":
+                bugs[-1]["type"] = "Twitch"
+            elif planting:
+                bugs[-1]["type"] = "Exit"
         elif event == "bug transitioned from standing to walking.":
             transit = True
         elif event == "failed planting bug while walking.":
-            bugs.append({
-                "time": event.time,
-                "type": bug_type,
-                # "success": False
-            })
+            bugs[-1]["took"] = False
+            bugs[-1]["confirm_time"] = event.time
             planting, transit = False, False
-            bug_type = ""
+        elif event == "bugged ambassador while walking." or event == "bugged ambassador while standing.":
+            bugs[-1]["took"] = True
+            bugs[-1]["confirm_time"] = event.time
+            break
     return bugs
 
 
 def shot_details(game):
-    if game.cast.shot is None:  # TODO does this register for TLFS games?
+    if game.cast.shot is None:
         return
     tlfs = False
     shot_time = None
@@ -112,7 +106,7 @@ def all_book_info(game):
         if event == "get book from bookcase.":
             book_color = event.held_book
             grab_time = event.time
-        elif event.mission == "Transfer" and event.action_test is not None:
+        elif event in action_test_transfer:
             transfer = {
                 "time": event.time,
                 "test": event.action_test,
@@ -164,7 +158,7 @@ def all_fingerprints(game):
     for event in game.timeline:
         if event in fingerprint_starts:
             item = fingerprint_starts[event]
-        elif event.mission == "Fingerprint" and event.action_test is not None:
+        elif event in action_test_fingerprint:
             last_atr = event.action_test
         elif event in __printed:
             prints.append({
@@ -178,18 +172,20 @@ def all_fingerprints(game):
 def all_statue_info(game):
     if game.venue.statues == 0:
         return
-    # if game.venue.name == "Redwoods":  # TODO include book-inspects here rather than the book descriptors
-    #     return {"uh oh": "this is a redwoods game"}
+    bookspects = game.venue.name == "Redwoods"
     statues = []
     statue = {
         "pickup_time": None,
-        "printable": 0,
+        "printable": None,
         "inspect": [],
         "swap": None,
         "putback_time": None
     }
     for event in game.timeline:
         if event == "picked up statue.":
+            statue["pickup_time"] = event.time
+            statue["printable"] = 0
+        elif bookspects and event == "get book from bookcase." and event.held_book in {"Red", "Green"}:
             statue["pickup_time"] = event.time
         elif event == 'picked up fingerprintable statue (difficult).':
             statue["printable"] = 1
@@ -220,19 +216,29 @@ def all_statue_info(game):
                         pickup["swap"]["swapper"] = event.character.name[-1]
                         pickup["swap"]["swap_time"] = event.time
                         break
-        elif event == "put back statue." or event == "dropped statue.":
+        elif event == "put back statue." or (event == "dropped statue." and statue["pickup_time"] is not None):
             # clanks are treated the same as a normal statue putback, can be determined with audibles.json
             statue["putback_time"] = event.time
             statues.append(statue)
             statue = {
                 "pickup_time": None,
-                "printable": 0,
+                "printable": None,
                 "inspect": [],
                 "swap": None,
                 "putback_time": None
             }
-        elif statue["pickup_time"] is not None and event in game_ends:
+        elif bookspects and event == "put book in bookcase." and event.bookshelf in {"Red", "Green"}:
+            statue["putback_time"] = event.time
             statues.append(statue)
+            statue = {
+                "pickup_time": None,
+                "printable": None,
+                "inspect": [],
+                "swap": None,
+                "putback_time": None
+            }
+    if statue["pickup_time"] is not None:
+        statues.append(statue)
     return statues
 
 
@@ -241,32 +247,24 @@ def all_seduce_info(game):
         return  # for the few games with Seduce off
     flirts = []
     progress = 0
-    talk_time = 0
-    last_atr = None
     for event in game.timeline:
         if event == "action triggered: seduce target":
-            talk_time = event.time
-        elif event.mission == "Seduce" and event.action_test is not None:
-            last_atr = event.action_test
+            flirts.append({
+                "time": event.time,
+                "test": None,
+                "gain": None,
+                "cooldown_time": None,
+            })
+        elif event in action_test_seduce:
+            flirts[-1]["test"] = action_test_seduce[event]
         elif event in {
             "failed flirt with seduction target.",
             "seduction canceled.",
         }:
-            flirts.append({
-                "time": talk_time,
-                "test": last_atr,
-                "gain": 0,  # 0 if len(flirts) == 0 else flirts[-1]["percent"],
-                "cooldown_time": event.time
-            })
+            flirts[-1]["gain"] = 0
         elif event in flirt_percents:
-            # percent = int(event.desc.split(": ")[1][0:-1])
             percent = flirt_percents[event]
-            flirts.append({
-                "time": talk_time,
-                "test": last_atr,
-                "gain": percent - progress,
-                "cooldown_time": None
-            })
+            flirts[-1]["gain"] = percent - progress
             progress = percent
         elif event == "flirtation cooldown expired.":
             flirts[-1]["cooldown_time"] = event.time
@@ -408,7 +406,6 @@ def all_overtime_info(game):
     gta = False
     gtax = 0
     cdp = False
-    # TODO handle hanging GTAs
     for event in game.timeline:
         # if event.time > gtax > 0:  # green time add expires
         #     if pending == "Time Add":
@@ -457,33 +454,35 @@ def all_drink_info_tray(game):
     offers = []
     drink_offer = {
         "requested": False,
-        "offer_time": 0,
-        "response_time": 0,
-        "accepted": False,
+        "offer_time": None,
+        "response_time": None,
+        "accepted": None,
         "purloin": None,
     }
     for event in game.timeline:
         if event in drink_requests_tray:
             drink_offer["requested"] = True
-        elif event == "waiter offered drink.":
-            # print("A", event.time)
+        elif event in drink_offers_tray:
             drink_offer["offer_time"] = event.time
-        elif event.mission == "Purloin" and event.action_test is not None:
-            # print("B", event.time)
+        elif event in action_test_purloin:
             drink_offer["purloin"] = {
                 "test": event.action_test,
                 "list_taker": None,
                 "fade_time": None
             }
         elif event in drink_accepts:
-            # print("C", event.time)
             drink_offer["accepted"] = True
+            if drink_offer["offer_time"] is None:
+                print(game.uuid, drink_offer)
+                return
             drink_offer["response_time"] = round(event.time - drink_offer["offer_time"], 1)
         elif event in drink_rejects_tray:
-            # accepted = False
+            drink_offer["accepted"] = False
+            if drink_offer["offer_time"] is None:
+                print(game.uuid, drink_offer)
+                return
             drink_offer["response_time"] = round(event.time - drink_offer["offer_time"], 1)
         elif event in {"guest list purloined.", "guest list returned."}:
-            # print("D", event.time)
             if drink_offer["purloin"] is not None:
                 drink_offer["purloin"]["list_taker"] = event.character.name[-1]
                 drink_offer["purloin"]["fade_time"] = event.time
@@ -492,18 +491,35 @@ def all_drink_info_tray(game):
                 if prev_offer["purloin"] is not None:
                     prev_offer["purloin"]["list_taker"] = event.character.name[-1]
                     prev_offer["purloin"]["fade_time"] = event.time
+        # elif event == "purloin guest list aborted.":
+        #     offers[-1]["purloin"] = {
+        #         "test": "Canceled",
+        #         "list_taker": None,
+        #         "fade_time": None
+        #     }
+        # TODO crashes still fuzzy
+        #  0mo3ecbwRHezaEft5e_5jA
         elif event in {"waiter stopped offering cupcake.", "waiter stopped offering drink."}:
-            # print("E", event.time)
             offers.append(drink_offer)
             drink_offer = {
                 "requested": False,
-                "offer_time": 0,
-                "response_time": 0,
-                "accepted": False,
+                "offer_time": None,
+                "response_time": None,
+                "accepted": None,
                 "purloin": None
             }
-        # TODO elif event == "purloin guest list aborted.":
-        #  investigate 0mo3ecbwRHezaEft5e_5jA
+        # elif event == "waiter gave up." and drink_offer["offer_time"] is not None:
+        #     drink_offer["response_time"] = round(event.time - drink_offer["offer_time"], 1)
+        #     offers.append(drink_offer)
+        #     drink_offer = {
+        #         "requested": False,
+        #         "offer_time": None,
+        #         "response_time": None,
+        #         "accepted": None,
+        #         "purloin": None
+        #     }
+    if drink_offer["offer_time"] or drink_offer["purloin"] or drink_offer["requested"]:
+        offers.append(drink_offer)
     return offers
 
 
@@ -598,7 +614,7 @@ def all_watch_info(game):
         elif event in action_test_timeadd:
             checks[-1]["test"] = action_test_timeadd[event]
         elif event == "45 seconds added to match.":
-            checks[-1]["done"] = True
+            checks[-1]["done"] = event.time
         elif event == "aborted watch check to add time.":
             checks[-1]["done"] = False
     return checks
@@ -610,32 +626,27 @@ def all_header_info(game):
         "sniper": game.sniper_username,
         "date_played": game.date,
         "venue": game.venue.name,
-        "setup": game.mode,
         "result": game.specific_win_condition,
     }
 
 def all_mission_info(game):
-    if len(game.mode) < 4:
-        print(game.mode)
-        return
-    of = int(game.mode[3])
+    if game.mode[0] == 'k':
+        a = o = int(game.mode[1])
+    elif game.mode[0] == 'a':
+        a = int(game.mode[1])
+        o = int(game.mode[3])
+    else:
+        a = 0
+        o = 0
     wip_format = {
-        "any": int(game.mode[1]),
-        "of": of,
+        "any": a,
+        "of": o,
         "missions": {mission: -2 for mission in mission_names}
     }
     for mission in game.venue.missions:
         wip_format["missions"][mission] = -1
     for mission in game.missions_selected:
         wip_format["missions"][mission] = 0
-    # if of == len(game.venue.missions):
-    #     wip_format.update({
-    #         mission: 0 for mission in mission_names
-    #     })
-    # else:
-    #     wip_format.update({
-    #         mission: 0 if mission in game.missions_selected else -1 for mission in game.venue.missions
-    #     })
     for event in game.timeline:
         if event in mission_completes:
             wip_format["missions"][mission_completes[event]] = event.time
@@ -801,7 +812,7 @@ def info_sniper_lights(game):
 def info_sniper_marks(game):
     if game.venue.bookshelves == 0:
         return  # can't bookmark if there are no books!
-    if game.date > "2019-11-06T16:21:00":
+    if game.date > "2019-11-06T16:00:00":
         return  # bookmarking was removed after the Redwoods Update
     return [{
         "time": event.time,
@@ -810,7 +821,7 @@ def info_sniper_marks(game):
     } for event in game.timeline if event in sniper_marks]
 
 
-def all_convo_info(game):  # TODO detect and ignore briefcase pickup convos, UNLESS a talk happens
+def all_convo_info(game):
     convos = []
     convo = {
         "enter_time": None,
@@ -822,7 +833,7 @@ def all_convo_info(game):  # TODO detect and ignore briefcase pickup convos, UNL
         convo["talks"].append({
             "time": evt.time,
             "type": typ,
-            "stop": None,
+            "stop": False,
         })
 
     flirted_in_this_convo = False
@@ -840,7 +851,7 @@ def all_convo_info(game):  # TODO detect and ignore briefcase pickup convos, UNL
             }
             flirted_in_this_convo = False
         elif event == "started talking.":
-            __log_talk(event, "Innocent Talk")
+            __log_talk(event, "Talk")
         elif event == "interrupted speaker.":
             __log_talk(event, "Interrupt")
         elif event in delegate_sends:
@@ -853,14 +864,14 @@ def all_convo_info(game):  # TODO detect and ignore briefcase pickup convos, UNL
             else:
                 __log_talk(event, "Flirt")
                 flirted_in_this_convo = True
-        elif event == "stopped talking.":  # and len(convo["talks"]) > 0:
-            if len(convo["talks"]) == 0:
+        elif event == "stopped talking.":
+            if len(convo["talks"]) == 0:  # AI must have began talking
                 convo["talks"].append({
                     "time": None,
                     "type": "AI Talk",
-                    "stop": True
+                    "stop": event.time
                 })
-                continue  # AI began talking
+                continue
             convo["talks"][-1]["stop"] = event.time
     if convo["enter_time"] is not None:
         convos.append(convo)
@@ -926,17 +937,18 @@ def all_briefcase_info(game):
 
 def all_at_info(game):
     ats = []
-    last_trig = 0
     for event in game.timeline:
         if event in action_triggers_with_test:
-            last_trig = event.time
-        elif event in action_tests:
             ats.append({
-                "test": event.action_test,
                 "time": event.time,
-                "duration": round(event.time - last_trig, 1),
-                "mission": event.mission,
+                "test": None,
+                "mission": action_triggers_with_test[event],
+                "duration": None,
             })
+        elif event in action_tests:
+            test, _ = action_tests[event]
+            ats[-1]["test"] = test[0]
+            ats[-1]["duration"] = round(event.time - ats[-1]["time"], 1)
     return ats
 
 

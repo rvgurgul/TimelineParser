@@ -124,13 +124,56 @@ def inspect_downtime(game):
                 "time": event.time - puts,
                 "type": "Idle"
             })
-        elif event == "statue inspection interrupted.":
+        elif event in inspect_interrupted:
             statue.append({
                 "time": event.time - puts,
-                "type": "Idle (Interrupted)"
+                "type": "Idle (Inspect Interrupted)"
             })
         elif event == "put back statue.":
             statues.append(statue)
             statue = []
     # TODO make cool horizontal graphs to describe statue inspects
     return statues
+
+__mission_value = {
+    "Bug": 5,
+    "Contact": 3,
+    "Transfer": 5,
+    "Swap": 5,
+    "Inspect": 2,
+    "Seduce": 3,
+    "Purloin": 5,
+    "Fingerprint": 3
+}
+
+def __product(arr):
+    prod = 1
+    for x in arr:
+        prod *= x
+    return prod
+
+# def mission_density(game):  # TODO finish mission_density
+#     mct = []
+#     for event in game.timeline:
+#         if event in mission_completes:
+#             mct.append((mission_completes[event], event.time))
+#     perms = 1
+#     mc = len(mct)
+#     densities = []
+#     for i in range(mc):
+#         for j in range(i + 1, mc):
+#             print(perms, mct[i:j + 1])
+#             mv = __product([__mission_value[msn[0]] for msn in mct[i:j + 1]])
+#             print(f"mission value: {mv}")
+#             density = mv/(mct[j][1] - mct[i][1] + 0.1)  # prevents division by 0 in case of two simultaneous missions
+#             print(density)
+#             densities.append((density, mct[i:j + 1]))
+#             perms += 1
+#     return densities
+#
+# from ParallelParser import query_games
+# qg = query_games(limit=500)
+#
+# for game in qg:
+#     y = mission_density(game)
+#     print(y)

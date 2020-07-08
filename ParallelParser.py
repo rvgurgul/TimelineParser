@@ -16,6 +16,7 @@ def debug(uuid):
         from Classes.Game import Game
         game = Game(jason)
         print(game)
+        return game
     except FileNotFoundError:
         print(f"Failed debug of {uuid}.json", sep="")
 

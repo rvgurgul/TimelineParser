@@ -3,11 +3,11 @@ from EventGroups import *
 
 class Event:
     def __init__(self, json_event, **kwargs):
-        self.time = round(json_event["elapsed_time"], 1)
+        self.time = round(json_event["elapsed_time"], 1)  # some of the json_games contain unrounded floats :(
         self.clock = round(json_event["time"], 1)
 
         self.desc = json_event["event"]
-        self.mission = json_event["mission"]
+        # TODO retire .action_test
         self.action_test = json_event["action_test"] if json_event["action_test"] != "NoAT" else None
         self.in_conversation = kwargs["in_convo"]
         self.during_countdown = kwargs["during_mwc"]
@@ -27,32 +27,29 @@ class Event:
             if len(json_event["role"]) > 0 else None  # TODO replace None with the actor, if applicable
         )
 
+        self.held_book, self.bookshelf = None, None
         bks = json_event["books"]
         if len(bks) == 2:
-            self.held_book, self.bookshelf = bks
+            self.held_book, self.bookshelf = bks[0], bks[1]
         elif len(bks) == 1:
-            self.held_book, self.bookshelf = bks[0], None
-        else:
-            self.held_book, self.bookshelf = None, None
-        # self.held_book, self.bookshelf =   # (bks[0], bks[1]) if len(bks) == 2 else (None, None)
+            self.held_book = bks[0]
 
     def __str__(self):
-        return f"{self.clock} ({self.time})\t{self.character}({self.actor}) - {self.desc}"
-        # f"\n\ti_c? {self.in_conversation}\tmwc? {self.during_countdown}\tbook {self.held_book},{self.bookshelf}"
+        return (
+            f"{self.clock} ({self.time})".ljust(14) +
+            f" - {self.desc}".ljust(50) +
+            f" - {self.character}"
+            # f"\t{self.bookshelf} {self.held_book}"
+            # f"\n\t{'out of' if not self.in_conversation else 'in'} conversation"
+            # f"\n\t{'out of' if not self.during_countdown else 'in'} mission countdown"
+            # f"\n\t{'out of' if not self.during_overtime else 'in'} overtime"
+        )
 
-    # Optional syntax to reduce certain operations by 5 characters
     def __eq__(self, other):
         # allows for exact event matching:      event == "event."
         # alternatively,                        event.desc == "event."
         if type(other) == str:
             return self.desc == other
-        # allows event matching from a list:    event == ["ev1", "ev2", "ev3"]
-        # alternatively,                        event.desc in ["ev1", "ev2", "ev3"]
-        if type(other) == list or type(other) == set or type(other) == tuple:
-            for x in other:
-                if self.desc == x:
-                    return True
-        # returns false once the other cases didn't pass
         return False
 
     def __contains__(self, item):
@@ -61,6 +58,8 @@ class Event:
         return item in self.desc
 
     def __hash__(self):
+        # allows event matching from a list:    event in ["ev1", "ev2", "ev3"]
+        # alternatively,                        event.desc in ["ev1", "ev2", "ev3"]
         return hash(self.desc)
 
 class Character:

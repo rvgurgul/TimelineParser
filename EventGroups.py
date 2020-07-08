@@ -409,7 +409,6 @@ drink_end_offers = {
 drink_rejects_tray = {
     "rejected drink from waiter.",
     "rejected cupcake from waiter.",
-    "waiter gave up."
 }
 drink_rejects_bar = {
     "rejected drink from bartender.",
@@ -563,27 +562,27 @@ flirt_percents = {
 }
 
 delegate_sends = {
-    'delegated purloin to dr. m.',
-    'delegated purloin to dr. n.',
-    'delegated purloin to mr. a.',
-    'delegated purloin to mr. c.',
-    'delegated purloin to mr. d.',
-    'delegated purloin to mr. g.',
-    'delegated purloin to mr. i.',
-    'delegated purloin to mr. k.',
-    'delegated purloin to mr. p.',
-    'delegated purloin to mr. q.',
-    'delegated purloin to mr. s.',
-    'delegated purloin to mr. u.',
-    'delegated purloin to ms. b.',
-    'delegated purloin to ms. e.',
-    'delegated purloin to ms. f.',
-    'delegated purloin to ms. h.',
-    'delegated purloin to ms. j.',
-    'delegated purloin to ms. l.',
-    'delegated purloin to ms. o.',
-    'delegated purloin to ms. r.',
-    'delegated purloin to ms. t.',
+    'delegated purloin to dr. m.': "M",
+    'delegated purloin to dr. n.': "N",
+    'delegated purloin to mr. a.': "A",
+    'delegated purloin to mr. c.': "C",
+    'delegated purloin to mr. d.': "D",
+    'delegated purloin to mr. g.': "G",
+    'delegated purloin to mr. i.': "I",
+    'delegated purloin to mr. k.': "K",
+    'delegated purloin to mr. p.': "P",
+    'delegated purloin to mr. q.': "Q",
+    'delegated purloin to mr. s.': "S",
+    'delegated purloin to mr. u.': "U",
+    'delegated purloin to ms. b.': "B",
+    'delegated purloin to ms. e.': "E",
+    'delegated purloin to ms. f.': "F",
+    'delegated purloin to ms. h.': "H",
+    'delegated purloin to ms. j.': "J",
+    'delegated purloin to ms. l.': "L",
+    'delegated purloin to ms. o.': "O",
+    'delegated purloin to ms. r.': "R",
+    'delegated purloin to ms. t.': "T",
 }
 
 pending_events = {
@@ -636,16 +635,18 @@ audible_events = {  # not necessarily 'audible', but may prompt sniper lights
 } | set(audible_cancels.keys())
 
 action_triggers_with_test = {
-    'action triggered: check watch',
-    'action triggered: contact double agent',
-    'action triggered: fingerprint ambassador',
-    'action triggered: inspect statues',
-    'action triggered: purloin guest list',
-    'action triggered: seduce target',
-    'action triggered: swap statue',
-    'action triggered: transfer microfilm',
+    'watch checked to add time.': "Time Add",
+    'action triggered: contact double agent': "Contact",
+    'action triggered: fingerprint ambassador': "Fingerprint",
+    'action triggered: inspect statues': "Inspect",
+    'action triggered: purloin guest list': "Purloin",
+    'action triggered: seduce target': "Seduce",
+    'action triggered: swap statue': "Swap",
+    'action triggered: transfer microfilm': "Transfer",
 }
-action_triggers = action_triggers_with_test | {'action triggered: bug ambassador'}
+# action_triggers = action_triggers_with_test | {'action triggered: bug ambassador'}
+
+
 action_test_contact_talking = {
     'action test ignored: contact double agent',
     'action test red: contact double agent',
@@ -702,27 +703,21 @@ action_test_timeadd = {
     'action test red: check watch': "Red",
     'action test white: check watch': "White",
 }
-action_tests = (
-    set(action_test_contact) |
-    set(action_test_seduce) |
-    set(action_test_transfer) |
-    set(action_test_inspect) |
-    set(action_test_swap) |
-    set(action_test_purloin) |
-    set(action_test_fingerprint) |
-    set(action_test_timeadd)
-)
+test_groups = {
+    "Contact": action_test_contact,
+    "Seduce": action_test_seduce,
+    "Transfer": action_test_transfer,
+    "Inspect": action_test_inspect,
+    "Swap": action_test_swap,
+    "Purloin": action_test_purloin,
+    "Fingerprint": action_test_fingerprint,
+    "Time Add": action_test_timeadd,
+}
+action_tests = {}
+for group in test_groups:
+    # "Green", "Contact" for 'action test green: contact double agent'
+    action_tests.update({ev: (test_groups[group][ev], group) for ev in test_groups[group]})
 
-# action_tests = (
-#     action_test_contact |
-#     action_test_seduce |
-#     action_test_purloin |
-#     action_test_transfer |
-#     action_test_inspect |
-#     action_test_swap |
-#     action_test_fingerprint |
-#     action_test_timeadd
-# )
 
 bug_plant_starts = {
     "begin planting bug while standing.",
