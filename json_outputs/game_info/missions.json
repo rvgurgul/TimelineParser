@@ -53185,6 +53185,20 @@
    "Fingerprint": 0
   }
  },
+ "BYamv7VURnaQAMgEYA7uNw": {
+  "any": 8,
+  "of": 8,
+  "missions": {
+   "Bug": 166.7,
+   "Contact": 61.2,
+   "Transfer": 0,
+   "Swap": 0,
+   "Inspect": 0,
+   "Seduce": 0,
+   "Purloin": 222.2,
+   "Fingerprint": 0
+  }
+ },
  "byAxFidQSt66E78lQSauwg": {
   "any": 4,
   "of": 8,
@@ -96750,6 +96764,20 @@
    "Inspect": 88.7,
    "Seduce": 0,
    "Purloin": 61.7,
+   "Fingerprint": 0
+  }
+ },
+ "h_cYo-CmRse_KB0WolQppw": {
+  "any": 8,
+  "of": 8,
+  "missions": {
+   "Bug": 0,
+   "Contact": 0,
+   "Transfer": 0,
+   "Swap": 0,
+   "Inspect": 0,
+   "Seduce": 172.6,
+   "Purloin": 188.7,
    "Fingerprint": 0
   }
  },

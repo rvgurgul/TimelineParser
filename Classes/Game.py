@@ -1,6 +1,5 @@
 from Classes.Venue import Venues
 from Classes.Event import Event, Character
-from Classes.Match import Match
 
 
 class Game:
@@ -25,7 +24,9 @@ class Game:
             self.clock = jason["timeline"][0]["time"]//1
         self.missions_selected = jason["selected_missions"]
 
-        self.match = Match(jason)
+        self.event = jason["event"]
+        self.division = jason["division"]
+        self.week = jason["week"]
         self.specific_win_condition, self.general_win_condition = jason["win_type"]
 
         self.cast = Cast()
@@ -100,17 +101,24 @@ class Game:
         self.reaches_mwc = len(self.missions_complete) >= int(self.mode[1])
 
     def __str__(self):
-        result = "Match:\t" + str(self.match) + " (" + self.date + ")"
-        result += "\nVenue:\t" + str(self.venue) + " " + self.mode + ", " + str(len(self.cast)) + " guests, " + str(self.clock) + "s"
-        result += "\nResult:\t" + self.specific_win_condition + " (" + self.general_win_condition + ")"
-        result += "\nMis'ns:\t" + ", ".join(self.missions_complete)
+        result = (
+            f"Players:  {self.spy} vs {self.sniper}"
+            f"\nVenue:    {self.venue.name} {self.mode}, {len(self.guests)} guests, {self.clock}s"
+            f"\nResult:   {self.specific_win_condition} ({self.general_win_condition})"
+            f"\nMissions: {', '.join(self.missions_complete)}"
+            f"\nEvent:    {self.event}"
+        )
+        if self.division is not None:
+            result += f" Group {self.division}" if len(self.division) == 1 else self.division
+        if self.week is not None:
+            result += f" Week {self.week}"
         result += "\nCast:"
         for mem in self.cast:
             result += "\n\t\t" + str(mem)
         result += "\nEvents:"
         for event in self.timeline:
             result += "\n\t\t" + str(event)
-        result += "\nLights:"
+        # result += "\nLights:"
         # for event in self.sniper_lights:
         #     result += "\n\t\t" + str(event)
         return result

@@ -33,11 +33,11 @@ functions = {
         # remove "event" -> it is assumed this file logs time changes
         # also remove OT events, as those do not influence the time
     "game_info/cast": all_cast_info,
-    "game_info/bugs": all_bug_info,
+    # "game_info/bugs": all_bug_info,  # fixme currently broken
     # "game_info/briefcases": all_briefcase_info,
     "game_info/books": all_book_info,  # fixme consider adding confirm_time to microfilm
     # "game_info/audibles": all_audible_info,
-    "game_info/action_tests": all_at_info,  # fixme consider adding trigger time?
+    "game_info/action_tests": all_at_info,
 
     # "specific_stats/possible_direct_transfer": probably_a_direct_transfer_shot,  # fixme output seems wrong
     # "specific_stats/progress_to_shot_time": shot_time_related_to_progress,
