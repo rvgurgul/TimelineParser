@@ -636,8 +636,8 @@ def all_mission_info(game):
         a = int(game.mode[1])
         o = int(game.mode[3])
     else:
-        a = 0
-        o = 0
+        print(f"invalid mode: '{game.mode}'")
+        a = o = 0
     wip_format = {
         "any": a,
         "of": o,

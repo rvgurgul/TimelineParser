@@ -9,7 +9,7 @@ class StatLoader:
             StatLoader.__instance__ = {}
         self.stat_dict = StatLoader.__instance__
 
-    def get_stat(self, stat, verbose=True):
+    def get_stat(self, stat, verbose=False):
         if not stat.endswith(".json"):
             stat = f"{stat}.json"
         try:
